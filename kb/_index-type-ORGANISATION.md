@@ -1,10 +1,11 @@
 # Index — ORGANISATION
 
-> 423 entités de type ORGANISATION
+> 424 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#20VC\|20VC]] — rôle: Fonds de VC (400 M$, tickets seed 100 k–3 M$) dirigé par Harry Stebbings ; lead de l'amorçage de 2,5 M€ de Delos (avril 2025) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#37signals\|37signals]] — position: Éditeur de Basecamp ; passé « pencils down » sur le code écrit à la main, annoncé à Rails World le 23 septembre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#72andSunny\|72andSunny]] — description: Cas étude Mandese — agence ayant shifted to modular product menus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@ClaudeDevs\|@ClaudeDevs]] — plateforme: X (Twitter) (2 occ., 1 fiches)
 - [[kb/_entites-mineures#ACM-Queue\|ACM Queue]] — rôle: Revue de l'ACM destinée aux praticiens ; numéro thématique « LLMs » (vol. 24 n° 3, mai/juin 2026) (1 occ., 1 fiches)
@@ -317,7 +318,7 @@
 - [[kb/_entites-mineures#S3NS\|S3NS]] — qualification: SecNumCloud 3.2 ANSSI (déc. 2025) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SAP\|SAP]] — secteur: Éditeur ERP / Cloud (1 occ., 1 fiches)
 - [[kb/SFEIR\|SFEIR]] — relation: Groupe parent de WEnvision (13 occ., 11 fiches)
-- [[kb/Salesforce\|Salesforce]] — secteur: Éditeur SaaS / CRM, Agentic Enterprise (6 occ., 5 fiches)
+- [[kb/Salesforce\|Salesforce]] — secteur: Éditeur SaaS / CRM, Agentic Enterprise (7 occ., 6 fiches)
 - [[kb/_entites-mineures#SambaNova-Systems\|SambaNova Systems]] — secteur: Infrastructure IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Samsung\|Samsung]] — secteur: Électronique grand public, technologie (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Satlyt\|Satlyt]] — secteur: Informatique spatiale décentralisée (1 occ., 1 fiches)
@@ -328,7 +329,7 @@
 - [[kb/_entites-mineures#Sears-Home-Services\|Sears Home Services]] — secteur: Services à domicile (utilisateur Replit) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SemiAnalysis\|SemiAnalysis]] — secteur: Recherche semiconducteurs et IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ShinyHunters\|ShinyHunters]] — rôle: Collectif criminel de vol de données et d'extorsion (GTG-50014) ; affiliés opérant par agents (1 occ., 1 fiches)
-- [[kb/Shopify\|Shopify]] — secteur: E-commerce / Plateforme marchands (7 occ., 5 fiches)
+- [[kb/Shopify\|Shopify]] — secteur: E-commerce / Plateforme marchands (8 occ., 6 fiches)
 - [[kb/Sierra\|Sierra]] — secteur: IA conversationnelle / Agents d'entreprise (4 occ., 3 fiches)
 - [[kb/_entites-mineures#SitePoint\|SitePoint]] — secteur: Média technique développeurs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Snowflake\|Snowflake]] — secteur: Données et analytique cloud (2 occ., 2 fiches)

@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 165 entités de type DOCUMENT
+> 166 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -148,6 +148,7 @@
 - [[kb/_entites-mineures#docs-solutions\|docs/solutions/]] — census: 35 learnings, 6 catégories, skill-design en tête (20) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#draft-klrc-aiagent-auth-01\|draft-klrc-aiagent-auth-01]] — catégorie: Draft IETF *AI Agent Authentication and Authorization* — spécification émergente alignée par Uber (1 occ., 1 fiches)
 - [[kb/_entites-mineures#enquête-shopping-IA-2025\|enquête shopping IA 2025]] — taille_échantillon: 5000+ répondants mondiaux (1 occ., 1 fiches)
+- [[kb/_entites-mineures#entretien-The-End-of-Hand-Written-Code\|entretien The End of Hand-Written Code]] — forme: Entretien écrit de 25 min de lecture publié par *Thought Economics* le 28 septembre 2026, avec notes éditoriales glosant Agent Luther, le vibe coding et l'AGI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#guide-CPO-FinOps-(Finout)\|guide CPO FinOps (Finout)]] — structure: 4 parties : LLM workflows → RAG → agents → agentique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#implementation-notes-md\|implementation-notes.md]] — rôle: Fichier temporaire où l'agent journalise ses déviations pendant le build (1 occ., 1 fiches)
 - [[kb/_entites-mineures#inspection-de-Fagan-(1976)\|inspection de Fagan (1976)]] — rôle: Formalisme fondateur de l'inspection de code, cible historique du papier (1 occ., 1 fiches)

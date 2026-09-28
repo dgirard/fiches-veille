@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2876 entités avec moins de 3 triples/fiches
+> 2883 entités avec moins de 3 triples/fiches
 
-## PERSONNE (379)
+## PERSONNE (381)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -2022,6 +2022,16 @@
 
 **Fiches** : [[fiches/2025-11/monigatti-rag-to-agent-memory-evolution-2025-11-03\|The Evolution from RAG to Agentic RAG to Agent Memory]]
 
+### Lex Fridman {#Lex-Fridman}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Podcasteur auprès de qui DHH a exprimé en été 2025 son refus de l'IA dans son code, puis en août 2026 la publication d'un OS qu'il n'a pas écrit
+
+- **référence** → [[kb/David-Heinemeier-Hansson\|David Heinemeier Hansson]] (PERSONNE) — 0.92
+
+**Fiches** : [[fiches/2026-09/heinemeier-hansson-end-of-hand-written-code-2026-09-28\|The End of Hand-Written Code: A Conversation with David Heinemeier Hansson (DHH) on AI, Omarchy and the Future of…]]
+
 ### Li Qiang {#Li-Qiang}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -3595,6 +3605,16 @@
 
 **Fiches** : [[fiches/2025-11/lichtenberg-fortune-bezos-project-prometheus-ai-startup-2025-11-17\|Jeff Bezos is reportedly becoming a CEO again—and it's for a $6.2 billion AI startup called 'Project Prometheus']]
 
+### Vikas Shah {#Vikas-Shah}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Fondateur de *Thought Economics*, administrateur de sociétés et entrepreneur britannique ; mène l'entretien en six questions, sur un registre d'accord
+
+- **publie** → [[kb/_entites-mineures#entretien-The-End-of-Hand-Written-Code\|entretien The End of Hand-Written Code]] (DOCUMENT) — 0.96
+
+**Fiches** : [[fiches/2026-09/heinemeier-hansson-end-of-hand-written-code-2026-09-28\|The End of Hand-Written Code: A Conversation with David Heinemeier Hansson (DHH) on AI, Omarchy and the Future of…]]
+
 ### Viktor Frankl {#Viktor-Frankl}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -3803,7 +3823,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (309)
+## ORGANISATION (310)
 
 ### 10x {#10x}
 
@@ -3836,6 +3856,18 @@
 - [[kb/_entites-mineures#Harry-Stebbings\|Harry Stebbings]] **dirige** → 20VC — 0.95
 
 **Fiches** : [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)]]
+
+### 37signals {#37signals}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **position** : Éditeur de Basecamp ; passé « pencils down » sur le code écrit à la main, annoncé à Rails World le 23 septembre 2026
+
+- **affirme_que** → « l'entreprise passe « pencils down » sur le code écrit à la main » (AFFIRMATION) — 0.95
+
+- [[kb/David-Heinemeier-Hansson\|David Heinemeier Hansson]] **dirige** → 37signals — 0.95
+
+**Fiches** : [[fiches/2026-09/heinemeier-hansson-end-of-hand-written-code-2026-09-28\|The End of Hand-Written Code: A Conversation with David Heinemeier Hansson (DHH) on AI, Omarchy and the Future of…]]
 
 ### 72andSunny {#72andSunny}
 
@@ -6973,7 +7005,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (643)
+## TECHNOLOGIE (644)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -10087,13 +10119,16 @@
 
 ### Linux {#Linux}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
+- **avantage agentique** : 40 millions de lignes intégralement présentes dans le pré-entraînement des modèles de frontière ; noyau le plus revu de l'histoire, estimation de 15 000 Md$ d'économie en dépendant
 - **catégorie** : Noyau open source dirigé par Torvalds ; adopte officiellement une position non anti-IA (l'IA comme outil jugé sur son mérite technique)
+
+- **permet** → « un avantage agentique décisif, ses 40 millions de lignes étant dans le pré-entraînement de tous les modèles de frontière » (AFFIRMATION) — 0.92
 
 - [[kb/Linus-Torvalds\|Linus Torvalds]] **dirige** → Linux — 0.98
 
-**Fiches** : [[fiches/2026-07/torvalds-llm-outil-kernel-2026-07-14\|Re: Linking Patchwork with Sashiko? (message linux-media sur la position du kernel Linux vis-à-vis de l'IA)]]
+**Fiches** : [[fiches/2026-09/heinemeier-hansson-end-of-hand-written-code-2026-09-28\|The End of Hand-Written Code: A Conversation with David Heinemeier Hansson (DHH) on AI, Omarchy and the Future of…]], [[fiches/2026-07/torvalds-llm-outil-kernel-2026-07-14\|Re: Linking Patchwork with Sashiko? (message linux-media sur la position du kernel Linux vis-à-vis de l'IA)]]
 
 ### Linux 6.9 {#Linux-6.9}
 
@@ -11480,6 +11515,16 @@
 - [[kb/SDLC-AI-native\|SDLC AI-native]] **utilise** → Rovo Dev — 0.88
 
 **Fiches** : [[fiches/2026-05/atlassian-ai-native-sdlc-paying-off-rovo-dev-2026-05-31\|The AI-native SDLC is paying off: 19% more PRs and 2–3 hours saved per developer per week]]
+
+### Ruby on Rails {#Ruby-on-Rails}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **portée** : Framework web créé en 2003 ; les entreprises parties de Rails (Shopify, GitHub, Airbnb, Coinbase) pèsent selon l'auteur plus d'un demi-billion de dollars
+
+- [[kb/David-Heinemeier-Hansson\|David Heinemeier Hansson]] **a_créé** → Ruby on Rails — 0.98
+
+**Fiches** : [[fiches/2026-09/heinemeier-hansson-end-of-hand-written-code-2026-09-28\|The End of Hand-Written Code: A Conversation with David Heinemeier Hansson (DHH) on AI, Omarchy and the Future of…]]
 
 ### RubyLLM {#RubyLLM}
 
@@ -13683,7 +13728,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (972)
+## CONCEPT (974)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -14440,6 +14485,16 @@
 - **description** : Pertinence indirecte article 2022 pour corpus IA 2025-2026 : Beck Vibe Coding vs TDD, Beck Augmented Coding, Frizzo writing muscle atrophy, Osmani Cognitive Surrender — TDD comme antidote méthodologique à l'atrophie pratique manuelle
 
 **Fiches** : [[fiches/2022-12/eveillard-tdd-is-dead-long-live-testing-reponse-dhh-2022-12-07\|TDD is dead. Long live testing. (Une contre-argumentation point à point à l'article phare de David Heinemeier Hansson,…]]
+
+### Artisanat de la programmation {#Artisanat-de-la-programmation}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **état** : Subsiste comme pratique et comme joie, mais perd sa centralité économique ; reste nécessaire une minorité qui comprend la machine, à la manière des moins de 2 % d'agriculteurs
+
+- **s_applique_à** → « une minorité restante, sur le modèle des 97 % de paysans devenus moins de 2 % après la révolution industrielle » (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-09/heinemeier-hansson-end-of-hand-written-code-2026-09-28\|The End of Hand-Written Code: A Conversation with David Heinemeier Hansson (DHH) on AI, Omarchy and the Future of…]]
 
 ### Ascenseur de l'Architecte {#Ascenseur-de-l'Architecte}
 
@@ -16727,6 +16782,16 @@
 - **niveau** : 8 — agent-manager de sous-agents (expérimental)
 
 **Fiches** : [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|The Eight Levels of AI Adoption]]
+
+### Ordinateur malléable {#Ordinateur-malléable}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Machine dont l'utilisateur final peut modifier ou réécrire le système lui-même via un agent, au même niveau que son concepteur — impossible sur OS fermés, tenable sur Linux
+
+- **permet** → « à l'utilisateur final de réécrire son système d'exploitation au même niveau que son concepteur » (AFFIRMATION) — 0.91
+
+**Fiches** : [[fiches/2026-09/heinemeier-hansson-end-of-hand-written-code-2026-09-28\|The End of Hand-Written Code: A Conversation with David Heinemeier Hansson (DHH) on AI, Omarchy and the Future of…]]
 
 ### Organisation AI-First {#Organisation-AI-First}
 
@@ -27416,7 +27481,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (143)
+## DOCUMENT (144)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -28747,6 +28812,16 @@
 - [[kb/_entites-mineures#Riskified\|Riskified]] **publie** → enquête shopping IA 2025 — 0.98
 
 **Fiches** : [[fiches/2025-10/novik-ai-online-shopping-consumers-2025-10-26\|The future is already here: 73% of consumers are already using AI for online shopping]]
+
+### entretien The End of Hand-Written Code {#entretien-The-End-of-Hand-Written-Code}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **forme** : Entretien écrit de 25 min de lecture publié par *Thought Economics* le 28 septembre 2026, avec notes éditoriales glosant Agent Luther, le vibe coding et l'AGI
+
+- [[kb/_entites-mineures#Vikas-Shah\|Vikas Shah]] **publie** → entretien The End of Hand-Written Code — 0.96
+
+**Fiches** : [[fiches/2026-09/heinemeier-hansson-end-of-hand-written-code-2026-09-28\|The End of Hand-Written Code: A Conversation with David Heinemeier Hansson (DHH) on AI, Omarchy and the Future of…]]
 
 ### guide CPO FinOps (Finout) {#guide-CPO-FinOps-(Finout)}
 

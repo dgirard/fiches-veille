@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 122 relations | 55 fiches sources
+> **Type** : TECHNOLOGIE | 123 relations | 55 fiches sources
 
 ## Attributs
 
@@ -274,6 +274,7 @@
 - [[kb/fichiers-de-règles-partagés\|fichiers de règles partagés]] **s_applique_à** → Claude Code — 0.90
 - [[kb/_entites-mineures#Midnight-Blizzard\|Midnight Blizzard]] **utilise** → Claude Code — 0.90
 - [[kb/_entites-mineures#Amplifier-framework\|Amplifier framework]] **est_basé_sur** → Claude Code — 0.88
+- [[kb/Omarchy\|Omarchy]] **utilise** → Claude Code — 0.88
 - [[kb/_entites-mineures#role-playing\|role-playing]] **améliore** → Claude Code — 0.85
 - [[kb/mode-Minimal\|mode Minimal]] **concurrence** → Claude Code — 0.82
 

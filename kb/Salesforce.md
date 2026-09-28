@@ -1,10 +1,11 @@
 # Salesforce
 
-> **Type** : ORGANISATION | 16 relations | 5 fiches sources
+> **Type** : ORGANISATION | 16 relations | 6 fiches sources
 
 ## Attributs
 
 - **catégorie** : Système de record clients
+- **exposition** : Donnée « en sérieuse difficulté » avec SAP : plus de valeur dans le code, seulement dans des intuitions de process jugées incertaines
 - **niveau_automatisation** : 30-50% du travail
 - **secteur** : Éditeur SaaS / CRM, Agentic Enterprise
 
@@ -70,6 +71,7 @@
 
 - [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud : l'ère des prédateurs pour vos budgets IT]]
 - [[fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22\|AI's trillion-dollar opportunity: Context graphs]]
+- [[fiches/2026-09/heinemeier-hansson-end-of-hand-written-code-2026-09-28\|The End of Hand-Written Code: A Conversation with David Heinemeier Hansson (DHH) on AI, Omarchy and the Future of…]]
 - [[fiches/2025-06/salesforce-ai-30-50-percent-work-benioff-2025-06-26\|AI is doing 30% to 50% of the work at Salesforce now]]
 - [[fiches/2026-05/salesforce-tallapragada-how-engineering-became-agentic-2026-05-27\|How Salesforce Engineering Became Truly Agentic]]
 - [[fiches/2025-06/yamini-rangan-hubspot-ceo-ai-transformation-2025-06-17\|HubSpot CEO Yamini Rangan on AI-Driven Customer Relationship Transformation]]

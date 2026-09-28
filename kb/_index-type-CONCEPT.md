@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1019 entités de type CONCEPT
+> 1021 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -92,6 +92,7 @@
 - [[kb/_entites-mineures#Architecture-trois-tiers-Lattice\|Architecture trois-tiers Lattice]] — description: Atoms (guardrails mono-principe) → Molecules (workflows multi-étapes composant atoms) → Refiners (interviews guidées customisant atoms par projet) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Archétypes-d'équipes\|Archétypes d'équipes]] — nombre: 7 profils distincts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Articulation-TDD-coding-agents-2026\|Articulation TDD / coding agents 2026]] — description: Pertinence indirecte article 2022 pour corpus IA 2025-2026 : Beck Vibe Coding vs TDD, Beck Augmented Coding, Frizzo writing muscle atrophy, Osmani Cognitive Surrender — TDD comme antidote méthodologique à l'atrophie pratique manuelle (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Artisanat-de-la-programmation\|Artisanat de la programmation]] — état: Subsiste comme pratique et comme joie, mais perd sa centralité économique ; reste nécessaire une minorité qui comprend la machine, à la manière des moins de 2 % d'agriculteurs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ascenseur-de-l'Architecte\|Ascenseur de l'Architecte]] — métaphore: L'architecte navigue de la salle des machines (technique) au penthouse (stratégie) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Assistant\|Assistant]] — niveau: 6 — proactif, always-on (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Assistant-axis\|Assistant axis]] — catégorie: Vecteur d'adhésion au persona assistant entraîné (1 occ., 1 fiches)
@@ -347,6 +348,7 @@
 - [[kb/_entites-mineures#Operator-Posture-(Osmani)\|Operator Posture (Osmani)]] — source: Thèse pivot : "the fundamental distinction isn't about the tools themselves but operator posture" — la responsabilité reste humaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Optionality-framework\|Optionality framework]] — définition: Chaque expérience est une option à faible coût ; AI réduit option premium ; experiment frequency = leading financial indicator. Emprunt finance dérivée appliqué au software development (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Orchestrator\|Orchestrator]] — niveau: 8 — agent-manager de sous-agents (expérimental) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Ordinateur-malléable\|Ordinateur malléable]] — définition: Machine dont l'utilisateur final peut modifier ou réécrire le système lui-même via un agent, au même niveau que son concepteur — impossible sur OS fermés, tenable sur Linux (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Organisation-AI-First\|Organisation AI-First]] — piliers: Avantage concurrentiel, P&L remodelé, plateforme décentralisée, agents IA, talents spécialisés (1 occ., 1 fiches)
 - [[kb/Outcome-based-pricing\|Outcome-based pricing]] — définition: Modèle économique futur SaaS où revenue se déplace de fixed seats vers labor/operations economics — paid for outcomes/work delivered, not seats. Convergence avec Levie agents trillion + Sierra autonomous resolution (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Overhiring-pandémique-2020-2022\|Overhiring pandémique 2020-2022]] — catégorie: Phénomène recadré en "efficience IA" lors des layoffs (1 occ., 1 fiches)

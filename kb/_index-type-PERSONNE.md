@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 522 entités de type PERSONNE
+> 525 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -125,6 +125,7 @@
 - [[kb/_entites-mineures#David-Autor\|David Autor]] — rôle: Économiste du MIT cité pour la démocratisation de l'expertise par les LLM et le déplacement des tâches (2 occ., 2 fiches)
 - [[kb/_entites-mineures#David-Crawford\|David Crawford]] — rôle: Partner Bain & Company, co-auteur série software industry age of AI 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Gibson\|David Gibson]] — rôle: Staff Data Scientist, Stack Overflow, co-auteur (1 occ., 1 fiches)
+- [[kb/David-Heinemeier-Hansson\|David Heinemeier Hansson]] — rôle: Créateur de Ruby on Rails (2003), copropriétaire de 37signals, administrateur de Shopify depuis novembre 2024, créateur d'Omarchy ; annonce la fin du code écrit à la main chez lui après trente ans de pratique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Heinemeier-Hansson-(DHH)\|David Heinemeier Hansson (DHH)]] — rôle: Créateur Ruby on Rails, fondateur Basecamp/HEY, vainqueur 24h du Mans 82e édition, auteur essai "TDD is dead. Long live testing." (2014) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Kiron\|David Kiron]] — affiliation: MIT Sloan (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Lipman\|David Lipman]] — rôle: Partner Bain & Company, co-auteur série software industry age of AI volet 1/5 (Rule of 40) (1 occ., 1 fiches)
@@ -281,6 +282,7 @@
 - [[kb/_entites-mineures#Lennart-Meincke\|Lennart Meincke]] — rôle: Premier auteur de l'étude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lenny-Rachitsky\|Lenny Rachitsky]] — rôle: Animateur du podcast Lenny's Podcast (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Leonie-Monigatti\|Leonie Monigatti]] — rôle: Praticienne ML, auteure technique (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Lex-Fridman\|Lex Fridman]] — rôle: Podcasteur auprès de qui DHH a exprimé en été 2025 son refus de l'IA dans son code, puis en août 2026 la publication d'un OS qu'il n'a pas écrit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Li-Qiang\|Li Qiang]] — rôle: Premier ministre chinois (a proposé WAICO à la WAIC 2025) (1 occ., 1 fiches)
 - [[kb/Liad-Yosef\|Liad Yosef]] — rôle: AI & MCP Lead - Monday.com (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Liam-Cripwell\|Liam Cripwell]] — rôle: auteur NuExtract (1 occ., 1 fiches)
@@ -496,6 +498,7 @@
 - [[kb/_entites-mineures#Vanessa-Parli\|Vanessa Parli]] — rôle: Directrice de recherche Stanford HAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vijay-Iyengar\|Vijay Iyengar]] — rôle: Auteur article Sierra blog (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vik-Bajaj\|Vik Bajaj]] — rôle: Co-CEO Project Prometheus, ex-directeur Google X (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Vikas-Shah\|Vikas Shah]] — rôle: Fondateur de *Thought Economics*, administrateur de sociétés et entrepreneur britannique ; mène l'entretien en six questions, sur un registre d'accord (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Viktor-Frankl\|Viktor Frankl]] — rôle: Neurologue psychiatre autrichien (1905-1997), survivant des camps, auteur de *Découvrir un sens à sa vie* — cité par Léon XIV (n. 121) sur la dualité de l'homme face à l'horreur (1 occ., 1 fiches)
 - [[kb/Vincent-Strubel\|Vincent Strubel]] — rôle: Directeur général ANSSI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Viv-Trivedy\|Viv Trivedy]] — rôle: Créateur du terme harness engineering, post Anatomy of an Agent Harness (1 occ., 1 fiches)

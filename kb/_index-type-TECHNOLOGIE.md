@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 816 entités de type TECHNOLOGIE
+> 819 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -398,7 +398,7 @@
 - [[kb/_entites-mineures#Linear-Sync-Engine\|Linear Sync Engine]] — attribut: Architecture haute performance temps réel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Linenoise\|Linenoise]] — catégorie: Bibliothèque édition ligne de commande (1 occ., 1 fiches)
 - [[kb/Link-wallet-for-agents\|Link wallet for agents]] — définition: Portefeuille Stripe lancé le 29 avril 2026 donnant à un agent un accès programmatique à Link par OAuth : sur demande de dépense approuvée par l'humain, l'agent reçoit une carte à usage unique ou un Shared Payment Token adossé aux moyens de paiement déjà enregistrés, sans jamais accéder aux identifiants bruts (2 occ., 1 fiches)
-- [[kb/_entites-mineures#Linux\|Linux]] — catégorie: Noyau open source dirigé par Torvalds ; adopte officiellement une position non anti-IA (l'IA comme outil jugé sur son mérite technique) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Linux\|Linux]] — catégorie: Noyau open source dirigé par Torvalds ; adopte officiellement une position non anti-IA (l'IA comme outil jugé sur son mérite technique) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Linux-6.9\|Linux 6.9]] — type: Noyau Linux (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Llama-3-70B\|Llama 3 70B]] — rôle: génération dataset entraînement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Llama-4\|Llama 4]] — rôle: Famille de modèles ouverts servant de point de comparaison, dont Maverick est la variante testée (1 occ., 1 fiches)
@@ -489,6 +489,8 @@
 - [[kb/_entites-mineures#OAuth-2.1\|OAuth 2.1]] — rôle: Protocole d'authentification provider-side (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OSS-20b\|OSS-20b]] — catégorie: Modèle open-source (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Obsidian\|Obsidian]] — catégorie: Outil de gestion des connaissances avec graphe natif (1 occ., 1 fiches)
+- [[kb/Omarchy\|Omarchy]] — catégorie: Distribution Linux gratuite conçue pour être pilotée par des agents, agent choisi au premier démarrage, diagnostic de crash et pull request automatisés ; site traduit en 50 langues par agent (1 occ., 1 fiches)
+- [[kb/Omarchy-Quattro\|Omarchy Quattro]] — fabrication: Quatrième version, écrite exclusivement par agents en trois mois sans ligne de code manuelle ; 200 000 téléchargements en 18 jours, 4 000 plugins en quatre semaines, 21,7 M$ de promesses de dons (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OneHelp\|OneHelp]] — fonction: Agent de support de Mirakl adossé à la documentation ; satisfaction client ×2 et utilisateurs ×10 à effectif constant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenAI-API\|OpenAI API]] — usage: Génération de capacités et relations via prompts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenAI-Agents-SDK\|OpenAI Agents SDK]] — catégorie: SDK d'agents OpenAI (2 occ., 2 fiches)
@@ -560,6 +562,7 @@
 - [[kb/_entites-mineures#Robostral\|Robostral]] — catégorie: Modèle de robotique de Mistral (Robostral Navigate, 8 juillet 2026) ; signal de verticalisation sectorielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Routines\|Routines]] — description: Équivalent serveur de /loop : agents tournant côté Anthropic même quand laptop fermé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rovo-Dev\|Rovo Dev]] — catégorie: Agent de codage IA d'Atlassian (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Ruby-on-Rails\|Ruby on Rails]] — portée: Framework web créé en 2003 ; les entreprises parties de Rails (Shopify, GitHub, Airbnb, Coinbase) pèsent selon l'auteur plus d'un demi-billion de dollars (1 occ., 1 fiches)
 - [[kb/_entites-mineures#RubyLLM\|RubyLLM]] — catégorie: Gem Ruby pour appels API LLM (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rufus-AI\|Rufus AI]] — catégorie: Assistant IA shopping in-app Amazon (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Runner-H\|Runner H]] — statut: Prédécesseur de ChatGPT Agent (1 occ., 1 fiches)
