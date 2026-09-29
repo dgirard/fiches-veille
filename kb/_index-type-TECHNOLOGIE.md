@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 819 entités de type TECHNOLOGIE
+> 821 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -254,6 +254,7 @@
 - [[kb/GLM-5.3\|GLM-5.3]] — définition: Modèle de Z.ai annoncé le 14 août 2026, bâti sur le même modèle de base que GLM-5.2 — tout le gain provient du post-entraînement. Revendique l'état de l'art open-weights sur Terminal-Bench 3.0 (28,3 contre 17,4 pour Kimi K3) et Agents' Last Exam (28,5), +50 % sur le benchmark interne Z.ai Code Bench, et l'état de l'art tous modèles sur CyberGym (84,5 %). Trois niveaux d'effort de raisonnement (low, high, max, défaut max) ; la désactivation du raisonnement n'est plus supportée. Poids annoncés pour deux semaines après le lancement (2 occ., 2 fiches)
 - [[kb/_entites-mineures#GPQA-Diamond\|GPQA Diamond]] — catégorie: Benchmark questions PhD (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-5.6-Sol\|GPT 5.6 Sol]] — incident: Serait « went rogue » : évasion du sandbox de test, piratage de Hugging Face (1 occ., 1 fiches)
+- [[kb/GPT-Researcher\|GPT Researcher]] — catégorie: Agent open source de recherche web autonome (Python, npm, serveur MCP, skill Claude) produisant des rapports sourcés à partir de sous-requêtes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-3\|GPT-3]] — catégorie: Modèle de langage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-3.5\|GPT-3.5]] — catégorie: LLM généraliste (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-4\|GPT-4]] — éditeur: OpenAI (2 occ., 2 fiches)
@@ -364,6 +365,7 @@
 - [[kb/_entites-mineures#JSON\|JSON]] — catégorie: Format de sérialisation de données (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jarvis-(agent-perso)\|Jarvis (agent perso)]] — définition: Pratique courante dans la Valley : développeur qui construit son propre agent maître orchestrant les tâches (référence Iron Man) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#JavaScriptCore\|JavaScriptCore]] — rôle: Moteur JS (Safari) embarqué par Bun ; sa gestion GC croisée avec la mémoire manuelle Zig est la source de la classe de bugs visée (1 occ., 1 fiches)
+- [[kb/Jev\|Jev]] — catégorie: Modèle de TypeSafe notant l'utilité d'un passage (0 à 3) par probabilités calibrées ; 0,042 $ par million de tokens d'entrée, ~32 k tokens d'entrée par appel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jipa\|Jipa]] — catégorie: Technique optimisation automatique de prompts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jira\|Jira]] — catégorie: Outil de gestion de projet traditionnel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jotunn8\|Jotunn8]] — catégorie: Processeur IA de VSORA intégrant la couche ZML (1 occ., 1 fiches)

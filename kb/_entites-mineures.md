@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2883 entités avec moins de 3 triples/fiches
+> 2886 entités avec moins de 3 triples/fiches
 
-## PERSONNE (381)
+## PERSONNE (382)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -440,6 +440,17 @@
 - **travaille_chez** → [[kb/Palantir\|Palantir]] (ORGANISATION) — 0.92
 
 **Fiches** : [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]
+
+### Assaf Elovic {#Assaf-Elovic}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Créateur et mainteneur principal de GPT Researcher ; auteur des commits du 26 septembre 2026 faisant de Jev le filtre par défaut
+
+- **a_créé** → [[kb/GPT-Researcher\|GPT Researcher]] (TECHNOLOGIE) — 0.95
+- **publie** → [[kb/page-Context-Filter\|page Context Filter]] (DOCUMENT) — 0.90
+
+**Fiches** : [[fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26\|Context Filter]]
 
 ### Atish Patel {#Atish-Patel}
 
@@ -3823,7 +3834,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (310)
+## ORGANISATION (311)
 
 ### 10x {#10x}
 
@@ -6671,6 +6682,16 @@
 - [[kb/_entites-mineures#David-Sacks\|David Sacks]] **travaille_chez** → Trump Administration — 0.98
 
 **Fiches** : [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|White House Unveils Americas AI Action Plan – The White House]]
+
+### TypeSafe {#TypeSafe}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Éditeur de Jev et de l'API System One (api.typesafe.ai)
+
+- **a_créé** → [[kb/Jev\|Jev]] (TECHNOLOGIE) — 0.97
+
+**Fiches** : [[fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26\|Context Filter]]
 
 ### UK AI Security Institute {#UK-AI-Security-Institute}
 
@@ -13728,7 +13749,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (974)
+## CONCEPT (975)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -14575,13 +14596,17 @@
 
 ### BM25 {#BM25}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 3 relations | 2 fiches
 
 - **catégorie** : Algorithme de scoring plein texte (TF-IDF pondéré)
+- **usage** : Repli local de GPT Researcher : Python pur, ~20 ms par sous-requête, seuil relatif de 0,5 du meilleur bloc, jusqu'à 25 blocs
+
+- **mesure** → « 51 % de passages pertinents et 14-8-6 contre les embeddings avec seuil relatif, 40 % en top-10 brut » (MESURE) — 0.90
 
 - [[kb/QMD\|QMD]] **utilise** → BM25 — 0.98
+- [[kb/GPT-Researcher\|GPT Researcher]] **utilise** → BM25 — 0.95
 
-**Fiches** : [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|Grep Is Dead: How I Made Claude Code Actually Remember Things]]
+**Fiches** : [[fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26\|Context Filter]], [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|Grep Is Dead: How I Made Claude Code Actually Remember Things]]
 
 ### Babel (icône biblique) {#Babel-(icône-biblique)}
 
@@ -21021,6 +21046,18 @@
 - **s_applique_à** → conception du cycle agentique (METHODOLOGIE) — 0.93
 
 **Fiches** : [[fiches/2026-06/williams-adlc-1-models-arent-human-2026-06-12\|Stop Running the SDLC on Models That Aren't Human]]
+
+### modèle System One {#modèle-System-One}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Modèle répondant à des questions typées sur une entrée avec des probabilités calibrées plutôt que par génération de texte
+
+- **permet** → « des réponses à des questions typées sous forme de probabilités calibrées, sans génération de texte » (AFFIRMATION) — 0.92
+
+- [[kb/Jev\|Jev]] **est_instance_de** → modèle System One — 0.93
+
+**Fiches** : [[fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26\|Context Filter]]
 
 ### modèle de domaine {#modèle-de-domaine}
 

@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 525 entités de type PERSONNE
+> 526 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -61,6 +61,7 @@
 - [[kb/_entites-mineures#Ashu-Garg\|Ashu Garg]] — rôle: Investisseur VC, Foundation Capital (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ashwin-Sreenivas\|Ashwin Sreenivas]] — rôle: Cofondateur de Decagon, ancien de Palantir ; source du récit Palantir mobilisé dans l'article (1 occ., 1 fiches)
 - [[kb/Asma-Mhalla\|Asma Mhalla]] — rôle: Politiste, autrice de *Technopolitique* et de la newsletter *Dangerous Ideas* (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Assaf-Elovic\|Assaf Elovic]] — rôle: Créateur et mainteneur principal de GPT Researcher ; auteur des commits du 26 septembre 2026 faisant de Jev le filtre par défaut (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Atish-Patel\|Atish Patel]] — rôle: Ingénieur chez Block, « Building AI solutions » ; auteur du billet de benchmarks sur les équipes d'agents dans Buzz (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Audry-Herblin-Stoupe\|Audry Herblin-Stoupe]] — rôle: Directrice des affaires publiques et de la communication, Mistral AI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Augustin-d'Hippone\|Augustin d'Hippone]] — période: 354-430 (1 occ., 1 fiches)

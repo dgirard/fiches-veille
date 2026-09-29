@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3444 entités
+> 3451 entités
 
 ## #
 
@@ -404,6 +404,7 @@
 - [[kb/_entites-mineures#ASL-3\|ASL-3]] (CONCEPT, 1 fiches)
 - [[kb/Asma-Mhalla\|Asma Mhalla]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#ASML\|ASML]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Assaf-Elovic\|Assaf Elovic]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Assistant\|Assistant]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Assistant-axis\|Assistant axis]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Asymétrie-entrée-sortie\|Asymétrie entrée/sortie]] (CONCEPT, 1 fiches)
@@ -516,7 +517,7 @@
 - [[kb/_entites-mineures#Blue-Origin\|Blue Origin]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Blueprint\|Blueprint]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Blueprints\|Blueprints]] (METHODOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#BM25\|BM25]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#BM25\|BM25]] (CONCEPT, 2 fiches)
 - [[kb/BMAD\|BMAD]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Bob-Martin\|Bob Martin]] (PERSONNE, 1 fiches)
 - [[kb/Bob-Sternfels\|Bob Sternfels]] (PERSONNE, 1 fiches)
@@ -1279,6 +1280,7 @@
 - [[kb/_entites-mineures#FIG-(agence)\|FIG (agence)]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Figma\|Figma]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#filtrage-par-le-contexte\|filtrage par le contexte]] (METHODOLOGIE, 1 fiches)
+- [[kb/filtre-de-contexte\|filtre de contexte]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Fin-Ideas\|Fin Ideas]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#financement-en-flux\|financement en flux]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Financialize-vs-Invest-to-Grow\|Financialize vs Invest to Grow]] (METHODOLOGIE, 1 fiches)
@@ -1489,6 +1491,7 @@
 - [[kb/_entites-mineures#goût-produit\|goût produit]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#GPQA-Diamond\|GPQA Diamond]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#GPT-5.6-Sol\|GPT 5.6 Sol]] (TECHNOLOGIE, 1 fiches)
+- [[kb/GPT-Researcher\|GPT Researcher]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#GPT-3\|GPT-3]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#GPT-3.5\|GPT-3.5]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#GPT-4\|GPT-4]] (TECHNOLOGIE, 2 fiches)
@@ -1754,6 +1757,7 @@
 - [[kb/Jesse-Vincent\|Jesse Vincent]] (PERSONNE, 5 fiches)
 - [[kb/Jesse-Zhang\|Jesse Zhang]] (PERSONNE, 1 fiches)
 - [[kb/Jessica-Talisman\|Jessica Talisman]] (PERSONNE, 1 fiches)
+- [[kb/Jev\|Jev]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Jin-Montesano\|Jin Montesano]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jing-Hu\|Jing Hu]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jipa\|Jipa]] (TECHNOLOGIE, 1 fiches)
@@ -2138,6 +2142,7 @@
 - [[kb/_entites-mineures#modèle-de-l'usine\|modèle de l'usine]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Modèle-de-place-de-marché\|Modèle de place de marché]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#modèle-opérationnel-agentique\|modèle opérationnel agentique]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#modèle-System-One\|modèle System One]] (CONCEPT, 1 fiches)
 - [[kb/modèles-de-langage-par-diffusion\|modèles de langage par diffusion]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#modèles-de-monde-interactifs\|modèles de monde interactifs]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Modèles-open-chinois\|Modèles open chinois]] (TECHNOLOGIE, 1 fiches)
@@ -2335,6 +2340,7 @@
 ## P
 
 - [[kb/_entites-mineures#Pacing-the-frontier\|Pacing the frontier]] (CONCEPT, 1 fiches)
+- [[kb/page-Context-Filter\|page Context Filter]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Painted-Doors-Problem\|Painted Doors Problem]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#pair-programming\|pair programming]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#paire-contrastive\|paire contrastive]] (CONCEPT, 1 fiches)
@@ -3249,6 +3255,7 @@
 - [[kb/_entites-mineures#two-strike-regeneration\|two-strike regeneration]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#two-tower-retrieval\|two-tower retrieval]] (METHODOLOGIE, 1 fiches)
 - [[kb/Tyler-Longwell\|Tyler Longwell]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#TypeSafe\|TypeSafe]] (ORGANISATION, 1 fiches)
 - [[kb/TypeScript\|TypeScript]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#tâches-atomiques\|tâches atomiques]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#tâches-impossibles\|tâches impossibles]] (CONCEPT, 1 fiches)

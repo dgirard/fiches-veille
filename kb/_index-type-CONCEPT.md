@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1021 entités de type CONCEPT
+> 1022 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -102,7 +102,7 @@
 - [[kb/Augmented-Craftsman\|Augmented Craftsman]] — description: Développeur augmenté par IA, reste dans le code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Autopilot\|Autopilot]] — niveau: 4 — outcome décrit, revue du résultat final (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Avantage-de-contexte\|Avantage de contexte]] — définition: Les humains en savent plus que l'IA sur les utilisateurs/le contexte (préféré à « taste ») (1 occ., 1 fiches)
-- [[kb/_entites-mineures#BM25\|BM25]] — catégorie: Algorithme de scoring plein texte (TF-IDF pondéré) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#BM25\|BM25]] — catégorie: Algorithme de scoring plein texte (TF-IDF pondéré) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Babel-(icône-biblique)\|Babel (icône biblique)]] — définition: Tour de Babel (Gn 11, 1-9) — symbolique d'uniformité technologique, profit, absolutisation de l'humain, langage unique qui prétend tout traduire en données. Premier pôle de la dialectique structurante de Magnifica Humanitas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Base-platform\|Base platform]] — définition: Plateforme sous-jacente (typiquement cloud public AWS/GCP/Azure, Kubernetes, ou modèle LLM en 2026) sur laquelle se construit la plateforme métier. **Croît dans le temps**, déclenche la décision floating vs sinking (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Berger-de-contexte\|Berger de contexte]] — categorie: Nouveau role humain - expertise sectorielle et donnees (1 occ., 1 fiches)
@@ -795,6 +795,7 @@
 - [[kb/_entites-mineures#model-to-metal\|model to metal]] — définition: Découpler le modèle du matériel : compilation AOT vers un binaire natif hermétique exécutable sur cinq familles de puces (1 occ., 1 fiches)
 - [[kb/_entites-mineures#modes-d'échec-analytics\|modes d'échec analytics]] — liste: Ambiguïté concept-entité, obsolescence, échec de retrieval (1 occ., 1 fiches)
 - [[kb/_entites-mineures#modes-de-défaillance-des-modèles\|modes de défaillance des modèles]] — liste: F1 satisfaction prématurée, F2 sycophancie, F3 context rot, F4 hallucination confiante, F5 reward hacking, F6 biais du nombre de findings, F7 bloat génératif, F8 perte de cohérence (1 occ., 1 fiches)
+- [[kb/_entites-mineures#modèle-System-One\|modèle System One]] — définition: Modèle répondant à des questions typées sur une entrée avec des probabilités calibrées plutôt que par génération de texte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#modèle-de-domaine\|modèle de domaine]] — rôle: Structure les objets métier avec comportements exposables comme outils aux LLMs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#modèles-de-monde-interactifs\|modèles de monde interactifs]] — différence_clé: Cohérence temps réel sans modification des frames passées (1 occ., 1 fiches)
 - [[kb/_entites-mineures#moment-Gutenberg-logiciel\|moment Gutenberg logiciel]] — signification: démocratisation comparable à l'imprimerie (1 occ., 1 fiches)

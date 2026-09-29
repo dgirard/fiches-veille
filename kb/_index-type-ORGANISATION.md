@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 424 entités de type ORGANISATION
+> 425 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -377,6 +377,7 @@
 - [[kb/Tokenomics-Foundation\|Tokenomics Foundation]] — nature: Projet de la Linux Foundation, annoncé le 2026-06-03 (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Translucent\|Translucent]] — apport: Marketplace interne d'agents spécialisés par métier ; relecteur de code maison qui éclate une modification en angles multiples puis synthétise (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Trump-Administration\|Trump Administration]] — secteur: Gouvernement fédéral américain (1 occ., 1 fiches)
+- [[kb/_entites-mineures#TypeSafe\|TypeSafe]] — secteur: Éditeur de Jev et de l'API System One (api.typesafe.ai) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#UK-AI-Security-Institute\|UK AI Security Institute]] — rôle: Auteur du stress test ayant révélé la fabrication de fausses identités (1 occ., 1 fiches)
 - [[kb/_entites-mineures#UNLEASH\|UNLEASH]] — secteur: Média HR-tech / futur du travail (1 occ., 1 fiches)
 - [[kb/Uber-Engineering\|Uber Engineering]] — catégorie: Équipe d'ingénierie Uber, publie blog technique sur uber.com/blog, déploie infrastructure agent identity en production pour milliers d'agents internes (1 occ., 1 fiches)

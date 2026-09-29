@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 415 fiches | 1975-12 → 2026-09-28 | généré le 2026-09-28
+> 416 fiches | 1975-12 → 2026-09-28 | généré le 2026-09-29
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -10,6 +10,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - **??** [We Must Pace the Frontier](fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09.md) — Dario Amodei (CEO et cofondateur d'Anthropic), sur son site personnel darioamodei.com. · Dario Amodei — pacing the frontier, cadencer le frontier, auto-amélioration récursive
 - **28** [The End of Hand-Written Code: A Conversation with David Heinemeier Hansson (DHH) on AI, Omarchy and the Future of Programming](fiches/2026-09/heinemeier-hansson-end-of-hand-written-code-2026-09-28.md) — David Heinemeier Hansson, créateur de Ruby on Rails et copropriétaire de 37signals, interrogé par Vikas Shah dans *Thought Economics*. · Thought Economics — fin du code écrit à la main, pencils down, agents de codage
+- **26** [Context Filter](fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26.md) — Assaf Elovic, créateur de GPT Researcher, auteur de la page (documentation officielle docs.gptr.dev, non signée). · GPT Researcher Docs — filtre de contexte, context filter, sélection de passages
 - **25** [Nope. It's still true. (post X en réponse à Noah Smith)](fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25.md) — Yann LeCun — fondateur et président d'AMI Labs, professeur à NYU, ex-Chief AI Scientist de Meta, prix Turing. Post X. · Yann LeCun (X) — Yann LeCun, AMI Labs, NYU
 - **20** [Philippe Corrot, fondateur de Mirakl](fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20.md) — Philippe Corrot, cofondateur et co-CEO de Mirakl, interrogé par Éric Hazan dans *Les Pirates de l'IA* (RCJ). · Les Pirates de l'IA (RCJ) — place de marché, marketplace, modèle de plateforme
 - **20** [WHAT IF THE FUTURE DOES NOT NEED YOU ?](fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20.md) — Asma Mhalla, politiste, autrice de *Technopolitique* ; newsletter *Dangerous Ideas* (Substack). · Dangerous Ideas — peur de devenir superflu, remplacement, compatibilité narrative
@@ -684,6 +685,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Architecture & Construction
 
+- [Context Filter](fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26.md) — Assaf Elovic, créateur de GPT Researcher, auteur de la page (documentation officielle docs.gptr.dev, non signée).
 - [Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic](fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14.md) — Sachin Malhotra (ingénieur, Anthropic), sur le blog claude.com.
 - [« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique](fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06.md) — SFEIR AI (voix éditoriale du cabinet), article non signé individuellement. Restitue un entretien de Matthieu Grymonprez (Adeo) et Romain Taillade (Decathlon).
 - [Maybe We Shouldn't Be Reviewing All This Code](fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02.md) — Rachel Laycock, CTO de Thoughtworks, sur *Rachel's Ramblings* (martinfowler.com).
@@ -1045,6 +1047,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Outils & Plateformes
 
+- [Context Filter](fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26.md) — Assaf Elovic, créateur de GPT Researcher, auteur de la page (documentation officielle docs.gptr.dev, non signée).
 - [Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team](fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14.md) — Alan Blount (Technical Solutions Consultant, Google Cloud, @zeroasterisk), publié sur le compte X @GoogleCloudTech.
 - [Do you even need a presentation?](fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08.md) — Sumeet Gayathri Moghe (global head of culture and organisational design, Thoughtworks), publié sur martinfowler.com ; relecture éditoriale de Martin Fowler.
 - [Portal by Spotify cut my Claude Code token usage by 90%](fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03.md) — Dimitri Mazmanov (Principal Product Manager, Spotify), sur le blog d'ingénierie engineering.atspotify.com.
@@ -1165,17 +1168,17 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 415 fiches
-- **Par année** : 2026 (238) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 416 fiches
+- **Par année** : 2026 (239) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 154
-  - Architecture & Construction : 57
+  - Architecture & Construction : 58
   - Transformation & Adoption : 90
   - Qualité & Sécurité : 49
   - Économie & Marché : 89
   - Philosophie & Société : 28
   - Stratégie & Frameworks : 30
-  - Outils & Plateformes : 56
+  - Outils & Plateformes : 57
   - Recherche & Éducation : 13
   - Produits & Services : 12
   - Politique & Régulation : 27

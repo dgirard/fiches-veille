@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 432 entités de type METHODOLOGIE
+> 433 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -314,6 +314,7 @@
 - [[kb/_entites-mineures#everyone-ships\|everyone ships]] — portée: Ouverture du seul passage de 0 à 1 à toute l'organisation, la division du travail restant en place au-delà du prototype (1 occ., 1 fiches)
 - [[kb/fichiers-de-règles-partagés\|fichiers de règles partagés]] — portée: Minions, Cursor, Claude Code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#filtrage-par-le-contexte\|filtrage par le contexte]] — critères: Lien aux issues, démonstration de compréhension, tests complets (1 occ., 1 fiches)
+- [[kb/filtre-de-contexte\|filtre de contexte]] — définition: Étape de sélection des passages scrapés transmis au rédacteur : découpage en blocs de 1 000 caractères, score, seuil, budget par sous-requête, chaîne de repli (1 occ., 1 fiches)
 - [[kb/_entites-mineures#findings-vérifiés\|findings vérifiés]] — exigence: Reproduire le bug (test rouge, trace, input) avant toute action du builder (1 occ., 1 fiches)
 - [[kb/_entites-mineures#fitness-functions\|fitness functions]] — rôle: Encodage exécutable des contraintes architecturales, posé après un design collectif plutôt que vérifié en revue (1 occ., 1 fiches)
 - [[kb/_entites-mineures#formulation-de-vision-précise\|formulation de vision précise]] — rôle: Articuler une intention assez précise pour qu'un agent l'exécute sans dérailler (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # context engineering
 
-> **Type** : METHODOLOGIE | 11 relations | 7 fiches sources
+> **Type** : METHODOLOGIE | 12 relations | 7 fiches sources
 
 ## Attributs
 
@@ -43,6 +43,7 @@
 - [[kb/Harness-engineering\|Harness engineering]] **est_variante_de** → context engineering — 0.95
 - [[kb/Harness-engineering\|Harness Engineering]] **remplace** → context engineering — 0.92
 - [[kb/Loop-Engineering\|Loop Engineering]] **est_basé_sur** → context engineering — 0.88
+- [[kb/filtre-de-contexte\|filtre de contexte]] **fait_partie_de** → context engineering — 0.80
 
 ## Fiches sources
 
