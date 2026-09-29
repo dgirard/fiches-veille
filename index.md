@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 416 fiches | 1975-12 → 2026-09-28 | généré le 2026-09-29
+> 417 fiches | 1975-12 → 2026-09-28 | généré le 2026-09-29
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -10,6 +10,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - **??** [We Must Pace the Frontier](fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09.md) — Dario Amodei (CEO et cofondateur d'Anthropic), sur son site personnel darioamodei.com. · Dario Amodei — pacing the frontier, cadencer le frontier, auto-amélioration récursive
 - **28** [The End of Hand-Written Code: A Conversation with David Heinemeier Hansson (DHH) on AI, Omarchy and the Future of Programming](fiches/2026-09/heinemeier-hansson-end-of-hand-written-code-2026-09-28.md) — David Heinemeier Hansson, créateur de Ruby on Rails et copropriétaire de 37signals, interrogé par Vikas Shah dans *Thought Economics*. · Thought Economics — fin du code écrit à la main, pencils down, agents de codage
+- **28** [Automating eval design and hillclimbing with Claude](fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28.md) — Lance Martin (Anthropic), blog claude.dev, avec remerciements à Misha Khalman pour le développement de la skill. · Anthropic (claude.dev) — évaluation, eval design, hillclimbing
 - **26** [Context Filter](fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26.md) — Assaf Elovic, créateur de GPT Researcher, auteur de la page (documentation officielle docs.gptr.dev, non signée). · GPT Researcher Docs — filtre de contexte, context filter, sélection de passages
 - **25** [Nope. It's still true. (post X en réponse à Noah Smith)](fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25.md) — Yann LeCun — fondateur et président d'AMI Labs, professeur à NYU, ex-Chief AI Scientist de Meta, prix Turing. Post X. · Yann LeCun (X) — Yann LeCun, AMI Labs, NYU
 - **20** [Philippe Corrot, fondateur de Mirakl](fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20.md) — Philippe Corrot, cofondateur et co-CEO de Mirakl, interrogé par Éric Hazan dans *Les Pirates de l'IA* (RCJ). · Les Pirates de l'IA (RCJ) — place de marché, marketplace, modèle de plateforme
@@ -529,6 +530,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Agents de codage IA & Skills
 
 - [The End of Hand-Written Code: A Conversation with David Heinemeier Hansson (DHH) on AI, Omarchy and the Future of Programming](fiches/2026-09/heinemeier-hansson-end-of-hand-written-code-2026-09-28.md) — David Heinemeier Hansson, créateur de Ruby on Rails et copropriétaire de 37signals, interrogé par Vikas Shah dans *Thought Economics*.
+- [Automating eval design and hillclimbing with Claude](fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28.md) — Lance Martin (Anthropic), blog claude.dev, avec remerciements à Misha Khalman pour le développement de la skill.
 - [Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team](fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14.md) — Alan Blount (Technical Solutions Consultant, Google Cloud, @zeroasterisk), publié sur le compte X @GoogleCloudTech.
 - [The Evaporation of Software Engineering (and the Rise of the Agentic Builder)](fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14.md) — Donn Felker (responsable plateforme IA chez Polygon, ex-Tinder, ex-co-animateur du podcast Fragmented), sur son Substack donnfelker.substack.com.
 - [Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic](fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14.md) — Sachin Malhotra (ingénieur, Anthropic), sur le blog claude.com.
@@ -840,6 +842,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Qualité & Sécurité
 
 - [We Must Pace the Frontier](fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09.md) — Dario Amodei (CEO et cofondateur d'Anthropic), sur son site personnel darioamodei.com.
+- [Automating eval design and hillclimbing with Claude](fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28.md) — Lance Martin (Anthropic), blog claude.dev, avec remerciements à Misha Khalman pour le développement de la skill.
 - [Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic](fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14.md) — Sachin Malhotra (ingénieur, Anthropic), sur le blog claude.com.
 - [Detecting and countering misuse of AI: September 2026](fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10.md) — Anthropic — équipe Threat Intelligence (rattachée aux Safeguards), rapport institutionnel non signé publié sur anthropic.com.
 - [Claude Fable 5.1 and Mythos 5.1](fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01.md) — Anthropic — communication produit publiée sur anthropic.com, sans signature individuelle.
@@ -1047,6 +1050,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Outils & Plateformes
 
+- [Automating eval design and hillclimbing with Claude](fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28.md) — Lance Martin (Anthropic), blog claude.dev, avec remerciements à Misha Khalman pour le développement de la skill.
 - [Context Filter](fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26.md) — Assaf Elovic, créateur de GPT Researcher, auteur de la page (documentation officielle docs.gptr.dev, non signée).
 - [Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team](fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14.md) — Alan Blount (Technical Solutions Consultant, Google Cloud, @zeroasterisk), publié sur le compte X @GoogleCloudTech.
 - [Do you even need a presentation?](fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08.md) — Sumeet Gayathri Moghe (global head of culture and organisational design, Thoughtworks), publié sur martinfowler.com ; relecture éditoriale de Martin Fowler.
@@ -1168,17 +1172,17 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 416 fiches
-- **Par année** : 2026 (239) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 417 fiches
+- **Par année** : 2026 (240) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 154
+  - Agents de codage IA & Skills : 155
   - Architecture & Construction : 58
   - Transformation & Adoption : 90
-  - Qualité & Sécurité : 49
+  - Qualité & Sécurité : 50
   - Économie & Marché : 89
   - Philosophie & Société : 28
   - Stratégie & Frameworks : 30
-  - Outils & Plateformes : 57
+  - Outils & Plateformes : 58
   - Recherche & Éducation : 13
   - Produits & Services : 12
   - Politique & Régulation : 27
@@ -1202,7 +1206,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Kent Beck (3)
   - Jesse Vincent (3)
   - Cobus Greyling (3)
-  - Michael Nuñez (2)
+  - Lance Martin (2)
 - **Sources (top 20)** :
   - Anthropic (15)
   - SFEIR (13)

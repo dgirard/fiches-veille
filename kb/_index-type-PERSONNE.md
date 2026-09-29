@@ -273,7 +273,7 @@
 - [[kb/_entites-mineures#Kevin-Kuipers\|Kevin Kuipers]] — rôle: Intervieweur, investisseur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Kief-Morris\|Kief Morris]] — rôle: Collègue Thoughtworks, a proposé le lien avec la cybernétique (1 occ., 1 fiches)
 - [[kb/Kieran-Klaassen\|Kieran Klaassen]] — rôle: Créateur de Thinkroom (Every / compound-engineering-plugin) (5 occ., 5 fiches)
-- [[kb/_entites-mineures#Lance-Martin\|Lance Martin]] — rôle: Developer advocate, Anthropic (1 occ., 1 fiches)
+- [[kb/Lance-Martin\|Lance Martin]] — rôle: Auteur de l'article, Anthropic (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Laura-Entis\|Laura Entis]] — rôle: Co-autrice (Every), journaliste/éditrice (1 occ., 1 fiches)
 - [[kb/Laura-Tacho\|Laura Tacho]] — rôle: Experte en expérience développeur (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Lauren-Reader\|Lauren Reader]] — rôle: Interviewer Sequoia de l'événement Cherny (1 occ., 1 fiches)

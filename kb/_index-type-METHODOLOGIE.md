@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 433 entités de type METHODOLOGIE
+> 437 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -124,6 +124,7 @@
 - [[kb/_entites-mineures#Gouvernance-injectée\|Gouvernance injectée]] — définition: Couche "quasiment militaire" contraignant les agents — innovation centrale et barrière à l'entrée (1 occ., 1 fiches)
 - [[kb/HTML-(format-de-sortie-agent)\|HTML (format de sortie agent)]] — catégorie: Format préféré pour artefacts agentiques riches (specs, plans, rapports, éditeurs) (1 occ., 1 fiches)
 - [[kb/Harness-engineering\|Harness engineering]] — catégorie: Pratique d'ingénierie pour construire la confiance dans les agents de codage (6 occ., 5 fiches)
+- [[kb/_entites-mineures#Hillclimbing\|Hillclimbing]] — définition: Amélioration itérative d'un prompt, d'une skill ou d'un paramètre contre une évaluation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hiring-refactoring-par-projets-adversariels\|Hiring refactoring par projets adversariels]] — exemple: Twitter clone agent vs 10 codecs red team — corroboration Sierra (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hive\|Hive]] — définition: Équipe permanente de quelques agents nommés, chacun avec un rôle et une mémoire de persona qui accumule les préférences de l'utilisateur ; la valeur est cumulative, briefer l'agent devenant plus rapide que briefer une personne. Terme forgé par Block pour ce billet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Human-Sandwich\|Human Sandwich]] — définition: Structure Shipper : Human (frame) → AI (execute) → Human (judge + extend). Valeur humaine déplacée vers les extrémités (1 occ., 1 fiches)
@@ -137,6 +138,7 @@
 - [[kb/Kishōtenketsu\|Kishōtenketsu]] — origine: Japon/Chine/Corée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Knowledge-skill\|Knowledge skill]] — rôle: Routeur top-level réduisant la recherche à ~30 fichiers de référence (1 occ., 1 fiches)
 - [[kb/_entites-mineures#LLM-as-a-Judge\|LLM-as-a-Judge]] — définition: Second agent review style/architecture (1 occ., 1 fiches)
+- [[kb/_entites-mineures#LLM-as-judge\|LLM-as-judge]] — forme retenue: Grille d'affirmations vérifiables ; modèle juge distinct du modèle testé ; comparaison à l'aveugle en ordre aléatoire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Learning-curve-shapes\|Learning curve shapes]] — définition: Quatre formes typiques : cliff (effort initial élevé), linear (idéal rare), hockey stick (facile au début, disproportionné ensuite quand les assumptions baked-in ne tiennent plus), gear shift (changement de service intra-plateforme avec ré-apprentissage) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Leave-No-One-Behind\|Leave No One Behind]] — description: Approche AI transformation Patricia Frost : mêmes outils et formations pour tous, choix individuel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Limit-the-Loop\|Limit the Loop]] — usage: Plafonner les étapes/outils d'un agent (1 occ., 1 fiches)
@@ -285,6 +287,8 @@
 - [[kb/_entites-mineures#capitalisation\|capitalisation]] — résultat: −30% d'itérations de correction après ~10 cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#capitalisation-cumulative\|capitalisation cumulative]] — résultat: −30 % d'itérations de correction après dix cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#character-training\|character training]] — catégorie: Entraînement par renforcement traits personnalité (1 occ., 1 fiches)
+- [[kb/_entites-mineures#claude-api-build-eval\|claude-api build-eval]] — définition: Entretien guidé qui construit dans le dépôt un jeu d'évaluation, son grader et un runner, avec approbation de l'utilisateur (1 occ., 1 fiches)
+- [[kb/_entites-mineures#claude-api-hillclimb\|claude-api hillclimb]] — définition: Boucle d'amélioration un patch par tour, séparation train/test, annulation en cas de surapprentissage ou de régression (1 occ., 1 fiches)
 - [[kb/_entites-mineures#clôture-de-spec\|clôture de spec]] — définition: Étape de fin de cycle où la spécification est mise à jour avec ce qui a réellement été construit — sans elle, les specs se périment en six mois (1 occ., 1 fiches)
 - [[kb/_entites-mineures#code-freeze\|code freeze]] — définition: Gel des modifications de code et actions explicitement demandé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#codification-du-savoir-en-skills\|codification du savoir en skills]] — étapes: Lister ce qu'on fait manuellement, en choisir une chose, demander à l'agent de la transformer en skill par interview, l'utiliser, répéter (1 occ., 1 fiches)

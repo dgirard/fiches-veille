@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 821 entités de type TECHNOLOGIE
+> 822 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -135,7 +135,7 @@
 - [[kb/_entites-mineures#Claude-4-Opus\|Claude 4 Opus]] — prix: 15 $/75 $ par M tokens (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-4.5-Sonnet\|Claude 4.5 Sonnet]] — point fort: Qualité d'écriture créative (1 occ., 1 fiches)
 - [[kb/Claude-Agent-SDK\|Claude Agent SDK]] — catégorie: SDK d'agents d'Anthropic (3 occ., 3 fiches)
-- [[kb/Claude-Code\|Claude Code]] — atout: Suivi d'instructions, génération de code, utilisation d'outils (61 occ., 55 fiches)
+- [[kb/Claude-Code\|Claude Code]] — atout: Suivi d'instructions, génération de code, utilisation d'outils (62 occ., 56 fiches)
 - [[kb/_entites-mineures#Claude-Cowork\|Claude Cowork]] — categorie: Agent knowledge work (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Claude-Design\|Claude Design]] — mécanisme: Lit le code sous-jacent d'un composant/site référencé, pas seulement le rendu (1 occ., 1 fiches)
 - [[kb/Claude-Desktop\|Claude Desktop]] — définition: Client de bureau d'Anthropic (Mac et Windows depuis le 31 octobre 2024, beta Linux le 30 juin 2026) : Quick Entry sur macOS, Desktop Extensions pour installer un serveur MCP local en un clic, accès aux fichiers locaux, onglets Chat / Cowork / Code. Construction Electron plus couches natives (1 occ., 1 fiches)
@@ -146,7 +146,7 @@
 - [[kb/Claude-Mythos-5\|Claude Mythos 5]] — catégorie: Modèle classe Mythos, garde-fous levés, accès restreint (3 occ., 2 fiches)
 - [[kb/Claude-Mythos-5.1\|Claude Mythos 5.1]] — catégorie: Même modèle que Fable 5.1, garde-fous permissifs, accès vérifié (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Mythos-Preview\|Claude Mythos Preview]] — statut: Remplacé par Mythos 5 (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Claude-Opus\|Claude Opus]] — statut: Versions 4.6, 4.7 et 4.8 ciblées par les campagnes de distillation ; Opus 5 rédige une demande de subvention orthopoxvirus sans blocage (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Claude-Opus\|Claude Opus]] — statut: Versions 4.6, 4.7 et 4.8 ciblées par les campagnes de distillation ; Opus 5 rédige une demande de subvention orthopoxvirus sans blocage (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4\|Claude Opus 4]] — catégorie: Modèle de langage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4.1\|Claude Opus 4.1]] — score even-handedness: 95% (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4.5\|Claude Opus 4.5]] — rôle: Version antérieure servant de point de comparaison à Opus 4.6 sur l'expérience (1 occ., 1 fiches)
@@ -155,7 +155,7 @@
 - [[kb/_entites-mineures#Claude-Opus-5\|Claude Opus 5]] — résultat de benchmark: Sur Terminal-Bench 2.1 solo, en effort xhigh : run le plus cher du panel à 140,63 dollars pour 75,0 %, sous six runs moins chers, en raison d'un sur-raisonnement ayant provoqué le timeout de 17 tâches sur 88. Cité comme modèle de tier SmartBee, recommandé en effort medium (prix au 2026-07-30) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Claude-Security\|Claude Security]] — rôle: Scan de vulnérabilités et suggestion de correctifs, propulsé par Mythos 5.1 (1 occ., 1 fiches)
 - [[kb/Claude-Skills\|Claude Skills]] — catégorie: Instructions spécialisées à chargement dynamique (4 occ., 4 fiches)
-- [[kb/_entites-mineures#Claude-Sonnet\|Claude Sonnet]] — versions: 4.0 et 3.7 intégrés comme moteurs IA primaires de Kiro (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Claude-Sonnet\|Claude Sonnet]] — versions: 4.0 et 3.7 intégrés comme moteurs IA primaires de Kiro (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Claude-Sonnet-4\|Claude Sonnet 4]] — éditeur: Anthropic (3 occ., 2 fiches)
 - [[kb/Claude-Sonnet-4.5\|Claude Sonnet 4.5]] — catégorie: LLM Anthropic (2 occ., 2 fiches)
 - [[kb/Claude-Tag\|Claude Tag]] — statut: Bêta publique sur Slack ; Claude membre du canal sous sa propre identité (3 occ., 3 fiches)
@@ -721,6 +721,7 @@
 - [[kb/_entites-mineures#ce-work\|ce:work]] — description: Skill d'exécution de plans avec découverte de tests (1 occ., 1 fiches)
 - [[kb/_entites-mineures#chunking\|chunking]] — limite: Fragmentation artificielle du sens contextuel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#circuit-breakers\|circuit breakers]] — objectif: dégradation gracieuse vs panne totale (1 occ., 1 fiches)
+- [[kb/claude-api\|claude-api]] — catégorie: Skill de Claude Code : guidance sur l'API Claude et sous-commandes build-eval et hillclimb (1 occ., 1 fiches)
 - [[kb/_entites-mineures#clear_thinking_20251015\|clear_thinking_20251015]] — catégorie: En-tête API de gestion du cache de raisonnement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cloudflare.pay\|cloudflare.pay]] — définition: Espace de noms proposé par Cloudflare donnant à un agent une identité lisible et persistante sous forme de sous-domaine délégué d'un compte, déclaration restant optionnelle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#clé-Nostr\|clé Nostr]] — rôle: Identité unique : signe les messages et les pushes Git (1 occ., 1 fiches)

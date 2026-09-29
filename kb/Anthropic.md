@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 151 relations | 47 fiches sources
+> **Type** : ORGANISATION | 152 relations | 48 fiches sources
 
 ## Attributs
 
@@ -13,7 +13,7 @@
 - **produit** : Claude
 - **revenus** : $1B → $4B en quelques mois (2025)
 - **rôle** : A racheté Bun (déc. 2025) ; éditeur de Claude Fable 5 et Claude Code utilisés pour la réécriture
-- **secteur** : IA / Safety
+- **secteur** : IA ; éditeur de Claude Code et de la skill claude-api
 
 ## Relations (comme sujet)
 
@@ -224,6 +224,8 @@
   - [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Superpowers: How I'm using coding agents in October 2025]]
 - [[kb/_entites-mineures#The-Claude-Code-guide-for-startups\|The Claude Code guide for startups]] (DOCUMENT) — 0.96, STATIQUE
   - [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+- [[kb/_entites-mineures#article-Automating-eval-design-and-hillclimbing\|article Automating eval design and hillclimbing]] (DOCUMENT) — 0.95, STATIQUE
+  - [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
 - [[kb/Claude-Mythos-5\|Claude Mythos 5]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
 - [[kb/_entites-mineures#Routines\|Routines]] (TECHNOLOGIE) — 0.95, STATIQUE
@@ -324,7 +326,7 @@
 - [[kb/Dario-Amodei\|Dario Amodei]] **dirige** → Anthropic — 0.98
 - [[kb/panne-de-service-Claude\|panne de service Claude]] **observé_dans** → Anthropic — 0.98
 - [[kb/_entites-mineures#Katelyn-Lesse\|Katelyn Lesse]] **travaille_chez** → Anthropic — 0.98
-- [[kb/_entites-mineures#Lance-Martin\|Lance Martin]] **travaille_chez** → Anthropic — 0.98
+- [[kb/Lance-Martin\|Lance Martin]] **travaille_chez** → Anthropic — 0.98
 - [[kb/Jason-Clinton\|Jason Clinton]] **travaille_chez** → Anthropic — 0.97
 - [[kb/_entites-mineures#Prithvi-Rajasekaran\|Prithvi Rajasekaran]] **travaille_chez** → Anthropic — 0.97
 - [[kb/Thariq-Shihipar\|Thariq Shihipar]] **travaille_chez** → Anthropic — 0.97
@@ -377,6 +379,7 @@
 - [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]]
 - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
 - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
+- [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
 - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Building Powerful Agentic Systems with Claude]]
 - [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Maîtriser Claude Code — Détail complet des 12 modules et ~60 leçons]]
 - [[fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14\|Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic]]

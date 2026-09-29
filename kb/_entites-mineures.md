@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2886 entités avec moins de 3 triples/fiches
+> 2893 entités avec moins de 3 triples/fiches
 
-## PERSONNE (382)
+## PERSONNE (381)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1953,17 +1953,6 @@
 - **rôle** : Collègue Thoughtworks, a proposé le lien avec la cybernétique
 
 **Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering for coding agent users]]
-
-### Lance Martin {#Lance-Martin}
-
-**Type** : PERSONNE | 2 relations | 1 fiches
-
-- **rôle** : Developer advocate, Anthropic
-
-- **travaille_chez** → [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.98
-- **publie** → [[kb/_entites-mineures#Auto-caching\|auto-caching]] (TECHNOLOGIE) — 0.97
-
-**Fiches** : [[fiches/2026-02/lancemartin-anthropic-prompt-auto-caching-claude-2026-02\|Prompt auto-caching with Claude]]
 
 ### Laura Entis {#Laura-Entis}
 
@@ -7784,7 +7773,7 @@
 - **améliore** → gestion des breakpoints cache (CONCEPT) — 0.96
 - **converge_avec** → caching bloc par bloc (TECHNOLOGIE) — 0.95
 
-- [[kb/_entites-mineures#Lance-Martin\|Lance Martin]] **publie** → Auto-caching — 0.97
+- [[kb/Lance-Martin\|Lance Martin]] **publie** → Auto-caching — 0.97
 
 **Fiches** : [[fiches/2026-02/lancemartin-anthropic-prompt-auto-caching-claude-2026-02\|Prompt auto-caching with Claude]]
 
@@ -8097,15 +8086,19 @@
 
 ### Claude Opus {#Claude-Opus}
 
-**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+**Type** : TECHNOLOGIE | 5 relations | 2 fiches
 
 - **statut** : Versions 4.6, 4.7 et 4.8 ciblées par les campagnes de distillation ; Opus 5 rédige une demande de subvention orthopoxvirus sans blocage
+- **versions citées** : Opus 4.8 (départ), Opus 5.5 (effort bas : 87,8 % à 1,9 centime par ticket)
+
+- **mesure** → « 74,4 % de précision à 4,6 centimes par ticket (Opus 4.8, effort élevé, départ) » (MESURE) — 0.93
+- **améliore** → « coût des tokens : 20 % de moins en entrée et sortie, 60 % de moins en lecture de cache (Opus 5.5 face à 4.8) » (MESURE) — 0.90
 
 - [[kb/_entites-mineures#PSR-(Project-Security-Review)\|PSR (Project Security Review)]] **utilise** → Claude Opus — 0.94
 - [[kb/Kiro\|Kiro]] **utilise** → Claude Opus — 0.90
 - [[kb/_entites-mineures#Qwen\|Qwen]] **est_basé_sur** → Claude Opus — 0.88
 
-**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]], [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
 
 ### Claude Opus 4 {#Claude-Opus-4}
 
@@ -8175,13 +8168,16 @@
 
 ### Claude Sonnet {#Claude-Sonnet}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
+- **version citée** : Sonnet 5 en effort bas : 88,9 % à 1 centime par ticket, puis 98,9 % avec prompt amélioré
 - **versions** : 4.0 et 3.7 intégrés comme moteurs IA primaires de Kiro
+
+- **mesure** → « 90,5 % contre 78,6 % sur 14 tickets tenus à l'écart, pour environ un cinquième du coût » (MESURE) — 0.93
 
 - [[kb/Kiro\|Kiro]] **utilise** → Claude Sonnet — 0.98
 
-**Fiches** : [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Launches Kiro, A Specification-Driven Agentic IDE]]
+**Fiches** : [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Launches Kiro, A Specification-Driven Agentic IDE]], [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
 
 ### Claude Sonnet 4 {#Claude-Sonnet-4}
 
@@ -13749,7 +13745,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (975)
+## CONCEPT (978)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -16320,6 +16316,18 @@
 
 **Fiches** : [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|You will know that the AI labs believe in ASI when -they dissolve their forward deployed engineering teams-]]
 
+### Jeu train/test séparé {#Jeu-train-test-séparé}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **rôle** : Le hillclimber lit le train ; le test n'est jamais vu
+
+- **résout** → [[kb/_entites-mineures#Surapprentissage-de-l'évaluation\|surapprentissage de l'évaluation]] (CONCEPT) — 0.90
+
+- [[kb/_entites-mineures#Hillclimbing\|Hillclimbing]] **utilise** → Jeu train/test séparé — 0.94
+
+**Fiches** : [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
+
 ### Joyful artifact {#Joyful-artifact}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -17725,6 +17733,18 @@
 - **définition** : Concept Bersin : employé augmenté par l'IA, mode bottom-up
 
 **Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|The Pivotal Role Of Chief HR Officer in AI Transformation]]
+
+### Surapprentissage de l'évaluation {#Surapprentissage-de-l'évaluation}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **symptôme** : Train en hausse, test plat ; ajouts au harnais sans effet en production
+
+- **observé_dans** → « outil d'OCR ajouté au harnais parce que l'évaluation en profite » (AFFIRMATION) — 0.88
+
+- [[kb/_entites-mineures#Jeu-train-test-séparé\|Jeu train/test séparé]] **résout** → Surapprentissage de l'évaluation — 0.90
+
+**Fiches** : [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
 
 ### Surcharge cognitive {#Surcharge-cognitive}
 
@@ -22971,6 +22991,16 @@
 
 **Fiches** : [[fiches/2026-06/dembo-byo-agent-m5stack-tinkering-opus-cloudflare-2026-06-07\|BYO Agent with M5Stack Stick 3]]
 
+### Échantillonnage adversarial {#Échantillonnage-adversarial}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Sélectionner les cas parce qu'un humain les juge difficiles, non parce que le modèle du jour les échoue
+
+- **s_applique_à** → conception d'évaluation (METHODOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
+
 ### Échelle de maturité {#Échelle-de-maturité}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -23190,7 +23220,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (376)
+## METHODOLOGIE (380)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -24251,6 +24281,17 @@
 
 **Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
 
+### Hillclimbing {#Hillclimbing}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Amélioration itérative d'un prompt, d'une skill ou d'un paramètre contre une évaluation
+
+- **utilise** → [[kb/_entites-mineures#Jeu-train-test-séparé\|jeu train/test séparé]] (CONCEPT) — 0.94
+- **réduit** → « coût par ticket à performance constante » (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
+
 ### Hiring refactoring par projets adversariels {#Hiring-refactoring-par-projets-adversariels}
 
 **Type** : METHODOLOGIE | 0 relations | 1 fiches
@@ -24353,6 +24394,16 @@
 - **permet** → vérification de l'adhérence style et architecture (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-01/osmani-how-write-good-spec-ai-agents-2026-01-13\|How to write a good spec for AI agents]]
+
+### LLM-as-judge {#LLM-as-judge}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **forme retenue** : Grille d'affirmations vérifiables ; modèle juge distinct du modèle testé ; comparaison à l'aveugle en ordre aléatoire
+
+- [[kb/_entites-mineures#claude-api-build-eval\|claude-api build-eval]] **utilise** → LLM-as-judge — 0.92
+
+**Fiches** : [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
 
 ### Learning curve shapes {#Learning-curve-shapes}
 
@@ -25644,6 +25695,28 @@
 - **réduit** → biais politique (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]]
+
+### claude-api build-eval {#claude-api-build-eval}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Entretien guidé qui construit dans le dépôt un jeu d'évaluation, son grader et un runner, avec approbation de l'utilisateur
+
+- **fait_partie_de** → [[kb/claude-api\|claude-api]] (TECHNOLOGIE) — 0.96
+- **utilise** → [[kb/_entites-mineures#LLM-as-judge\|LLM-as-judge]] (METHODOLOGIE) — 0.92
+
+**Fiches** : [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
+
+### claude-api hillclimb {#claude-api-hillclimb}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Boucle d'amélioration un patch par tour, séparation train/test, annulation en cas de surapprentissage ou de régression
+
+- **fait_partie_de** → [[kb/claude-api\|claude-api]] (TECHNOLOGIE) — 0.96
+- **recommande** → « annuler un patch quand le train monte et que le test reste plat » (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
 
 ### clôture de spec {#clôture-de-spec}
 
@@ -27518,7 +27591,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (144)
+## DOCUMENT (145)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -28752,6 +28825,16 @@
 - [[kb/_entites-mineures#sécurité-du-SDLC-AI-native\|sécurité du SDLC AI-native]] **est_basé_sur** → Zero Trust for Agents — 0.90
 
 **Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
+
+### article Automating eval design and hillclimbing {#article-Automating-eval-design-and-hillclimbing}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **nature** : Playbook du blog claude.dev, 28 septembre 2026
+
+- [[kb/Anthropic\|Anthropic]] **publie** → article Automating eval design and hillclimbing — 0.95
+
+**Fiches** : [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
 
 ### article What if the future does not need you {#article-What-if-the-future-does-not-need-you}
 

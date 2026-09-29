@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 123 relations | 55 fiches sources
+> **Type** : TECHNOLOGIE | 124 relations | 56 fiches sources
 
 ## Attributs
 
@@ -8,7 +8,7 @@
 - **atout** : Suivi d'instructions, génération de code, utilisation d'outils
 - **auto-écriture** : ~90% du code écrit par lui-même
 - **categorie** : CLI agent de codage
-- **catégorie** : Agent de codage CLI
+- **catégorie** : Agent de codage CLI hébergeant la skill claude-api
 - **date_création** : Septembre 2024
 - **fenêtre_contexte** : 1 million de tokens
 - **interface** : agent CLI terminal-first
@@ -265,6 +265,7 @@
 - [[kb/_entites-mineures#Cowork\|Cowork]] **est_basé_sur** → Claude Code — 0.94
 - [[kb/shunt\|shunt]] **fait_partie_de** → Claude Code — 0.94
 - [[kb/GLM-5.3\|GLM-5.3]] **observé_dans** → Claude Code — 0.94
+- [[kb/claude-api\|claude-api]] **fait_partie_de** → Claude Code — 0.93
 - effondrement couche environnement **observé_dans** → Claude Code — 0.93
 - [[kb/_entites-mineures#hypothèses-erronées-sans-vérification\|hypothèses erronées sans vérification]] **observé_dans** → Claude Code — 0.93
 - [[kb/_entites-mineures#sur-ingénierie\|sur-ingénierie]] **observé_dans** → Claude Code — 0.93
@@ -309,6 +310,7 @@
 - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
 - [[fiches/2025-11/klaassen-stop-coding-start-planning-every-2025-11-06\|Stop Coding and Start Planning]]
 - [[fiches/2025-11/klaassen-teach-ai-think-senior-engineer-every-2025-11-07\|Teach Your AI to Think Like a Senior Engineer]]
+- [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
 - [[fiches/2026-04/law-ahrefs-content-engineering-claude-code-2026-04-28\|How I Do Content Engineering With Claude Code]]
 - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Building Powerful Agentic Systems with Claude]]
 - [[fiches/2026-03/levie-building-trillions-agents-software-2026-03-07\|Building for trillions of agents]]

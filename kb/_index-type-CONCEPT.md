@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1022 entités de type CONCEPT
+> 1025 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -296,6 +296,7 @@
 - [[kb/_entites-mineures#JIT-tool-context-assembly\|JIT tool/context assembly]] — définition: Vision future : harnais qui assemble dynamiquement tools et contexte juste-à-temps, plus proche d'un compilateur que d'une config statique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jagged-intelligence\|Jagged intelligence]] — exemple: Opus 4.7 refactorise 100k lignes mais conseille de marcher 50m au car wash (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jaggedness-des-capacités-IA\|Jaggedness des capacités IA]] — description: Concept popularisé par Mollick : les capacités IA progressent de manière inégale par domaine, créant des compétences fortes à côté de défaillances grossières (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Jeu-train-test-séparé\|Jeu train/test séparé]] — rôle: Le hillclimber lit le train ; le test n'est jamais vu (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Joyful-artifact\|Joyful artifact]] — catégorie: Critère émotionnel-pragmatique de choix de format (engagement praticien) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Judgment-per-minute\|Judgment per minute]] — catégorie: KPI émergent du designer agentique : densité de micro-décisions (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Juge-Stratégique\|Juge Stratégique]] — définition: Nouveau rôle humain : intervient là où le jugement est irremplaçable, prime sur l'écriture de code (1 occ., 1 fiches)
@@ -450,6 +451,7 @@
 - [[kb/_entites-mineures#Superviseur-d'agents\|Superviseur d'agents]] — description: Evolution du role developpeur vers orchestration d'agents IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Supervision-adaptative\|Supervision adaptative]] — pilier: Pilier 4 de l'agentique adaptative (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Superworker\|Superworker]] — définition: Concept Bersin : employé augmenté par l'IA, mode bottom-up (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Surapprentissage-de-l'évaluation\|Surapprentissage de l'évaluation]] — symptôme: Train en hausse, test plat ; ajouts au harnais sans effet en production (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Surcharge-cognitive\|Surcharge cognitive]] — risque: Burn-out à l'ère agentique ; un client réduit volontairement sa cadence de bolts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sémantique-data\|Sémantique data]] — enjeu: Une définition unique par concept métier, lisible par un agent ; attaque par verticales (1 occ., 1 fiches)
 - [[kb/_entites-mineures#TCO-(Total-Cost-of-Ownership)\|TCO (Total Cost of Ownership)]] — rôle: Cadre de décision local vs cloud (1 occ., 1 fiches)
@@ -1000,6 +1002,7 @@
 - [[kb/_entites-mineures#world-model-latent\|world model latent]] — rôle: Représentation compressée de la physique d'un environnement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#yak-shaving\|yak shaving]] — nature: Tâches setup pénibles éliminées par l'IA dans l'augmented coding (1 occ., 1 fiches)
 - [[kb/_entites-mineures#zero-blast-radius\|zero blast radius]] — définition: Faible surface de risque justifiant l'absence de revue de code (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Échantillonnage-adversarial\|Échantillonnage adversarial]] — définition: Sélectionner les cas parce qu'un humain les juge difficiles, non parce que le modèle du jour les échoue (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Échelle-de-maturité\|Échelle de maturité]] — niveaux: 0 Manuel → 1 Triage → 2 Draft → 3 Verified PR → 4 Auto-merge (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Électricité\|Électricité]] — rôle: facteur de sensibilité du break-even (1 occ., 1 fiches)
 - [[kb/_entites-mineures#État-vassal-(avertissement-Mensch)\|État vassal (avertissement Mensch)]] — définition: État dépendant à 100% des services numériques étrangers, sans levier de négociation, sans capacité de production souveraine — risque européen sur 2-5 ans selon Mensch (1 occ., 1 fiches)
