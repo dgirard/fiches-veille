@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 425 entités de type ORGANISATION
+> 429 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -58,7 +58,7 @@
 - [[kb/_entites-mineures#Benchmark\|Benchmark]] — secteur: Capital-risque (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Biohub\|Biohub]] — rôle: Institut de recherche cité par Zuckerberg comme ayant déjà publié des modèles biologiques open source sur les cellules virtuelles et les protéines ; rattaché à l'objectif de prévenir ou guérir toutes les maladies dans le siècle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Blaxel-AI\|Blaxel AI]] — secteur: Start-up IA Silicon Valley (1 occ., 1 fiches)
-- [[kb/Block\|Block]] — secteur: Technologie financière (ex-Square) (10 occ., 10 fiches)
+- [[kb/Block\|Block]] — secteur: Paiement ; 3 500 ingénieurs (11 occ., 11 fiches)
 - [[kb/Bloomberg\|Bloomberg]] — secteur: Finance / Données de marché (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Blue-Origin\|Blue Origin]] — secteur: Aérospatiale commerciale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Boston-Consulting-Group\|Boston Consulting Group]] — secteur: Conseil en stratégie (1 occ., 1 fiches)
@@ -81,9 +81,10 @@
 - [[kb/_entites-mineures#Cast-Software\|Cast Software]] — secteur: Éditeur logiciel français — analyse de code et logiciels (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Cielo\|Cielo]] — secteur: Services financiers (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Cigref\|Cigref]] — secteur: Club / association française des DSI de grandes entreprises (2 occ., 1 fiches)
+- [[kb/_entites-mineures#CircleCI\|CircleCI]] — secteur: Intégration continue (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Clay\|Clay]] — apport: Revues trimestrielles où les prototypes entrent au roadmap, agent de tri de bugs, agent d'analytique interne ; doctrine de reconstruction répétée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ClickHouse\|ClickHouse]] — apport: Presque chaque étape du cycle transformée en boucle autonome ; agents de tests instables et de couverture manquante devenus 2e et 3e contributeurs du dépôt ; agents produits (console SQL, SRE) construits avec Claude Code (1 occ., 1 fiches)
-- [[kb/Cloudflare\|Cloudflare]] — secteur: Infrastructure web / CDN (4 occ., 4 fiches)
+- [[kb/Cloudflare\|Cloudflare]] — secteur: Infrastructure réseau ; revue de code IA en CI (5 occ., 5 fiches)
 - [[kb/_entites-mineures#Cluely\|Cluely]] — description: Startup voulant aider à « tricher sur tout » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cognition\|Cognition]] — produit_phare: Devin (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Cognizant\|Cognizant]] — secteur: Cabinet de conseil en transformation IT/IA (1 occ., 1 fiches)
@@ -123,6 +124,7 @@
 - [[kb/_entites-mineures#DocsHound\|DocsHound]] — secteur: Documentation automatisée depuis démos produit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dotwork\|Dotwork]] — secteur: Product management / Operating systems (1 occ., 1 fiches)
 - [[kb/Dropbox\|Dropbox]] — résultat: 90% adoption IA, +20% PRs fusionnés (2 occ., 2 fiches)
+- [[kb/_entites-mineures#DryRun-Security\|DryRun Security]] — secteur: Revue de sécurité contextuelle en pré-fusion (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Duarte-Design\|Duarte Design]] — production: Ebook « Slidedocs », catalogue de patterns de mise en page (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DuckDB-Foundation\|DuckDB Foundation]] — rôle: Structure gardienne du projet open source DuckDB, maintenue après l'entrée de DuckLabs chez AWS (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DuckLabs\|DuckLabs]] — statut: Équipe de développement de DuckDB, rejoint AWS comme filiale, reste basée à Amsterdam (1 occ., 1 fiches)
@@ -194,6 +196,7 @@
 - [[kb/_entites-mineures#HumanLayer\|HumanLayer]] — secteur: Outillage agents IA / harness engineering (1 occ., 1 fiches)
 - [[kb/_entites-mineures#IBM\|IBM]] — exposition: La plus faible parmi les grands fournisseurs ; watsonx Code Assistant et Granite visent les secteurs régulés et les acheteurs gouvernance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#IETF-WIMSE-working-group\|IETF WIMSE working group]] — catégorie: Workload Identity in Multi-System Environments — groupe de travail IETF émergent sur l'identité workload et agent (1 occ., 1 fiches)
+- [[kb/_entites-mineures#IT-Revolution\|IT Revolution]] — secteur: Éditeur DevOps, revue Enterprise Technology Leadership Journal (1 occ., 1 fiches)
 - [[kb/_entites-mineures#IT-for-Business\|IT for Business]] — catégorie: Média technologique français (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ignition-Consulting-Group\|Ignition Consulting Group]] — secteur: Cabinet conseil dirigé par Tim Williams, spécialisé transformation agences communication (1 occ., 1 fiches)
 - [[kb/Intercom\|Intercom]] — échelle: 1305 employés, 500 R&D, 8,5M lignes code, 30 000 clients B2B, 313 deploys/jour, 2M+ QPS peak (1 occ., 1 fiches)
@@ -208,6 +211,7 @@
 - [[kb/_entites-mineures#Kore.ai\|Kore.ai]] — secteur: IA conversationnelle (2 occ., 2 fiches)
 - [[kb/LVMH\|LVMH]] — profil: ~80 Md€ CA, 75 maisons, 100+ pays ; SI multicloud régionalisé (1 occ., 1 fiches)
 - [[kb/LangChain-organisation\|LangChain]] — secteur: Framework IA / Agents (3 occ., 4 fiches)
+- [[kb/_entites-mineures#LaunchDarkly\|LaunchDarkly]] — secteur: Gestion de feature flags (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Le-Touilleur-Express\|Le Touilleur Express]] — catégorie: Blog tech francophone (Nicolas Martignole) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Leading-the-Future-PAC\|Leading the Future PAC]] — description: Super PAC pro-IA financé en partie par Greg Brockman, 2M$+ contre Alex Bores (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Legal.io\|Legal.io]] — secteur: Plateforme legal talent / média B2B juridique (1 occ., 1 fiches)

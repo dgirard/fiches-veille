@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2893 entités avec moins de 3 triples/fiches
+> 2911 entités avec moins de 3 triples/fiches
 
-## PERSONNE (381)
+## PERSONNE (384)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1561,6 +1561,16 @@
 
 **Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|The Pivotal Role Of Chief HR Officer in AI Transformation]]
 
+### James Wickett {#James-Wickett}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : CEO et cofondateur de DryRun Security
+
+- **dirige** → [[kb/_entites-mineures#DryRun-Security\|DryRun Security]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
+
 ### Janice Manningham {#Janice-Manningham}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -2897,6 +2907,16 @@
 
 **Fiches** : [[fiches/2026-07/mozilla-state-of-open-source-ai-2026-07\|The state of open source AI (v1.0.1, juillet 2026)]]
 
+### Randy Shoup {#Randy-Shoup}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : SVP Engineering, CircleCI
+
+- **travaille_chez** → [[kb/_entites-mineures#CircleCI\|CircleCI]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
+
 ### Ranganathan & Ye {#Ranganathan-&-Ye}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -3753,6 +3773,16 @@
 
 **Fiches** : [[fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19\|One Prompt, Zero Engineers: Your New Internal Dev]], [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|The Trillion Dollar AI Software Development Stack]]
 
+### Zach Davis {#Zach-Davis}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Principal Engineer, LaunchDarkly
+
+- **travaille_chez** → [[kb/_entites-mineures#LaunchDarkly\|LaunchDarkly]] (ORGANISATION) — 0.90
+
+**Fiches** : [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
+
 ### Zach Gleicher {#Zach-Gleicher}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -3823,7 +3853,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (311)
+## ORGANISATION (315)
 
 ### 10x {#10x}
 
@@ -4436,6 +4466,18 @@
 
 **Fiches** : [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
 
+### CircleCI {#CircleCI}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **secteur** : Intégration continue
+
+- **utilise** → [[kb/_entites-mineures#Chunk\|Chunk]] (TECHNOLOGIE) — 0.90
+
+- [[kb/_entites-mineures#Randy-Shoup\|Randy Shoup]] **travaille_chez** → CircleCI — 0.95
+
+**Fiches** : [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
+
 ### Clay {#Clay}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -4723,6 +4765,18 @@
 - [[kb/John-Cutler\|John Cutler]] **travaille_chez** → Dotwork — 0.97
 
 **Fiches** : [[fiches/2025-10/cutler-teams-dont-escalate-leaders-linkedin-2025-10-03\|Why Teams Don't Escalate (and What Leaders Can Do About It)]]
+
+### DryRun Security {#DryRun-Security}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **secteur** : Revue de sécurité contextuelle en pré-fusion
+
+- **utilise** → [[kb/_entites-mineures#test-d'exploitabilité\|test d'exploitabilité]] (METHODOLOGIE) — 0.90
+
+- [[kb/_entites-mineures#James-Wickett\|James Wickett]] **dirige** → DryRun Security — 0.95
+
+**Fiches** : [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
 
 ### Duarte Design {#Duarte-Design}
 
@@ -5287,6 +5341,16 @@
 
 **Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
 
+### IT Revolution {#IT-Revolution}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Éditeur DevOps, revue Enterprise Technology Leadership Journal
+
+- **publie** → [[kb/article-Agentic-AI-and-Code-Reviews\|article Agentic AI and Code Reviews]] (DOCUMENT) — 0.95
+
+**Fiches** : [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
+
 ### IT for Business {#IT-for-Business}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -5394,6 +5458,16 @@
 - [[kb/Cobus-Greyling\|Cobus Greyling]] **travaille_chez** → Kore.ai — 0.99
 
 **Fiches** : [[fiches/2026-03/greyling-cli-vs-ide-development-environment-collapse-2026-03-09\|CLI vs IDE — The Development Environment Is The Next Layer To Collapse]], [[fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04\|The Next Collapsing Tech Cost Is Software Itself]]
+
+### LaunchDarkly {#LaunchDarkly}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Gestion de feature flags
+
+- [[kb/_entites-mineures#Zach-Davis\|Zach Davis]] **travaille_chez** → LaunchDarkly — 0.90
+
+**Fiches** : [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
 
 ### Le Touilleur Express {#Le-Touilleur-Express}
 
@@ -7015,7 +7089,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (644)
+## TECHNOLOGIE (645)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7996,7 +8070,7 @@
 
 - **catégorie** : Agent CircleCI qui valide ses propres correctifs avant tout regard humain — taux de conversion des tâches d'agent en PR abouties doublé
 
-- CircleCI **utilise** → Chunk — 0.90
+- [[kb/_entites-mineures#CircleCI\|CircleCI]] **utilise** → Chunk — 0.90
 
 **Fiches** : [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 
@@ -13259,13 +13333,15 @@
 
 ### opencode {#opencode}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
+- **catégorie** : Agent de codage open source
 - **usage** : Harnais de codage configuré avec deux fournisseurs Vertex et des sous-agents worker (Flash) et deep-thinker (Fable)
 
+- [[kb/_entites-mineures#système-de-revue-de-code-en-CI\|système de revue de code en CI]] **utilise** → opencode — 0.95
 - [[kb/_entites-mineures#promptfoo\|promptfoo]] **utilise** → opencode — 0.93
 
-**Fiches** : [[fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14\|Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team]]
+**Fiches** : [[fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14\|Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team]], [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
 
 ### orchestration agentique {#orchestration-agentique}
 
@@ -13593,6 +13669,19 @@
 
 **Fiches** : [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate]]
 
+### système de revue de code en CI {#système-de-revue-de-code-en-CI}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **catégorie** : Orchestration multi-reviewers de Cloudflare
+
+- **mesure** → « 131 246 revues sur 48 095 PR dans 5 169 dépôts, 159 103 constats, soit 1,2 par revue (mars-avril 2026) » (MESURE) — 0.95
+- **utilise** → [[kb/_entites-mineures#opencode\|OpenCode]] (TECHNOLOGIE) — 0.95
+
+- [[kb/Cloudflare\|Cloudflare]] **a_créé** → système de revue de code en CI — 0.93
+
+**Fiches** : [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
+
 ### task_banger_screen.py {#task_banger_screen.py}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -13745,7 +13834,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (978)
+## CONCEPT (980)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -18273,6 +18362,16 @@
 
 **Fiches** : [[fiches/2026-05/shipper-every-after-automation-frame-framer-2026-05-21\|After Automation]]
 
+### Zero Trust {#Zero-Trust}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Aucun artefact ni contributeur n'est de confiance par défaut
+
+- [[kb/_entites-mineures#revue-adverse-LLM\|revue adverse LLM]] **s_inspire_de** → Zero Trust — 0.88
+
+**Fiches** : [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
+
 ### `panic!("Not implemented: to_thrift for ...")` stubs {#`panic!(-Not-implemented-to_thrift-for-...-)`-stubs}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -18324,6 +18423,16 @@
 - **définition** : *« An entity that is authorized to act for or in the place of another »* — définition fondatrice qui pose la délégation comme propriété axiomatique de l'agent IA
 
 **Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
+
+### agent coordinateur {#agent-coordinateur}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Synthétise, dédoublonne et hiérarchise les constats des spécialistes
+
+- [[kb/_entites-mineures#revues-multi-agents\|revues multi-agents]] **utilise** → agent coordinateur — 0.92
+
+**Fiches** : [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
 
 ### agent telemetry {#agent-telemetry}
 
@@ -23220,7 +23329,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (380)
+## METHODOLOGIE (387)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -25615,6 +25724,16 @@
 
 **Fiches** : [[fiches/2026-07/cherny-steps-ai-adoption-2026-07-16\|Steps of AI Adoption (tableau/artifact + post LinkedIn « I talk to engineers at other companies every day… »)]]
 
+### boucle de qualité continue {#boucle-de-qualité-continue}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Cycle agent auteur / agent relecteur jusqu'à convergence
+
+- **utilise** → [[kb/_entites-mineures#revue-adverse-LLM\|revue adverse LLM]] (METHODOLOGIE) — 0.80
+
+**Fiches** : [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
+
 ### boucles de vérification multi-agents {#boucles-de-vérification-multi-agents}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -25893,6 +26012,16 @@
 
 **Fiches** : [[fiches/2026-06/williams-adlc-5-three-dials-parallel-agents-2026-06-12\|Three Dials: Parallel Agents Without Merge Hell]]
 
+### développement piloté par la spécification {#développement-piloté-par-la-spécification}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Déplacer la revue de l'implémentation vers le plan
+
+- **s_applique_à** → « la revue de l'intention avant l'écriture du code » (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
+
 ### développement piloté par le contexte {#développement-piloté-par-le-contexte}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
@@ -26113,6 +26242,18 @@
 - **permet** → codification des connaissances et motifs (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2025-12/every-compound-engineering-plugin-github-2025-12-10\|Compounding Engineering Plugin - Official Claude Code Plugin for Systematic Development]]
+
+### ingénierie de contexte {#ingénierie-de-contexte}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Rendre architecture, précédents et politiques accessibles aux agents
+
+- **permet** → « des constats de revue moins bruyants et plus pertinents » (AFFIRMATION) — 0.90
+
+- [[kb/Harness-engineering\|Harness engineering]] **est_basé_sur** → ingénierie de contexte — 0.97
+
+**Fiches** : [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
 
 ### ingénierie de la connaissance {#ingénierie-de-la-connaissance}
 
@@ -26603,6 +26744,29 @@
 
 **Fiches** : [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]
 
+### revue adverse LLM {#revue-adverse-LLM}
+
+**Type** : METHODOLOGIE | 3 relations | 1 fiches
+
+- **définition** : Revue par un modèle ou une session indépendants de l'auteur
+
+- **améliore** → « l'indépendance entre génération et évaluation, par un modèle ou une session distincts » (AFFIRMATION) — 0.90
+- **s_inspire_de** → [[kb/_entites-mineures#Zero-Trust\|Zero Trust]] (CONCEPT) — 0.88
+
+- [[kb/_entites-mineures#boucle-de-qualité-continue\|boucle de qualité continue]] **utilise** → revue adverse LLM — 0.80
+
+**Fiches** : [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
+
+### revue adverse locale avant push {#revue-adverse-locale-avant-push}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Agent adverse invoqué localement avant le push
+
+- [[kb/Block\|Block]] **utilise** → revue adverse locale avant push — 0.88
+
+**Fiches** : [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
+
 ### revue de code IA {#revue-de-code-IA}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -26654,6 +26818,16 @@
 - **s_oppose_à** → « exiger l'inspection humaine de chaque changement au titre de la cérémonie historique de production de confiance » (AFFIRMATION) — 0.93
 
 **Fiches** : [[fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02\|Maybe We Shouldn't Be Reviewing All This Code]]
+
+### revues multi-agents {#revues-multi-agents}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Spécialistes, triage et coordinateur
+
+- **utilise** → [[kb/_entites-mineures#agent-coordinateur\|agent coordinateur]] (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
 
 ### role-playing {#role-playing}
 
@@ -26870,6 +27044,16 @@
 - **réduit** → efficacité des garde-fous de sécurité IA (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2025-07/persuading-ai-cialdini-wharton-2025-07-18\|Call Me A Jerk: Persuading AI to Comply with Objectionable Requests]]
+
+### test d'exploitabilité {#test-d'exploitabilité}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Raisonner sur l'abus réel d'une faille dans son contexte
+
+- [[kb/_entites-mineures#DryRun-Security\|DryRun Security]] **utilise** → test d'exploitabilité — 0.90
+
+**Fiches** : [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
 
 ### testing autonome {#testing-autonome}
 
@@ -27591,7 +27775,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (145)
+## DOCUMENT (146)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -29098,6 +29282,16 @@
 - **mesure** → « délai de retour, taille de la revue et compréhension de la motivation en tête des obstacles ; 26 % seulement rédigent toujours une description détaillée » (MESURE) — 0.90
 
 **Fiches** : [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for?]]
+
+### étude Microsoft sur la revue de code moderne {#étude-Microsoft-sur-la-revue-de-code-moderne}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **référence** : Bacchelli et Bird, ICSE 2013
+
+- [[kb/article-Agentic-AI-and-Code-Reviews\|article Agentic AI and Code Reviews]] **référence** → étude Microsoft sur la revue de code moderne — 0.90
+
+**Fiches** : [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
 
 ### étude sur la transformation du travail {#étude-sur-la-transformation-du-travail}
 

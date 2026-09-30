@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 168 entités de type DOCUMENT
+> 170 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -139,6 +139,7 @@
 - [[kb/Work-at-the-Frontier\|Work at the Frontier]] — référence: OpenAI Economic Research, « How AI is Expanding What People Do at Work », 1er rapport de la série, 27 juillet 2026 — plus de 800 000 messages d'utilisateurs américains de ChatGPT (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Your-Browser-Does-Math-Differently-on-Every-OS\|Your Browser Does Math Differently on Every OS]] — référence: Article Scrapfly Engineering du 12 juillet 2026 cartographiant les fuites d'OS via Math.tanh, la trigonométrie CSS et Web Audio, et détaillant la reproduction bit à bit comme seule contre-mesure (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zero-Trust-for-Agents\|Zero Trust for Agents]] — rôle: Framework Anthropic dont ce billet est le compagnon d'implémentation (1 occ., 1 fiches)
+- [[kb/article-Agentic-AI-and-Code-Reviews\|article Agentic AI and Code Reviews]] — forme: Article collectif en neuf patrons, trois études de cas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-Automating-eval-design-and-hillclimbing\|article Automating eval design and hillclimbing]] — nature: Playbook du blog claude.dev, 28 septembre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-What-if-the-future-does-not-need-you\|article What if the future does not need you]] — forme: Essai en cinq parties titrées en anglais, publié sur Substack le 20 septembre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-de-Paul-Sawers-(16-juin-2026)\|article de Paul Sawers (16 juin 2026)]] — catégorie: Article The New Stack (Paul Sawers, 16 juin 2026) sur la suspension de la scission de facturation de l'Agent SDK, replacée dans son contexte sectoriel et réglementaire (1 occ., 1 fiches)
@@ -169,4 +170,5 @@
 - [[kb/_entites-mineures#Étude-Shaw-&-Nave\|Étude Shaw & Nave]] — description: Wharton/UPenn, 1372 participants, 3 expériences : 73% acceptent des réponses IA démontrablement fausses, confiance augmente malgré 50% taux d'erreur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#épisode-Philippe-Corrot,-fondateur-de-Mirakl\|épisode Philippe Corrot, fondateur de Mirakl]] — forme: Entretien radio de 54 minutes en trois parties, volume 10 des *Pirates de l'IA*, diffusé le 20 septembre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#étude-Microsoft-2016-sur-la-revue-de-code\|étude Microsoft 2016 sur la revue de code]] — référence: Enquête auprès de 911 développeurs ; délai de retour, taille de la revue et compréhension de la motivation en tête des obstacles (1 occ., 1 fiches)
+- [[kb/_entites-mineures#étude-Microsoft-sur-la-revue-de-code-moderne\|étude Microsoft sur la revue de code moderne]] — référence: Bacchelli et Bird, ICSE 2013 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#étude-sur-la-transformation-du-travail\|étude sur la transformation du travail]] — date: août 2025 (2 occ., 1 fiches)

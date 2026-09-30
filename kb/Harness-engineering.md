@@ -15,7 +15,7 @@
 
 - Contraintes architecturales (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering: leveraging Codex in an agent-first world]]
-- Ingénierie de contexte (CONCEPT) — 0.97, ATEMPOREL
+- [[kb/_entites-mineures#ingénierie-de-contexte\|Ingénierie de contexte]] (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering: leveraging Codex in an agent-first world]]
 - [[kb/_entites-mineures#Garbage-collection-(code)\|Garbage collection (code)]] (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering: leveraging Codex in an agent-first world]]

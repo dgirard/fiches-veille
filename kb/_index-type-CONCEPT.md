@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1025 entités de type CONCEPT
+> 1027 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -507,11 +507,13 @@
 - [[kb/_entites-mineures#Writing-muscle-atrophy\|Writing muscle atrophy]] — définition: Métaphore corporelle Frizzo : le code manuel devient effortful après usage prolongé d'agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#X3-X4-(gains-réalistes)\|X3-X4 (gains réalistes)]] — définition: Productivité réellement observée vs fantasme X10 — projet d'industrialisation, ROI non immédiat (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zeno's-paradox-of-AI\|Zeno's paradox of AI]] — définition: Métaphore Shipper — Achille (IA) court vers la tortue (humain) mais la tortue *« is alive to a specific moment »*, elle bouge en permanence vers de nouveaux problèmes, Achille ne la rattrape jamais (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Zero-Trust\|Zero Trust]] — définition: Aucun artefact ni contributeur n'est de confiance par défaut (1 occ., 1 fiches)
 - [[kb/_entites-mineures#`panic!(-Not-implemented-to_thrift-for-...-)`-stubs\|`panic!("Not implemented: to_thrift for ...")` stubs]] — définition: Marqueurs présents dans candidate_features.rs et user_features.rs — confirment que le release public ne tourne pas end-to-end contre les services internes X (1 occ., 1 fiches)
 - [[kb/_entites-mineures#acceptance-rate\|acceptance rate]] — statut: Métrique en déclin, portée trop étroite (1 occ., 1 fiches)
 - [[kb/_entites-mineures#accélérationnisme\|accélérationnisme]] — tension relevée: Ball pointe un paradoxe : les accélérationnistes s'enthousiasment pour l'open-weights, pourtant décélérationniste — par goût de l'ingouvernabilité selon lui (1 occ., 1 fiches)
 - [[kb/_entites-mineures#actor-chain\|actor chain]] — définition: Liste vérifiable de tous les participants à une requête multi-hop (user + agents intermédiaires) transportée dans le JWT — permet des décisions d'accès tool-level basées sur l'historique complet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agency-(définition-Uber)\|agency (définition Uber)]] — définition: *« An entity that is authorized to act for or in the place of another »* — définition fondatrice qui pose la délégation comme propriété axiomatique de l'agent IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#agent-coordinateur\|agent coordinateur]] — définition: Synthétise, dédoublonne et hiérarchise les constats des spécialistes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agent-telemetry\|agent telemetry]] — statut: Domaine émergent de mesure IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agentId\|agentId]] — rôle: Identifiant unique permettant reprise de session subagent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agentic-builder\|agentic builder]] — définition: Rôle hybride qui combine acumen business et compétence d'ingénierie pour exécuter avec des agents ; variante côté ingénierie nommée Agentic Product Engineer (1 occ., 1 fiches)

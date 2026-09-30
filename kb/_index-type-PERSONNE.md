@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 526 entités de type PERSONNE
+> 529 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -217,6 +217,7 @@
 - [[kb/Jack-Dorsey\|Jack Dorsey]] — rôle: Directeur général de Block ; assume de facturer l'IA en dernier et revendique une position confortable pour expérimenter plusieurs modèles de prix (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jacob-Coxon\|Jacob Coxon]] — rôle: Chercheur passé par OpenAI puis Anthropic, démissionnaire le 9 septembre 2026 avec un avertissement viral sur le risque d'extinction (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jacqui-Canney\|Jacqui Canney]] — rôle: Chief People and AI Transformation Officer ServiceNow (1 occ., 1 fiches)
+- [[kb/_entites-mineures#James-Wickett\|James Wickett]] — rôle: CEO et cofondateur de DryRun Security (1 occ., 1 fiches)
 - [[kb/Jamin-Ball\|Jamin Ball]] — rôle: Analyste / auteur newsletter Clouded Judgement (2 occ., 1 fiches)
 - [[kb/Janakiram-MSV\|Janakiram MSV]] — rôle: Architecte praticien, analyste et conseil de startups Silicon Valley ; auteur The New Stack (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Janice-Manningham\|Janice Manningham]] — rôle: Strategic Group Product Manager, Stack Overflow, co-auteur (1 occ., 1 fiches)
@@ -401,6 +402,7 @@
 - [[kb/Rachel-Laycock\|Rachel Laycock]] — rôle: CTO de Thoughtworks, autrice de la section *Rachel's Ramblings* sur martinfowler.com (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rafael-Marques\|Rafael Marques]] — rôle: Product Manager, Google Cloud (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Raffi-Krikorian\|Raffi Krikorian]] — rôle: Chief Technology Officer de Mozilla, auteur de la lettre d'ouverture du rapport (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Randy-Shoup\|Randy Shoup]] — rôle: SVP Engineering, CircleCI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ranganathan-&-Ye\|Ranganathan & Ye]] — rôle: Chercheurs publiés dans HBR (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ray-Dalio\|Ray Dalio]] — attribut: Promoteur de la conscience de soi radicale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ray-Perrault\|Ray Perrault]] — rôle: Co-chair AI Index Steering Committee, SRI International (1 occ., 1 fiches)
@@ -519,6 +521,7 @@
 - [[kb/_entites-mineures#Yegor-Denisov-Blanch\|Yegor Denisov-Blanch]] — rôle: Chercheur, Stanford (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Yoko-Li\|Yoko Li]] — rôle: Partner a16z, entreprise et infrastructure (2 occ., 2 fiches)
 - [[kb/Yves-Caseau\|Yves Caseau]] — rôle: Group Chief Digital & Information Officer, Michelin (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Zach-Davis\|Zach Davis]] — rôle: Principal Engineer, LaunchDarkly (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zach-Gleicher\|Zach Gleicher]] — rôle: Product Manager, Google DeepMind (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zie619\|Zie619]] — rôle: Créateur et mainteneur du repository (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zirui-Guo\|Zirui Guo]] — affiliation: HKUDS (1 occ., 1 fiches)

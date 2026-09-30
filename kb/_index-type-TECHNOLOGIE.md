@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 822 entités de type TECHNOLOGIE
+> 823 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -771,7 +771,7 @@
 - [[kb/_entites-mineures#navigateur-IA\|navigateur IA]] — positionnement: Troisième terme possible du duel desktop/web : le critique le plus virulent de Claude Desktop utilise Claude dans le navigateur d'OpenAI, ce qui déplace la question du client natif vers la surface de navigation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#navigateur-web\|navigateur web]] — statut: remplacé progressivement par MCP (1 occ., 1 fiches)
 - [[kb/_entites-mineures#npm\|npm]] — mesure: Version moins risquée déjà disponible dans 46,9 % des sélections vulnérables (1 occ., 1 fiches)
-- [[kb/_entites-mineures#opencode\|opencode]] — usage: Harnais de codage configuré avec deux fournisseurs Vertex et des sous-agents worker (Flash) et deep-thinker (Fable) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#opencode\|opencode]] — usage: Harnais de codage configuré avec deux fournisseurs Vertex et des sous-agents worker (Flash) et deep-thinker (Fable) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#orchestration-agentique\|orchestration agentique]] — statut: Vecteur principal de l'évolution du vibe coding (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pi-ai\|pi-ai]] — rôle: Bibliothèque tierce (`@earendil-works/pi-ai`) derrière l'adaptateur `dsh-llm-pi-ai`, second fournisseur LLM livré avec DeepSeek Harness aux côtés de l'adaptateur DeepSeek natif. Une instance détient un dictionnaire de profils par route ; une route absente du catalogue se déclare intégralement, de sorte qu'un gateway OpenAI-compatible ou un serveur auto-hébergé relève de la configuration et non du code. C'est la preuve vérifiable que le harnais n'est pas verrouillé sur les modèles DeepSeek (1 occ., 1 fiches)
 - [[kb/pipeline-de-rapprochement-des-paiements-non-identifiés\|pipeline de rapprochement des paiements non identifiés]] — catégorie: Pipeline Python en 3 étapes, exposé comme skill `/treasury` dans Claude Code (1 occ., 1 fiches)
@@ -808,6 +808,7 @@
 - [[kb/_entites-mineures#spécification-FOCUS\|spécification FOCUS]] — rôle: Standard open source étendu pour la transparence des coûts IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#stack-MCP-minimum\|stack MCP minimum]] — composition: GSC (mcp-gsc 500+) + Ahrefs officiel (98) + GA4 (1 occ., 1 fiches)
 - [[kb/subagents-technologie\|subagents]] — définition: Assistants IA spécialisés avec context window séparé (3 occ., 5 fiches)
+- [[kb/_entites-mineures#système-de-revue-de-code-en-CI\|système de revue de code en CI]] — catégorie: Orchestration multi-reviewers de Cloudflare (1 occ., 1 fiches)
 - [[kb/_entites-mineures#task_banger_screen.py\|task_banger_screen.py]] — rôle: Classifier Grox offline positif (early high-quality / viral screen) — détection upstream de posts à fort potentiel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#task_post_safety_screen_deluxe.py\|task_post_safety_screen_deluxe.py]] — rôle: Classifier Grox offline pour violence, NSFW, misinformation — exclusion eligibility-time, pas démotion (1 occ., 1 fiches)
 - [[kb/_entites-mineures#task_spam_detection.py\|task_spam_detection.py]] — rôle: Classifier Grok-based offline keye sur low-follower / low-quality reply patterns — risque d'exclusion silencieuse pour brand accounts qui répliquent lourdement sur big posts (1 occ., 1 fiches)

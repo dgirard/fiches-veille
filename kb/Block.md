@@ -1,12 +1,12 @@
 # Block
 
-> **Type** : ORGANISATION | 49 relations | 10 fiches sources
+> **Type** : ORGANISATION | 51 relations | 11 fiches sources
 
 ## Attributs
 
 - **positionnement** : Groupe de paiement (Cash App, Square, Afterpay) qui déploie l'IA côté produit et côté interne sans avoir choisi de modèle de prix : au T2 2026, profit brut +25 % à 3,2 Md$ pour des revenus +10 %, après une réorganisation centrée sur l'IA ayant supprimé ~4 000 postes (~40 % des effectifs)
 - **rôle** : Éditeur de Buzz ; troisième signature interne sur le produit en un mois
-- **secteur** : Technologie financière (ex-Square)
+- **secteur** : Paiement ; 3 500 ingénieurs
 
 ## Relations (comme sujet)
 
@@ -69,6 +69,8 @@
 
 - « un profit brut croissant deux fois et demie plus vite que les revenus, sans qu'aucun outil d'IA ne soit encore facturé » (AFFIRMATION) — 0.86, STATIQUE
   - [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
+- « PR d'agents laissées en brouillon faute de propriété » (AFFIRMATION) — 0.85, STATIQUE
+  - [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
 
 ### prédit
 
@@ -125,6 +127,8 @@
   - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
 - [[kb/_entites-mineures#Tamarin\|Tamarin]] (TECHNOLOGIE) — 0.92, STATIQUE
   - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
+- [[kb/_entites-mineures#revue-adverse-locale-avant-push\|revue adverse locale avant push]] (METHODOLOGIE) — 0.88, DYNAMIQUE
+  - [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
 
 ## Relations (comme objet)
 
@@ -143,6 +147,7 @@
 
 - [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 - [[fiches/2025-08/block-goose-mcp-ui-future-agentic-interfaces-2025-08-25\|Block's Goose and the Future of Agentic Interfaces via Model Context Protocol]]
+- [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
 - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
 - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions: Stripe's one-shot, end-to-end coding agents -- Part 2]]
 - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]

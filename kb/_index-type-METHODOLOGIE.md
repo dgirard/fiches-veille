@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 437 entités de type METHODOLOGIE
+> 444 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -279,6 +279,7 @@
 - [[kb/boucle-d'apprentissage\|boucle d'apprentissage]] — définition: Système au-dessus des modèles où capital humain et token composent ; nouvelle IP de la firme (1 occ., 1 fiches)
 - [[kb/_entites-mineures#boucle-d'auto-amélioration\|boucle d'auto-amélioration]] — mécanisme: Corrections d'experts remontées jusqu'aux instructions versionnées de l'agent, back-testées sur golden set et échantillons aléatoires, sous la règle « corriger le principe, pas l'exemple » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#boucle-d'auto-vérification\|boucle d'auto-vérification]] — définition: Boucle de confiance donnée à Claude (tests + build + lint + e2e sur un vrai environnement de dev) ; condition de passage de l'étape 1 à l'étape 2 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#boucle-de-qualité-continue\|boucle de qualité continue]] — définition: Cycle agent auteur / agent relecteur jusqu'à convergence (1 occ., 1 fiches)
 - [[kb/_entites-mineures#boucles-de-vérification-multi-agents\|boucles de vérification multi-agents]] — rôle: Mécanisme d'assurance qualité par consensus de pairs et vérification (1 occ., 1 fiches)
 - [[kb/_entites-mineures#build-for-rebuilding\|build for rebuilding]] — principe: Traiter fonctionnalités et échafaudages comme des coûts irrécupérables dès que la capacité des modèles change ; fin de reconstruction définie par la disparition de l'ancien chemin (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cadre-de-mesure-à-4-dimensions\|cadre de mesure à 4 dimensions]] — définition: Speed (PR throughput), Efficiency (heures gagnées), Quality (change failure rate), Satisfaction (1 occ., 1 fiches)
@@ -308,6 +309,7 @@
 - [[kb/_entites-mineures#dynamic-workflows\|dynamic workflows]] — définition: ~50 boucles écrire→relire→appliquer tournant en continu dans Claude Code, éditables par prompt en cours de route (1 occ., 1 fiches)
 - [[kb/_entites-mineures#décomposition-de-capacités\|décomposition de capacités]] — format_sortie: JSON hiérarchique parent-enfant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#désambiguïsation-par-consensus\|désambiguïsation par consensus]] — principe: Là où N agents convergent, la demande est non ambiguë ; le désaccord mesure l'ambiguïté (1 occ., 1 fiches)
+- [[kb/_entites-mineures#développement-piloté-par-la-spécification\|développement piloté par la spécification]] — définition: Déplacer la revue de l'implémentation vers le plan (1 occ., 1 fiches)
 - [[kb/_entites-mineures#développement-piloté-par-le-contexte\|développement piloté par le contexte]] — principe: Documentation persistante vs chat éphémère (1 occ., 1 fiches)
 - [[kb/_entites-mineures#egress-allowlisting\|egress allowlisting]] — rôle: VM distantes à sortie réseau restreinte pour contenir le blast radius (1 occ., 1 fiches)
 - [[kb/_entites-mineures#environnements-de-RL-privés\|environnements de RL privés]] — rôle: Renforcer les modèles sur les traces réelles de l'organisation (1 occ., 1 fiches)
@@ -338,6 +340,7 @@
 - [[kb/_entites-mineures#idéation-divergente-parallèle\|idéation divergente parallèle]] — définition: Diverger (N agents isolés sous frames cognitifs, interdiction d'évaluer) puis focaliser (critique séparé : score, clusters, pièges, approfondissement du top-K) (1 occ., 1 fiches)
 - [[kb/infrastructure-contexte-codifié\|infrastructure contexte codifié]] — catégorie: Architecture 3 tiers pour mémoire persistante agents IA (2 occ., 1 fiches)
 - [[kb/_entites-mineures#ingénierie-composable\|ingénierie composable]] — principe: Chaque unité de travail facilite la suivante (1 occ., 1 fiches)
+- [[kb/_entites-mineures#ingénierie-de-contexte\|ingénierie de contexte]] — définition: Rendre architecture, précédents et politiques accessibles aux agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ingénierie-de-la-connaissance\|ingénierie de la connaissance]] — positionnement: Aussi critique que l'ingénierie logicielle et l'ingénierie des données à l'ère de l'IA agentique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#intent-engineering\|intent engineering]] — rôle: Traduire des objectifs métier ambigus en spécifications testables pour les agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#islands-architecture\|islands architecture]] — rôle: Composition d'îles UI dans un contexte unique (1 occ., 1 fiches)
@@ -390,12 +393,15 @@
 - [[kb/_entites-mineures#retrieval-practice\|retrieval practice]] — catégorie: Technique pédagogique basée sur la récupération active en mémoire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#reviewers-mono-lentille\|reviewers mono-lentille]] — dimensions: Correction, sécurité, conformité de contrat, alignement spec, qualité des tests (1 occ., 1 fiches)
 - [[kb/_entites-mineures#revue-adversariale\|revue adversariale]] — principe: Un 2ᵉ Claude en contexte séparé ne voyant que le diff, sommé de trouver pourquoi le code est faux ; 1 implémenteur / 2+ relecteurs / 1 fixer ; l'implémenteur ne relit pas (1 occ., 1 fiches)
+- [[kb/_entites-mineures#revue-adverse-LLM\|revue adverse LLM]] — définition: Revue par un modèle ou une session indépendants de l'auteur (1 occ., 1 fiches)
+- [[kb/_entites-mineures#revue-adverse-locale-avant-push\|revue adverse locale avant push]] — définition: Agent adverse invoqué localement avant le push (1 occ., 1 fiches)
 - [[kb/revue-de-code\|revue de code]] — objectifs: Trouver les défauts, qualité, conformité, partage de connaissance (2 occ., 2 fiches)
 - [[kb/_entites-mineures#revue-de-code-IA\|revue de code IA]] — description: Revue automatisée de pull requests par agent IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#revue-de-code-agentique\|revue de code agentique]] — catégorie: Revue conduite par des agents, opposée terme à terme à la revue humaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#revue-de-code-humaine\|revue de code humaine]] — catégorie: Inspection par un pair, dont l'article conteste la tenue face au débit agentique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#revue-de-code-rigoureuse\|revue de code rigoureuse]] — objectif: Garantir qualité et sécurité du code généré par IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#revue-par-exception\|revue par exception]] — définition: Réserver la revue humaine aux classes de changement où le jugement humain apporte, au lieu d'inspecter systématiquement chaque changement (1 occ., 1 fiches)
+- [[kb/_entites-mineures#revues-multi-agents\|revues multi-agents]] — définition: Spécialistes, triage et coordinateur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#role-playing\|role-playing]] — objectif: Inciter Claude à évaluer critiquement les suggestions de revue (1 occ., 1 fiches)
 - [[kb/_entites-mineures#routage-SIEM\|routage SIEM]] — définition: Log de chaque action d'agent (approbations, tool calls, messages) pour audit + menace interne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#routage-de-modèles\|routage de modèles]] — règle: Opus = stratégie, Sonnet 4.6 = prod, Haiku 4.5 = micro-tâches (1 occ., 2 fiches)
@@ -418,6 +424,7 @@
 - [[kb/_entites-mineures#séparation-dev-prod\|séparation dev/prod]] — objectif: Empêcher l'accès de l'IA aux bases de données de production (1 occ., 1 fiches)
 - [[kb/_entites-mineures#séquencement-d'adoption\|séquencement d'adoption]] — ordre: Prosecution des PRs → rails/tests → interrogation → parallélisme + distillation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#techniques-de-persuasion\|techniques de persuasion]] — effet_mesuré: Taux de compliance : 33,3% → 72,0% (1 occ., 1 fiches)
+- [[kb/_entites-mineures#test-d'exploitabilité\|test d'exploitabilité]] — définition: Raisonner sur l'abus réel d'une faille dans son contexte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#testing-autonome\|testing autonome]] — catégorie: Vérification automatique par agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tests-unitaires-obligatoires\|tests unitaires obligatoires]] — contrainte: Indépendants du processus de génération de code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#three-layer-framework-(Uber)\|three-layer framework (Uber)]] — définition: Vision long terme Uber : (1) Identity & Trust Foundation, (2) Dynamic Access Control, (3) Unified Enforcement Plane — architecture cible cohérente identity + risk + policy (1 occ., 1 fiches)
