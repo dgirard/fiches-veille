@@ -1,10 +1,10 @@
 # Amazon
 
-> **Type** : ORGANISATION | 8 relations | 2 fiches sources
+> **Type** : ORGANISATION | 9 relations | 3 fiches sources
 
 ## Attributs
 
-- **secteur** : Technologie / Commerce / Cloud
+- **secteur** : Commerce en ligne ; a bloqué Muse
 
 ## Relations (comme sujet)
 
@@ -26,6 +26,8 @@
   - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
 - [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
+- [[kb/_entites-mineures#Muse\|Muse]] (TECHNOLOGIE) — 0.93, STATIQUE
+  - [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
 
 ### utilise
 
@@ -40,4 +42,5 @@
 ## Fiches sources
 
 - [[fiches/2025-11/lichtenberg-fortune-bezos-project-prometheus-ai-startup-2025-11-17\|Jeff Bezos is reportedly becoming a CEO again—and it's for a $6.2 billion AI startup called 'Project Prometheus']]
+- [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
 - [[fiches/2025-11/vogels-tech-predictions-2026-allthingsdistributed-2025-11-25\|Tech predictions for 2026 and beyond]]

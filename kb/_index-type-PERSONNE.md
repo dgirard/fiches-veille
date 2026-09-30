@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 529 entités de type PERSONNE
+> 533 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -30,7 +30,7 @@
 - [[kb/_entites-mineures#Allie-Nawrat\|Allie Nawrat]] — rôle: Chief Reporter UNLEASH (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Amjad-Masad\|Amjad Masad]] — rôle: CEO de Replit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Andre-Ellis-Jr.\|Andre Ellis Jr.]] — rôle: Cloud Financial Operations Lead Google Cloud, Morehouse College + Wharton MBA, co-auteur DORA ROI 2026 (1 occ., 1 fiches)
-- [[kb/Andrej-Karpathy\|Andrej Karpathy]] — rôle: Co-fondateur OpenAI, ex-Tesla Autopilot, créateur du terme vibe coding (6 occ., 6 fiches)
+- [[kb/Andrej-Karpathy\|Andrej Karpathy]] — rôle: Auteur du LLM wiki (7 occ., 7 fiches)
 - [[kb/_entites-mineures#Andrew-Carton\|Andrew Carton]] — rôle: Collègue chercheur de Mollick (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Andrew-Churchill\|Andrew Churchill]] — rôle: Co-fondateur & CTO, ex-employé #1 chez Causal, MIT CS+Math (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Andrew-Harvard\|Andrew Harvard]] — rôle: Ingénieur Block, contributeur MCP-UI (2 occ., 2 fiches)
@@ -83,6 +83,7 @@
 - [[kb/Bob-Sternfels\|Bob Sternfels]] — rôle: Managing Partner Global McKinsey & Company depuis 2021, leader voix industrie consulting top-tier sur transformation IA (1 occ., 1 fiches)
 - [[kb/Boris-Cherny\|Boris Cherny]] — rôle: Head of Claude Code (Anthropic) — co-auteur de la vidéo « Reflecting on a year of Claude Code » (12 occ., 11 fiches)
 - [[kb/_entites-mineures#Bouddha\|Bouddha]] — période: Ve siècle av. J.-C. (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Brad-Gerstner\|Brad Gerstner]] — rôle: Interlocuteur cité (@altcap) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Brad-Miller\|Brad Miller]] — rôle: Chief Information Officer de Moderna (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Brad-Smith\|Brad Smith]] — rôle: Dirigeant Microsoft ayant confirmé l'absence de nouvelle prise de participation de Microsoft au capital de Mistral (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bradley-Axen\|Bradley Axen]] — rôle: Head of AI Capabilities chez Block ; porte l'argument de marché du lancement de Buzz : toute entreprise aura besoin d'un lieu où humains et agents travaillent ensemble, et la question est de savoir s'il sera propriétaire ou ouvert (1 occ., 1 fiches)
@@ -123,6 +124,7 @@
 - [[kb/Darragh-Curran\|Darragh Curran]] — rôle: R&D leader Intercom, auteur de l'engagement public 2x productivité R&D en 12 mois (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dave-Crossland\|Dave Crossland]] — rôle: Co-auteur article (1 occ., 1 fiches)
 - [[kb/Dave-Farley\|Dave Farley]] — rôle: Engineering coach, fondateur Modern Software Engineering, ex-Continuous Delivery (livre 2010 avec Jez Humble) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Dave-Morin\|Dave Morin]] — rôle: Président de la fondation OpenClaw (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Autor\|David Autor]] — rôle: Économiste du MIT cité pour la démocratisation de l'expertise par les LLM et le déplacement des tâches (2 occ., 2 fiches)
 - [[kb/_entites-mineures#David-Crawford\|David Crawford]] — rôle: Partner Bain & Company, co-auteur série software industry age of AI 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Gibson\|David Gibson]] — rôle: Staff Data Scientist, Stack Overflow, co-auteur (1 occ., 1 fiches)
@@ -178,6 +180,7 @@
 - [[kb/_entites-mineures#Gabriel-Vasquez\|Gabriel Vasquez]] — rôle: Investment Partner, Andreessen Horowitz (Enterprise & Fintech) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gabriella-Rosen-Kellerman\|Gabriella Rosen Kellerman]] — rôle: Expert Partner & Director BCG, psychiatre, co-auteure Tomorrowmind (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Garr-Reynolds\|Garr Reynolds]] — spécialité: Presentation Zen, simplicité visuelle (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Garry-Tan\|Garry Tan]] — rôle: Auteur de GBrain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gaurav-Goel\|Gaurav Goel]] — rôle: Software Engineer II chez Uber, co-auteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gene-Kim\|Gene Kim]] — rôle: Auteur, chercheur DevOps (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Geoffrey-Huntley\|Geoffrey Huntley]] — contribution: Auteur de la technique Ralph (début 2026) (1 occ., 1 fiches)
@@ -423,6 +426,7 @@
 - [[kb/_entites-mineures#Roy-Lee\|Roy Lee]] — rôle: Étudiant Columbia / co-fondateur Cluely (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ruth-Appel\|Ruth Appel]] — rôle: co-auteure rapport Anthropic Economic Index (1 occ., 1 fiches)
 - [[kb/Ryan-Law\|Ryan Law]] — rôle: Director of Content Marketing, Ahrefs (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Ryan-Sarver\|Ryan Sarver]] — rôle: Utilisateur intensif d'OpenClaw, auteur du fil ; fonction non précisée (1 occ., 1 fiches)
 - [[kb/Rémi-Jacquet\|Rémi Jacquet]] — rôle: DG Cast Software France (2 occ., 1 fiches)
 - [[kb/Sachin-Malhotra\|Sachin Malhotra]] — rôle: Ingénieur chez Anthropic ; auteur du retour d'expérience sur la mise à l'échelle de la CI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Safi-Shamsi\|Safi Shamsi]] — rôle: Créateur et mainteneur de graphify et de Graphify Labs (Y Combinator S26) ; maintient aussi le site d'annuaire graphify.net et publie le livre The Memory Layer (2 occ., 2 fiches)

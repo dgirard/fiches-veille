@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2911 entités avec moins de 3 triples/fiches
+> 2922 entités avec moins de 3 triples/fiches
 
-## PERSONNE (384)
+## PERSONNE (388)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -611,6 +611,16 @@
 
 **Fiches** : [[fiches/2026-03/ralmuto-rebuttal-andreessen-introspection-history-2026-03-17\|Rebuttal to Marc Andreessen on Introspection]]
 
+### Brad Gerstner {#Brad-Gerstner}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Interlocuteur cité (@altcap)
+
+- [[kb/article-Personal-AI-Should-Actually-Be-Personal\|article Personal AI Should Actually Be Personal]] **s_oppose_à** → Brad Gerstner — 0.80
+
+**Fiches** : [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
+
 ### Brad Miller {#Brad-Miller}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -899,6 +909,16 @@
 - **rôle** : Co-auteur article
 
 **Fiches** : [[fiches/2025-12/google-sans-flex-font-evolution-design-2025-12-18\|Making Google Sans Flex]]
+
+### Dave Morin {#Dave-Morin}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Président de la fondation OpenClaw
+
+- **dirige** → [[kb/_entites-mineures#fondation-OpenClaw\|fondation OpenClaw]] (ORGANISATION) — 0.85
+
+**Fiches** : [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
 
 ### David Autor {#David-Autor}
 
@@ -1305,6 +1325,16 @@
 - **a_créé** → Presentation Zen (METHODOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2026-02/guide-comparatif-formats-conference-narrations-deep-research-2026-02\|Traité d'Architecture Narrative et de Rhétorique de Conférence : Guide Global des Formats et des Structures de…]]
+
+### Garry Tan {#Garry-Tan}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Auteur de GBrain
+
+- **a_créé** → [[kb/_entites-mineures#GBrain\|GBrain]] (TECHNOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
 
 ### Gaurav Goel {#Gaurav-Goel}
 
@@ -3080,6 +3110,16 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
+### Ryan Sarver {#Ryan-Sarver}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Utilisateur intensif d'OpenClaw, auteur du fil ; fonction non précisée
+
+- **publie** → [[kb/article-Personal-AI-Should-Actually-Be-Personal\|article Personal AI Should Actually Be Personal]] (DOCUMENT) — 0.95
+
+**Fiches** : [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
+
 ### Safi Shamsi {#Safi-Shamsi}
 
 **Type** : PERSONNE | 2 relations | 2 fiches
@@ -3853,7 +3893,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (315)
+## ORGANISATION (316)
 
 ### 10x {#10x}
 
@@ -7017,6 +7057,16 @@
 
 **Fiches** : [[fiches/2025-10/youtube-educational-content-ai-tutorials-explosion-2025-10-01\|YouTube's AI Tutorial Explosion: Democratizing Technical Education at Scale]]
 
+### fondation OpenClaw {#fondation-OpenClaw}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Fondation présidée par Dave Morin
+
+- [[kb/_entites-mineures#Dave-Morin\|Dave Morin]] **dirige** → fondation OpenClaw — 0.85
+
+**Fiches** : [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
+
 ### fondations open source {#fondations-open-source}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -7089,7 +7139,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (645)
+## TECHNOLOGIE (647)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -8983,6 +9033,16 @@
 
 **Fiches** : [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|There is a growing disconnect in the way people think about building AI agents]]
 
+### GBrain {#GBrain}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Mémoire markdown pour agents de Garry Tan
+
+- [[kb/_entites-mineures#Garry-Tan\|Garry Tan]] **a_créé** → GBrain — 0.88
+
+**Fiches** : [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
+
 ### GCC {#GCC}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -9750,14 +9810,6 @@
 
 **Fiches** : [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
 
-### Hermes {#Hermes}
-
-**Type** : TECHNOLOGIE | 0 relations | 2 fiches
-
-- **catégorie** : Agent IA personnel à mémoire (running gag « Hermès »)
-
-**Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]], [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|There is a growing disconnect in the way people think about building AI agents]]
-
 ### Honk {#Honk}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -9897,6 +9949,16 @@
 - **collabore_avec** → [[kb/Project-Jules\|Project Jules]] (TECHNOLOGIE) — 0.80
 
 **Fiches** : [[fiches/2025-11/korevec-google-proactive-agents-jules-2025-11-23\|Proactive Agents: Doing the Dishes Without Being Asked]]
+
+### Instinct {#Instinct}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Assistant personnel à licence perpétuelle sur les données
+
+- **observé_dans** → « licence perpétuelle et irrévocable couvrant captures d'écran et frappes, y compris pour l'entraînement » (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
 
 ### Inter {#Inter}
 
@@ -10749,6 +10811,20 @@
 - **fait_partie_de** → GenAI models (CONCEPT) — 0.94
 
 **Fiches** : [[fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29\|The 2025 Hype Cycle for GenAI Highlights Critical Innovations]]
+
+### Muse {#Muse}
+
+**Type** : TECHNOLOGIE | 4 relations | 1 fiches
+
+- **catégorie** : Assistant personnel de Meta, entraînement activé par défaut
+
+- **observé_dans** → « entraînement sur les conversations activé par défaut » (AFFIRMATION) — 0.88
+- **s_inspire_de** → [[kb/OpenClaw\|OpenClaw]] (TECHNOLOGIE) — 0.85
+
+- [[kb/Meta\|Meta]] **a_créé** → Muse — 0.95
+- [[kb/Amazon\|Amazon]] **s_oppose_à** → Muse — 0.93
+
+**Fiches** : [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
 
 ### Muse Spark 1.1 {#Muse-Spark-1.1}
 
@@ -13834,7 +13910,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (980)
+## CONCEPT (982)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -18434,6 +18510,16 @@
 
 **Fiches** : [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
 
+### agent personnel {#agent-personnel}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Agent agissant pour un seul mandant, possédé par l'utilisateur
+
+- **mesure** → « coût de 3 à 7 k$ par utilisateur et par an contre 20 $ par mois facturés » (MESURE) — 0.80
+
+**Fiches** : [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
+
 ### agent telemetry {#agent-telemetry}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -21594,6 +21680,16 @@
 
 **Fiches** : [[fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02\|Lenny's Podcast - Marc Andreessen on AI, jobs, AGI, and the future]]
 
+### pile de l'IA personnelle {#pile-de-l'IA-personnelle}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Clients, harness, mémoire, modèles, machine
+
+- [[kb/OpenClaw\|OpenClaw]] **est_basé_sur** → pile de l'IA personnelle — 0.75
+
+**Fiches** : [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
+
 ### pilotes IA entreprise {#pilotes-IA-entreprise}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -23329,7 +23425,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (387)
+## METHODOLOGIE (389)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -24493,6 +24589,18 @@
 - **rôle** : Routeur top-level réduisant la recherche à ~30 fichiers de référence
 
 **Fiches** : [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|How Anthropic enables self-service data analytics with Claude]]
+
+### LLM wiki {#LLM-wiki}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Le modèle compile les informations en fichiers markdown éditables
+
+- **est_instance_de** → mémoire en markdown lisible et modifiable (CONCEPT) — 0.88
+
+- [[kb/Andrej-Karpathy\|Andrej Karpathy]] **a_créé** → LLM wiki — 0.88
+
+**Fiches** : [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
 
 ### LLM-as-a-Judge {#LLM-as-a-Judge}
 
@@ -26862,6 +26970,16 @@
 - [[kb/coordination-asymétrique\|coordination asymétrique]] **est_instance_de** → routage de modèles — 0.93
 
 **Fiches** : [[fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03\|Portal by Spotify cut my Claude Code token usage by 90%]], [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate]]
+
+### routage à deux niveaux de modèles {#routage-à-deux-niveaux-de-modèles}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Open-weights par défaut, frontier appelé à la demande
+
+- **réduit** → « le coût mensuel à environ 2 $ par utilisateur contre environ 46 $ par défaut » (MESURE) — 0.78
+
+**Fiches** : [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
 
 ### routing de modèle {#routing-de-modèle}
 

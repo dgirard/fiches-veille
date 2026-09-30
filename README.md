@@ -39,19 +39,19 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
 
 <!-- stats:begin -->
 
-- **Total** : 418 fiches
-- **Par année** : 2026 (241) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 419 fiches
+- **Par année** : 2026 (242) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 156
   - Architecture & Construction : 58
   - Transformation & Adoption : 90
   - Qualité & Sécurité : 51
-  - Économie & Marché : 89
+  - Économie & Marché : 90
   - Philosophie & Société : 28
-  - Stratégie & Frameworks : 31
+  - Stratégie & Frameworks : 32
   - Outils & Plateformes : 58
   - Recherche & Éducation : 13
-  - Produits & Services : 12
+  - Produits & Services : 13
   - Politique & Régulation : 27
 - **Auteurs (top 20)** :
   - SFEIR (13)

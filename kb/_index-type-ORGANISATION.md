@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 429 entités de type ORGANISATION
+> 430 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -32,7 +32,7 @@
 - [[kb/_entites-mineures#Airbyte\|Airbyte]] — secteur: Plateforme open source de flux de données (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Alibaba\|Alibaba]] — rôle: Plus grande campagne de distillation mesurée (GTG-16005) : 151 M d'échanges, 3 500 comptes, cible Qwen 3.5 à 3.7 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Allianz\|Allianz]] — secteur: Assurance (1 occ., 1 fiches)
-- [[kb/Amazon\|Amazon]] — secteur: Technologie / Commerce / Cloud (2 occ., 2 fiches)
+- [[kb/Amazon\|Amazon]] — secteur: Commerce en ligne ; a bloqué Muse (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Amazon-Web-Services\|Amazon Web Services]] — secteur: Cloud / IA — hyperscaler (S3 lancé le 14 mars 2006, 20 ans) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#America's-Workforce-Academy\|America's Workforce Academy]] — rôle: Programme créé par Meta offrant une formation gratuite aux métiers du bâtiment et un emploi bien payé garanti dans les zones d'implantation de ses datacenters, en réponse à la pénurie de main-d'œuvre qualifiée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Americans-for-Responsible-Innovation\|Americans for Responsible Innovation]] — rôle: ONG (Brad Carson) soutenant l'AI Kill Switch Act ; plaide pour un off switch fiable (1 occ., 1 fiches)
@@ -245,7 +245,7 @@
 - [[kb/_entites-mineures#Meitu\|Meitu]] — secteur: Applications photo/vidéo IA (Chine) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Menlo-Ventures\|Menlo Ventures]] — secteur: Capital-risque (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Merit-Systems\|Merit Systems]] — secteur: Infrastructure commerce agentique (1 occ., 1 fiches)
-- [[kb/Meta\|Meta]] — secteur: Réseaux sociaux / IA (3 occ., 3 fiches)
+- [[kb/Meta\|Meta]] — secteur: Éditeur de Muse (4 occ., 4 fiches)
 - [[kb/Meta-AI-Research\|Meta AI Research]] — positionnement: Entre sur le marché de l'agent de codage en terminal après ses concurrents et l'assume, en publiant quatre comparatifs où son modèle ne prend jamais la tête, y compris sur son propre benchmark interne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Meta-Superintelligence-Labs\|Meta Superintelligence Labs]] — rôle: Entité de recherche de Meta présentée comme opérationnelle en août 2026, dont la mise en route conditionne la reprise annoncée de la publication de « certains » modèles open source (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michelin\|Michelin]] — secteur: Industrie / Transformation numérique (2 occ., 2 fiches)
@@ -420,6 +420,7 @@
 - [[kb/_entites-mineures#cURL\|cURL]] — réaction: Arrêt du programme bug bounty (1 occ., 1 fiches)
 - [[kb/_entites-mineures#commission-d'enquête-vulnérabilités-numériques\|commission d'enquête vulnérabilités numériques]] — catégorie: Commission d'enquête de l'Assemblée nationale française, présidée par Philippe Latombe (MoDem, Vendée), examine les dépendances numériques de la France (1 occ., 1 fiches)
 - [[kb/_entites-mineures#communautés-Discord-Reddit\|communautés Discord/Reddit]] — rôle: Curation et organisation de ressources d'apprentissage (1 occ., 1 fiches)
+- [[kb/_entites-mineures#fondation-OpenClaw\|fondation OpenClaw]] — secteur: Fondation présidée par Dave Morin (1 occ., 1 fiches)
 - [[kb/_entites-mineures#fondations-open-source\|fondations open source]] — focus actuel: Licences et propriété intellectuelle (1 occ., 1 fiches)
 - [[kb/google-agentic-commerce\|google-agentic-commerce]] — type: organisation GitHub open-source (1 occ., 1 fiches)
 - [[kb/_entites-mineures#iliad\|iliad]] — rôle: Groupe télécoms/tech français, maison mère de Scaleway (1 occ., 1 fiches)

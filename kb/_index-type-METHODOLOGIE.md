@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 444 entités de type METHODOLOGIE
+> 446 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -137,6 +137,7 @@
 - [[kb/KDLC\|KDLC]] — définition: Knowledge Development Life Cycle : cycle en 8 étapes (Discovery, Extraction, Structuring, Knowledge Graph, Embedding, Index Optimization, Retrieval Evaluation, Refresh) traitant la connaissance comme actif ingénieré (1 occ., 1 fiches)
 - [[kb/Kishōtenketsu\|Kishōtenketsu]] — origine: Japon/Chine/Corée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Knowledge-skill\|Knowledge skill]] — rôle: Routeur top-level réduisant la recherche à ~30 fichiers de référence (1 occ., 1 fiches)
+- [[kb/_entites-mineures#LLM-wiki\|LLM wiki]] — définition: Le modèle compile les informations en fichiers markdown éditables (1 occ., 1 fiches)
 - [[kb/_entites-mineures#LLM-as-a-Judge\|LLM-as-a-Judge]] — définition: Second agent review style/architecture (1 occ., 1 fiches)
 - [[kb/_entites-mineures#LLM-as-judge\|LLM-as-judge]] — forme retenue: Grille d'affirmations vérifiables ; modèle juge distinct du modèle testé ; comparaison à l'aveugle en ordre aléatoire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Learning-curve-shapes\|Learning curve shapes]] — définition: Quatre formes typiques : cliff (effort initial élevé), linear (idéal rare), hockey stick (facile au début, disproportionné ensuite quand les assumptions baked-in ne tiennent plus), gear shift (changement de service intra-plateforme avec ré-apprentissage) (1 occ., 1 fiches)
@@ -405,6 +406,7 @@
 - [[kb/_entites-mineures#role-playing\|role-playing]] — objectif: Inciter Claude à évaluer critiquement les suggestions de revue (1 occ., 1 fiches)
 - [[kb/_entites-mineures#routage-SIEM\|routage SIEM]] — définition: Log de chaque action d'agent (approbations, tool calls, messages) pour audit + menace interne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#routage-de-modèles\|routage de modèles]] — règle: Opus = stratégie, Sonnet 4.6 = prod, Haiku 4.5 = micro-tâches (1 occ., 2 fiches)
+- [[kb/_entites-mineures#routage-à-deux-niveaux-de-modèles\|routage à deux niveaux de modèles]] — définition: Open-weights par défaut, frontier appelé à la demande (1 occ., 1 fiches)
 - [[kb/_entites-mineures#routing-de-modèle\|routing de modèle]] — principes: Rail density, escalation ladder, DAG float (1 occ., 1 fiches)
 - [[kb/_entites-mineures#routing-multi-modèles\|routing multi-modèles]] — principe: Composer un portefeuille où chaque tâche/contrainte reçoit le modèle adapté ; l'arrivée d'un frontier open-weights crédible ajoute une colonne « réversibilité » à la grille de décision (2 occ., 2 fiches)
 - [[kb/_entites-mineures#réplication-automatique\|réplication automatique]] — définition: Réplication autonome de résultats de recherche par agents IA (1 occ., 1 fiches)

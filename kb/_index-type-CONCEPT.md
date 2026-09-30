@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1027 entités de type CONCEPT
+> 1029 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -514,6 +514,7 @@
 - [[kb/_entites-mineures#actor-chain\|actor chain]] — définition: Liste vérifiable de tous les participants à une requête multi-hop (user + agents intermédiaires) transportée dans le JWT — permet des décisions d'accès tool-level basées sur l'historique complet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agency-(définition-Uber)\|agency (définition Uber)]] — définition: *« An entity that is authorized to act for or in the place of another »* — définition fondatrice qui pose la délégation comme propriété axiomatique de l'agent IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agent-coordinateur\|agent coordinateur]] — définition: Synthétise, dédoublonne et hiérarchise les constats des spécialistes (1 occ., 1 fiches)
+- [[kb/_entites-mineures#agent-personnel\|agent personnel]] — définition: Agent agissant pour un seul mandant, possédé par l'utilisateur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agent-telemetry\|agent telemetry]] — statut: Domaine émergent de mesure IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agentId\|agentId]] — rôle: Identifiant unique permettant reprise de session subagent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agentic-builder\|agentic builder]] — définition: Rôle hybride qui combine acumen business et compétence d'ingénierie pour exécuter avec des agents ; variante côté ingénierie nommée Agentic Product Engineer (1 occ., 1 fiches)
@@ -843,6 +844,7 @@
 - [[kb/_entites-mineures#phase-Review-(SDLC)\|phase Review (SDLC)]] — position: Phase 5 du cycle SFEIR, entre Verify et Compound-1, délibérément hors des trois gates humains (Define, Plan, Ship) ; livrable = un faisceau de preuves opposable, la décision revenant au gate Ship (1 occ., 1 fiches)
 - [[kb/_entites-mineures#philosophie-Unix\|philosophie Unix]] — nature: Combiner outils spécialisés pour workflows puissants (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pierre-philosophale\|pierre philosophale]] — origine: Rêve alchimiste — transmutation de matériaux ordinaires (1 occ., 1 fiches)
+- [[kb/_entites-mineures#pile-de-l'IA-personnelle\|pile de l'IA personnelle]] — définition: Clients, harness, mémoire, modèles, machine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pilotes-IA-entreprise\|pilotes IA entreprise]] — taux d'échec: 95% échouent le passage en production (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pinned-means-merged\|pinned means merged]] — principe: Merger le core partagé avant le fan-out parallèle pour éviter le dependency hell (1 occ., 1 fiches)
 - [[kb/_entites-mineures#plafond-productivité\|plafond productivité]] — catégorie: Limite gains génération code sans qualité (1 occ., 1 fiches)

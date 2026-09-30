@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 823 entités de type TECHNOLOGIE
+> 826 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -245,6 +245,7 @@
 - [[kb/_entites-mineures#Figma\|Figma]] — catégorie: Logiciel de design (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Foundry\|Foundry]] — définition: Plateforme commerciale de Palantir née de l'encodage en primitives des déploiements Gotham sur mesure ; sa maturité a permis la standardisation des déploiements et la sortie du motion FDE (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Frameworks-d'agents\|Frameworks d'agents]] — catégorie: Plateformes d'orchestration d'agents (état machine, routage, graphes) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#GBrain\|GBrain]] — catégorie: Mémoire markdown pour agents de Garry Tan (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GCC\|GCC]] — rôle: Oracle de référence pour répartition des tâches (1 occ., 1 fiches)
 - [[kb/GKG\|GKG]] — définition: GitLab Knowledge Graph — parsing AST via Tree-sitter, graphe de connaissances code dans Kuzu, requêtes structurelles (appelants, hiérarchies, signatures) (1 occ., 1 fiches)
 - [[kb/GLM\|GLM]] — définition: Famille de modèles de langage à poids ouverts du laboratoire chinois Z.ai (ex-Zhipu AI). Entité parente des releases GLM-5.1, GLM-5.2 et GLM-5.3, qui en sont les variantes datées ; les caractéristiques propres à chaque release restent portées par sa propre entité (3 occ., 3 fiches)
@@ -340,7 +341,7 @@
 - [[kb/_entites-mineures#Harbor\|Harbor]] — définition: Environnement d'exécution des benchmarks de Block, pilotant de vrais agents Buzz sur un relais live plutôt qu'un banc d'essai simplifié (1 occ., 1 fiches)
 - [[kb/Harvey-technologie\|Harvey]] — secteur: IA juridique et services professionnels (1 occ., 2 fiches)
 - [[kb/_entites-mineures#Help-me-write\|Help me write]] — catégorie: Bouton IA intégré à Google Docs (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Hermes\|Hermes]] — catégorie: Agent IA personnel à mémoire (running gag « Hermès ») (2 occ., 2 fiches)
+- [[kb/Hermes\|Hermes]] — catégorie: Harness d'agent cité avec OpenClaw (3 occ., 3 fiches)
 - [[kb/Home-Mixer\|Home Mixer]] — rôle: Orchestrateur Rust request-time du pipeline For You feed (hydrate → source → filter → score → select → filter) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Honk\|Honk]] — rôle: Agent de codage en arrière-plan de Spotify ; vérification exposée aux agents sans révéler l'implémentation des vérificateurs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#HubSpot-Customer-Platform\|HubSpot Customer Platform]] — catégorie: Plateforme unifiée CRM, marketing, vente, service (1 occ., 1 fiches)
@@ -359,6 +360,7 @@
 - [[kb/_entites-mineures#Indice-d'Utilisation-de-l'IA-(AUI)\|Indice d'Utilisation de l'IA (AUI)]] — usage: mesurer adoption comparative par pays (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ink\|Ink]] — usage: Framework React pour UI terminal (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Insights\|Insights]] — catégorie: Agent spécialisé données (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Instinct\|Instinct]] — catégorie: Assistant personnel à licence perpétuelle sur les données (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Inter\|Inter]] — catégorie: Police typographique recommandée (1 occ., 1 fiches)
 - [[kb/Interactions-API\|Interactions API]] — catégorie: API unifiée modèles et agents (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Issuing-for-agents\|Issuing for agents]] — définition: Brique Stripe exposant les API Issuing pour construire des portefeuilles et cartes agentiques sur mesure : cartes virtuelles à usage unique, stockage de fonds, contrôles de dépense, permissions au niveau de la carte, antifraude à l'autorisation, visibilité temps réel (1 occ., 1 fiches)
@@ -460,6 +462,7 @@
 - [[kb/_entites-mineures#Monetization-Gateway\|Monetization Gateway]] — définition: Offre Cloudflare permettant à un client de vendre contenu et API à des acheteurs agentiques sans infrastructure de paiement traditionnelle ; versant vendeur du dispositif dont Wallets est le versant acheteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Moneybot\|Moneybot]] — définition: Assistant IA de Cash App qui surveille l'activité de l'utilisateur, renseigne comptes, soldes et transactions et suggère des fonctionnalités ; plus d'un million de comptes actifs hebdomadaires en août 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Multimodal-generative-AI\|Multimodal generative AI]] — promesse: Résultats IA plus forts et plus rapides (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Muse\|Muse]] — catégorie: Assistant personnel de Meta, entraînement activé par défaut (1 occ., 1 fiches)
 - [[kb/Muse-Code\|Muse Code]] — définition: Agent de codage en terminal de Meta, en bêta au 5 août 2026 : agents d'arrière-plan persistants, journal d'événements rendant le runtime rejouable et reprenable, et trois skills livrées d'origine — plan approuvé, mise à l'épreuve du plan, poursuite d'objectif (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Muse-Spark-1.1\|Muse Spark 1.1]] — rôle: Version précédente du modèle, point de comparaison des gains annoncés (1 occ., 1 fiches)
 - [[kb/Muse-Spark-1.2\|Muse Spark 1.2]] — définition: Modèle orienté codage de Meta, co-entraîné avec le harnais Muse Code, entraîné sur des tâches longues avec compaction de contexte et issu d'une boucle d'auto-amélioration alimentée par la version précédente (2 occ., 1 fiches)
@@ -501,7 +504,7 @@
 - [[kb/_entites-mineures#OpenAI-Sora\|OpenAI Sora]] — catégorie: Modèle de génération vidéo concurrent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenBSD\|OpenBSD]] — catégorie: Système d'exploitation Unix sécurisé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenClaude\|OpenClaude]] — catégorie: Variante open / locale de Claude Code mentionnée par Meng (1 occ., 1 fiches)
-- [[kb/OpenClaw\|OpenClaw]] — categorie: Agent IA persistant 24/7 (4 occ., 4 fiches)
+- [[kb/OpenClaw\|OpenClaw]] — categorie: Agent IA persistant 24/7 (5 occ., 5 fiches)
 - [[kb/_entites-mineures#OpenSMTPD\|OpenSMTPD]] — catégorie: Serveur mail open-source pour Unix/OpenBSD (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenSearch-protocol\|OpenSearch protocol]] — rôle: Protocole d'intégration moteurs de recherche alternatifs dans Chrome (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Operator\|Operator]] — statut: Rebrandé en ChatGPT Agent (1 occ., 1 fiches)

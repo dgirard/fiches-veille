@@ -1,10 +1,10 @@
 # Andrej Karpathy
 
-> **Type** : PERSONNE | 16 relations | 6 fiches sources
+> **Type** : PERSONNE | 17 relations | 7 fiches sources
 
 ## Attributs
 
-- **rôle** : Co-fondateur OpenAI, ex-Tesla Autopilot, créateur du terme vibe coding
+- **rôle** : Auteur du LLM wiki
 
 ## Relations (comme sujet)
 
@@ -21,6 +21,8 @@
   - [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Andrej Karpathy: From Vibe Coding to Agentic Engineering]]
 - [[kb/context-engineering\|context engineering]] (METHODOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering Needs Domain Understanding]]
+- [[kb/_entites-mineures#LLM-wiki\|LLM wiki]] (METHODOLOGIE) — 0.88, STATIQUE
+  - [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
 - [[kb/_entites-mineures#Agentic-engineering\|agentic engineering]] (METHODOLOGIE) — 0.85, STATIQUE
   - [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|The New SDLC With Vibe Coding — From ad-hoc prompting to Agentic Engineering]]
 
@@ -68,6 +70,7 @@
 - [[fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]]
 - [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Andrej Karpathy Skills for Claude Code]]
 - [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Andrej Karpathy: From Vibe Coding to Agentic Engineering]]
+- [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
 - [[fiches/2026-01/sdd-langages-programmation-ia-deep-research-2026-01\|Rapport de Recherche : Analyse de l'Adéquation des Langages de Programmation au Spec Drive Development]]
 - [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]
 - [[fiches/2025-10/youtube-educational-content-ai-tutorials-explosion-2025-10-01\|YouTube's AI Tutorial Explosion: Democratizing Technical Education at Scale]]

@@ -1,17 +1,19 @@
 # Meta
 
-> **Type** : ORGANISATION | 18 relations | 3 fiches sources
+> **Type** : ORGANISATION | 19 relations | 4 fiches sources
 
 ## Attributs
 
 - **apport** : Source de la télémétrie de volume de diffs citée en ouverture et opérateur du système RADAR
 - **positionnement** : Se déclare en août 2026 « la seule entreprise principalement concentrée sur la superintelligence personnelle pour tous », par opposition aux labos construisant pour les entreprises, gouvernements et institutions ; annonce une gouvernance donnant au conseil indépendant l'approbation des critères de publication, un mode entièrement privé, des accès gratuits doublés d'une enchère dynamique sur le compute, et la reprise de publications open source
-- **secteur** : Réseaux sociaux / IA
+- **secteur** : Éditeur de Muse
 
 ## Relations (comme sujet)
 
 ### a_créé
 
+- [[kb/_entites-mineures#Muse\|Muse]] (TECHNOLOGIE) — 0.95, STATIQUE
+  - [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
 - [[kb/RADAR\|RADAR]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for?]]
 
@@ -73,4 +75,5 @@
 
 - [[fiches/2026-01/ahrens-meta-manus-acquisition-agentic-ai-2026-01-01\|The Meta-Manus Deal: How a $2B AI Gamble Redefines Tech Borders and Our Digital Future]]
 - [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for?]]
+- [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
 - [[fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10\|The Future is for Everyone: The Path to a Positive AI Future]]
