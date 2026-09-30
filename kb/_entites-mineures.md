@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2922 entités avec moins de 3 triples/fiches
+> 2928 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (388)
 
@@ -3893,7 +3893,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (316)
+## ORGANISATION (319)
 
 ### 10x {#10x}
 
@@ -4367,6 +4367,16 @@
 - **a_créé** → [[kb/_entites-mineures#Doubao\|Doubao]] (TECHNOLOGIE) — 0.97
 
 **Fiches** : [[fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27\|The Top 100 Gen AI Consumer Apps - 5th Edition - Andreessen Horowitz]]
+
+### CAISI {#CAISI}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Center for AI Standards and Innovation du NIST
+
+- **affirme_que** → « GLM-5.3 est le modèle à poids ouverts le plus capable en cyber publié à ce jour, environ quatre mois derrière la frontière américaine » (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29\|GLM-5.3 and the spread of advanced cyber capabilities]]
 
 ### CAST {#CAST}
 
@@ -5109,6 +5119,17 @@
 - **s_oppose_à** → efficacité de leur propre IA (réduit les sièges) (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2024-12/greenwald-sierra-outcome-based-pricing-ai-agents-2024-12-10\|Outcome-based pricing for AI Agents]]
+
+### Frontier Red Team {#Frontier-Red-Team}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **secteur** : Équipe de red teaming d'Anthropic
+
+- **fait_partie_de** → [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.95
+- **publie** → [[kb/article-GLM-5.3-and-the-spread-of-advanced-cyber-capabilities\|article GLM-5.3 and the spread of advanced cyber capabilities]] (DOCUMENT) — 0.95
+
+**Fiches** : [[fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29\|GLM-5.3 and the spread of advanced cyber capabilities]]
 
 ### Futuro Nazionale {#Futuro-Nazionale}
 
@@ -6996,6 +7017,16 @@
 
 **Fiches** : [[fiches/2025-06/salesforce-ai-30-50-percent-work-benioff-2025-06-26\|AI is doing 30% to 50% of the work at Salesforce now]]
 
+### Zhipu AI {#Zhipu-AI}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Éditeur chinois de GLM (Z.ai hors de Chine)
+
+- **a_créé** → [[kb/GLM-5.3\|GLM-5.3]] (TECHNOLOGIE) — 0.97
+
+**Fiches** : [[fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29\|GLM-5.3 and the spread of advanced cyber capabilities]]
+
 ### Zillow {#Zillow}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -7139,7 +7170,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (647)
+## TECHNOLOGIE (648)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -8200,13 +8231,15 @@
 
 ### Claude Mythos Preview {#Claude-Mythos-Preview}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
+- **catégorie** : Modèle d'Anthropic à diffusion limitée, exploits autonomes
 - **statut** : Remplacé par Mythos 5
 
 - [[kb/Claude-Mythos-5\|Claude Mythos 5]] **remplace** → Claude Mythos Preview — 0.92
+- [[kb/GLM-5.3\|GLM-5.3]] **converge_avec** → Claude Mythos Preview — 0.85
 
-**Fiches** : [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
+**Fiches** : [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]], [[fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29\|GLM-5.3 and the spread of advanced cyber capabilities]]
 
 ### Claude Opus {#Claude-Opus}
 
@@ -9062,6 +9095,17 @@
 - **utilise** → « un système de quotas en points comptés séparément pour l'entrée, l'entrée en cache et la sortie, les appels hors heures pleines — hors 14h-18h UTC+8 du lundi au vendredi — consommant 50 % du barème » (AFFIRMATION) — 0.93
 
 **Fiches** : [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
+
+### GLM-5.3-Flash {#GLM-5.3-Flash}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Version plus petite de GLM-5.3
+
+- **est_variante_de** → [[kb/GLM-5.3\|GLM-5.3]] (TECHNOLOGIE) — 0.93
+- **mesure** → « chaîne d'exploits N-day CVE-2026-11645 sur ARM64 contournant PAC, 20 minutes d'attention humaine, 20,40 $ » (MESURE) — 0.93
+
+**Fiches** : [[fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29\|GLM-5.3 and the spread of advanced cyber capabilities]]
 
 ### GPQA Diamond {#GPQA-Diamond}
 
@@ -23425,7 +23469,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (389)
+## METHODOLOGIE (391)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -24979,6 +25023,18 @@
 
 **Fiches** : [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|2× – nine months later: We did it]]
 
+### Project Glasswing {#Project-Glasswing}
+
+**Type** : METHODOLOGIE | 2 relations | 2 fiches
+
+- **définition** : Programme d'accès limité pour défenseurs de confiance
+
+- **permet** → « à des défenseurs de confiance de trouver plus de 10 000 vulnérabilités avant les attaquants » (MESURE) — 0.92
+
+- [[kb/Claude-Mythos-5\|Claude Mythos 5]] **fait_partie_de** → Project Glasswing — 0.90
+
+**Fiches** : [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]], [[fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29\|GLM-5.3 and the spread of advanced cyber capabilities]]
+
 ### Prompt Engineering {#Prompt-Engineering}
 
 **Type** : METHODOLOGIE | 5 relations | 1 fiches
@@ -25658,6 +25714,17 @@
 - **rôle** : Varier un composant, eval fixe — révèle les vrais leviers
 
 **Fiches** : [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|How Anthropic enables self-service data analytics with Claude]]
+
+### abliteration {#abliteration}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Édition des poids supprimant les refus d'un modèle ouvert
+
+- **s_applique_à** → [[kb/GLM-5.3\|GLM-5.3]] (TECHNOLOGIE) — 0.95
+- **réduit** → « le refus moyen de GLM-5.3 de 95 % à 6 % avec des capacités presque intactes » (MESURE) — 0.93
+
+**Fiches** : [[fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29\|GLM-5.3 and the spread of advanced cyber capabilities]]
 
 ### adoption bottom-up {#adoption-bottom-up}
 
@@ -27602,13 +27669,15 @@
 
 ### Project Glasswing {#Project-Glasswing}
 
-**Type** : EVENEMENT | 1 relations | 1 fiches
+**Type** : EVENEMENT | 2 relations | 2 fiches
 
 - **nature** : Programme cyberdéfense Anthropic + gouvernement US
 
+- **permet** → « à des défenseurs de confiance de trouver plus de 10 000 vulnérabilités avant les attaquants » (MESURE) — 0.92
+
 - [[kb/Claude-Mythos-5\|Claude Mythos 5]] **fait_partie_de** → Project Glasswing — 0.90
 
-**Fiches** : [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
+**Fiches** : [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]], [[fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29\|GLM-5.3 and the spread of advanced cyber capabilities]]
 
 ### Projet Aristotle {#Projet-Aristotle}
 

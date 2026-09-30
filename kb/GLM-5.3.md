@@ -1,9 +1,10 @@
 # GLM-5.3
 
-> **Type** : TECHNOLOGIE | 16 relations | 2 fiches sources
+> **Type** : TECHNOLOGIE | 24 relations | 3 fiches sources
 
 ## Attributs
 
+- **catégorie** : Modèle à poids ouverts de Zhipu AI, forte capacité d'exploitation
 - **définition** : Modèle de Z.ai annoncé le 14 août 2026, bâti sur le même modèle de base que GLM-5.2 — tout le gain provient du post-entraînement. Revendique l'état de l'art open-weights sur Terminal-Bench 3.0 (28,3 contre 17,4 pour Kimi K3) et Agents' Last Exam (28,5), +50 % sur le benchmark interne Z.ai Code Bench, et l'état de l'art tous modèles sur CyberGym (84,5 %). Trois niveaux d'effort de raisonnement (low, high, max, défaut max) ; la désactivation du raisonnement n'est plus supportée. Poids annoncés pour deux semaines après le lancement
 - **statut** : Sa sortie a été précédée d'une campagne de Z.ai ciblant les capacités cyber de modèles américains
 
@@ -13,6 +14,11 @@
 
 - [[kb/Kimi-K3\|Kimi K3]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
   - [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
+
+### converge_avec
+
+- [[kb/_entites-mineures#Claude-Mythos-Preview\|Claude Mythos Preview]] (TECHNOLOGIE) — 0.85, STATIQUE
+  - [[fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29\|GLM-5.3 and the spread of advanced cyber capabilities]]
 
 ### est_basé_sur
 
@@ -28,10 +34,14 @@
 
 - « 28,3 sur Terminal-Bench 3.0 contre 4,6 pour GLM-5.2, 66,9 sur DeepSWE v1.1 contre 46,2, et 28,5 sur Agents' Last Exam contre 23,8 » (MESURE) — 0.96, STATIQUE
   - [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
+- « 50 exploits complets sur 410 essais sur ExploitBench contre 56 sur 410 pour Claude Mythos Preview » (MESURE) — 0.95, STATIQUE
+  - [[fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29\|GLM-5.3 and the spread of advanced cyber capabilities]]
 - « 84,5 % sur CyberGym contre 77,2 % pour GLM-5.2, 54,4 % sur ExploitBench contre 24,4 %, et 105 puis 130 tâches ExploitGym sous budgets normalisés de 2 h et 6 h contre 29 et 39 » (MESURE) — 0.95, STATIQUE
   - [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
 - « 34,5 % sur Z.ai Code Bench à environ 75 000 tokens de sortie par tâche en effort Max, contre 23,4 % à 96 000 pour GLM-5.2, et 31,4 % à environ 50 000 tokens en effort High » (MESURE) — 0.93, STATIQUE
   - [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
+- « détournement du flot de contrôle dans 4 % des essais contre 6 % pour Claude Mythos Preview, 100 tâches » (MESURE) — 0.93, STATIQUE
+  - [[fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29\|GLM-5.3 and the spread of advanced cyber capabilities]]
 
 ### observé_dans
 
@@ -39,6 +49,8 @@
   - [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
 - « 2 436 vulnérabilités identifiées dans 269 projets open source après revue d'experts, tri et déduplication, couvrant noyaux système, systèmes d'exploitation, moteurs de navigateur, infrastructure open source, applications web et protocoles réseau » (MESURE) — 0.93, STATIQUE
   - [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
+- « engagement à 64 % avec faux contexte de red team, 92 % avec raisonnement prérempli, 100 % abliteré » (MESURE) — 0.93, STATIQUE
+  - [[fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29\|GLM-5.3 and the spread of advanced cyber capabilities]]
 
 ### permet
 
@@ -57,6 +69,8 @@
 
 ### surpasse
 
+- [[kb/GLM-5.2\|GLM-5.2]] (TECHNOLOGIE) — 0.92, STATIQUE
+  - [[fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29\|GLM-5.3 and the spread of advanced cyber capabilities]]
 - [[kb/Claude-Opus-4.8\|Claude Opus 4.8]] (TECHNOLOGIE) — 0.85, STATIQUE
   - [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
 
@@ -72,8 +86,12 @@
 ## Relations (comme objet)
 
 - [[kb/Z.ai\|Z.ai]] **publie** → GLM-5.3 — 0.98
+- [[kb/_entites-mineures#Zhipu-AI\|Zhipu AI]] **a_créé** → GLM-5.3 — 0.97
+- [[kb/_entites-mineures#abliteration\|abliteration]] **s_applique_à** → GLM-5.3 — 0.95
+- [[kb/_entites-mineures#GLM-5.3-Flash\|GLM-5.3-Flash]] **est_variante_de** → GLM-5.3 — 0.93
 
 ## Fiches sources
 
 - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+- [[fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29\|GLM-5.3 and the spread of advanced cyber capabilities]]
 - [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]

@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3492 entités
+> 3499 entités
 
 ## #
 
@@ -81,6 +81,7 @@
 - [[kb/_entites-mineures#Aaron-Wanjala\|Aaron Wanjala]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Abhishek-Kankani\|Abhishek Kankani]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#ablation-testing\|ablation testing]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#abliteration\|abliteration]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Abstractions-vs-illusions\|Abstractions vs illusions]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Academy-of-Management-Journal\|Academy of Management Journal]] (ORGANISATION, 1 fiches)
 - [[kb/Accenture\|Accenture]] (ORGANISATION, 3 fiches)
@@ -316,7 +317,7 @@
 - [[kb/_entites-mineures#ANSSI\|ANSSI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#antfooding\|antfooding]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Anthony-Ligori\|Anthony Ligori]] (PERSONNE, 1 fiches)
-- [[kb/Anthropic\|Anthropic]] (ORGANISATION, 48 fiches)
+- [[kb/Anthropic\|Anthropic]] (ORGANISATION, 49 fiches)
 - [[kb/_entites-mineures#Anthropic-agents-to-agents-Slack\|Anthropic agents-to-agents Slack]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Anthropic-dogfood-doctrine\|Anthropic dogfood doctrine]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Anthropic-Economic-Index\|Anthropic Economic Index]] (DOCUMENT, 1 fiches)
@@ -388,6 +389,7 @@
 - [[kb/_entites-mineures#article-Automating-eval-design-and-hillclimbing\|article Automating eval design and hillclimbing]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#article-de-Paul-Sawers-(16-juin-2026)\|article de Paul Sawers (16 juin 2026)]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Article-DHH-2014-TDD-is-dead\|Article DHH 2014 "TDD is dead"]] (DOCUMENT, 1 fiches)
+- [[kb/article-GLM-5.3-and-the-spread-of-advanced-cyber-capabilities\|article GLM-5.3 and the spread of advanced cyber capabilities]] (DOCUMENT, 1 fiches)
 - [[kb/article-Personal-AI-Should-Actually-Be-Personal\|article Personal AI Should Actually Be Personal]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#article-What-if-the-future-does-not-need-you\|article What if the future does not need you]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Articulation-TDD-coding-agents-2026\|Articulation TDD / coding agents 2026]] (CONCEPT, 1 fiches)
@@ -594,6 +596,7 @@
 - [[kb/_entites-mineures#cadre-de-mesure-à-4-dimensions\|cadre de mesure à 4 dimensions]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#cadre-international-pour-l'IA\|cadre international pour l'IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Cainex\|Cainex]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#CAISI\|CAISI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#calibration-de-revue\|calibration de revue]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Call-Evaluation\|Call Evaluation]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Camille-Fournier\|Camille Fournier]] (PERSONNE, 1 fiches)
@@ -709,7 +712,7 @@
 - [[kb/Claude-Fable-5.1\|Claude Fable 5.1]] (TECHNOLOGIE, 3 fiches)
 - [[kb/Claude-Mythos-5\|Claude Mythos 5]] (TECHNOLOGIE, 2 fiches)
 - [[kb/Claude-Mythos-5.1\|Claude Mythos 5.1]] (TECHNOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#Claude-Mythos-Preview\|Claude Mythos Preview]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Claude-Mythos-Preview\|Claude Mythos Preview]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Claude-Opus\|Claude Opus]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4\|Claude Opus 4]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4.1\|Claude Opus 4.1]] (TECHNOLOGIE, 1 fiches)
@@ -1360,6 +1363,7 @@
 - [[kb/_entites-mineures#freins-au-passage-à-l'échelle-de-l'IA-agentique\|freins au passage à l'échelle de l'IA agentique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Friedrich-Hayek\|Friedrich Hayek]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#frontend-aesthetics-skill\|frontend aesthetics skill]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Frontier-Red-Team\|Frontier Red Team]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#frontière-de-confiance\|frontière de confiance]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Fruit-salad-vs-fruit-basket\|Fruit salad vs fruit basket]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#FSRS\|FSRS]] (METHODOLOGIE, 1 fiches)
@@ -1457,8 +1461,9 @@
 - [[kb/GLM\|GLM]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#GLM-Coding-Plan\|GLM Coding Plan]] (TECHNOLOGIE, 1 fiches)
 - [[kb/GLM-5.1\|GLM-5.1]] (TECHNOLOGIE, 2 fiches)
-- [[kb/GLM-5.2\|GLM-5.2]] (TECHNOLOGIE, 6 fiches)
-- [[kb/GLM-5.3\|GLM-5.3]] (TECHNOLOGIE, 2 fiches)
+- [[kb/GLM-5.2\|GLM-5.2]] (TECHNOLOGIE, 7 fiches)
+- [[kb/GLM-5.3\|GLM-5.3]] (TECHNOLOGIE, 3 fiches)
+- [[kb/_entites-mineures#GLM-5.3-Flash\|GLM-5.3-Flash]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Gloopies\|Gloopies]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Glory\|Glory]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Gmail-API\|Gmail API]] (TECHNOLOGIE, 2 fiches)
@@ -2556,7 +2561,8 @@
 - [[kb/_entites-mineures#PROJ-AI-Studio\|PROJ-AI Studio]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#proj-ai-commons\|proj-ai-commons]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Project-Genie\|Project Genie]] (TECHNOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#Project-Glasswing\|Project Glasswing]] (EVENEMENT, 1 fiches)
+- [[kb/_entites-mineures#Project-Glasswing\|Project Glasswing]] (EVENEMENT, 2 fiches)
+- [[kb/_entites-mineures#Project-Glasswing\|Project Glasswing]] (METHODOLOGIE, 2 fiches)
 - [[kb/Project-Jules\|Project Jules]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Project-Prometheus\|Project Prometheus]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Projet-Aristotle\|Projet Aristotle]] (EVENEMENT, 1 fiches)
@@ -3499,6 +3505,7 @@
 - [[kb/_entites-mineures#Zero-Trust\|Zero Trust]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Zero-Trust-Architecture\|Zero Trust Architecture]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Zero-Trust-for-Agents\|Zero Trust for Agents]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#Zhipu-AI\|Zhipu AI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Zie619\|Zie619]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Zig\|Zig]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Zillow\|Zillow]] (ORGANISATION, 1 fiches)

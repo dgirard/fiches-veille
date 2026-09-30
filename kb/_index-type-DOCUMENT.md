@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 171 entités de type DOCUMENT
+> 172 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -141,6 +141,7 @@
 - [[kb/_entites-mineures#Zero-Trust-for-Agents\|Zero Trust for Agents]] — rôle: Framework Anthropic dont ce billet est le compagnon d'implémentation (1 occ., 1 fiches)
 - [[kb/article-Agentic-AI-and-Code-Reviews\|article Agentic AI and Code Reviews]] — forme: Article collectif en neuf patrons, trois études de cas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-Automating-eval-design-and-hillclimbing\|article Automating eval design and hillclimbing]] — nature: Playbook du blog claude.dev, 28 septembre 2026 (1 occ., 1 fiches)
+- [[kb/article-GLM-5.3-and-the-spread-of-advanced-cyber-capabilities\|article GLM-5.3 and the spread of advanced cyber capabilities]] — forme: Billet de recherche du 29 septembre 2026 (1 occ., 1 fiches)
 - [[kb/article-Personal-AI-Should-Actually-Be-Personal\|article Personal AI Should Actually Be Personal]] — forme: Fil X du 29 septembre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-What-if-the-future-does-not-need-you\|article What if the future does not need you]] — forme: Essai en cinq parties titrées en anglais, publié sur Substack le 20 septembre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-de-Paul-Sawers-(16-juin-2026)\|article de Paul Sawers (16 juin 2026)]] — catégorie: Article The New Stack (Paul Sawers, 16 juin 2026) sur la suspension de la scission de facturation de l'Agent SDK, replacée dans son contexte sectoriel et réglementaire (1 occ., 1 fiches)

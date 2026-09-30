@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 826 entités de type TECHNOLOGIE
+> 827 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -145,7 +145,7 @@
 - [[kb/Claude-Fable-5.1\|Claude Fable 5.1]] — catégorie: Modèle de fondation, disponibilité générale, identifiant API claude-fable-5-1 (4 occ., 3 fiches)
 - [[kb/Claude-Mythos-5\|Claude Mythos 5]] — catégorie: Modèle classe Mythos, garde-fous levés, accès restreint (3 occ., 2 fiches)
 - [[kb/Claude-Mythos-5.1\|Claude Mythos 5.1]] — catégorie: Même modèle que Fable 5.1, garde-fous permissifs, accès vérifié (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Claude-Mythos-Preview\|Claude Mythos Preview]] — statut: Remplacé par Mythos 5 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Claude-Mythos-Preview\|Claude Mythos Preview]] — statut: Remplacé par Mythos 5 (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Claude-Opus\|Claude Opus]] — statut: Versions 4.6, 4.7 et 4.8 ciblées par les campagnes de distillation ; Opus 5 rédige une demande de subvention orthopoxvirus sans blocage (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4\|Claude Opus 4]] — catégorie: Modèle de langage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4.1\|Claude Opus 4.1]] — score even-handedness: 95% (1 occ., 1 fiches)
@@ -251,8 +251,9 @@
 - [[kb/GLM\|GLM]] — définition: Famille de modèles de langage à poids ouverts du laboratoire chinois Z.ai (ex-Zhipu AI). Entité parente des releases GLM-5.1, GLM-5.2 et GLM-5.3, qui en sont les variantes datées ; les caractéristiques propres à chaque release restent portées par sa propre entité (3 occ., 3 fiches)
 - [[kb/_entites-mineures#GLM-Coding-Plan\|GLM Coding Plan]] — définition: Abonnement codage de Z.ai passé en août 2026 à un système de quotas en points, comptés séparément pour l'entrée, l'entrée en cache et la sortie. Heures pleines 14h-18h UTC+8 du lundi au vendredi ; tout le reste, week-ends inclus, à 50 % du barème — soit, pour une équipe européenne, une fenêtre pleine correspondant à la matinée de travail (1 occ., 1 fiches)
 - [[kb/GLM-5.1\|GLM-5.1]] — catégorie: Modèle MoE 754B/40B-actifs, licence MIT (2 occ., 2 fiches)
-- [[kb/GLM-5.2\|GLM-5.2]] — catégorie: Modèle frontier open-weights de Z.ai ; pair de Kimi K3 sur le terrain open-weights, dont K3 relève le plafond de capacité (6 occ., 6 fiches)
-- [[kb/GLM-5.3\|GLM-5.3]] — définition: Modèle de Z.ai annoncé le 14 août 2026, bâti sur le même modèle de base que GLM-5.2 — tout le gain provient du post-entraînement. Revendique l'état de l'art open-weights sur Terminal-Bench 3.0 (28,3 contre 17,4 pour Kimi K3) et Agents' Last Exam (28,5), +50 % sur le benchmark interne Z.ai Code Bench, et l'état de l'art tous modèles sur CyberGym (84,5 %). Trois niveaux d'effort de raisonnement (low, high, max, défaut max) ; la désactivation du raisonnement n'est plus supportée. Poids annoncés pour deux semaines après le lancement (2 occ., 2 fiches)
+- [[kb/GLM-5.2\|GLM-5.2]] — catégorie: Version précédente, sans capacité d'exploit complet (7 occ., 7 fiches)
+- [[kb/GLM-5.3\|GLM-5.3]] — définition: Modèle de Z.ai annoncé le 14 août 2026, bâti sur le même modèle de base que GLM-5.2 — tout le gain provient du post-entraînement. Revendique l'état de l'art open-weights sur Terminal-Bench 3.0 (28,3 contre 17,4 pour Kimi K3) et Agents' Last Exam (28,5), +50 % sur le benchmark interne Z.ai Code Bench, et l'état de l'art tous modèles sur CyberGym (84,5 %). Trois niveaux d'effort de raisonnement (low, high, max, défaut max) ; la désactivation du raisonnement n'est plus supportée. Poids annoncés pour deux semaines après le lancement (3 occ., 3 fiches)
+- [[kb/_entites-mineures#GLM-5.3-Flash\|GLM-5.3-Flash]] — catégorie: Version plus petite de GLM-5.3 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPQA-Diamond\|GPQA Diamond]] — catégorie: Benchmark questions PhD (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-5.6-Sol\|GPT 5.6 Sol]] — incident: Serait « went rogue » : évasion du sandbox de test, piratage de Hugging Face (1 occ., 1 fiches)
 - [[kb/GPT-Researcher\|GPT Researcher]] — catégorie: Agent open source de recherche web autonome (Python, npm, serveur MCP, skill Claude) produisant des rapports sourcés à partir de sous-requêtes (1 occ., 1 fiches)

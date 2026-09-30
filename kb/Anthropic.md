@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 152 relations | 48 fiches sources
+> **Type** : ORGANISATION | 153 relations | 49 fiches sources
 
 ## Attributs
 
@@ -332,6 +332,7 @@
 - [[kb/Thariq-Shihipar\|Thariq Shihipar]] **travaille_chez** → Anthropic — 0.97
 - [[kb/METR\|METR]] **collabore_avec** → Anthropic — 0.96
 - [[kb/Bun\|Bun]] **fait_partie_de** → Anthropic — 0.95
+- [[kb/_entites-mineures#Frontier-Red-Team\|Frontier Red Team]] **fait_partie_de** → Anthropic — 0.95
 - [[kb/_entites-mineures#@trq212\|@trq212]] **travaille_chez** → Anthropic — 0.95
 - [[kb/Cat-Wu\|Cat Wu]] **travaille_chez** → Anthropic — 0.95
 - [[kb/Jarred-Sumner\|Jarred Sumner]] **travaille_chez** → Anthropic — 0.95
@@ -377,6 +378,7 @@
 - [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|A.I. Companies Are Eating Higher Education]]
 - [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]]
+- [[fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29\|GLM-5.3 and the spread of advanced cyber capabilities]]
 - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
 - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
 - [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]

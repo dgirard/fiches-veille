@@ -28,7 +28,7 @@
 - [[kb/_entites-mineures#NRF-2026\|NRF 2026]] — lieu: Javits Center, New York (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Offre-départ-9-mois-salaire-avril-2024\|Offre départ 9 mois salaire avril 2024]] — description: Programme volontaire de départ McKinsey avril 2024 — 9 mois de salaire offerts, mécanisme de réduction effectif douce (1 occ., 1 fiches)
 - [[kb/_entites-mineures#PlatformCon-2022\|PlatformCon 2022]] — description: Conférence en ligne Platform Engineering organisée par platformengineering.org, juin 2022 (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Project-Glasswing\|Project Glasswing]] — nature: Programme cyberdéfense Anthropic + gouvernement US (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Project-Glasswing\|Project Glasswing]] — nature: Programme cyberdéfense Anthropic + gouvernement US (1 occ., 2 fiches)
 - [[kb/_entites-mineures#Projet-Aristotle\|Projet Aristotle]] — catégorie: Recherche Google sur efficacité des équipes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Round-2-Anthropic-Labs\|Round 2 Anthropic Labs]] — description: Reformation de l'équipe Anthropic Labs sous direction de Mike Krieger (CPO Anthropic, ex-cofondateur Instagram) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Stripe-Sessions-2026\|Stripe Sessions 2026]] — rôle: Keynote Stripe où a été posée la thèse des agents comme participants actifs de l'économie d'Internet, dont cette annonce est la déclinaison produit (1 occ., 1 fiches)

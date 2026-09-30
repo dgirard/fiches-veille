@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 446 entités de type METHODOLOGIE
+> 448 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -182,6 +182,7 @@
 - [[kb/_entites-mineures#Problem-framing-analysis-planning-strategic-prioritization\|Problem framing / analysis planning / strategic prioritization]] — description: Trois skills BCG-identifiées qui débloquent les top users d'IA et préviennent l'épuisement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Productivity-Tiering\|Productivity Tiering]] — dimensions: 5 dimensions : AI usage intensity, output, usage depth, cost efficiency $/PR, prompt quality (1 occ., 1 fiches)
 - [[kb/Programme-de-tutorat-IA\|Programme de tutorat IA]] — durée: 6 semaines, 12 sessions de 90 min, 2x/semaine (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Project-Glasswing\|Project Glasswing]] — définition: Programme d'accès limité pour défenseurs de confiance (1 occ., 2 fiches)
 - [[kb/_entites-mineures#Prompt-Engineering\|Prompt Engineering]] — période_dominante: 2024 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Quality-Gates\|Quality Gates]] — catégorie: Validation automatisée qualité code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Quizzes\|Quizzes]] — règle: Ne merger qu'après avoir réussi parfaitement le quiz sur le changement (1 occ., 1 fiches)
@@ -258,6 +259,7 @@
 - [[kb/_entites-mineures#Workflow-Reference→Iterate→Remix\|Workflow Reference→Iterate→Remix]] — catégorie: 9 étapes Meng To pour design agentique de qualité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zero-Trust-Architecture\|Zero Trust Architecture]] — catégorie: Doctrine sécurité Uber (et industrie) — chaque requête vérifiée indépendamment, pas de confiance implicite — étendue par l'architecture agent identity (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ablation-testing\|ablation testing]] — rôle: Varier un composant, eval fixe — révèle les vrais leviers (1 occ., 1 fiches)
+- [[kb/_entites-mineures#abliteration\|abliteration]] — définition: Édition des poids supprimant les refus d'un modèle ouvert (1 occ., 1 fiches)
 - [[kb/_entites-mineures#adoption-bottom-up\|adoption bottom-up]] — taux: ~40% d'adoption soutenue vs 15% pour mandats (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agentic-analytics-stack\|agentic analytics stack]] — définition: 4 couches : foundations / sources of truth / skills / validation (1 occ., 1 fiches)
 - [[kb/agents-parallèles\|agents parallèles]] — nombre_instances: 16 agents simultanés (2 occ., 1 fiches)

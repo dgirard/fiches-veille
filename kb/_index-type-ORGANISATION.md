@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 430 entités de type ORGANISATION
+> 433 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -38,7 +38,7 @@
 - [[kb/_entites-mineures#Americans-for-Responsible-Innovation\|Americans for Responsible Innovation]] — rôle: ONG (Brad Carson) soutenant l'AI Kill Switch Act ; plaide pour un off switch fiable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Amplitude\|Amplitude]] — apport: Refonte de six mois de l'environnement, de la CI et de la revue, avec approbation automatisée documentée pour SOC 2 sur critères, décisions journalisées et voie de dérogation (1 occ., 1 fiches)
 - [[kb/Andreessen-Horowitz\|Andreessen Horowitz]] — secteur: Capital-risque, Silicon Valley (6 occ., 6 fiches)
-- [[kb/Anthropic\|Anthropic]] — secteur: IA ; éditeur de Claude Code et de la skill claude-api (48 occ., 48 fiches)
+- [[kb/Anthropic\|Anthropic]] — secteur: IA ; éditeur de Claude Code et de la skill claude-api (49 occ., 49 fiches)
 - [[kb/_entites-mineures#Anthropic-Institute\|Anthropic Institute]] — description: Institut Anthropic lancé mars 2026, dirigé par Jack Clark, regroupant economics + societal impact + frontier safety (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Anthropic-Threat-Intelligence\|Anthropic Threat Intelligence]] — rôle: Analyse des données d'investigation via Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Anysphere\|Anysphere]] — rôle: Société propriétaire de Cursor ; tour de 2 milliards à 50 milliards de valorisation préempté par l'accord (1 occ., 1 fiches)
@@ -65,6 +65,7 @@
 - [[kb/Box\|Box]] — secteur: Cloud content management (San Francisco) (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Breakthrough-Energy\|Breakthrough Energy]] — secteur: Énergie propre bon marché, fondée par Bill Gates (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bytedance\|Bytedance]] — secteur: Technologie / IA (Chine) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#CAISI\|CAISI]] — secteur: Center for AI Standards and Innovation du NIST (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CAST\|CAST]] — secteur: Partenaire d'analyse de code legacy — cohérent avec capacité Reverse Engineering (1 occ., 1 fiches)
 - [[kb/CEA\|CEA]] — nom complet: Commissariat à l'énergie atomique et aux énergies alternatives (2 occ., 1 fiches)
 - [[kb/_entites-mineures#CERT-FR\|CERT-FR]] — rôle: Centre réponse incidents cybersécurité France (1 occ., 1 fiches)
@@ -158,6 +159,7 @@
 - [[kb/Foundation-Capital\|Foundation Capital]] — secteur: Capital-risque (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Fountain\|Fountain]] — secteur: Gestion RH / Personnel de terrain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Fournisseurs-CX-legacy\|Fournisseurs CX legacy]] — rôle: Éditeurs historiques du service client, en conflit d'incitations avec la tarification à l'outcome (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Frontier-Red-Team\|Frontier Red Team]] — secteur: Équipe de red teaming d'Anthropic (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Futuro-Nazionale\|Futuro Nazionale]] — nature: Parti italien fondé en 2026 par Roberto Vannacci ; nom cité comme emblème du rétrofuturisme politique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GENIAL\|GENIAL]] — secteur: Startup IA française (1 occ., 1 fiches)
 - [[kb/Gadget\|Gadget]] — secteur: Plateforme de développement full-stack (1 occ., 1 fiches)
@@ -414,6 +416,7 @@
 - [[kb/ZML\|ZML]] — profil: Startup parisienne (fondée 2023), ~20 pers., ~20 M$ levés ; framework d'inférence homonyme (Apache-2.0, >90 % Zig) (1 occ., 1 fiches)
 - [[kb/Zapier-organisation\|Zapier]] — secteur: Automatisation / Orchestration IA (4 occ., 4 fiches)
 - [[kb/Zed\|Zed]] — positionnement: Éditeur à l'origine d'ACP ; défend l'optionalité de fournisseur comme protection contre le risque tarifaire, pas seulement comme argument d'interopérabilité (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Zhipu-AI\|Zhipu AI]] — secteur: Éditeur chinois de GLM (Z.ai hors de Chine) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zillow\|Zillow]] — secteur: Immobilier / PropTech (utilisateur Replit) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zingage\|Zingage]] — apport: Invariants d'équipe écrits après une phase d'autonomie complète ayant produit du code plausible mais dérivant de l'architecture (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zup\|Zup]] — secteur: Technologie (2 occ., 2 fiches)

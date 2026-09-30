@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 419 fiches | 1975-12 → 2026-09-30 | généré le 2026-09-30
+> 420 fiches | 1975-12 → 2026-09-30 | généré le 2026-09-30
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -10,6 +10,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - **??** [We Must Pace the Frontier](fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09.md) — Dario Amodei (CEO et cofondateur d'Anthropic), sur son site personnel darioamodei.com. · Dario Amodei — pacing the frontier, cadencer le frontier, auto-amélioration récursive
 - **30** [Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI](fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30.md) — Zach Davis (LaunchDarkly), Michelle Gill (Engineered by AI), Elisabeth Hendrickson (Curious Duck), Angie Jones (Agentic AI Foundation), Sha Ma (Topogy), Randy Shoup (CircleCI), James Wickett (DryRun Security) ; article collectif, IT Revolution. · Enterprise Technology Leadership Journal — revue de code agentique, code review, langage de patrons
+- **29** [GLM-5.3 and the spread of advanced cyber capabilities](fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29.md) — Andrew Fasano, Marius Fleischer, Cole McFaul, Robert Xiao, Tripp Gallagher ; Frontier Red Team, Anthropic (billet de recherche du site anthropic.com). · Anthropic — GLM-5.3, Zhipu AI, Z.ai
 - **29** [Personal AI Should Actually Be Personal](fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29.md) — Ryan Sarver (@rsarver), auteur du fil sur X ; fonction non indiquée dans le texte. · X — IA personnelle, personal AI, agent personnel
 - **28** [The End of Hand-Written Code: A Conversation with David Heinemeier Hansson (DHH) on AI, Omarchy and the Future of Programming](fiches/2026-09/heinemeier-hansson-end-of-hand-written-code-2026-09-28.md) — David Heinemeier Hansson, créateur de Ruby on Rails et copropriétaire de 37signals, interrogé par Vikas Shah dans *Thought Economics*. · Thought Economics — fin du code écrit à la main, pencils down, agents de codage
 - **28** [Automating eval design and hillclimbing with Claude](fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28.md) — Lance Martin (Anthropic), blog claude.dev, avec remerciements à Misha Khalman pour le développement de la skill. · Anthropic (claude.dev) — évaluation, eval design, hillclimbing
@@ -846,6 +847,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - [We Must Pace the Frontier](fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09.md) — Dario Amodei (CEO et cofondateur d'Anthropic), sur son site personnel darioamodei.com.
 - [Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI](fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30.md) — Zach Davis (LaunchDarkly), Michelle Gill (Engineered by AI), Elisabeth Hendrickson (Curious Duck), Angie Jones (Agentic AI Foundation), Sha Ma (Topogy), Randy Shoup (CircleCI), James Wickett (DryRun Security) ; article collectif, IT Revolution.
+- [GLM-5.3 and the spread of advanced cyber capabilities](fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29.md) — Andrew Fasano, Marius Fleischer, Cole McFaul, Robert Xiao, Tripp Gallagher ; Frontier Red Team, Anthropic (billet de recherche du site anthropic.com).
 - [Automating eval design and hillclimbing with Claude](fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28.md) — Lance Martin (Anthropic), blog claude.dev, avec remerciements à Misha Khalman pour le développement de la skill.
 - [Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic](fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14.md) — Sachin Malhotra (ingénieur, Anthropic), sur le blog claude.com.
 - [Detecting and countering misuse of AI: September 2026](fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10.md) — Anthropic — équipe Threat Intelligence (rattachée aux Safeguards), rapport institutionnel non signé publié sur anthropic.com.
@@ -1118,6 +1120,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Recherche & Éducation
 
+- [GLM-5.3 and the spread of advanced cyber capabilities](fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29.md) — Andrew Fasano, Marius Fleischer, Cole McFaul, Robert Xiao, Tripp Gallagher ; Frontier Red Team, Anthropic (billet de recherche du site anthropic.com).
 - [Nope. It's still true. (post X en réponse à Noah Smith)](fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25.md) — Yann LeCun — fondateur et président d'AMI Labs, professeur à NYU, ex-Chief AI Scientist de Meta, prix Turing. Post X.
 - [Claude Fable 5.1 and Mythos 5.1](fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01.md) — Anthropic — communication produit publiée sur anthropic.com, sans signature individuelle.
 - [The AI Engineering Skills Map](fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14.md) — **Andrew Ng** — fondateur de **DeepLearning.AI**, general partner d'**AI Fund**, cofondateur de **Coursera** et de **Google Brain**, ancien chief scientist de Baidu. Texte signé, à la première personne, écrit *« with my team »* sans qu'aucun collaborateur soit nommé. Publié le **14 août 2026** sur X et dans ***The Batch* n°366** — même texte aux deux endroits ; préférer *The Batch* pour toute citation durable. Quatrième fiche Ng du corpus, après les lettres n°350 (24 avril), n°352 (8 mai) et n°359 (26 juin).
@@ -1151,6 +1154,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Politique & Régulation
 
 - [We Must Pace the Frontier](fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09.md) — Dario Amodei (CEO et cofondateur d'Anthropic), sur son site personnel darioamodei.com.
+- [GLM-5.3 and the spread of advanced cyber capabilities](fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29.md) — Andrew Fasano, Marius Fleischer, Cole McFaul, Robert Xiao, Tripp Gallagher ; Frontier Red Team, Anthropic (billet de recherche du site anthropic.com).
 - [Philippe Corrot, fondateur de Mirakl](fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20.md) — Philippe Corrot, cofondateur et co-CEO de Mirakl, interrogé par Éric Hazan dans *Les Pirates de l'IA* (RCJ).
 - [WHAT IF THE FUTURE DOES NOT NEED YOU ?](fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20.md) — Asma Mhalla, politiste, autrice de *Technopolitique* ; newsletter *Dangerous Ideas* (Substack).
 - [Detecting and countering misuse of AI: September 2026](fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10.md) — Anthropic — équipe Threat Intelligence (rattachée aux Safeguards), rapport institutionnel non signé publié sur anthropic.com.
@@ -1180,20 +1184,20 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 419 fiches
-- **Par année** : 2026 (242) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 420 fiches
+- **Par année** : 2026 (243) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 156
   - Architecture & Construction : 58
   - Transformation & Adoption : 90
-  - Qualité & Sécurité : 51
+  - Qualité & Sécurité : 52
   - Économie & Marché : 90
   - Philosophie & Société : 28
   - Stratégie & Frameworks : 32
   - Outils & Plateformes : 58
-  - Recherche & Éducation : 13
+  - Recherche & Éducation : 14
   - Produits & Services : 13
-  - Politique & Régulation : 27
+  - Politique & Régulation : 28
 - **Auteurs (top 20)** :
   - SFEIR (13)
   - Ethan Mollick (12)
@@ -1216,7 +1220,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Cobus Greyling (3)
   - Lance Martin (2)
 - **Sources (top 20)** :
-  - Anthropic (15)
+  - Anthropic (16)
   - SFEIR (13)
   - Deep Research (9)
   - LinkedIn (7)
