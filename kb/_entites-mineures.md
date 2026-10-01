@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2932 entités avec moins de 3 triples/fiches
+> 2938 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (388)
 
@@ -7170,7 +7170,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (649)
+## TECHNOLOGIE (654)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7486,6 +7486,19 @@
 - **est_instance_de** → API stateless (CONCEPT) — 0.99
 
 **Fiches** : [[fiches/2026-02/lancemartin-anthropic-prompt-auto-caching-claude-2026-02\|Prompt auto-caching with Claude]]
+
+### APM {#APM}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **catégorie** : Gestionnaire de paquets d'agents open source (Microsoft)
+
+- **permet** → « contrôle des sources, versions épinglées et audit des dépendances de skills » (AFFIRMATION) — 0.93
+- **résout** → fichiers copiés entre équipes (CONCEPT) — 0.85
+
+- [[kb/Microsoft\|Microsoft]] **publie** → APM — 0.92
+
+**Fiches** : [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)]]
 
 ### ASI (Artificial Super Intelligence) {#ASI-(Artificial-Super-Intelligence)}
 
@@ -8587,6 +8600,18 @@
 
 **Fiches** : [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud : l'ère des prédateurs pour vos budgets IT]]
 
+### Copilot Code Review {#Copilot-Code-Review}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Revue de code native de GitHub Copilot, activable de façon centralisée
+
+- **fait_partie_de** → [[kb/GitHub-Copilot\|GitHub Copilot]] (TECHNOLOGIE) — 0.88
+
+- [[kb/_entites-mineures#Agentic-SDLC\|Agentic SDLC]] **utilise** → Copilot Code Review — 0.90
+
+**Fiches** : [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)]]
+
 ### Cordis {#Cordis}
 
 **Type** : TECHNOLOGIE | 3 relations | 1 fiches
@@ -8951,6 +8976,16 @@
 - [[kb/Claude-Fable-5.1\|Claude Fable 5.1]] **utilise** → Enterprise Frontier Safeguards — 0.92
 
 **Fiches** : [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
+
+### Enterprise Managed Plugins {#Enterprise-Managed-Plugins}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Déploiement centralisé de plugins approuvés et de skills partagés
+
+- [[kb/_entites-mineures#Agentic-SDLC\|Agentic SDLC]] **utilise** → Enterprise Managed Plugins — 0.90
+
+**Fiches** : [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)]]
 
 ### Exa {#Exa}
 
@@ -9819,6 +9854,18 @@
 - Tim Berners-Lee **a_créé** → HTTP 402 — 0.92
 
 **Fiches** : [[fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19\|The Age of Open Agentic Commerce]]
+
+### HVE Core {#HVE-Core}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Boîte à outils open source Microsoft de pratiques, agents et skills (Research, Plan, Implement, Review)
+
+- **permet** → « pratiques, agents et skills de SDLC à adapter » (AFFIRMATION) — 0.90
+
+- [[kb/Microsoft\|Microsoft]] **publie** → HVE Core — 0.92
+
+**Fiches** : [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)]]
 
 ### Haiku {#Haiku}
 
@@ -10707,6 +10754,16 @@
 - **est_basé_sur** → auto-amélioration par fichiers markdown (METHODOLOGIE) — 0.85
 
 **Fiches** : [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Superpowers: How I'm using coding agents in October 2025]]
+
+### Microsoft Copilot plugin registry {#Microsoft-Copilot-plugin-registry}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **statut** : Registre de plugins pour Microsoft 365 ; prise en charge de GitHub Copilot prévue
+
+- **permet** → « publication et gouvernance de plugins pour Microsoft 365 » (AFFIRMATION) — 0.92
+
+**Fiches** : [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)]]
 
 ### Microsoft Office {#Microsoft-Office}
 
@@ -23504,7 +23561,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (390)
+## METHODOLOGIE (391)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -23775,6 +23832,17 @@
 - **s_oppose_à** → [[kb/_entites-mineures#Human-AI-collaboration\|Human-AI collaboration]] (METHODOLOGIE) — 0.94
 
 **Fiches** : [[fiches/2026-05/shipper-every-after-automation-frame-framer-2026-05-21\|After Automation]]
+
+### Agentic SDLC {#Agentic-SDLC}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Cycle de vie logiciel où des agents prennent en charge des étapes, démarré selon quatre points d'entrée
+
+- **utilise** → [[kb/_entites-mineures#Copilot-Code-Review\|Copilot Code Review]] (TECHNOLOGIE) — 0.90
+- **utilise** → [[kb/_entites-mineures#Enterprise-Managed-Plugins\|Enterprise Managed Plugins]] (TECHNOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)]]
 
 ### Agentic engineering {#Agentic-engineering}
 

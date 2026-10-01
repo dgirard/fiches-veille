@@ -1,12 +1,13 @@
 # skills
 
-> **Type** : TECHNOLOGIE | 10 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 11 relations | 5 fiches sources
 
 > **Même entité, autre type** : [[kb/skills-concept\|skills (CONCEPT)]]
 
 ## Attributs
 
 - **catégorie** : Standard ouvert de packaging de connaissances agent
+- **définition** : Instructions et ressources réutilisables qui encodent l'expertise d'une organisation pour les agents
 
 ## Relations (comme sujet)
 
@@ -47,10 +48,12 @@
 - [[kb/AGENTS-md\|AGENTS.md]] **surpasse** → skills — 0.99
 - [[kb/Superpowers\|Superpowers]] **utilise** → skills — 0.97
 - [[kb/ADHD\|ADHD]] **est_instance_de** → skills — 0.95
+- [[kb/Software-Factory\|Software Factory]] **utilise** → skills — 0.80
 
 ## Fiches sources
 
 - [[fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20\|ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)]]
 - [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md outperforms skills in our agent evals]]
+- [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)]]
 - [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Superpowers: How I'm using coding agents in October 2025]]
 - [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|The Anatomy of an Agent Harness]]

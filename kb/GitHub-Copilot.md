@@ -1,10 +1,10 @@
 # GitHub Copilot
 
-> **Type** : TECHNOLOGIE | 5 relations | 8 fiches sources
+> **Type** : TECHNOLOGIE | 6 relations | 9 fiches sources
 
 ## Attributs
 
-- **catégorie** : Exemple d'outil d'IA générative de code cité
+- **catégorie** : Assistant de codage de GitHub
 - **exposition** : Concurrent direct dont le fossé de distribution en entreprise devient la principale défense
 - **éditeur** : Microsoft
 - **évolution tarifaire** : Modèle forfaitaire de premium requests retiré en juin 2026 au profit d'une facturation au token, malgré les protestations
@@ -26,6 +26,7 @@
 - [[kb/Linear\|Linear]] **utilise** → GitHub Copilot — 0.97
 - [[kb/Cursor-technologie\|Cursor]] **concurrence** → GitHub Copilot — 0.92
 - [[kb/compounding-teams\|compounding teams]] **s_oppose_à** → GitHub Copilot — 0.90
+- [[kb/_entites-mineures#Copilot-Code-Review\|Copilot Code Review]] **fait_partie_de** → GitHub Copilot — 0.88
 
 ## Fiches sources
 
@@ -35,5 +36,6 @@
 - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]]
 - [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear: AI-First Issue Tracking Reimagined]]
 - [[fiches/2025-12/menlovc-state-generative-ai-enterprise-2025-12-09\|2025: The State of Generative AI in the Enterprise]]
+- [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)]]
 - [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
 - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]

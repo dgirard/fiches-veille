@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 829 entités de type TECHNOLOGIE
+> 834 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -44,6 +44,7 @@
 - [[kb/AP2\|AP2]] — nom complet: Agent Payments Protocol (5 occ., 1 fiches)
 - [[kb/_entites-mineures#API-Anthropic\|API Anthropic]] — catégorie: API messages pour LLM Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#API-Claude-messages\|API Claude messages]] — catégorie: API stateless pour inférence LLM (1 occ., 1 fiches)
+- [[kb/_entites-mineures#APM\|APM]] — catégorie: Gestionnaire de paquets d'agents open source (Microsoft) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ASI-(Artificial-Super-Intelligence)\|ASI (Artificial Super Intelligence)]] — définition: Intelligence dépassant l'humain sur tous les domaines cognitifs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AWS-Bedrock\|AWS Bedrock]] — éditeur: Amazon (2 occ., 2 fiches)
 - [[kb/_entites-mineures#AWS-Lambda\|AWS Lambda]] — rôle: Explorée comme primitive adaptée au lancement rapide de requêtes DuckDB (1 occ., 1 fiches)
@@ -187,6 +188,7 @@
 - [[kb/_entites-mineures#Contract-Companion\|Contract Companion]] — catégorie: GPT custom Moderna pour résumer les contrats (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Control-Tower\|Control Tower]] — catégorie: Couche centralisée de gouvernance d'agents (Orq.ai) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Copilot-AI\|Copilot AI]] — catégorie: Assistant IA Microsoft (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Copilot-Code-Review\|Copilot Code Review]] — catégorie: Revue de code native de GitHub Copilot, activable de façon centralisée (1 occ., 1 fiches)
 - [[kb/Cora\|Cora]] — catégorie: Assistant email / chief of staff IA, produit Every (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Cordis\|Cordis]] — définition: Framework de composition par plugins du projet tiers cordiverse, noyau de DeepSeek Harness et vendoré dans son dépôt (avec cosmokit, hmr, loader, schemastery, timer et cinq autres modules) selon un manifeste et une procédure de synchronisation. Les plugins contribuent services, événements typés et effets réversibles à un contexte partagé ; le montage, le démontage et les dépendances sont gérés par le noyau, et les enregistrements se dénouent au déchargement du plugin. Point de dépendance externe : l'argument central du produit repose sur un projet que DeepSeek ne contrôle pas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cornell-AI-Gateway\|Cornell AI Gateway]] — catégorie: Passerelle IA gouvernée (données non utilisées pour l'entraînement externe, accès restreint, PII retirées) (1 occ., 1 fiches)
@@ -233,6 +235,7 @@
 - [[kb/_entites-mineures#ElevenLabs-Scribe\|ElevenLabs Scribe]] — catégorie: Modèle de transcription propriétaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Engineering-360\|Engineering 360]] — catégorie: Plateforme de données d'ingénierie (sécurité, dispo, qualité, productivité) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Enterprise-Frontier-Safeguards\|Enterprise Frontier Safeguards]] — nature: Données stockées sur le cloud du client, revue humaine côté client (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Enterprise-Managed-Plugins\|Enterprise Managed Plugins]] — catégorie: Déploiement centralisé de plugins approuvés et de skills partagés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Exa\|Exa]] — categorie: Recherche web pour agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ExploitBench\|ExploitBench]] — définition: Benchmark exigeant un raisonnement plus profond sur des vulnérabilités réelles et leur exploitation ; 41 tâches, 300 tours d'interaction maximum, score de couverture moyenné sur 3 révisions. GLM-5.3 y atteint 54,4 % contre 24,4 % pour GLM-5.2, loin derrière les modèles fermés (78,0 % et 76,5 %) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ExploitGym\|ExploitGym]] — nature: Benchmark de sécurité contenant des tâches impossibles (2 occ., 2 fiches)
@@ -303,7 +306,7 @@
 - [[kb/_entites-mineures#Ghostty\|Ghostty]] — catégorie: Emulateur de terminal, rendering synchronisé, 24-bit couleur (1 occ., 2 fiches)
 - [[kb/_entites-mineures#Ghostwriter\|Ghostwriter]] — catégorie: Agent qui crée et optimise d'autres agents (1 occ., 1 fiches)
 - [[kb/GitHub-technologie\|GitHub]] — rôle: Référence implicite dont le billet se démarque (« colored squares on a profile ») (3 occ., 5 fiches)
-- [[kb/GitHub-Copilot\|GitHub Copilot]] — catégorie: Exemple d'outil d'IA générative de code cité (8 occ., 8 fiches)
+- [[kb/GitHub-Copilot\|GitHub Copilot]] — catégorie: Assistant de codage de GitHub (9 occ., 9 fiches)
 - [[kb/_entites-mineures#GitHub-Copilot-Agent\|GitHub Copilot Agent]] — catégorie: Agent de codage autonome (mode orchestrateur) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GitHub-Pages\|GitHub Pages]] — usage: Interface web de recherche en ligne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GitHub-Spark\|GitHub Spark]] — catégorie: Plateforme génération d'applications full-stack par langage naturel (1 occ., 1 fiches)
@@ -338,6 +341,7 @@
 - [[kb/_entites-mineures#Grounding-with-Google-Search\|Grounding with Google Search]] — rôle: Outil d'ancrage factuel disponible pour le modèle, facturé séparément (1 occ., 1 fiches)
 - [[kb/Grox\|Grox]] — rôle: Service offline de content understanding (classifieurs spam/safety/PTOS/banger + embedder multimodal v5), écrit vers feature store (1 occ., 1 fiches)
 - [[kb/_entites-mineures#HTTP-402\|HTTP 402]] — description: Code statut Payment Required créé en 1997, jamais implémenté (1 occ., 1 fiches)
+- [[kb/_entites-mineures#HVE-Core\|HVE Core]] — catégorie: Boîte à outils open source Microsoft de pratiques, agents et skills (Research, Plan, Implement, Review) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Haiku\|Haiku]] — usage: Éditions triviales/mécaniques (model override) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Haiku-4.5\|Haiku 4.5]] — usage: tâches simples, rapide et économique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Harbor\|Harbor]] — définition: Environnement d'exécution des benchmarks de Block, pilotant de vrais agents Buzz sur un relais live plutôt qu'un banc d'essai simplifié (1 occ., 1 fiches)
@@ -444,6 +448,7 @@
 - [[kb/_entites-mineures#Metadata-Agent\|Metadata Agent]] — catégorie: Agent compréhension contexte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Microsoft-Amplifier\|Microsoft Amplifier]] — auteurs: Sam Schillace, Brian Krabach (1 occ., 1 fiches)
 - [[kb/Microsoft-Copilot\|Microsoft Copilot]] — catégorie: Chatbot IA générative basé sur GPT-4 (usage gratuit) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Microsoft-Copilot-plugin-registry\|Microsoft Copilot plugin registry]] — statut: Registre de plugins pour Microsoft 365 ; prise en charge de GitHub Copilot prévue (1 occ., 1 fiches)
 - [[kb/Microsoft-Foundry\|Microsoft Foundry]] — catégorie: Plateforme d'agents d'entreprise Microsoft (renommage d'Azure AI Foundry au 1ᵉʳ janv. 2026) ; runtime managé isolé, identité Entra Agent ID, mémoire session/user/procédurale (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Microsoft-Office\|Microsoft Office]] — catégorie: Suite bureautique (1 occ., 1 fiches)
 - [[kb/MiniMax-M2\|MiniMax M2]] — catégorie: Modèle open-weight optimisé codage et agents (2 occ., 1 fiches)
@@ -807,7 +812,7 @@
 - [[kb/_entites-mineures#skill-recall\|skill /recall]] — catégorie: Skill Claude Code pour chargement contexte via QMD (2 occ., 1 fiches)
 - [[kb/_entites-mineures#skill-files\|skill files]] — quantité: ~23, un par étape éditoriale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#skill-creator\|skill-creator]] — fonction: Skill méta pour créer d'autres skills interactivement (1 occ., 1 fiches)
-- [[kb/skills-technologie\|skills]] — catégorie: Standard ouvert de packaging de connaissances agent (2 occ., 4 fiches)
+- [[kb/skills-technologie\|skills]] — catégorie: Standard ouvert de packaging de connaissances agent (3 occ., 5 fiches)
 - [[kb/_entites-mineures#slash-commands\|slash commands]] — usage: Automatisation de tâches récurrentes dans Claude Code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#slime\|slime]] — définition: Framework open source de post-entraînement pour le passage à l'échelle du RL, développé par Z.ai (dépôt THUDM/slime), avec Megatron côté entraînement et SGLang côté rollout. Tient entraînement, rollout et buffer de données sur un seul flux, de sorte que les environnements se branchent comme de la génération de données. Gains annoncés sur le cycle GLM-5.3 : plus de 2,3× de débit RL end-to-end, écart de log-probabilités entraînement-rollout à 1e-7, multi-teacher OPD avec bascule dynamique et préchargement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#spotify-portal-ai-plugins\|spotify/portal-ai-plugins]] — nature: Marketplace de plugins Claude Code distribuant portal (la CLI) et shunt (le routage) (1 occ., 1 fiches)

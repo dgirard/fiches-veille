@@ -1,6 +1,6 @@
 # Microsoft
 
-> **Type** : ORGANISATION | 20 relations | 9 fiches sources
+> **Type** : ORGANISATION | 23 relations | 10 fiches sources
 
 ## Attributs
 
@@ -9,7 +9,7 @@
 - **position** : Aurait examiné l'acquisition de Cursor sans déposer d'offre ; doit désormais défendre GitHub Copilot face à un concurrent mieux capitalisé
 - **produit partenaire** : Copilot
 - **rôle** : Locataire d'ancrage des datacenters européens de Mistral AI depuis juillet 2026 : loue de la capacité pour sa propre demande cloud et IA, dé-risquant la construction. Deux tiers des clients de Mistral travaillent déjà avec Microsoft (Arthur Mensch, WSJ)
-- **secteur** : Plateforme logicielle / IA / Cloud
+- **secteur** : Logiciel / IA
 - **trésorerie** : 80 milliards de dollars
 
 ## Relations (comme sujet)
@@ -56,6 +56,10 @@
 
 - [[kb/_entites-mineures#Magentic-Marketplace\|Magentic Marketplace]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft researchers tried to manipulate AI agents - and only one resisted all attempts]]
+- [[kb/_entites-mineures#APM\|APM]] (TECHNOLOGIE) — 0.92, STATIQUE
+  - [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)]]
+- [[kb/_entites-mineures#HVE-Core\|HVE Core]] (TECHNOLOGIE) — 0.92, STATIQUE
+  - [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)]]
 - [[kb/Agent-Plugins\|Agent Plugins]] (TECHNOLOGIE) — 0.90, STATIQUE
   - [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 
@@ -79,12 +83,14 @@
 - [[kb/Satya-Nadella\|Satya Nadella]] **dirige** → Microsoft — 0.98
 - [[kb/Bill-Gates\|Bill Gates]] **a_créé** → Microsoft — 0.97
 - [[kb/Mistral-AI\|Mistral AI]] **collabore_avec** → Microsoft — 0.97
+- [[kb/Daniel-Meppiel\|Daniel Meppiel]] **travaille_chez** → Microsoft — 0.90
 
 ## Fiches sources
 
 - [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 - [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud : l'ère des prédateurs pour vos budgets IT]]
 - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
+- [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)]]
 - [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|A frontier without an ecosystem is not stable]]
 - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
 - [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|HOW TECH COMPANIES MEASURE THE IMPACT OF AI ON SOFTWARE DEVELOPMENT]]

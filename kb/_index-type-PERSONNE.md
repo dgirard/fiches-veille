@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 533 entités de type PERSONNE
+> 534 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -119,6 +119,7 @@
 - [[kb/_entites-mineures#Dan-Shapiro\|Dan Shapiro]] — contribution: Co-auteur d'une étude sur l'effet des principes Cialdini sur les LLMs (1 occ., 1 fiches)
 - [[kb/Dan-Shipper\|Dan Shipper]] — rôle: CEO et co-fondateur Every (média/studio AI-native), auteur Compound Engineering (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Daniel-Goetz\|Daniel Goetz]] — rôle: Partner/Expert Bain & Company, co-auteur série software industry age of AI volet 1/5 (1 occ., 1 fiches)
+- [[kb/Daniel-Meppiel\|Daniel Meppiel]] — rôle: Accompagne des équipes d'ingénierie d'entreprise chez Microsoft et GitHub (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Daniel-Rodrigues\|Daniel Rodrigues]] — rôle: Designer Every (Figma designs Cora) (1 occ., 1 fiches)
 - [[kb/Dario-Amodei\|Dario Amodei]] — rôle: CEO et cofondateur d'Anthropic ; douze ans de travail sur l'IA (3 occ., 3 fiches)
 - [[kb/Darragh-Curran\|Darragh Curran]] — rôle: R&D leader Intercom, auteur de l'engagement public 2x productivité R&D en 12 mois (1 occ., 1 fiches)

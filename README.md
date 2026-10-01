@@ -39,16 +39,16 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
 
 <!-- stats:begin -->
 
-- **Total** : 421 fiches
-- **Par année** : 2026 (244) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 422 fiches
+- **Par année** : 2026 (245) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 157
+  - Agents de codage IA & Skills : 158
   - Architecture & Construction : 58
-  - Transformation & Adoption : 91
+  - Transformation & Adoption : 92
   - Qualité & Sécurité : 52
   - Économie & Marché : 90
   - Philosophie & Société : 28
-  - Stratégie & Frameworks : 33
+  - Stratégie & Frameworks : 34
   - Outils & Plateformes : 58
   - Recherche & Éducation : 14
   - Produits & Services : 13
@@ -78,7 +78,7 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - Anthropic (16)
   - SFEIR (13)
   - Deep Research (9)
-  - LinkedIn (7)
+  - LinkedIn (8)
   - voodootikigod.com (Chris Williams) (7)
   - Google (7)
   - One Useful Thing (6)

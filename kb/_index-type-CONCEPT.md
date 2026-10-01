@@ -925,7 +925,7 @@
 - [[kb/_entites-mineures#skill-issue\|skill issue]] — débat: Hypothèse posée (non assénée) par ESR pour expliquer l'écart entre son expérience très positive des LLMs et le discours des « downshouters » : vieux modèles, univers différent, ou compétence de communication/spécification (1 occ., 1 fiches)
 - [[kb/_entites-mineures#skill-rot\|skill rot]] — parade: Vérifications hebdomadaires extrayant claims vérifiables et marquant la fraîcheur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#skill-routeur\|skill routeur]] — définition: Skill d'entrée qui ne contient aucune procédure et se borne à invoquer une skill par étape, afin que chaque procédure soit chargée fraîche au moment utile et échappe à l'éviction par compaction (1 occ., 1 fiches)
-- [[kb/skills-concept\|skills]] — format: Fichiers markdown (SKILL.md) persistants, testables et partageables (2 occ., 4 fiches)
+- [[kb/skills-concept\|skills]] — format: Fichiers markdown (SKILL.md) persistants, testables et partageables (2 occ., 5 fiches)
 - [[kb/_entites-mineures#sophisme-de-McNamara\|sophisme de McNamara]] — définition: Écarter le non-quantifiable comme non pertinent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté\|souveraineté]] — principe: Propriété d'architecture (non un label) qui se qualifie dépendance par dépendance ; à décomposer en quatre couches — modèle, exécution, infrastructure, relation commerciale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté-(Delos)\|souveraineté (Delos)]] — état: Hébergement Scaleway + chiffrement TLS/AES-256, données non utilisées pour l'entraînement ; mais calcul encore partiellement sur Azure France fin 2025, bascule 100 % Scaleway visée début 2026 (1 occ., 1 fiches)

@@ -251,7 +251,7 @@
 - [[kb/Meta-AI-Research\|Meta AI Research]] — positionnement: Entre sur le marché de l'agent de codage en terminal après ses concurrents et l'assume, en publiant quatre comparatifs où son modèle ne prend jamais la tête, y compris sur son propre benchmark interne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Meta-Superintelligence-Labs\|Meta Superintelligence Labs]] — rôle: Entité de recherche de Meta présentée comme opérationnelle en août 2026, dont la mise en route conditionne la reprise annoncée de la publication de « certains » modèles open source (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michelin\|Michelin]] — secteur: Industrie / Transformation numérique (2 occ., 2 fiches)
-- [[kb/Microsoft\|Microsoft]] — métrique distinctive: Bad Developer Days (BDDs) (10 occ., 9 fiches)
+- [[kb/Microsoft\|Microsoft]] — métrique distinctive: Bad Developer Days (BDDs) (11 occ., 10 fiches)
 - [[kb/_entites-mineures#Microsoft-Developer\|Microsoft Developer]] — secteur: Développement logiciel / IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Midnight-Blizzard\|Midnight Blizzard]] — rôle: Groupe d'espionnage à nexus russe (GTG-20006) ; plus de 20 organisations ciblées, campagnes automatisées par IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Millennium\|Millennium]] — rôle: Partenaire d'accès anticipé, diagnostic d'un crash rare (1 occ., 1 fiches)
