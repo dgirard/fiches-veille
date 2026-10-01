@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 172 entités de type DOCUMENT
+> 174 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -35,6 +35,7 @@
 - [[kb/_entites-mineures#CONTEXT-md\|CONTEXT.md]] — nature: Glossaire du vocabulaire métier (sans détails d'implémentation) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude's-Constitution\|Claude's Constitution]] — fonction: Porte les principes d'alignement des modèles Claude (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Clouded-Judgement\|Clouded Judgement]] — catégorie: Newsletter SaaS / cloud software (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Co-Existence\|Co-Existence]] — parution: 2026-10-20 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Co-Intelligence\|Co-Intelligence]] — type: Livre, nommé meilleur livre 2024 par Amazon et The Economist (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Compound-Engineering-The-Definitive-Guide\|Compound Engineering: The Definitive Guide]] — type: Handbook de référence (Every Source Code + guide complet) (1 occ., 1 fiches)
 - [[kb/DORA-2025\|DORA 2025]] — apport: L'IA comme « amplificateur » des forces et dysfonctionnements (3 occ., 3 fiches)
@@ -143,6 +144,7 @@
 - [[kb/_entites-mineures#article-Automating-eval-design-and-hillclimbing\|article Automating eval design and hillclimbing]] — nature: Playbook du blog claude.dev, 28 septembre 2026 (1 occ., 1 fiches)
 - [[kb/article-GLM-5.3-and-the-spread-of-advanced-cyber-capabilities\|article GLM-5.3 and the spread of advanced cyber capabilities]] — forme: Billet de recherche du 29 septembre 2026 (1 occ., 1 fiches)
 - [[kb/article-Personal-AI-Should-Actually-Be-Personal\|article Personal AI Should Actually Be Personal]] — forme: Fil X du 29 septembre 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#article-The-Dot-and-the-Swarm\|article The Dot and the Swarm]] — date: 2026-10-01 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-What-if-the-future-does-not-need-you\|article What if the future does not need you]] — forme: Essai en cinq parties titrées en anglais, publié sur Substack le 20 septembre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-de-Paul-Sawers-(16-juin-2026)\|article de Paul Sawers (16 juin 2026)]] — catégorie: Article The New Stack (Paul Sawers, 16 juin 2026) sur la suspension de la scission de facturation de l'Agent SDK, replacée dans son contexte sectoriel et réglementaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#bands.yaml\|bands.yaml]] — rôle: Config versionnée des bandes de contrôle production et des paliers d'autonomie associés (1 occ., 1 fiches)

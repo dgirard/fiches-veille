@@ -39,23 +39,23 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
 
 <!-- stats:begin -->
 
-- **Total** : 420 fiches
-- **Par année** : 2026 (243) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 421 fiches
+- **Par année** : 2026 (244) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 156
+  - Agents de codage IA & Skills : 157
   - Architecture & Construction : 58
-  - Transformation & Adoption : 90
+  - Transformation & Adoption : 91
   - Qualité & Sécurité : 52
   - Économie & Marché : 90
   - Philosophie & Société : 28
-  - Stratégie & Frameworks : 32
+  - Stratégie & Frameworks : 33
   - Outils & Plateformes : 58
   - Recherche & Éducation : 14
   - Produits & Services : 13
   - Politique & Régulation : 28
 - **Auteurs (top 20)** :
+  - Ethan Mollick (13)
   - SFEIR (13)
-  - Ethan Mollick (12)
   - Anthropic (10)
   - Deep Research Veille Interne (9)
   - Chris Williams (7)
@@ -81,8 +81,8 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - LinkedIn (7)
   - voodootikigod.com (Chris Williams) (7)
   - Google (7)
+  - One Useful Thing (6)
   - OpenAI (6)
-  - One Useful Thing (5)
   - Ethan Mollick (4)
   - GitHub (4)
   - Block Engineering (3)

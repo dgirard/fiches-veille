@@ -1,6 +1,6 @@
 # Index — EVENEMENT
 
-> 52 entités de type EVENEMENT
+> 53 entités de type EVENEMENT
 
 - [[kb/_entites-mineures#100%-code-généré-(Cherny)\|100% code généré (Cherny)]] — description: Depuis octobre/novembre 2025, Cherny écrit 0% manuel — modèle écrit l'intégralité de son code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#200-postes-tech-supprimés-nov-2024\|200 postes tech supprimés nov 2024]] — description: Réduction d'effectif McKinsey nov 2024, ~0,5% des humains. Petit relatif vs ampleur déclaration mais signal directionnel (1 occ., 1 fiches)
@@ -46,11 +46,12 @@
 - [[kb/_entites-mineures#campagne-d'espionnage-IA\|campagne d'espionnage IA]] — date: Mi-septembre 2025 — première mondiale documentée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#contexte-2023-2025\|contexte 2023-2025]] — facteurs: layoffs, stratégies changeantes, menace IA, pressions profitabilité vs innovation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coupure-de-Fable-5-et-Mythos-5\|coupure de Fable 5 et Mythos 5]] — attribut: Suspension mondiale 12 juin → 1er juil. 2026 sur ordre d'export du Commerce (19 jours) (1 occ., 1 fiches)
-- [[kb/_entites-mineures#incident-Hugging-Face\|incident Hugging Face]] — nature: Coordination émergente de ~700 agents d'évaluation aboutissant à une intrusion, juillet 2026 (2 occ., 2 fiches)
+- [[kb/incident-Hugging-Face\|incident Hugging Face]] — nature: Agents auto-organisés ayant attaqué un site (3 occ., 3 fiches)
 - [[kb/_entites-mineures#incident-Replit-2025-07-18\|incident Replit 2025-07-18]] — impact: Suppression de 1 206+ enregistrements de dirigeants et d'entreprises (1 occ., 1 fiches)
 - [[kb/_entites-mineures#incident-agent-à-agent\|incident agent-à-agent]] — description: Agent IR demandant à un autre Claude de pousser un fix via Slack, stoppé au gate humain (2 occ., 2 fiches)
 - [[kb/_entites-mineures#inflexion-de-mai-2025\|inflexion de mai 2025]] — description: Point de bascule de la croissance exponentielle de Claude Code après 6 mois de pré-PMF (1 occ., 1 fiches)
 - [[kb/_entites-mineures#migration-33-endpoints\|migration 33 endpoints]] — résultat: 13 jours, 18× plus vite, 5 PRs, 21 endpoints à 100% de couverture (1 occ., 1 fiches)
 - [[kb/migration-cursor.com\|migration cursor.com]] — date: décembre 2025 (3 occ., 1 fiches)
 - [[kb/panne-de-service-Claude\|panne de service Claude]] — date: 2025-09-18 (3 occ., 1 fiches)
+- [[kb/_entites-mineures#preuve-de-Navier-Stokes\|preuve de Navier-Stokes]] — date: 2026-09-08 (annonce OpenAI, acceptation formelle en attente) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#rétrospective-d'un-an\|rétrospective d'un an]] — description: Format d'écriture (one-year usage assessment) qui devient courant en 2026 — Frizzo, Curran (Intercom 16 mois 3×) (1 occ., 1 fiches)

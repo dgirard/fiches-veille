@@ -163,7 +163,7 @@
 - [[kb/Eric-S.-Raymond\|Eric S. Raymond]] — rôle: Développeur et essayiste, figure historique de l'open source (auteur de *The Cathedral and the Bazaar*, co-fondateur de l'OSI, Fetchmail, *The Art of Unix Programming*) ; ~50 ans d'expérience ; témoin pro-LLM du débat sur les agents de codage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Erik-Brynjolfsson\|Erik Brynjolfsson]] — rôle: Économiste cité pour la thèse des « canaris dans la mine de charbon » — recul de la demande de jeunes informaticiens aux États-Unis (2 occ., 2 fiches)
 - [[kb/Erwan-Simon\|Erwan Simon]] — rôle: CEO GENIAL (1 occ., 1 fiches)
-- [[kb/Ethan-Mollick\|Ethan Mollick]] — affiliation: Wharton School / One Useful Thing (19 occ., 15 fiches)
+- [[kb/Ethan-Mollick\|Ethan Mollick]] — affiliation: Wharton School / One Useful Thing (20 occ., 16 fiches)
 - [[kb/_entites-mineures#Etienne-Bernard\|Etienne Bernard]] — rôle: auteur NuExtract (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Eva-Dong\|Eva Dong]] — rôle: AI Value Realization Lead Americas Google Cloud, ex-McKinsey 8 ans, Master Financial Engineering Michigan, co-auteur DORA ROI 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Fabrice-Heyries\|Fabrice Heyries]] — rôle: PDG AG2R LA MONDIALE (fin 2025) (1 occ., 1 fiches)

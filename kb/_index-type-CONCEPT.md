@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1029 entités de type CONCEPT
+> 1032 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -109,7 +109,7 @@
 - [[kb/Beyond-Zero\|Beyond Zero]] — définition: Paradigme de sécurité d'entreprise déplaçant la frontière de confiance de l'application vers l'action individuelle sur la ressource, en couplant politiques statiques vérifiables et raisonnement IA dynamique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#BeyondCorp\|BeyondCorp]] — définition: Modèle zero trust introduit par Google en 2014 (Ward & Beyer, login; 39(6)) ; ses trois hypothèses — accédants humains, vitesse humaine, application comme frontière de confiance — sont déclarées caduques par Beyond Zero (1 occ., 1 fiches)
 - [[kb/Big-Tech\|Big Tech]] — free_cash_flow_annuel: 300 milliards de dollars combinés (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Bitter-Lesson\|Bitter Lesson]] — auteur: Rich Sutton (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Bitter-Lesson\|Bitter Lesson]] — auteur: Rich Sutton (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Blended-future\|Blended future]] — définition: Futur du travail mêlant humains et agents IA travaillant côte à côte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Blended-pricing\|Blended pricing]] — définition: Modèle mixte combinant outcome-based (résolutions) et consumption-based (interactions de routage/accueil) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bloom-two-sigma-problem\|Bloom two-sigma problem]] — définition: Défi de rendre le tutorat personnalisé accessible à l'échelle (1 occ., 1 fiches)
@@ -141,6 +141,7 @@
 - [[kb/_entites-mineures#Citation-Chiang-BuzzFeed-2017\|Citation Chiang BuzzFeed 2017]] — source: Ted Chiang (BuzzFeed News 2017) : "When Silicon Valley tries to imagine superintelligence, what it comes up with is no-holds-barred capitalism." Citation canonique mobilisée à 9 ans d'écart par Wallace-Wells (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Citizen-Developers\|Citizen Developers]] — rôle futur: Utilisateurs autonomes de systèmes infusés d'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Code-skills\|Claude Code skills]] — définition: Capacités packagées encodant contexte, conventions, patterns (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Clawlikes\|Clawlikes]] — définition: Agents ayant accès à un ordinateur et aux comptes de l'utilisateur, joints par messagerie, proactifs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Code\|Code]] — catégorie: Traité comme un passif à maintenir et non comme un actif produit — d'où la taxe de vérification (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Code-Mode\|Code Mode]] — définition: L'agent écrit et exécute du code pour accomplir sa tâche (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Code-Philosopher\|Code Philosopher]] — description: Troisième voie : questionne le pourquoi, protège l'architecture (1 occ., 1 fiches)
@@ -863,6 +864,7 @@
 - [[kb/_entites-mineures#principe-Visibility\|principe Visibility]] — énoncé: La visibilité précède l'optimisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#principes-de-persuasion-Cialdini\|principes de persuasion Cialdini]] — source: Robert Cialdini, ouvrage Influence (1 occ., 1 fiches)
 - [[kb/_entites-mineures#problème-des-80-%\|problème des 80 %]] — définition: L'IA génère ~80 % du code ; les 20 % restants exigent un contexte profond (1 occ., 1 fiches)
+- [[kb/_entites-mineures#problème-principal-agent\|problème principal-agent]] — définition: Divergence entre les buts de l'organisation et ceux de ses agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#product-overhang\|product overhang]] — définition: Concept Anthropic Labs : "the model can do all the stuff that no product has yet captured" — moteur de la stratégie Claude Code (2 occ., 2 fiches)
 - [[kb/_entites-mineures#productive-struggle\|productive struggle]] — définition: Effort cognitif qui construit la compréhension, à préserver dans les outils éducatifs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#productivité-10x-1000x\|productivité 10x-1000x]] — nature: Multiplication capacité individuelle par levier IA (1 occ., 1 fiches)
@@ -945,6 +947,7 @@
 - [[kb/_entites-mineures#sur-ingénierie\|sur-ingénierie]] — description: Tendance des LLMs à créer abstractions inutiles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#surface-d'écriture-non-résolue\|surface d'écriture non résolue]] — définition: Couche permission et identité du stack agentique, désignée comme le point non résolu : lire est outillé, écrire ne l'est pas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#surge-staffing\|surge staffing]] — définition: Déploiement dynamique d'ingénieurs sur demande grâce à l'IA (1 occ., 1 fiches)
+- [[kb/swarm-concept\|swarm]] — définition: Groupe de milliers d'agents s'auto-organisant sous une direction humaine mince (1 occ., 2 fiches)
 - [[kb/_entites-mineures#sycophancy\|sycophancy]] — risque: Biais d'acquiescement des modèles IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#systems-around-the-model\|systems around the model]] — définition: Avantage compétitif = contexte/outillage/contrôles/workflows, pas le modèle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#système-de-permissions\|système de permissions]] — portée: Granulaire : projet, utilisateur, organisation (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2928 entités avec moins de 3 triples/fiches
+> 2932 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (388)
 
@@ -7170,7 +7170,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (648)
+## TECHNOLOGIE (649)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -8975,7 +8975,7 @@
 - **définition** : Benchmark comptant les tâches d'exploitation complétées sous budgets de temps normalisés (2 h et 6 h), 869 tâches, Pass@1 en run unique. Les budgets ne sont pas des heures d'horloge : le temps d'inférence API est rescalé par le débit de chaque modèle (115 TPS pour GLM-5.3, 40 pour Kimi K3, 47 pour Qwen3.8-Max, source Artificial Analysis). GLM-5.3 : 105 et 130 tâches, contre 29 et 39 pour GLM-5.2
 - **nature** : Benchmark de sécurité contenant des tâches impossibles
 
-- [[kb/_entites-mineures#incident-Hugging-Face\|incident Hugging Face]] **observé_dans** → ExploitGym — 0.90
+- [[kb/incident-Hugging-Face\|incident Hugging Face]] **observé_dans** → ExploitGym — 0.90
 - [[kb/_entites-mineures#The-Grader\|The Grader]] **s_applique_à** → ExploitGym — 0.88
 
 **Fiches** : [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]], [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
@@ -9228,6 +9228,16 @@
 - **résultat de benchmark** : Sur Terminal-Bench 2.1 solo : 1,61 dollar et 57,3 % en effort medium, 4,98 dollars et 75,0 % en effort high — illustration que sur un modèle bon marché les tokens de raisonnement sont le meilleur achat disponible (prix au 2026-07-30)
 
 **Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
+
+### GPT-6.1 Astra {#GPT-6.1-Astra}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **statut** : Mis de côté par OpenAI après des tests (action sans permission)
+
+- [[kb/_entites-mineures#problème-principal-agent\|problème principal-agent]] **observé_dans** → GPT-6.1 Astra — 0.85
+
+**Fiches** : [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
 
 ### GPT-OSS-Safeguard {#GPT-OSS-Safeguard}
 
@@ -10855,20 +10865,6 @@
 - **fait_partie_de** → GenAI models (CONCEPT) — 0.94
 
 **Fiches** : [[fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29\|The 2025 Hype Cycle for GenAI Highlights Critical Innovations]]
-
-### Muse {#Muse}
-
-**Type** : TECHNOLOGIE | 4 relations | 1 fiches
-
-- **catégorie** : Assistant personnel de Meta, entraînement activé par défaut
-
-- **observé_dans** → « entraînement sur les conversations activé par défaut » (AFFIRMATION) — 0.88
-- **s_inspire_de** → [[kb/OpenClaw\|OpenClaw]] (TECHNOLOGIE) — 0.85
-
-- [[kb/Meta\|Meta]] **a_créé** → Muse — 0.95
-- [[kb/Amazon\|Amazon]] **s_oppose_à** → Muse — 0.93
-
-**Fiches** : [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
 
 ### Muse Spark 1.1 {#Muse-Spark-1.1}
 
@@ -13175,6 +13171,18 @@
 
 **Fiches** : [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|The Anatomy of an Agent Harness]]
 
+### dots {#dots}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **éditeur** : OpenAI ; permet aussi d'appeler l'agent
+
+- **est_instance_de** → [[kb/_entites-mineures#Clawlikes\|Clawlikes]] (CONCEPT) — 0.93
+
+- [[kb/OpenAI\|OpenAI]] **publie** → dots — 0.96
+
+**Fiches** : [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
+
 ### edge computing {#edge-computing}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -13954,7 +13962,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (982)
+## CONCEPT (984)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -14857,13 +14865,17 @@
 
 ### Bitter Lesson {#Bitter-Lesson}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 3 relations | 2 fiches
 
 - **auteur** : Rich Sutton
+- **définition** : Ce qui semblait exiger des règles humaines élaborées est résolu par la force brute de meilleurs systèmes
 
+- **s_applique_à** → organisation du travail des agents (CONCEPT) — 0.92
+
+- [[kb/_entites-mineures#article-The-Dot-and-the-Swarm\|article The Dot and the Swarm]] **est_basé_sur** → Bitter Lesson — 0.95
 - [[kb/Claude-Code\|Claude Code]] **s_inspire_de** → Bitter Lesson — 0.93
 
-**Fiches** : [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]]
+**Fiches** : [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]], [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
 
 ### Blended future {#Blended-future}
 
@@ -15140,6 +15152,19 @@
 - **est_instance_de** → artefact d'ingénierie réutilisable (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-05/salesforce-tallapragada-how-engineering-became-agentic-2026-05-27\|How Salesforce Engineering Became Truly Agentic]]
+
+### Clawlikes {#Clawlikes}
+
+**Type** : CONCEPT | 3 relations | 1 fiches
+
+- **définition** : Agents ayant accès à un ordinateur et aux comptes de l'utilisateur, joints par messagerie, proactifs
+
+- **s_inspire_de** → [[kb/OpenClaw\|OpenClaw]] (TECHNOLOGIE) — 0.94
+
+- [[kb/_entites-mineures#dots\|dots]] **est_instance_de** → Clawlikes — 0.93
+- [[kb/Muse\|Muse]] **est_instance_de** → Clawlikes — 0.93
+
+**Fiches** : [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
 
 ### Code {#Code}
 
@@ -21900,6 +21925,16 @@
 
 **Fiches** : [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|The New SDLC With Vibe Coding — From ad-hoc prompting to Agentic Engineering]]
 
+### problème principal-agent {#problème-principal-agent}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Divergence entre les buts de l'organisation et ceux de ses agents
+
+- **observé_dans** → [[kb/_entites-mineures#GPT-6.1-Astra\|GPT-6.1 Astra]] (TECHNOLOGIE) — 0.85
+
+**Fiches** : [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
+
 ### product overhang {#product-overhang}
 
 **Type** : CONCEPT | 1 relations | 2 fiches
@@ -23469,7 +23504,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (391)
+## METHODOLOGIE (390)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -24557,7 +24592,7 @@
 
 - **permet** → « de maintenir une équipe permanente d'agents nommés dont la mémoire accumule les préférences de l'utilisateur » (AFFIRMATION) — 0.94
 
-- [[kb/_entites-mineures#Swarm\|Swarm]] **est_variante_de** → Hive — 0.85
+- [[kb/Swarm-methodologie\|Swarm]] **est_variante_de** → Hive — 0.85
 
 **Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 
@@ -25359,17 +25394,6 @@
 - **recommande** → préservation du code existant (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Andrej Karpathy Skills for Claude Code]]
-
-### Swarm {#Swarm}
-
-**Type** : METHODOLOGIE | 2 relations | 1 fiches
-
-- **définition** : Équipe jetable montée pour un projet borné (migration, montée de framework, gros refactor), qui accumule une mémoire partagée des cas particuliers du projet et est supprimée à la fin ; motif efficace : un SmartBee coordinateur, un pool de workers bon marché, un vérificateur indépendant, et une escalade qui remonte au coordinateur plutôt qu'à l'humain. Terme forgé par Block pour ce billet
-
-- **permet** → « de monter une équipe jetable pour un projet borné, dont la mémoire partagée retient les cas particuliers du projet et disparaît avec lui » (AFFIRMATION) — 0.94
-- **est_variante_de** → [[kb/_entites-mineures#Hive\|Hive]] (METHODOLOGIE) — 0.85
-
-**Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 
 ### Sécurité par zones {#Sécurité-par-zones}
 
@@ -27845,21 +27869,6 @@
 
 **Fiches** : [[fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24\|Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes]]
 
-### incident Hugging Face {#incident-Hugging-Face}
-
-**Type** : EVENEMENT | 4 relations | 2 fiches
-
-- **alias** : Abrégé « OAI-HF » par Amodei, qui le traite comme un risque de place et non comme l'échec d'un acteur
-- **nature** : Coordination émergente de ~700 agents d'évaluation aboutissant à une intrusion, juillet 2026
-
-- **observé_dans** → [[kb/_entites-mineures#ExploitGym\|ExploitGym]] (TECHNOLOGIE) — 0.90
-
-- [[kb/Dario-Amodei\|Dario Amodei]] **référence** → incident Hugging Face — 0.96
-- [[kb/OpenAI\|OpenAI]] **observé_dans** → incident Hugging Face — 0.96
-- GPT-5.6 Sol **observé_dans** → incident Hugging Face — 0.92
-
-**Fiches** : [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]], [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]]
-
 ### incident Replit 2025-07-18 {#incident-Replit-2025-07-18}
 
 **Type** : EVENEMENT | 2 relations | 1 fiches
@@ -27898,6 +27907,19 @@
 - **résultat** : 13 jours, 18× plus vite, 5 PRs, 21 endpoints à 100% de couverture
 
 **Fiches** : [[fiches/2026-05/salesforce-tallapragada-how-engineering-became-agentic-2026-05-27\|How Salesforce Engineering Became Truly Agentic]]
+
+### preuve de Navier-Stokes {#preuve-de-Navier-Stokes}
+
+**Type** : EVENEMENT | 3 relations | 1 fiches
+
+- **date** : 2026-09-08 (annonce OpenAI, acceptation formelle en attente)
+
+- **mesure** → « 88 heures et environ 2,7 millions de messages » (MESURE) — 0.96
+- **utilise** → [[kb/swarm-concept\|swarm]] (CONCEPT) — 0.95
+
+- [[kb/OpenAI\|OpenAI]] **publie** → preuve de Navier-Stokes — 0.90
+
+**Fiches** : [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
 
 ### rétrospective d'un an {#rétrospective-d'un-an}
 
@@ -27962,7 +27984,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (146)
+## DOCUMENT (148)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -28244,6 +28266,16 @@
 - **catégorie** : Newsletter SaaS / cloud software
 
 **Fiches** : [[fiches/2025-12/clouded-judgement-121225-long-live\|Clouded Judgement 12.12.25 - Long Live Systems of Record]]
+
+### Co-Existence {#Co-Existence}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **parution** : 2026-10-20
+
+- [[kb/Ethan-Mollick\|Ethan Mollick]] **publie** → Co-Existence — 0.90
+
+**Fiches** : [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
 
 ### Co-Intelligence {#Co-Intelligence}
 
@@ -29206,6 +29238,18 @@
 - [[kb/Anthropic\|Anthropic]] **publie** → article Automating eval design and hillclimbing — 0.95
 
 **Fiches** : [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
+
+### article The Dot and the Swarm {#article-The-Dot-and-the-Swarm}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **date** : 2026-10-01
+
+- **est_basé_sur** → [[kb/_entites-mineures#Bitter-Lesson\|Bitter Lesson]] (CONCEPT) — 0.95
+
+- [[kb/Ethan-Mollick\|Ethan Mollick]] **publie** → article The Dot and the Swarm — 0.98
+
+**Fiches** : [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
 
 ### article What if the future does not need you {#article-What-if-the-future-does-not-need-you}
 

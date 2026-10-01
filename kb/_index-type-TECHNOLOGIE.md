@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 827 entités de type TECHNOLOGIE
+> 829 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -172,7 +172,7 @@
 - [[kb/_entites-mineures#Code-OSS\|Code OSS]] — rôle: Base open-source de Visual Studio Code, fondation technique de Kiro (1 occ., 1 fiches)
 - [[kb/Code-Wiki\|Code Wiki]] — statut: Public preview (novembre 2025) (3 occ., 1 fiches)
 - [[kb/CodeRabbit\|CodeRabbit]] — catégorie: Agent de revue de code IA (3 occ., 3 fiches)
-- [[kb/Codex\|Codex]] — catégorie: Agent de codage OpenAI (fusionné dans ChatGPT desktop, +ChatGPT Work) ; ~1 M à ~8 M utilisateurs actifs en 5 mois ; concurrent frontal de Claude Code (8 occ., 8 fiches)
+- [[kb/Codex\|Codex]] — catégorie: Agent de codage OpenAI (fusionné dans ChatGPT desktop, +ChatGPT Work) ; ~1 M à ~8 M utilisateurs actifs en 5 mois ; concurrent frontal de Claude Code (9 occ., 9 fiches)
 - [[kb/_entites-mineures#Codex-CLI\|Codex CLI]] — catégorie: Outil agent de codage compatible Skills (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Codex-SDK\|Codex SDK]] — catégorie: Harness-as-a-Service OpenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Colossus\|Colossus]] — capacité: Cluster d'entraînement de xAI à Memphis, décrit par SpaceX comme équivalent à 1 million de GPU H100 (1 occ., 1 fiches)
@@ -271,6 +271,7 @@
 - [[kb/_entites-mineures#GPT-5.5-Cyber\|GPT-5.5-Cyber]] — categorie: Produit IA a acces restreint pour cybersecurite defensive (1 occ., 1 fiches)
 - [[kb/GPT-5.6\|GPT-5.6]] — catégorie: Famille de LLM OpenAI (GA 9 juillet 2026) : 3 tiers Sol/Terra/Luna ; ~1,05 M tokens contexte, 128 k sortie, coupure au 16 février 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-5.6-Luna\|GPT-5.6 Luna]] — résultat de benchmark: Sur Terminal-Bench 2.1 solo : 1,61 dollar et 57,3 % en effort medium, 4,98 dollars et 75,0 % en effort high — illustration que sur un modèle bon marché les tokens de raisonnement sont le meilleur achat disponible (prix au 2026-07-30) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#GPT-6.1-Astra\|GPT-6.1 Astra]] — statut: Mis de côté par OpenAI après des tests (action sans permission) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-OSS-Safeguard\|GPT-OSS-Safeguard]] — positionnement: Modèle de sûreté à poids ouverts, version 20B mesurée à égalité avec Shieldstral (84,9 % de F1 texte) malgré une taille sept fois supérieure (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GSAP\|GSAP]] — catégorie: Bibliothèque animation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gas-Town\|Gas Town]] — définition: Plateforme open source d'orchestration de swarms d'agents Claude Code en parallèle. Lancée 1er janvier 2026 par Steve Yegge (1 occ., 1 fiches)
@@ -463,7 +464,7 @@
 - [[kb/_entites-mineures#Monetization-Gateway\|Monetization Gateway]] — définition: Offre Cloudflare permettant à un client de vendre contenu et API à des acheteurs agentiques sans infrastructure de paiement traditionnelle ; versant vendeur du dispositif dont Wallets est le versant acheteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Moneybot\|Moneybot]] — définition: Assistant IA de Cash App qui surveille l'activité de l'utilisateur, renseigne comptes, soldes et transactions et suggère des fonctionnalités ; plus d'un million de comptes actifs hebdomadaires en août 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Multimodal-generative-AI\|Multimodal generative AI]] — promesse: Résultats IA plus forts et plus rapides (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Muse\|Muse]] — catégorie: Assistant personnel de Meta, entraînement activé par défaut (1 occ., 1 fiches)
+- [[kb/Muse\|Muse]] — catégorie: Assistant personnel de Meta, entraînement activé par défaut (2 occ., 2 fiches)
 - [[kb/Muse-Code\|Muse Code]] — définition: Agent de codage en terminal de Meta, en bêta au 5 août 2026 : agents d'arrière-plan persistants, journal d'événements rendant le runtime rejouable et reprenable, et trois skills livrées d'origine — plan approuvé, mise à l'épreuve du plan, poursuite d'objectif (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Muse-Spark-1.1\|Muse Spark 1.1]] — rôle: Version précédente du modèle, point de comparaison des gains annoncés (1 occ., 1 fiches)
 - [[kb/Muse-Spark-1.2\|Muse Spark 1.2]] — définition: Modèle orienté codage de Meta, co-entraîné avec le harnais Muse Code, entraîné sur des tâches longues avec compaction de contexte et issu d'une boucle d'auto-amélioration alimentée par la version précédente (2 occ., 1 fiches)
@@ -505,7 +506,7 @@
 - [[kb/_entites-mineures#OpenAI-Sora\|OpenAI Sora]] — catégorie: Modèle de génération vidéo concurrent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenBSD\|OpenBSD]] — catégorie: Système d'exploitation Unix sécurisé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenClaude\|OpenClaude]] — catégorie: Variante open / locale de Claude Code mentionnée par Meng (1 occ., 1 fiches)
-- [[kb/OpenClaw\|OpenClaw]] — categorie: Agent IA persistant 24/7 (5 occ., 5 fiches)
+- [[kb/OpenClaw\|OpenClaw]] — categorie: Agent IA persistant 24/7 (6 occ., 6 fiches)
 - [[kb/_entites-mineures#OpenSMTPD\|OpenSMTPD]] — catégorie: Serveur mail open-source pour Unix/OpenBSD (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenSearch-protocol\|OpenSearch protocol]] — rôle: Protocole d'intégration moteurs de recherche alternatifs dans Chrome (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Operator\|Operator]] — statut: Rebrandé en ChatGPT Agent (1 occ., 1 fiches)
@@ -741,6 +742,7 @@
 - [[kb/_entites-mineures#deepagents\|deepagents]] — catégorie: Bibliothèque de construction de harnais LangChain (1 occ., 1 fiches)
 - [[kb/design-md\|design.md]] — catégorie: Convention open-source Google pour porter design system dans un fichier markdown (1 occ., 1 fiches)
 - [[kb/devboxes\|devboxes]] — caractéristique: Environnements cloud isolés, pré-chauffés en ~10 secondes (2 occ., 2 fiches)
+- [[kb/_entites-mineures#dots\|dots]] — éditeur: OpenAI ; permet aussi d'appeler l'agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#edge-computing\|edge computing]] — nature: Exécution locale sans dépendance cloud (1 occ., 1 fiches)
 - [[kb/_entites-mineures#extension-Iceberg-de-DuckDB\|extension Iceberg de DuckDB]] — maturité: Implémentation des spécifications Iceberg v2 et v3, sponsorisée par AWS, plus de 800 000 téléchargements hebdomadaires (1 occ., 1 fiches)
 - [[kb/_entites-mineures#format-.deepnote\|format .deepnote]] — type: YAML human-readable (1 occ., 1 fiches)

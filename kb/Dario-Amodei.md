@@ -54,7 +54,7 @@
 
 ### référence
 
-- [[kb/_entites-mineures#incident-Hugging-Face\|incident Hugging Face]] (EVENEMENT) — 0.96, STATIQUE
+- [[kb/incident-Hugging-Face\|incident Hugging Face]] (EVENEMENT) — 0.96, STATIQUE
   - [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]]
 - [[kb/METR\|METR]] (ORGANISATION) — 0.90, STATIQUE
   - [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]]

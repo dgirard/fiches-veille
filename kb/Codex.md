@@ -1,11 +1,12 @@
 # Codex
 
-> **Type** : TECHNOLOGIE | 16 relations | 8 fiches sources
+> **Type** : TECHNOLOGIE | 17 relations | 9 fiches sources
 
 ## Attributs
 
 - **catégorie** : Agent de codage OpenAI (fusionné dans ChatGPT desktop, +ChatGPT Work) ; ~1 M à ~8 M utilisateurs actifs en 5 mois ; concurrent frontal de Claude Code
 - **rôle** : Agent tiers cité comme faisant partie de l'outillage fragmenté observé chez Block
+- **usage** : Fait circuler les meilleures idées entre les groupes d'agents
 
 ## Relations (comme sujet)
 
@@ -67,11 +68,13 @@
 - [[kb/OpenAI\|OpenAI]] **a_créé** → Codex — 0.97
 - [[kb/Eric-S.-Raymond\|Eric S. Raymond]] **utilise** → Codex — 0.95
 - [[kb/OpenAI\|OpenAI]] **publie** → Codex — 0.90
+- [[kb/swarm-concept\|swarm]] **utilise** → Codex — 0.90
 
 ## Fiches sources
 
 - [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 - [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|Future-Proof Coding Agents: Building Reliable Systems That Outlast Model Cycles]]
+- [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
 - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
 - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering: leveraging Codex in an agent-first world]]
 - [[fiches/2026-07/raymond-llm-coding-empowering-2026-07-08\|What...what am I missing here? (post X sur les LLMs et le codage)]]

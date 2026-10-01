@@ -26,7 +26,7 @@
   - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
 - [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
-- [[kb/_entites-mineures#Muse\|Muse]] (TECHNOLOGIE) — 0.93, STATIQUE
+- [[kb/Muse\|Muse]] (TECHNOLOGIE) — 0.93, STATIQUE
   - [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
 
 ### utilise

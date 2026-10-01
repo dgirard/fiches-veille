@@ -1,6 +1,6 @@
 # Ethan Mollick
 
-> **Type** : PERSONNE | 66 relations | 15 fiches sources
+> **Type** : PERSONNE | 70 relations | 16 fiches sources
 
 ## Attributs
 
@@ -9,7 +9,7 @@
 - **indépendance** : N'accepte aucun financement des entreprises IA
 - **oeuvre** : Co-Intelligence (livre)
 - **role** : Professeur associe, Wharton School
-- **rôle** : Professeur à Wharton, co-auteur de « The Cybernetic Teammate » ; relie l'expérience P&G aux données d'usage OpenAI
+- **rôle** : Professeur à la Wharton School, auteur de One Useful Thing
 
 ## Relations (comme sujet)
 
@@ -55,6 +55,8 @@
   - [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Giving your AI a Job Interview]]
 - « les frontières organisationnelles deviennent poreuses et les entreprises devront repenser la division du travail » (AFFIRMATION) — 0.93, DYNAMIQUE
   - [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
+- « organiser le travail est une capacité que l'IA peut apprendre » (AFFIRMATION) — 0.93, ATEMPOREL
+  - [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
 - « les compétences IA sont des people skills (manager, enseigner) » (AFFIRMATION) — 0.92, ATEMPOREL
   - [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Writing the AI-HR Playbook with Ethan Mollick]]
 - « les organisations ignorent l'amélioration continue de l'IA dans leur planification » (AFFIRMATION) — 0.92, DYNAMIQUE
@@ -94,6 +96,8 @@
   - [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]]
 - « un risque de surproduction de contenu à faible valeur par les agents IA » (AFFIRMATION) — 0.85, ATEMPOREL
   - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Real AI Agents and Real Work: The race between human-centered work and infinite PowerPoints]]
+- « moins cher d'organiser, plus de choses tentées, possiblement plus de travail humain » (AFFIRMATION) — 0.80, DYNAMIQUE
+  - [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
 
 ### publie
 
@@ -110,6 +114,8 @@
   - [[fiches/2025-11/mollick-three-years-gpt3-gemini3-evolution-2025-11-18\|Three Years from GPT-3 to Gemini 3]]
 - article Agency and Agents (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]]
+- [[kb/_entites-mineures#article-The-Dot-and-the-Swarm\|article The Dot and the Swarm]] (DOCUMENT) — 0.98, STATIQUE
+  - [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
 - Real AI Agents and Real Work (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Real AI Agents and Real Work: The race between human-centered work and infinite PowerPoints]]
 - [[kb/_entites-mineures#Co-Intelligence\|Co-Intelligence]] (DOCUMENT) — 0.95, STATIQUE
@@ -117,6 +123,8 @@
   - [[fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22\|Confronting Impossible Futures]]
 - étude personas et précision IA (DOCUMENT) — 0.95, STATIQUE
   - [[fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07\|Playing Pretend: Expert Personas Don't Improve Factual Accuracy]]
+- [[kb/_entites-mineures#Co-Existence\|Co-Existence]] (DOCUMENT) — 0.90, DYNAMIQUE
+  - [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
 
 ### recommande
 
@@ -200,6 +208,7 @@
 - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Real AI Agents and Real Work: The race between human-centered work and infinite PowerPoints]]
 - [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|You will know that the AI labs believe in ASI when -they dissolve their forward deployed engineering teams-]]
 - [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
+- [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
 - [[fiches/2025-11/mollick-three-years-gpt3-gemini3-evolution-2025-11-18\|Three Years from GPT-3 to Gemini 3]]
 - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
 - [[fiches/2025-07/persuading-ai-cialdini-wharton-2025-07-18\|Call Me A Jerk: Persuading AI to Comply with Objectionable Requests]]

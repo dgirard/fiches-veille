@@ -1,12 +1,12 @@
 # OpenAI
 
-> **Type** : ORGANISATION | 58 relations | 22 fiches sources
+> **Type** : ORGANISATION | 60 relations | 23 fiches sources
 
 ## Attributs
 
 - **produit** : ChatGPT
 - **rôle** : Éditeur du rapport, dont Economic Research est l'équipe signataire
-- **secteur** : Labo IA frontalier, San Francisco
+- **secteur** : IA
 - **statut financier** : non cash-flow positif avant fin de décennie
 - **statut_juridique** : OpenAI Group PBC (Public Benefit Corporation)
 
@@ -73,7 +73,7 @@
 
 ### observé_dans
 
-- [[kb/_entites-mineures#incident-Hugging-Face\|incident Hugging Face]] (EVENEMENT) — 0.96, STATIQUE
+- [[kb/incident-Hugging-Face\|incident Hugging Face]] (EVENEMENT) — 0.96, STATIQUE
   - [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]]
 
 ### prédit
@@ -101,6 +101,8 @@
   - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
 - GDPval paper (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Giving your AI a Job Interview]]
+- [[kb/_entites-mineures#dots\|dots]] (TECHNOLOGIE) — 0.96, STATIQUE
+  - [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
 - étude capacités agents IA (DOCUMENT) — 0.95, STATIQUE
   - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Real AI Agents and Real Work: The race between human-centered work and infinite PowerPoints]]
 - [[kb/Agent-Plugins\|Agent Plugins]] (TECHNOLOGIE) — 0.90, STATIQUE
@@ -111,6 +113,8 @@
   - [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Our evaluation of OpenAI's GPT-5.5 cyber capabilities]]
 - « la fusion de Codex et ChatGPT en une application desktop unifiée le 9 juillet 2026, l'ancienne app devenant ChatGPT Classic » (AFFIRMATION) — 0.90, STATIQUE
   - [[fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12\|ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »]]
+- [[kb/_entites-mineures#preuve-de-Navier-Stokes\|preuve de Navier-Stokes]] (EVENEMENT) — 0.90, STATIQUE
+  - [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
 
 ### soutient
 
@@ -166,6 +170,7 @@
 - [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Giving your AI a Job Interview]]
 - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Real AI Agents and Real Work: The race between human-centered work and infinite PowerPoints]]
 - [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|You will know that the AI labs believe in ASI when -they dissolve their forward deployed engineering teams-]]
+- [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
 - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
 - [[fiches/2025-07/openai-chatgpt-agent-launch-announcement-2025-07-17\|Introducing ChatGPT Agent]]
 - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering: leveraging Codex in an agent-first world]]
