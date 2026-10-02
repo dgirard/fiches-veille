@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 536 entités de type PERSONNE
+> 538 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -94,6 +94,7 @@
 - [[kb/_entites-mineures#Brian-Kessman\|Brian Kessman]] — rôle: Founder/Principal Lodestar Agency Consulting. Auteur principal du rapport VoxComm "Redesigning the Agency Value Model" (mars 2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Brian-Scanlan\|Brian Scanlan]] — rôle: Membre Intercom, auteur du thread viral sur plugin ecosystem agent-first (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Brice-Challamel\|Brice Challamel]] — rôle: Head of AI Products and Platforms chez Moderna (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Cameron-Franz\|Cameron Franz]] — rôle: Collaborateur, infrastructure d'entraînement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Camille-Fournier\|Camille Fournier]] — rôle: Leader technique, auteure (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Carl-Benedikt-Frey\|Carl Benedikt Frey]] — rôle: Économiste Oxford, auteur citation "the short run can be a lifetime" (1 occ., 1 fiches)
 - [[kb/Cat-Wu\|Cat Wu]] — rôle: Équipe Claude Code (intervenante Fireside Chat AIE) (4 occ., 4 fiches)
@@ -478,6 +479,7 @@
 - [[kb/Sumeet-Gayathri-Moghe\|Sumeet Gayathri Moghe]] — rôle: Global head of culture and organisational design chez Thoughtworks ; ex-business analyst, product manager et consultant en transformation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sun-Tzu\|Sun Tzu]] — rôle: Source d'inspiration historique (stratégie militaire) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sundar-Pichai\|Sundar Pichai]] — rôle: CEO Google (1 occ., 1 fiches)
+- [[kb/Surya-Narreddi\|Surya Narreddi]] — rôle: Designer et développeur, auteur du projet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Swyx\|Swyx]] — rôle: Auteur graphique latence-autonomie agents (1 occ., 1 fiches)
 - [[kb/Sylvain-Duranton\|Sylvain Duranton]] — rôle: Cadre BCG X, auteur tribune Les Échos 2026-05-05 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sénèque\|Sénèque]] — période: 4 av. J.-C. - 65 ap. J.-C. (1 occ., 1 fiches)

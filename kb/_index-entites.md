@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3529 entités
+> 3544 entités
 
 ## #
 
@@ -395,6 +395,7 @@
 - [[kb/_entites-mineures#article-Introducing-System-One-Models-&-Jev\|article Introducing System One Models & Jev]] (DOCUMENT, 1 fiches)
 - [[kb/article-Personal-AI-Should-Actually-Be-Personal\|article Personal AI Should Actually Be Personal]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#article-The-Dot-and-the-Swarm\|article The Dot and the Swarm]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#article-Training-AI-to-Paint-with-Code\|article Training AI to Paint with Code]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#article-What-if-the-future-does-not-need-you\|article What if the future does not need you]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Articulation-TDD-coding-agents-2026\|Articulation TDD / coding agents 2026]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Artifactory\|Artifactory]] (TECHNOLOGIE, 1 fiches)
@@ -603,6 +604,7 @@
 - [[kb/_entites-mineures#CAISI\|CAISI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#calibration-de-revue\|calibration de revue]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Call-Evaluation\|Call Evaluation]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Cameron-Franz\|Cameron Franz]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Camille-Fournier\|Camille Fournier]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#campagne-d'espionnage-IA\|campagne d'espionnage IA]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#campus-ambassadors\|campus ambassadors]] (CONCEPT, 1 fiches)
@@ -1448,6 +1450,7 @@
 - [[kb/_entites-mineures#Geoffrey-Huntley\|Geoffrey Huntley]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#George-Sunderland\|George Sunderland]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Georges-Bernanos\|Georges Bernanos]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#GEPA\|GEPA]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Gergely-Orosz\|Gergely Orosz]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#gestion-des-coûts-LLM\|gestion des coûts LLM]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Ghostty\|Ghostty]] (ORGANISATION, 2 fiches)
@@ -1557,6 +1560,7 @@
 - [[kb/_entites-mineures#Greptile\|Greptile]] (ORGANISATION, 1 fiches)
 - [[kb/grill-with-docs\|grill-with-docs]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#grille-d'évaluation-d'un-serveur-MCP\|grille d'évaluation d'un serveur MCP]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#grille-de-récompense\|grille de récompense]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Grok\|Grok]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Grok-4\|Grok 4]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Grok-1\|Grok-1]] (TECHNOLOGIE, 1 fiches)
@@ -1565,6 +1569,7 @@
 - [[kb/_entites-mineures#grown-software\|grown software]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Growth-Marketing-Fit\|Growth Marketing Fit]] (DOCUMENT, 1 fiches)
 - [[kb/Grox\|Grox]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#GRPO\|GRPO]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#GSAP\|GSAP]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#GuacaDrone\|GuacaDrone]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#guardrails-IA\|guardrails IA]] (CONCEPT, 1 fiches)
@@ -1586,6 +1591,7 @@
 - [[kb/_entites-mineures#h-index\|h-index]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Haiku\|Haiku]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Haiku-4.5\|Haiku 4.5]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#hallucination-d'API\|hallucination d'API]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#hallucinations-IA\|hallucinations IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#hallucinations-LLM\|hallucinations LLM]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#hallucinations-techniques\|hallucinations techniques]] (CONCEPT, 1 fiches)
@@ -1642,6 +1648,7 @@
 - [[kb/_entites-mineures#How-Anthropic-enables-self-service-data-analytics-with-Claude\|How Anthropic enables self-service data analytics with Claude]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#How-Anthropic-secures-its-AI-native-software-development-lifecycle\|How Anthropic secures its AI-native software development lifecycle]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#How-to-use-Notion-as-Code\|How to use Notion as Code]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#HPSv3\|HPSv3]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#HR-is-R&D-now\|HR is R&D now]] (CONCEPT, 1 fiches)
 - [[kb/Hryhorii-Tatsyi\|Hryhorii Tatsyi]] (PERSONNE, 1 fiches)
 - [[kb/HTML-(format-de-sortie-agent)\|HTML (format de sortie agent)]] (METHODOLOGIE, 1 fiches)
@@ -1827,6 +1834,7 @@
 - [[kb/_entites-mineures#Judgment-per-minute\|Judgment per minute]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Juge-Stratégique\|Juge Stratégique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Jugement-du-modèle\|Jugement du modèle]] (CONCEPT, 1 fiches)
+- [[kb/jugement-par-paires\|jugement par paires]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#jugement-professionnel\|jugement professionnel]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#Julie-Bedard\|Julie Bedard]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#Julien-Lépine\|Julien Lépine]] (PERSONNE, 1 fiches)
@@ -2391,6 +2399,7 @@
 - [[kb/_entites-mineures#ownership-end-to-end\|ownership end-to-end]] (CONCEPT, 1 fiches)
 ## P
 
+- [[kb/_entites-mineures#p5.brush\|p5.brush]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Pacing-the-frontier\|Pacing the frontier]] (CONCEPT, 1 fiches)
 - [[kb/page-Context-Filter\|page Context Filter]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Painted-Doors-Problem\|Painted Doors Problem]] (CONCEPT, 1 fiches)
@@ -2503,6 +2512,7 @@
 - [[kb/_entites-mineures#plancher-statique-plafond-dynamique\|plancher statique / plafond dynamique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#planification-multi-scénarios\|planification multi-scénarios]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Planner-Evaluator-split\|Planner-Evaluator split]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#plateau-de-récompense\|plateau de récompense]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#plateforme-d'IA-générative\|plateforme d'IA générative]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#plateforme-déploiement-agents-IA-enterprise\|plateforme déploiement agents IA enterprise]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Plateforme-Gov+Prod+Audit\|Plateforme Gov+Prod+Audit]] (CONCEPT, 1 fiches)
@@ -2524,6 +2534,7 @@
 - [[kb/_entites-mineures#political-neutrality-eval\|political-neutrality-eval]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#politique-FinOps-token\|politique FinOps token]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Polygon\|Polygon]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#pool-de-références\|pool de références]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Portal-by-Spotify\|Portal by Spotify]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#portes-humaines\|portes humaines]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#PORTING.md-LIFETIMES.tsv\|PORTING.md / LIFETIMES.tsv]] (DOCUMENT, 1 fiches)
@@ -2588,6 +2599,7 @@
 - [[kb/Project-Jules\|Project Jules]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Project-Prometheus\|Project Prometheus]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Projet-Aristotle\|Projet Aristotle]] (EVENEMENT, 1 fiches)
+- [[kb/projet-Paint-with-Code\|projet Paint with Code]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Prompt-caching\|Prompt caching]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Prompt-Engineering\|Prompt Engineering]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#prompt-structuré\|prompt structuré]] (CONCEPT, 1 fiches)
@@ -2640,6 +2652,7 @@
 - [[kb/_entites-mineures#Quizzes\|Quizzes]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Quo-vadis,-humanitas\|Quo vadis, humanitas ?]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Qwen\|Qwen]] (TECHNOLOGIE, 2 fiches)
+- [[kb/_entites-mineures#Qwen-3.5-35B\|Qwen 3.5 35B]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Qwen2.5-14b-2507\|Qwen2.5-14b-2507]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Qwen3Guard\|Qwen3Guard]] (TECHNOLOGIE, 1 fiches)
 ## R
@@ -2739,6 +2752,7 @@
 - [[kb/_entites-mineures#Riskified\|Riskified]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#risque-carrière\|risque carrière]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#RLCD\|RLCD]] (METHODOLOGIE, 2 fiches)
+- [[kb/_entites-mineures#RLVR\|RLVR]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Roadmap-CapEx-→-OpEx\|Roadmap CapEx → OpEx]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Robbie-Geoghegan\|Robbie Geoghegan]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Robby-Stein\|Robby Stein]] (PERSONNE, 1 fiches)
@@ -3099,6 +3113,7 @@
 - [[kb/_entites-mineures#surface-d'écriture-non-résolue\|surface d'écriture non résolue]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#surge-staffing\|surge staffing]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Surgical-Changes\|Surgical Changes]] (METHODOLOGIE, 1 fiches)
+- [[kb/Surya-Narreddi\|Surya Narreddi]] (PERSONNE, 1 fiches)
 - [[kb/swarm-concept\|swarm]] (CONCEPT, 2 fiches)
 - [[kb/Swarm-methodologie\|Swarm]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#SWE-bench\|SWE-bench]] (DOCUMENT, 1 fiches)

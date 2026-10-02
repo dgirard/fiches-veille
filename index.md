@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 424 fiches | 1975-12 → 2026-10-01 | généré le 2026-10-02
+> 425 fiches | 1975-12 → 2026-10-01 | généré le 2026-10-02
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -231,6 +231,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **05** [When Using AI Leads to "Brain Fry"](fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05.md) — Julie Bedard (BCG MD & Partner), Matthew Kropp (BCG MD & Senior Partner, CTO BCG X), Megan Hsu (BCG Project Leader), Olivia T. Karaman (UC Riverside / BCG), Jason Hawes (UC Riverside / BCG), Gabriella Rosen Kellerman (BCG Expert Partner, psychiatre, co-auteure *Tomorrowmind*) · HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman / BCG) — AI brain fry, cognitive fatigue, BCG study
 - **05** [It is amazing how many companies I talk to STILL have AI effectively blocked by IT & legal departments...](fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05.md) — Ethan Mollick · LinkedIn — adoption IA, blocage entreprise, IT
 - **05** [Local LLMs vs Cloud APIs: 2026 Total Cost of Ownership Analysis](fiches/2026-03/sitepoint-local-llms-vs-cloud-tco-break-even-2026-03-05.md) — SitePoint Team · SitePoint — TCO, coût total de possession, LLM local
+- **01** [Training AI to Paint with Code (RLing Qwen to paint with code)](fiches/2026-03/narreddi-training-ai-paint-with-code-2026-03-01.md) — Surya Narreddi — designer et développeur, auteur du projet (site personnel) ; collaborateurs Cameron Franz (infrastructure d'entraînement) et Alex Wang. · surya.website — apprentissage par renforcement, GRPO, fonction de récompense
 - **01** [Grep Is Dead: How I Made Claude Code Actually Remember Things](fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01.md) — Artem Zhutov (article/vidéo démonstration), Tobias Lütke (créateur QMD) · GitHub (Tobias Lütke) — QMD, moteur de recherche local, mémoire persistante
 
 ### 2026-02
@@ -1116,6 +1117,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM](fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29.md) — Mitch Ashley, VP et responsable des pratiques CIO & Technology Buyers et Software Lifecycle Engineering chez The Futurum Group, ancien CIO et CTO.
 - [Giving agents the ability to pay](fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29.md) — **Dan Hill** — Product Manager, **Link Consumer Product** chez Stripe. Auteur de l'annonce sur le blog Stripe, rubrique *Product*. Le rattachement au produit *Link Consumer* est significatif : l'annonce est écrite depuis le **portefeuille grand public**, pas depuis l'équipe protocole ni depuis Issuing — ce qui explique que le consentement de l'utilisateur final structure tout le texte.
 - [Using Claude Code: Session Management & 1M Context](fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14.md) — Thariq (@trq212)
+- [Training AI to Paint with Code (RLing Qwen to paint with code)](fiches/2026-03/narreddi-training-ai-paint-with-code-2026-03-01.md) — Surya Narreddi — designer et développeur, auteur du projet (site personnel) ; collaborateurs Cameron Franz (infrastructure d'entraînement) et Alex Wang.
 - [Plakar : la révolution française de la sauvegarde open source](fiches/2026-01/plakar-sauvegarde-open-source-deep-research-2026-01.md) — Deep Research Veille Interne
 - [Making Google Sans Flex](fiches/2025-12/google-sans-flex-font-evolution-design-2025-12-18.md) — Barbara Eldredge, Dave Crossland, Megan Lynch, Tobias Kunisch
 - [Conductor: Introducing context-driven development for Gemini CLI](fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17.md) — Keith Ballinger, Jay Kornder, Sherzat Aitbayev
@@ -1143,6 +1145,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [The AI Engineering Skills Map](fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14.md) — **Andrew Ng** — fondateur de **DeepLearning.AI**, general partner d'**AI Fund**, cofondateur de **Coursera** et de **Google Brain**, ancien chief scientist de Baidu. Texte signé, à la première personne, écrit *« with my team »* sans qu'aucun collaborateur soit nommé. Publié le **14 août 2026** sur X et dans ***The Batch* n°366** — même texte aux deux endroits ; préférer *The Batch* pour toute citation durable. Quatrième fiche Ng du corpus, après les lettres n°350 (24 avril), n°352 (8 mai) et n°359 (26 juin).
 - [How AI is expanding what people do at work (Work at the Frontier, rapport 1)](fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27.md) — **OpenAI Economic Research** — équipe de recherche économique d'OpenAI ; la page crédite simplement *« OpenAI »* et la classe sous les tags *Economic Research* et *2026*. Le billet est la porte d'entrée d'un **rapport PDF** (`work-at-the-frontier-report.pdf`) et s'adosse à un cadre antérieur de la même équipe, l'**AI Jobs Transition Framework**, dont il reprend la thèse que de nombreux métiers vont **se réorganiser** plutôt que disparaître.
 - [Diffusion Language Models Explained: How Google's Diffusion Gemma Works](fiches/2026-06/mindstudio-diffusion-language-models-gemma-2026-06-12.md) — MindStudio Team
+- [Training AI to Paint with Code (RLing Qwen to paint with code)](fiches/2026-03/narreddi-training-ai-paint-with-code-2026-03-01.md) — Surya Narreddi — designer et développeur, auteur du projet (site personnel) ; collaborateurs Cameron Franz (infrastructure d'entraînement) et Alex Wang.
 - [Traité d'Architecture Narrative et de Rhétorique de Conférence : Guide Global des Formats et des Structures de Communication](fiches/2026-02/guide-comparatif-formats-conference-narrations-deep-research-2026-02.md) — Deep Research Veille Interne
 - [Maîtriser Claude Code — Détail complet des 12 modules et ~60 leçons](fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02.md) — Deep Research Veille Interne
 - [Synthèse : Architectures Narratives & Formats de Conférence - Guide Pratique et Prompts](fiches/2026-02/synthese-prompts-formats-talks-deep-research-2026-02.md) — Deep Research Veille Interne
@@ -1203,8 +1206,8 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 424 fiches
-- **Par année** : 2026 (247) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 425 fiches
+- **Par année** : 2026 (248) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 159
   - Architecture & Construction : 59
@@ -1213,8 +1216,8 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Économie & Marché : 90
   - Philosophie & Société : 28
   - Stratégie & Frameworks : 34
-  - Outils & Plateformes : 60
-  - Recherche & Éducation : 14
+  - Outils & Plateformes : 61
+  - Recherche & Éducation : 15
   - Produits & Services : 15
   - Politique & Régulation : 28
 - **Auteurs (top 20)** :

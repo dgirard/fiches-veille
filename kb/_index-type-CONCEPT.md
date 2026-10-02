@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1035 entités de type CONCEPT
+> 1039 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -738,6 +738,7 @@
 - [[kb/_entites-mineures#gouvernance-des-agents\|gouvernance des agents]] — condition: Rôles, sécurité et responsabilités clairs — sans quoi déployer des milliers d'agents est « une impasse » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#goût-produit\|goût produit]] — définition: Product taste : capacité à choisir les bons problèmes, savoir quoi ne pas construire, définir le succès — érigée en compétence rare quand livrer devient bon marché (1 occ., 1 fiches)
 - [[kb/_entites-mineures#grille-d'évaluation-d'un-serveur-MCP\|grille d'évaluation d'un serveur MCP]] — définition: Cinq critères de décision proposés par graphify.net : transport, runtime, clients supportés, effort de mise en place et risques d'accès (1 occ., 1 fiches)
+- [[kb/_entites-mineures#grille-de-récompense\|grille de récompense]] — définition: Ensemble pondéré de signaux ; version finale à quatre composantes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#grown-software\|grown software]] — synonyme: Développement non-interactif (1 occ., 1 fiches)
 - [[kb/_entites-mineures#guardrails-IA\|guardrails IA]] — importance: Contrôle critique pour agents autonomes en environnements de production (1 occ., 1 fiches)
 - [[kb/_entites-mineures#génération-autorégressive\|génération autorégressive]] — catégorie: Paradigme dominant : génération token par token, gauche→droite, attention causale (1 occ., 1 fiches)
@@ -745,6 +746,7 @@
 - [[kb/_entites-mineures#générative-UI\|générative UI]] — catégorie: Interfaces générées dynamiquement par IA selon préférences utilisateur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#géopolitique-de-la-tech\|géopolitique de la tech]] — définition: Régionalisation des écosystèmes tech (US, Europe, Chine) imposant la fin de la solution mondiale unique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#h-index\|h-index]] — rôle: Exemple : mesure de réputation érodée par son usage comme cible (1 occ., 1 fiches)
+- [[kb/_entites-mineures#hallucination-d'API\|hallucination d'API]] — définition: Invention de méthodes inexistantes à partir d'une longue référence (1 occ., 1 fiches)
 - [[kb/_entites-mineures#hallucinations-IA\|hallucinations IA]] — description: Suggestions incorrectes ou trompeuses générées par un LLM (1 occ., 1 fiches)
 - [[kb/_entites-mineures#hallucinations-LLM\|hallucinations LLM]] — nature: fonctionnalité inhérente, non bug (1 occ., 1 fiches)
 - [[kb/_entites-mineures#hallucinations-techniques\|hallucinations techniques]] — exemple: CVE-9999 inexistante générée par agent lors de validation croisée (1 occ., 1 fiches)
@@ -854,8 +856,10 @@
 - [[kb/_entites-mineures#plan-Osez-l'IA\|plan Osez l'IA]] — définition: Initiative française 2025 de diffusion de l'IA : sensibilisation, accompagnement, formation (15 M de personnes, Académie de l'IA) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#plan-de-continuité-IA\|plan de continuité IA]] — définition: Multi-modèles + couche d'abstraction, bascule testée, clauses de réversibilité, cartographie d'exposition (1 occ., 1 fiches)
 - [[kb/_entites-mineures#plancher-statique-plafond-dynamique\|plancher statique / plafond dynamique]] — définition: Partage architectural : socle de politiques statiques vérifiables sous un moteur de raisonnement dynamique — invariant de conception que l'on retrouve dans l'anneau de contraintes SFEIR et le tiering par risque d'Anthropic (1 occ., 1 fiches)
+- [[kb/_entites-mineures#plateau-de-récompense\|plateau de récompense]] — définition: Stagnation à 0,65 sous la première grille (1 occ., 1 fiches)
 - [[kb/_entites-mineures#platform-team\|platform team]] — catégorie: Topologie Team Topologies (1 occ., 1 fiches)
 - [[kb/_entites-mineures#politique-FinOps-token\|politique FinOps token]] — définition: Pilotage de la dépense en tokens de scan (facturée à la consommation, croissante avec le débit de code) via le tiering par risque, plutôt que constatée en fin de mois (1 occ., 1 fiches)
+- [[kb/_entites-mineures#pool-de-références\|pool de références]] — définition: 581 images, dont 117 de niveau « love » notées à la main (1 occ., 1 fiches)
 - [[kb/_entites-mineures#portes-humaines\|portes humaines]] — définition: Define, Plan, Ship — points de décision non négociables réservés à l'humain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pression-surengagement\|pression surengagement]] — mécanisme: dire oui = aucun coût immédiat ; dire non = risque politique immédiat (1 occ., 1 fiches)
 - [[kb/_entites-mineures#principe-Model-Once-Represent-Everywhere\|principe "Model Once Represent Everywhere"]] — nature: Principe architectural central d'UDA (1 occ., 1 fiches)

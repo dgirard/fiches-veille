@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2952 entités avec moins de 3 triples/fiches
+> 2964 entités avec moins de 3 triples/fiches
 
-## PERSONNE (390)
+## PERSONNE (391)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -703,6 +703,16 @@
 - **dirige** → AI Products and Platforms (ORGANISATION) — 0.97
 
 **Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Accelerating the development of life-saving treatments — Moderna case study]]
+
+### Cameron Franz {#Cameron-Franz}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Collaborateur, infrastructure d'entraînement
+
+- [[kb/Surya-Narreddi\|Surya Narreddi]] **collabore_avec** → Cameron Franz — 0.95
+
+**Fiches** : [[fiches/2026-03/narreddi-training-ai-paint-with-code-2026-03-01\|Training AI to Paint with Code (RLing Qwen to paint with code)]]
 
 ### Camille Fournier {#Camille-Fournier}
 
@@ -7203,7 +7213,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (658)
+## TECHNOLOGIE (662)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -9176,6 +9186,16 @@
 
 **Fiches** : [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Building a C Compiler with a Team of Parallel Claudes]]
 
+### GEPA {#GEPA}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Bibliothèque d'optimisation de prompt par évolution
+
+- **réduit** → [[kb/_entites-mineures#hallucination-d'API\|hallucination d'API]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-03/narreddi-training-ai-paint-with-code-2026-03-01\|Training AI to Paint with Code (RLing Qwen to paint with code)]]
+
 ### GLM Coding Plan {#GLM-Coding-Plan}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -9899,6 +9919,16 @@
 - [[kb/Gemini-2.5-Flash-Lite\|Gemini 2.5 Flash-Lite]] **utilise** → Grounding with Google Search — 0.97
 
 **Fiches** : [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]]
+
+### HPSv3 {#HPSv3}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Modèle de préférence humaine, poids 0,30
+
+- **fait_partie_de** → [[kb/_entites-mineures#grille-de-récompense\|grille de récompense]] (CONCEPT) — 0.93
+
+**Fiches** : [[fiches/2026-03/narreddi-training-ai-paint-with-code-2026-03-01\|Training AI to Paint with Code (RLing Qwen to paint with code)]]
 
 ### HTTP 402 {#HTTP-402}
 
@@ -11659,6 +11689,16 @@
 - [[kb/Clef\|Clef]] **est_basé_sur** → Qwen — 0.96
 
 **Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]], [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]]
+
+### Qwen 3.5 35B {#Qwen-3.5-35B}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **usage** : Modèle de base entraîné
+
+- [[kb/projet-Paint-with-Code\|projet Paint with Code]] **utilise** → Qwen 3.5 35B — 0.93
+
+**Fiches** : [[fiches/2026-03/narreddi-training-ai-paint-with-code-2026-03-01\|Training AI to Paint with Code (RLing Qwen to paint with code)]]
 
 ### Qwen2.5-14b-2507 {#Qwen2.5-14b-2507}
 
@@ -13609,6 +13649,16 @@
 
 **Fiches** : [[fiches/2025-11/caseau-evolution-developpeur-ia-generative-2025-11-05\|L'IA dévore le logiciel : évolution du métier de développeur]]
 
+### p5.brush {#p5.brush}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Bibliothèque JavaScript de pinceaux pour p5
+
+- [[kb/projet-Paint-with-Code\|projet Paint with Code]] **utilise** → p5.brush — 0.97
+
+**Fiches** : [[fiches/2026-03/narreddi-training-ai-paint-with-code-2026-03-01\|Training AI to Paint with Code (RLing Qwen to paint with code)]]
+
 ### pi-ai {#pi-ai}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -14103,7 +14153,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (987)
+## CONCEPT (991)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -20866,6 +20916,20 @@
 
 **Fiches** : [[fiches/2026-08/graphify-net-annuaire-ia-coding-2026-08-06\|Graphify — Knowledge Graphs for AI Coding Assistants (site graphify.net : vitrine, annuaire d'outils et galerie de…]]
 
+### grille de récompense {#grille-de-récompense}
+
+**Type** : CONCEPT | 4 relations | 1 fiches
+
+- **définition** : Ensemble pondéré de signaux ; version finale à quatre composantes
+
+- **mesure** → « plateau à 0,65 avec neuf signaux, juges corrélés à 0,85-0,95 » (MESURE) — 0.95
+- **mesure** → « code réduit de 13 500 à moins de 2 000 jetons » (MESURE) — 0.93
+
+- [[kb/_entites-mineures#HPSv3\|HPSv3]] **fait_partie_de** → grille de récompense — 0.93
+- [[kb/jugement-par-paires\|jugement par paires]] **améliore** → grille de récompense — 0.90
+
+**Fiches** : [[fiches/2026-03/narreddi-training-ai-paint-with-code-2026-03-01\|Training AI to Paint with Code (RLing Qwen to paint with code)]]
+
 ### grown software {#grown-software}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -20931,6 +20995,16 @@
 - [[kb/loi-de-Goodhart\|loi de Goodhart]] **s_applique_à** → h-index — 0.88
 
 **Fiches** : [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Goodhart's law]]
+
+### hallucination d'API {#hallucination-d'API}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Invention de méthodes inexistantes à partir d'une longue référence
+
+- [[kb/_entites-mineures#GEPA\|GEPA]] **réduit** → hallucination d'API — 0.90
+
+**Fiches** : [[fiches/2026-03/narreddi-training-ai-paint-with-code-2026-03-01\|Training AI to Paint with Code (RLing Qwen to paint with code)]]
 
 ### hallucinations IA {#hallucinations-IA}
 
@@ -21974,6 +22048,16 @@
 
 **Fiches** : [[fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20\|Beyond Zero: Enterprise security for the AI era]]
 
+### plateau de récompense {#plateau-de-récompense}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Stagnation à 0,65 sous la première grille
+
+- [[kb/jugement-par-paires\|jugement par paires]] **résout** → plateau de récompense — 0.92
+
+**Fiches** : [[fiches/2026-03/narreddi-training-ai-paint-with-code-2026-03-01\|Training AI to Paint with Code (RLing Qwen to paint with code)]]
+
 ### platform team {#platform-team}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -21994,6 +22078,16 @@
 - [[kb/_entites-mineures#tiering-par-risque\|tiering par risque]] **est_instance_de** → politique FinOps token — 0.95
 
 **Fiches** : [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+
+### pool de références {#pool-de-références}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : 581 images, dont 117 de niveau « love » notées à la main
+
+- [[kb/jugement-par-paires\|jugement par paires]] **utilise** → pool de références — 0.93
+
+**Fiches** : [[fiches/2026-03/narreddi-training-ai-paint-with-code-2026-03-01\|Training AI to Paint with Code (RLing Qwen to paint with code)]]
 
 ### portes humaines {#portes-humaines}
 
@@ -23677,7 +23771,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (393)
+## METHODOLOGIE (395)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -24707,6 +24801,16 @@
 
 **Fiches** : [[fiches/2026-05/dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28\|Beyond code generation: rethinking engineering productivity in the age of AI agents]]
 
+### GRPO {#GRPO}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Algorithme de RL utilisé pour les mises à jour
+
+- [[kb/projet-Paint-with-Code\|projet Paint with Code]] **utilise** → GRPO — 0.97
+
+**Fiches** : [[fiches/2026-03/narreddi-training-ai-paint-with-code-2026-03-01\|Training AI to Paint with Code (RLing Qwen to paint with code)]]
+
 ### Generative AI Champions {#Generative-AI-Champions}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -25308,6 +25412,16 @@
 - [[kb/Clef\|Clef]] **utilise** → RLCD — 0.95
 
 **Fiches** : [[fiches/2026-09/almeida-system-one-models-jev-2026-09-15\|Introducing System One Models & Jev]], [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]]
+
+### RLVR {#RLVR}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : RL à récompenses vérifiables, opposé au cas esthétique
+
+- [[kb/projet-Paint-with-Code\|projet Paint with Code]] **s_oppose_à** → RLVR — 0.75
+
+**Fiches** : [[fiches/2026-03/narreddi-training-ai-paint-with-code-2026-03-01\|Training AI to Paint with Code (RLing Qwen to paint with code)]]
 
 ### Ralph Loop {#Ralph-Loop}
 
@@ -28189,7 +28303,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (150)
+## DOCUMENT (151)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -29475,6 +29589,16 @@
 - [[kb/Ethan-Mollick\|Ethan Mollick]] **publie** → article The Dot and the Swarm — 0.98
 
 **Fiches** : [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
+
+### article Training AI to Paint with Code {#article-Training-AI-to-Paint-with-Code}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **date** : 2026-03
+
+- [[kb/Surya-Narreddi\|Surya Narreddi]] **publie** → article Training AI to Paint with Code — 0.97
+
+**Fiches** : [[fiches/2026-03/narreddi-training-ai-paint-with-code-2026-03-01\|Training AI to Paint with Code (RLing Qwen to paint with code)]]
 
 ### article What if the future does not need you {#article-What-if-the-future-does-not-need-you}
 

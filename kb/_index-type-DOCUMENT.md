@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 176 entités de type DOCUMENT
+> 177 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -147,6 +147,7 @@
 - [[kb/_entites-mineures#article-Introducing-System-One-Models-&-Jev\|article Introducing System One Models & Jev]] — date: 2026-09-15 (1 occ., 1 fiches)
 - [[kb/article-Personal-AI-Should-Actually-Be-Personal\|article Personal AI Should Actually Be Personal]] — forme: Fil X du 29 septembre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-The-Dot-and-the-Swarm\|article The Dot and the Swarm]] — date: 2026-10-01 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#article-Training-AI-to-Paint-with-Code\|article Training AI to Paint with Code]] — date: 2026-03 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-What-if-the-future-does-not-need-you\|article What if the future does not need you]] — forme: Essai en cinq parties titrées en anglais, publié sur Substack le 20 septembre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-de-Paul-Sawers-(16-juin-2026)\|article de Paul Sawers (16 juin 2026)]] — catégorie: Article The New Stack (Paul Sawers, 16 juin 2026) sur la suspension de la scission de facturation de l'Agent SDK, replacée dans son contexte sectoriel et réglementaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#bands.yaml\|bands.yaml]] — rôle: Config versionnée des bandes de contrôle production et des paliers d'autonomie associés (1 occ., 1 fiches)

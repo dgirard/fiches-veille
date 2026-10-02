@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 451 entités de type METHODOLOGIE
+> 455 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -119,6 +119,7 @@
 - [[kb/_entites-mineures#Framework-Leader-Lab-Crowd\|Framework Leader-Lab-Crowd]] — structure: Trois cercles : dirigeants fluents, lab HR/business, masse des power users cachés (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Fuel-Adoption-Output-Impact\|Fuel-Adoption-Output-Impact]] — définition: Modèle de mesure de productivité en 4 étages (1 occ., 1 fiches)
 - [[kb/GDPval\|GDPval]] — méthode: Experts 14 ans d'expérience, évaluation en aveugle (4 occ., 3 fiches)
+- [[kb/_entites-mineures#GRPO\|GRPO]] — définition: Algorithme de RL utilisé pour les mises à jour (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Generative-AI-Champions\|Generative AI Champions]] — structure: Cohorte des 100 power users IA chez Moderna (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Goal-Driven-Execution\|Goal-Driven Execution]] — objectif: Convertir tâches en critères de succès vérifiables (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Google-SRE\|Google SRE]] — domaine: gestion incidents et fiabilité (1 occ., 1 fiches)
@@ -189,6 +190,7 @@
 - [[kb/_entites-mineures#Quizzes\|Quizzes]] — règle: Ne merger qu'après avoir réussi parfaitement le quiz sur le changement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#RED-GREEN-TDD\|RED/GREEN TDD]] — description: Test échouant d'abord, puis code minimal pour le faire passer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#RLCD\|RLCD]] — définition: Reinforcement Learning for Calibrated Decisions, avec crédit partiel aux choix ordinaux adjacents (2 occ., 2 fiches)
+- [[kb/_entites-mineures#RLVR\|RLVR]] — définition: RL à récompenses vérifiables, opposé au cas esthétique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ralph-Loop\|Ralph Loop]] — définition: Hook qui intercepte la sortie du modèle et ré-injecte le prompt original dans une fresh context window pour exécution multi-session (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Recursive-Tool-Building\|Recursive Tool Building]] — principe: Construire un outil pour créer un outil — approche méta-cognitive (1 occ., 1 fiches)
 - [[kb/_entites-mineures#References\|References]] — principe: La meilleure référence est du code source (même dans un autre langage) (1 occ., 1 fiches)
@@ -350,6 +352,7 @@
 - [[kb/_entites-mineures#intent-engineering\|intent engineering]] — rôle: Traduire des objectifs métier ambigus en spécifications testables pour les agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#islands-architecture\|islands architecture]] — rôle: Composition d'îles UI dans un contexte unique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#jailbreaking\|jailbreaking]] — technique: Fragmentation de tâches + fausse identité cybersécurité (1 occ., 1 fiches)
+- [[kb/jugement-par-paires\|jugement par paires]] — définition: Récompense = fraction de comparaisons gagnées contre des références (1 occ., 1 fiches)
 - [[kb/_entites-mineures#learnings-researcher\|learnings-researcher]] — rôle: Protocole de récupération grep-first partagé par 5 skills (1 occ., 1 fiches)
 - [[kb/_entites-mineures#les-3-gates\|les 3 gates]] — définition: Spécification, planification, revue de livraison (contrôle humain) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#lesson-foundry\|lesson foundry]] — sorties: Règles de lint (déterministe), skills (contextuel), nouvelles questions d'interrogation (specs) (1 occ., 1 fiches)
@@ -387,6 +390,7 @@
 - [[kb/_entites-mineures#private-evals\|private evals]] — rôle: Mesurer l'amélioration d'un modèle sur les résultats métier internes (1 occ., 1 fiches)
 - [[kb/procédure-infographique\|procédure infographique]] — inspiration: Steve Jobs, obsession de la perfection (1 occ., 1 fiches)
 - [[kb/_entites-mineures#progressive-disclosure\|progressive disclosure]] — principe: Orienter vers le bon fichier de référence selon la situation (1 occ., 1 fiches)
+- [[kb/projet-Paint-with-Code\|projet Paint with Code]] — définition: Entraînement par RL d'un LLM à générer des peintures sous forme de code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#property-based-testing\|property-based testing]] — rôle: Complément de vérification face aux limites du test automatisé classique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#prosecution\|prosecution]] — définition: Revue de code conçue comme une accusation adversariale visant à réfuter, pas à évaluer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#prototype-dogfood-productionize\|prototype dogfood productionize]] — boucle: Agent interne construit avec Claude Code, éprouvé en interne, puis promu en produit client via API, SDK ou Claude Managed Agents (1 occ., 1 fiches)

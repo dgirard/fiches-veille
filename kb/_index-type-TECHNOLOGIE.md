@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 839 entités de type TECHNOLOGIE
+> 843 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -253,6 +253,7 @@
 - [[kb/_entites-mineures#Frameworks-d'agents\|Frameworks d'agents]] — catégorie: Plateformes d'orchestration d'agents (état machine, routage, graphes) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GBrain\|GBrain]] — catégorie: Mémoire markdown pour agents de Garry Tan (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GCC\|GCC]] — rôle: Oracle de référence pour répartition des tâches (1 occ., 1 fiches)
+- [[kb/_entites-mineures#GEPA\|GEPA]] — catégorie: Bibliothèque d'optimisation de prompt par évolution (1 occ., 1 fiches)
 - [[kb/GKG\|GKG]] — définition: GitLab Knowledge Graph — parsing AST via Tree-sitter, graphe de connaissances code dans Kuzu, requêtes structurelles (appelants, hiérarchies, signatures) (1 occ., 1 fiches)
 - [[kb/GLM\|GLM]] — définition: Famille de modèles de langage à poids ouverts du laboratoire chinois Z.ai (ex-Zhipu AI). Entité parente des releases GLM-5.1, GLM-5.2 et GLM-5.3, qui en sont les variantes datées ; les caractéristiques propres à chaque release restent portées par sa propre entité (3 occ., 3 fiches)
 - [[kb/_entites-mineures#GLM-Coding-Plan\|GLM Coding Plan]] — définition: Abonnement codage de Z.ai passé en août 2026 à un système de quotas en points, comptés séparément pour l'entrée, l'entrée en cache et la sortie. Heures pleines 14h-18h UTC+8 du lundi au vendredi ; tout le reste, week-ends inclus, à 50 % du barème — soit, pour une équipe européenne, une fenêtre pleine correspondant à la matinée de travail (1 occ., 1 fiches)
@@ -343,6 +344,7 @@
 - [[kb/_entites-mineures#Grok-1\|Grok-1]] — catégorie: Modèle LLM dont Phoenix (ranker X) est dérivé, base architecture transformer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Grounding-with-Google-Search\|Grounding with Google Search]] — rôle: Outil d'ancrage factuel disponible pour le modèle, facturé séparément (1 occ., 1 fiches)
 - [[kb/Grox\|Grox]] — rôle: Service offline de content understanding (classifieurs spam/safety/PTOS/banger + embedder multimodal v5), écrit vers feature store (1 occ., 1 fiches)
+- [[kb/_entites-mineures#HPSv3\|HPSv3]] — catégorie: Modèle de préférence humaine, poids 0,30 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#HTTP-402\|HTTP 402]] — description: Code statut Payment Required créé en 1997, jamais implémenté (1 occ., 1 fiches)
 - [[kb/_entites-mineures#HVE-Core\|HVE Core]] — catégorie: Boîte à outils open source Microsoft de pratiques, agents et skills (Research, Plan, Implement, Review) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Haiku\|Haiku]] — usage: Éditions triviales/mécaniques (model override) (1 occ., 1 fiches)
@@ -556,6 +558,7 @@
 - [[kb/_entites-mineures#Qodo-Gen\|Qodo Gen]] — catégorie: Agent IDE de génération de code et de tests (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Qodo-Merge\|Qodo Merge]] — catégorie: Agent Git de revue de code automatisée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Qwen\|Qwen]] — statut: Versions 3.5, 3.6 et 3.7 déclarées entraînées sur des traces de raisonnement extraites d'Opus 4.6 et 4.7 (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Qwen-3.5-35B\|Qwen 3.5 35B]] — usage: Modèle de base entraîné (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Qwen2.5-14b-2507\|Qwen2.5-14b-2507]] — catégorie: Modèle open-source (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Qwen3Guard\|Qwen3Guard]] — positionnement: Modèle de sûreté concurrent, version 8B mesurée à 84,0 % de F1 texte dans les benchmarks Mistral (1 occ., 1 fiches)
 - [[kb/RADAR\|RADAR]] — mécanisme: Risk Aware Diff Auto Review de Meta : automatise la revue d'un sous-ensemble de diffs à risque faible-à-moyen et route les autres vers des humains, avec critères d'éligibilité explicites (1 occ., 1 fiches)
@@ -788,6 +791,7 @@
 - [[kb/_entites-mineures#npm\|npm]] — mesure: Version moins risquée déjà disponible dans 46,9 % des sélections vulnérables (1 occ., 1 fiches)
 - [[kb/_entites-mineures#opencode\|opencode]] — usage: Harnais de codage configuré avec deux fournisseurs Vertex et des sous-agents worker (Flash) et deep-thinker (Fable) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#orchestration-agentique\|orchestration agentique]] — statut: Vecteur principal de l'évolution du vibe coding (1 occ., 1 fiches)
+- [[kb/_entites-mineures#p5.brush\|p5.brush]] — catégorie: Bibliothèque JavaScript de pinceaux pour p5 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pi-ai\|pi-ai]] — rôle: Bibliothèque tierce (`@earendil-works/pi-ai`) derrière l'adaptateur `dsh-llm-pi-ai`, second fournisseur LLM livré avec DeepSeek Harness aux côtés de l'adaptateur DeepSeek natif. Une instance détient un dictionnaire de profils par route ; une route absente du catalogue se déclare intégralement, de sorte qu'un gateway OpenAI-compatible ou un serveur auto-hébergé relève de la configuration et non du code. C'est la preuve vérifiable que le harnais n'est pas verrouillé sur les modèles DeepSeek (1 occ., 1 fiches)
 - [[kb/pipeline-de-rapprochement-des-paiements-non-identifiés\|pipeline de rapprochement des paiements non identifiés]] — catégorie: Pipeline Python en 3 étapes, exposé comme skill `/treasury` dans Claude Code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#plateforme-d'IA-générative\|plateforme d'IA générative]] — architecture: Orchestrateurs + API = indépendance modèle (anti lock-in) (1 occ., 1 fiches)
