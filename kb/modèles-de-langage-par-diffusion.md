@@ -30,7 +30,7 @@
 
 ## Relations (comme objet)
 
-- [[kb/Diffusion-Gemma\|Diffusion Gemma]] **est_instance_de** → modèles de langage par diffusion — 0.96
+- [[kb/DiffusionGemma\|DiffusionGemma]] **est_instance_de** → modèles de langage par diffusion — 0.96
 
 ## Fiches sources
 

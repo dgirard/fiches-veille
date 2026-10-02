@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 422 fiches | 1975-12 → 2026-10-01 | généré le 2026-10-01
+> 424 fiches | 1975-12 → 2026-10-01 | généré le 2026-10-02
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-10
 
+- **01** [Introducing Clef: our open-source decision models, and new RL fine-tuning platform](fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01.md) — Michelle Chen, Alex Reneau, Kevin Flansburg — équipe Workers AI / plateforme IA, blog Cloudflare. · Cloudflare Blog — Clef, Clef-flash, modèle de décision
 - **01** [Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)](fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01.md) — Daniel Meppiel — travaille avec des équipes d'ingénierie d'entreprise chez Microsoft et GitHub ; post LinkedIn. · LinkedIn — Agentic SDLC, SDLC agentique, skills
 - **01** [The Dot and the Swarm: Benefitting from the Bitter Lesson](fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01.md) — Ethan Mollick — professeur à la Wharton School (University of Pennsylvania), auteur de *One Useful Thing* (Substack). · One Useful Thing — Bitter Lesson, leçon amère, management d'agents
 
@@ -23,6 +24,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **25** [Nope. It's still true. (post X en réponse à Noah Smith)](fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25.md) — Yann LeCun — fondateur et président d'AMI Labs, professeur à NYU, ex-Chief AI Scientist de Meta, prix Turing. Post X. · Yann LeCun (X) — Yann LeCun, AMI Labs, NYU
 - **20** [Philippe Corrot, fondateur de Mirakl](fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20.md) — Philippe Corrot, cofondateur et co-CEO de Mirakl, interrogé par Éric Hazan dans *Les Pirates de l'IA* (RCJ). · Les Pirates de l'IA (RCJ) — place de marché, marketplace, modèle de plateforme
 - **20** [WHAT IF THE FUTURE DOES NOT NEED YOU ?](fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20.md) — Asma Mhalla, politiste, autrice de *Technopolitique* ; newsletter *Dangerous Ideas* (Substack). · Dangerous Ideas — peur de devenir superflu, remplacement, compatibilité narrative
+- **15** [Introducing System One Models & Jev](fiches/2026-09/almeida-system-one-models-jev-2026-09-15.md) — Diogo Almeida — fondateur de TypeSafe AI, ancien chercheur chez OpenAI (billet du blog d'entreprise). · TypeSafe AI — System One, modèle de décision, Jev
 - **14** [Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team](fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14.md) — Alan Blount (Technical Solutions Consultant, Google Cloud, @zeroasterisk), publié sur le compte X @GoogleCloudTech. · X @GoogleCloudTech (Alan Blount) — routage de modèles, coordination asymétrique, tokenomics
 - **14** [The Evaporation of Software Engineering (and the Rise of the Agentic Builder)](fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14.md) — Donn Felker (responsable plateforme IA chez Polygon, ex-Tinder, ex-co-animateur du podcast Fragmented), sur son Substack donnfelker.substack.com. · donnfelker.substack.com (Donn Felker) — agentic builder, Agentic Product Engineer, identité professionnelle
 - **14** [Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic](fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14.md) — Sachin Malhotra (ingénieur, Anthropic), sur le blog claude.com. · claude.com (Sachin Malhotra, Anthropic) — intégration continue, CI, test impact analysis
@@ -537,6 +539,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Agents de codage IA & Skills
 
+- [Introducing Clef: our open-source decision models, and new RL fine-tuning platform](fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01.md) — Michelle Chen, Alex Reneau, Kevin Flansburg — équipe Workers AI / plateforme IA, blog Cloudflare.
 - [Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)](fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01.md) — Daniel Meppiel — travaille avec des équipes d'ingénierie d'entreprise chez Microsoft et GitHub ; post LinkedIn.
 - [The Dot and the Swarm: Benefitting from the Bitter Lesson](fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01.md) — Ethan Mollick — professeur à la Wharton School (University of Pennsylvania), auteur de *One Useful Thing* (Substack).
 - [Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI](fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30.md) — Zach Davis (LaunchDarkly), Michelle Gill (Engineered by AI), Elisabeth Hendrickson (Curious Duck), Angie Jones (Agentic AI Foundation), Sha Ma (Topogy), Randy Shoup (CircleCI), James Wickett (DryRun Security) ; article collectif, IT Revolution.
@@ -699,6 +702,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Architecture & Construction
 
 - [Context Filter](fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26.md) — Assaf Elovic, créateur de GPT Researcher, auteur de la page (documentation officielle docs.gptr.dev, non signée).
+- [Introducing System One Models & Jev](fiches/2026-09/almeida-system-one-models-jev-2026-09-15.md) — Diogo Almeida — fondateur de TypeSafe AI, ancien chercheur chez OpenAI (billet du blog d'entreprise).
 - [Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic](fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14.md) — Sachin Malhotra (ingénieur, Anthropic), sur le blog claude.com.
 - [« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique](fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06.md) — SFEIR AI (voix éditoriale du cabinet), article non signé individuellement. Restitue un entretien de Matthieu Grymonprez (Adeo) et Romain Taillade (Decathlon).
 - [Maybe We Shouldn't Be Reviewing All This Code](fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02.md) — Rachel Laycock, CTO de Thoughtworks, sur *Rachel's Ramblings* (martinfowler.com).
@@ -1070,8 +1074,10 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Outils & Plateformes
 
+- [Introducing Clef: our open-source decision models, and new RL fine-tuning platform](fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01.md) — Michelle Chen, Alex Reneau, Kevin Flansburg — équipe Workers AI / plateforme IA, blog Cloudflare.
 - [Automating eval design and hillclimbing with Claude](fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28.md) — Lance Martin (Anthropic), blog claude.dev, avec remerciements à Misha Khalman pour le développement de la skill.
 - [Context Filter](fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26.md) — Assaf Elovic, créateur de GPT Researcher, auteur de la page (documentation officielle docs.gptr.dev, non signée).
+- [Introducing System One Models & Jev](fiches/2026-09/almeida-system-one-models-jev-2026-09-15.md) — Diogo Almeida — fondateur de TypeSafe AI, ancien chercheur chez OpenAI (billet du blog d'entreprise).
 - [Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team](fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14.md) — Alan Blount (Technical Solutions Consultant, Google Cloud, @zeroasterisk), publié sur le compte X @GoogleCloudTech.
 - [Do you even need a presentation?](fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08.md) — Sumeet Gayathri Moghe (global head of culture and organisational design, Thoughtworks), publié sur martinfowler.com ; relecture éditoriale de Martin Fowler.
 - [Portal by Spotify cut my Claude Code token usage by 90%](fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03.md) — Dimitri Mazmanov (Principal Product Manager, Spotify), sur le blog d'ingénierie engineering.atspotify.com.
@@ -1148,7 +1154,9 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Produits & Services
 
+- [Introducing Clef: our open-source decision models, and new RL fine-tuning platform](fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01.md) — Michelle Chen, Alex Reneau, Kevin Flansburg — équipe Workers AI / plateforme IA, blog Cloudflare.
 - [Personal AI Should Actually Be Personal](fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29.md) — Ryan Sarver (@rsarver), auteur du fil sur X ; fonction non indiquée dans le texte.
+- [Introducing System One Models & Jev](fiches/2026-09/almeida-system-one-models-jev-2026-09-15.md) — Diogo Almeida — fondateur de TypeSafe AI, ancien chercheur chez OpenAI (billet du blog d'entreprise).
 - [Designing AI with character: what we learned building Berd](fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18.md) — **Aucun auteur nommé** : le billet est signé **« Block »** — le champ *Author* de la page porte le nom de l'entreprise. Publié le **18 août 2026** sur `block.xyz/inside`, le blog **corporate**, et non sur `engineering.block.xyz`.
 - [Block explores how to price AI](fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06.md) — **Justin Bachman** — Senior Reporter, **Payments Dive** (groupe Industry Dive). Journaliste sectoriel paiements ; signe ici un **Dive Brief**, format court en deux temps (*Dive Brief* = les faits du jour, *Dive Insight* = le contexte) qui compile une conférence de résultats, une lettre aux actionnaires, un communiqué et trois notes d'analystes.
 - [Introducing Muse Code and Muse Spark 1.2](fiches/2026-08/meta-muse-code-muse-spark-1-2-2026-08-05.md) — **Meta AI Research** — publication institutionnelle sans auteur nommé, sur `research.meta.ai`. Le billet renvoie à un **rapport** pour la méthodologie d'évaluation, non repris ici.
@@ -1195,19 +1203,19 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 422 fiches
-- **Par année** : 2026 (245) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 424 fiches
+- **Par année** : 2026 (247) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 158
-  - Architecture & Construction : 58
+  - Agents de codage IA & Skills : 159
+  - Architecture & Construction : 59
   - Transformation & Adoption : 92
   - Qualité & Sécurité : 52
   - Économie & Marché : 90
   - Philosophie & Société : 28
   - Stratégie & Frameworks : 34
-  - Outils & Plateformes : 58
+  - Outils & Plateformes : 60
   - Recherche & Éducation : 14
-  - Produits & Services : 13
+  - Produits & Services : 15
   - Politique & Régulation : 28
 - **Auteurs (top 20)** :
   - Ethan Mollick (13)
@@ -1245,9 +1253,9 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - The Batch / DeepLearning.AI (3)
   - Addy Osmani (3)
   - a16z (3)
+  - Cloudflare Blog (2)
   - Anthropic (blog claude.com) (2)
   - VentureBeat (2)
   - Cloudflare (2)
   - The New Stack (2)
   - Netflix (2)
-  - LinkedIn (Philippe Ensarguet) (2)

@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 534 entités de type PERSONNE
+> 536 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -148,6 +148,7 @@
 - [[kb/Didier-Girard\|Didier Girard]] — rôle: Auteur de la note ; lit un lancement produit comme la mise en production d'une doctrine, valide la cohérence architecturale mais refuse les chiffres du constructeur comme preuve et documente trois manques opérationnels (4 occ., 4 fiches)
 - [[kb/Dimitri-Mazmanov\|Dimitri Mazmanov]] — rôle: Principal Product Manager chez Spotify ; auteur du plugin shunt et du billet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dina-Kozlov\|Dina Kozlov]] — rôle: Auteur de l'article Cloudflare Blog (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Diogo-Almeida\|Diogo Almeida]] — rôle: Fondateur de TypeSafe AI, ancien d'OpenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dion-Hinchcliffe\|Dion Hinchcliffe]] — rôle: Lead CIO practice, The Futurum Group (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Donald-T.-Campbell\|Donald T. Campbell]] — rôle: Psychologue social, auteur de la loi de Campbell (1 occ., 1 fiches)
 - [[kb/Donn-Felker\|Donn Felker]] — rôle: Responsable plateforme IA chez Polygon, ex-Tinder ; ex-spécialiste Android (Kotlin), ex-co-animateur du podcast Fragmented ; auteur de l'essai (1 occ., 1 fiches)
@@ -351,6 +352,7 @@
 - [[kb/_entites-mineures#Michal-Zalewski\|Michal Zalewski]] — rôle: Distinguished Engineer chez Google, pilote la stratégie d'Alphabet Security ; alias lcamtuf, figure historique de la sécurité offensive, ex-CISO de Snap (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michel-Serres\|Michel Serres]] — dates: 1930-2019, philosophe français (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michele-Catasta\|Michele Catasta]] — rôle: VP IA, Replit (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Michelle-Chen\|Michelle Chen]] — rôle: Co-autrice, équipe Workers AI de Cloudflare (1 occ., 1 fiches)
 - [[kb/Mike-Taylor\|Mike Taylor]] — rôle: Co-auteur (Every), auteur AI/prompt (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mira-Murati\|Mira Murati]] — rôle_précédent: CTO d'OpenAI (1 occ., 1 fiches)
 - [[kb/Mitch-Ashley\|Mitch Ashley]] — rôle: VP et responsable des pratiques CIO & Technology Buyers et Software Lifecycle Engineering chez The Futurum Group, ancien CIO et CTO (1 occ., 1 fiches)

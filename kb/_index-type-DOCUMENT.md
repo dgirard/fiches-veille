@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 174 entités de type DOCUMENT
+> 176 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -126,6 +126,7 @@
 - [[kb/The-Software-Architect-Elevator\|The Software Architect Elevator]] — description: Livre Gregor Hohpe (O'Reilly 2020) — communication architecte entre business et tech, source de plusieurs concepts du talk (3 occ., 3 fiches)
 - [[kb/The-Token-Manifesto\|The Token Manifesto]] — catégorie: Manifeste satirique (pastiche de l'Agile) sur l'efficacité des tokens (2 occ., 1 fiches)
 - [[kb/_entites-mineures#The-state-of-open-source-AI\|The state of open source AI]] — référence: Rapport récurrent de Mozilla, v1.0.1, juillet 2026 ; sept sections, données Artificial Analysis, Epoch AI, OpenRouter, LMArena et enquête Mozilla/SlashData 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Thinking,-Fast-and-Slow\|Thinking, Fast and Slow]] — auteur: Daniel Kahneman, source du nom System One (1 occ., 1 fiches)
 - [[kb/Threat-Intelligence-Report-septembre-2026\|Threat Intelligence Report septembre 2026]] — nature: Quatrième rapport de menaces d'Anthropic ; décembre 2025-août 2026 ; sept domaines ; ~36 000 mots avec indicateurs de compromission (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Token-Budget-Wars\|Token Budget Wars]] — description: Essai-thread X 28 mai 2026 (230,5K vues) : l'IA d'entreprise passe de l'adoption à l'allocation ; phase 2 = combien de travail vaut la peine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tokenomics-foundation-l'ère-du-FinOps-appliqué-à-l'IA-est-officiellement-ouverte\|Tokenomics foundation : l'ère du FinOps appliqué à l'IA est officiellement ouverte]] — catégorie: Tribune d'analyse / décryptage d'actualité (~4 min) (1 occ., 1 fiches)
@@ -143,6 +144,7 @@
 - [[kb/article-Agentic-AI-and-Code-Reviews\|article Agentic AI and Code Reviews]] — forme: Article collectif en neuf patrons, trois études de cas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-Automating-eval-design-and-hillclimbing\|article Automating eval design and hillclimbing]] — nature: Playbook du blog claude.dev, 28 septembre 2026 (1 occ., 1 fiches)
 - [[kb/article-GLM-5.3-and-the-spread-of-advanced-cyber-capabilities\|article GLM-5.3 and the spread of advanced cyber capabilities]] — forme: Billet de recherche du 29 septembre 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#article-Introducing-System-One-Models-&-Jev\|article Introducing System One Models & Jev]] — date: 2026-09-15 (1 occ., 1 fiches)
 - [[kb/article-Personal-AI-Should-Actually-Be-Personal\|article Personal AI Should Actually Be Personal]] — forme: Fil X du 29 septembre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-The-Dot-and-the-Swarm\|article The Dot and the Swarm]] — date: 2026-10-01 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-What-if-the-future-does-not-need-you\|article What if the future does not need you]] — forme: Essai en cinq parties titrées en anglais, publié sur Substack le 20 septembre 2026 (1 occ., 1 fiches)

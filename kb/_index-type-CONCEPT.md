@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1032 entités de type CONCEPT
+> 1035 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -454,6 +454,7 @@
 - [[kb/_entites-mineures#Superworker\|Superworker]] — définition: Concept Bersin : employé augmenté par l'IA, mode bottom-up (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Surapprentissage-de-l'évaluation\|Surapprentissage de l'évaluation]] — symptôme: Train en hausse, test plat ; ajouts au harnais sans effet en production (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Surcharge-cognitive\|Surcharge cognitive]] — risque: Burn-out à l'ère agentique ; un client réduit volontairement sa cadence de bolts (1 occ., 1 fiches)
+- [[kb/_entites-mineures#System-One-Models\|System One Models]] — définition: Modèles produisant des décisions typées et probabilistes, sans génération de texte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sémantique-data\|Sémantique data]] — enjeu: Une définition unique par concept métier, lisible par un agent ; attaque par verticales (1 occ., 1 fiches)
 - [[kb/_entites-mineures#TCO-(Total-Cost-of-Ownership)\|TCO (Total Cost of Ownership)]] — rôle: Cadre de décision local vs cloud (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tailwinds-AI\|Tailwinds AI]] — définition: (1) Productivity sales/marketing/R&D ; (2) Transformations réussies = +10-25% EBITDA ; (3) Outcome-based pricing fixed seats → labor/operations ; (4) Incumbents avantage customer relationships + embedded workflows (1 occ., 1 fiches)
@@ -803,6 +804,7 @@
 - [[kb/_entites-mineures#modes-de-défaillance-des-modèles\|modes de défaillance des modèles]] — liste: F1 satisfaction prématurée, F2 sycophancie, F3 context rot, F4 hallucination confiante, F5 reward hacking, F6 biais du nombre de findings, F7 bloat génératif, F8 perte de cohérence (1 occ., 1 fiches)
 - [[kb/_entites-mineures#modèle-System-One\|modèle System One]] — définition: Modèle répondant à des questions typées sur une entrée avec des probabilités calibrées plutôt que par génération de texte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#modèle-de-domaine\|modèle de domaine]] — rôle: Structure les objets métier avec comportements exposables comme outils aux LLMs (1 occ., 1 fiches)
+- [[kb/_entites-mineures#modèle-de-décision\|modèle de décision]] — définition: Modèle renvoyant des sorties typées bornées avec probabilités, destiné à être inséré dans un workflow (1 occ., 1 fiches)
 - [[kb/_entites-mineures#modèles-de-monde-interactifs\|modèles de monde interactifs]] — différence_clé: Cohérence temps réel sans modification des frames passées (1 occ., 1 fiches)
 - [[kb/_entites-mineures#moment-Gutenberg-logiciel\|moment Gutenberg logiciel]] — signification: démocratisation comparable à l'imprimerie (1 occ., 1 fiches)
 - [[kb/_entites-mineures#moment-Kodak\|moment Kodak]] — signification: disruption technologique irréversible (1 occ., 1 fiches)
@@ -1017,6 +1019,7 @@
 - [[kb/_entites-mineures#écart-adoption-IA\|écart adoption IA]] — chiffre: 70% expérimentent, seulement 20% deviennent utilisateurs réguliers (1 occ., 1 fiches)
 - [[kb/_entites-mineures#écart-expérimentation-production\|écart expérimentation-production]] — nature: Problème structurel du déploiement enterprise des agents IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#écart-opérationnel\|écart opérationnel]] — définition: Retard structurel du stack ouvert sur la standardisation et la préparation entreprise, qui explique que l'adoption dépasse l'ouvert mais que la mise en production reste derrière (1 occ., 1 fiches)
+- [[kb/_entites-mineures#échantillonnage-parallèle\|échantillonnage parallèle]] — définition: Toutes les sorties produites en une seule requête, sans génération jeton par jeton (1 occ., 1 fiches)
 - [[kb/_entites-mineures#échec-silencieux\|échec silencieux]] — définition: Classe de risque propre aux systèmes à base de LLM : contrairement au logiciel traditionnel qui plante, ils continuent avec assurance à qualité réduite et produisent une sortie plausible. Cas rapporté : une constante vidée faisait supprimer tous les chiffres de tous les prompts pendant plusieurs releases, panne longtemps imputée à tort à la tendance du modèle à inventer des chiffres (1 occ., 1 fiches)
 - [[kb/_entites-mineures#échelle-d'adoption\|échelle d'adoption]] — stades: 0 manuel → 5 cloud parallèle (CE débute au stade 3) (1 occ., 1 fiches)
 - [[kb/économie-circulaire-IA\|économie circulaire IA]] — montant estimé: 1 trillion de dollars (1 occ., 1 fiches)

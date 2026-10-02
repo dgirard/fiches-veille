@@ -1,12 +1,12 @@
 # Cloudflare
 
-> **Type** : ORGANISATION | 15 relations | 5 fiches sources
+> **Type** : ORGANISATION | 20 relations | 6 fiches sources
 
 ## Attributs
 
 - **positionnement** : Opérateur d'infrastructure se dotant simultanément du portefeuille acheteur, de la passerelle vendeur, de l'espace de noms d'identité et du contrôle de bot qui fixe la friction des agents non identifiés
 - **rôle** : Fournisseur de la plateforme d'exécution et du SDK d'agents utilisés pour le montage
-- **secteur** : Infrastructure réseau ; revue de code IA en CI
+- **secteur** : Réseau, sécurité, plateforme IA (agent cloud)
 
 ## Relations (comme sujet)
 
@@ -27,6 +27,8 @@
 
 - « l'ensemble portefeuille, passerelle de monétisation et identité formera un marché headless pour Internet » (CITATION) — 0.93, DYNAMIQUE
   - [[fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04\|Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet]]
+- « Clef a le potentiel de changer la façon d'utiliser les agents » (AFFIRMATION) — 0.80, ATEMPOREL
+  - [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]]
 - « la majorité du trafic web est désormais produite par des bots » (AFFIRMATION) — 0.75, DYNAMIQUE
   - [[fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04\|Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet]]
 
@@ -34,8 +36,14 @@
 
 - [[kb/VibeSDK\|VibeSDK]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-09/cloudflare-vibesdk-deploy-ai-vibe-coding-platform-2025-09-23\|Deploy your own AI vibe coding platform -- in one click!]]
+- [[kb/Clef\|Clef]] (TECHNOLOGIE) — 0.98, STATIQUE
+  - [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]]
+- [[kb/_entites-mineures#Clef-flash\|Clef-flash]] (TECHNOLOGIE) — 0.98, STATIQUE
+  - [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]]
 - [[kb/Cloudflare-Wallets\|Cloudflare Wallets]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04\|Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet]]
+- [[kb/_entites-mineures#service-de-fine-tuning-RL\|service de fine-tuning RL]] (TECHNOLOGIE) — 0.95, STATIQUE
+  - [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]]
 
 ### s_inspire_de
 
@@ -53,9 +61,11 @@
 - [[kb/Mark-Dembo\|Mark Dembo]] **travaille_chez** → Cloudflare — 0.95
 - [[kb/_entites-mineures#Will-Allen\|Will Allen]] **travaille_chez** → Cloudflare — 0.95
 - [[kb/_entites-mineures#Will-Papper\|Will Papper]] **travaille_chez** → Cloudflare — 0.92
+- [[kb/_entites-mineures#Michelle-Chen\|Michelle Chen]] **travaille_chez** → Cloudflare — 0.90
 
 ## Fiches sources
 
+- [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]]
 - [[fiches/2025-09/cloudflare-vibesdk-deploy-ai-vibe-coding-platform-2025-09-23\|Deploy your own AI vibe coding platform -- in one click!]]
 - [[fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04\|Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet]]
 - [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]

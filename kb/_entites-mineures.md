@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2938 entités avec moins de 3 triples/fiches
+> 2952 entités avec moins de 3 triples/fiches
 
-## PERSONNE (388)
+## PERSONNE (390)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1066,6 +1066,17 @@
 - **rôle** : Auteur de l'article Cloudflare Blog
 
 **Fiches** : [[fiches/2025-09/cloudflare-vibesdk-deploy-ai-vibe-coding-platform-2025-09-23\|Deploy your own AI vibe coding platform -- in one click!]]
+
+### Diogo Almeida {#Diogo-Almeida}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Fondateur de TypeSafe AI, ancien d'OpenAI
+
+- **publie** → [[kb/_entites-mineures#article-Introducing-System-One-Models-&-Jev\|article Introducing System One Models & Jev]] (DOCUMENT) — 0.97
+- **travaille_chez** → [[kb/_entites-mineures#TypeSafe-AI\|TypeSafe AI]] (ORGANISATION) — 0.96
+
+**Fiches** : [[fiches/2026-09/almeida-system-one-models-jev-2026-09-15\|Introducing System One Models & Jev]]
 
 ### Dion Hinchcliffe {#Dion-Hinchcliffe}
 
@@ -2535,6 +2546,16 @@
 
 **Fiches** : [[fiches/2025-11/catasta-replit-future-autonomous-coding-2025-11-23\|Building the Future of Autonomous Coding: Autonomy Is All You Need]]
 
+### Michelle Chen {#Michelle-Chen}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Co-autrice, équipe Workers AI de Cloudflare
+
+- **travaille_chez** → [[kb/Cloudflare\|Cloudflare]] (ORGANISATION) — 0.90
+
+**Fiches** : [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]]
+
 ### Mira Murati {#Mira-Murati}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -3893,7 +3914,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (319)
+## ORGANISATION (320)
 
 ### 10x {#10x}
 
@@ -6817,6 +6838,18 @@
 
 **Fiches** : [[fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26\|Context Filter]]
 
+### TypeSafe AI {#TypeSafe-AI}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **secteur** : Modèles de décision pour l'automatisation
+
+- **publie** → [[kb/Jev\|Jev]] (TECHNOLOGIE) — 0.98
+
+- [[kb/_entites-mineures#Diogo-Almeida\|Diogo Almeida]] **travaille_chez** → TypeSafe AI — 0.96
+
+**Fiches** : [[fiches/2026-09/almeida-system-one-models-jev-2026-09-15\|Introducing System One Models & Jev]]
+
 ### UK AI Security Institute {#UK-AI-Security-Institute}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -7170,7 +7203,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (654)
+## TECHNOLOGIE (658)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -8373,6 +8406,18 @@
 
 **Fiches** : [[fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04\|Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI]]
 
+### Clef-flash {#Clef-flash}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Variante rapide de Clef pour décisions critiques en latence
+
+- **est_variante_de** → [[kb/Clef\|Clef]] (TECHNOLOGIE) — 0.93
+
+- [[kb/Cloudflare\|Cloudflare]] **publie** → Clef-flash — 0.98
+
+**Fiches** : [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]]
+
 ### Cloud Foundry {#Cloud-Foundry}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -8400,6 +8445,16 @@
 - **permet** → [[kb/_entites-mineures#Code-Mode\|Code Mode]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2026-06/dembo-byo-agent-m5stack-tinkering-opus-cloudflare-2026-06-07\|BYO Agent with M5Stack Stick 3]]
+
+### Cloudflare Containers {#Cloudflare-Containers}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **usage** : Bac à sable de notation et de rejeu des actions
+
+- [[kb/_entites-mineures#service-de-fine-tuning-RL\|service de fine-tuning RL]] **utilise** → Cloudflare Containers — 0.94
+
+**Fiches** : [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]]
 
 ### Cloudflare Radar {#Cloudflare-Radar}
 
@@ -9445,7 +9500,7 @@
 
 - **rôle** : Architecture Transformer de base adaptée pour Diffusion Gemma
 
-- [[kb/Diffusion-Gemma\|Diffusion Gemma]] **est_variante_de** → Gemma 2 — 0.90
+- [[kb/DiffusionGemma\|DiffusionGemma]] **est_variante_de** → Gemma 2 — 0.90
 
 **Fiches** : [[fiches/2026-06/mindstudio-diffusion-language-models-gemma-2026-06-12\|Diffusion Language Models Explained: How Google's Diffusion Gemma Works]]
 
@@ -10262,6 +10317,17 @@
 - **améliore** → understanding humain (CONCEPT) — 0.91
 
 **Fiches** : [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Andrej Karpathy: From Vibe Coding to Agentic Engineering]]
+
+### LLM de frontière {#LLM-de-frontière}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **usage** : Référence de comparaison (latence, coût, hallucination)
+
+- [[kb/Jev\|Jev]] **concurrence** → LLM de frontière — 0.80
+- [[kb/Jev\|Jev]] **surpasse** → LLM de frontière — 0.80
+
+**Fiches** : [[fiches/2026-09/almeida-system-one-models-jev-2026-09-15\|Introducing System One Models & Jev]]
 
 ### LLMs {#LLMs}
 
@@ -11583,13 +11649,16 @@
 
 ### Qwen {#Qwen}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
 - **statut** : Versions 3.5, 3.6 et 3.7 déclarées entraînées sur des traces de raisonnement extraites d'Opus 4.6 et 4.7
+- **usage** : Modèle de base gelé (27B pour Clef, 9B pour Clef-flash)
 
 - **est_basé_sur** → [[kb/_entites-mineures#Claude-Opus\|Claude Opus]] (TECHNOLOGIE) — 0.88
 
-**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+- [[kb/Clef\|Clef]] **est_basé_sur** → Qwen — 0.96
+
+**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]], [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]]
 
 ### Qwen2.5-14b-2507 {#Qwen2.5-14b-2507}
 
@@ -12784,15 +12853,17 @@
 
 ### Workers AI {#Workers-AI}
 
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+**Type** : TECHNOLOGIE | 3 relations | 2 fiches
 
 - **catégorie** : Plateforme IA serverless
+- **usage** : Hébergement des modèles sur les GPU en périphérie
 
 - **permet** → AI.toMarkdown() (TECHNOLOGIE) — 0.92
 
+- [[kb/Clef\|Clef]] **utilise** → Workers AI — 0.96
 - [[kb/Cloudflare\|Cloudflare]] **a_créé** → Workers AI — 0.93
 
-**Fiches** : [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Introducing Markdown for Agents]]
+**Fiches** : [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]], [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Introducing Markdown for Agents]]
 
 ### Workers for Platforms {#Workers-for-Platforms}
 
@@ -13722,6 +13793,19 @@
 
 **Fiches** : [[fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15\|MCP remplace le navigateur : Voici comment les développeurs devraient se préparer]]
 
+### service de fine-tuning RL {#service-de-fine-tuning-RL}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **statut** : Accompagné par ingénieurs déployés, libre-service à venir
+
+- **utilise** → [[kb/AI-Gateway\|AI Gateway]] (TECHNOLOGIE) — 0.94
+- **utilise** → [[kb/_entites-mineures#Cloudflare-Containers\|Cloudflare Containers]] (TECHNOLOGIE) — 0.94
+
+- [[kb/Cloudflare\|Cloudflare]] **publie** → service de fine-tuning RL — 0.95
+
+**Fiches** : [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]]
+
 ### setPublisherModelConfig {#setPublisherModelConfig}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -14019,7 +14103,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (984)
+## CONCEPT (987)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -18047,6 +18131,18 @@
 
 **Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]]
 
+### System One Models {#System-One-Models}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Modèles produisant des décisions typées et probabilistes, sans génération de texte
+
+- **s_inspire_de** → [[kb/_entites-mineures#Thinking,-Fast-and-Slow\|Thinking, Fast and Slow]] (DOCUMENT) — 0.90
+
+- [[kb/Jev\|Jev]] **est_instance_de** → System One Models — 0.97
+
+**Fiches** : [[fiches/2026-09/almeida-system-one-models-jev-2026-09-15\|Introducing System One Models & Jev]]
+
 ### Sémantique data {#Sémantique-data}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -20063,7 +20159,7 @@
 
 - **définition** : Absorbing diffusion : masquage progressif puis débruitage itératif réversible
 
-- [[kb/Diffusion-Gemma\|Diffusion Gemma]] **utilise** → diffusion masquée — 0.92
+- [[kb/DiffusionGemma\|DiffusionGemma]] **utilise** → diffusion masquée — 0.92
 
 **Fiches** : [[fiches/2026-06/mindstudio-diffusion-language-models-gemma-2026-06-12\|Diffusion Language Models Explained: How Google's Diffusion Gemma Works]]
 
@@ -21412,6 +21508,16 @@
 - [[kb/_entites-mineures#bounded-contexts\|bounded contexts]] **fait_partie_de** → modèle de domaine — 0.90
 
 **Fiches** : [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering Needs Domain Understanding]]
+
+### modèle de décision {#modèle-de-décision}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Modèle renvoyant des sorties typées bornées avec probabilités, destiné à être inséré dans un workflow
+
+- [[kb/Clef\|Clef]] **est_instance_de** → modèle de décision — 0.97
+
+**Fiches** : [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]]
 
 ### modèles de monde interactifs {#modèles-de-monde-interactifs}
 
@@ -23409,6 +23515,16 @@
 
 **Fiches** : [[fiches/2026-07/mozilla-state-of-open-source-ai-2026-07\|The state of open source AI (v1.0.1, juillet 2026)]]
 
+### échantillonnage parallèle {#échantillonnage-parallèle}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Toutes les sorties produites en une seule requête, sans génération jeton par jeton
+
+- [[kb/Jev\|Jev]] **utilise** → échantillonnage parallèle — 0.95
+
+**Fiches** : [[fiches/2026-09/almeida-system-one-models-jev-2026-09-15\|Introducing System One Models & Jev]]
+
 ### échec silencieux {#échec-silencieux}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -23561,7 +23677,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (391)
+## METHODOLOGIE (393)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -25181,6 +25297,17 @@
 - [[kb/Superpowers\|Superpowers]] **utilise** → RED/GREEN TDD — 0.95
 
 **Fiches** : [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Superpowers: How I'm using coding agents in October 2025]]
+
+### RLCD {#RLCD}
+
+**Type** : METHODOLOGIE | 2 relations | 2 fiches
+
+- **définition** : Reinforcement Learning for Calibrated Decisions, avec crédit partiel aux choix ordinaux adjacents
+
+- [[kb/Jev\|Jev]] **utilise** → RLCD — 0.97
+- [[kb/Clef\|Clef]] **utilise** → RLCD — 0.95
+
+**Fiches** : [[fiches/2026-09/almeida-system-one-models-jev-2026-09-15\|Introducing System One Models & Jev]], [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]]
 
 ### Ralph Loop {#Ralph-Loop}
 
@@ -27516,6 +27643,16 @@
 
 **Fiches** : [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|The Eight Levels of AI Adoption]]
 
+### évaluation de workflow {#évaluation-de-workflow}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Même graphe de calcul pour tous les modèles, comparé à des probabilités de référence
+
+- **est_basé_sur** → « moyenne de GPT-6 Astra et Fable 5.1 » (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-09/almeida-system-one-models-jev-2026-09-15\|Introducing System One Models & Jev]]
+
 ### évaluations (evals) {#évaluations-(evals)}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -28052,7 +28189,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (148)
+## DOCUMENT (150)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -29176,6 +29313,16 @@
 
 **Fiches** : [[fiches/2026-07/mozilla-state-of-open-source-ai-2026-07\|The state of open source AI (v1.0.1, juillet 2026)]]
 
+### Thinking, Fast and Slow {#Thinking,-Fast-and-Slow}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **auteur** : Daniel Kahneman, source du nom System One
+
+- [[kb/_entites-mineures#System-One-Models\|System One Models]] **s_inspire_de** → Thinking, Fast and Slow — 0.90
+
+**Fiches** : [[fiches/2026-09/almeida-system-one-models-jev-2026-09-15\|Introducing System One Models & Jev]]
+
 ### Token Budget Wars {#Token-Budget-Wars}
 
 **Type** : DOCUMENT | 2 relations | 1 fiches
@@ -29306,6 +29453,16 @@
 - [[kb/Anthropic\|Anthropic]] **publie** → article Automating eval design and hillclimbing — 0.95
 
 **Fiches** : [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
+
+### article Introducing System One Models & Jev {#article-Introducing-System-One-Models-&-Jev}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **date** : 2026-09-15
+
+- [[kb/_entites-mineures#Diogo-Almeida\|Diogo Almeida]] **publie** → article Introducing System One Models & Jev — 0.97
+
+**Fiches** : [[fiches/2026-09/almeida-system-one-models-jev-2026-09-15\|Introducing System One Models & Jev]]
 
 ### article The Dot and the Swarm {#article-The-Dot-and-the-Swarm}
 

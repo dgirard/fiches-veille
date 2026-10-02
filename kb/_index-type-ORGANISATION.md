@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 433 entités de type ORGANISATION
+> 434 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -85,7 +85,7 @@
 - [[kb/_entites-mineures#CircleCI\|CircleCI]] — secteur: Intégration continue (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Clay\|Clay]] — apport: Revues trimestrielles où les prototypes entrent au roadmap, agent de tri de bugs, agent d'analytique interne ; doctrine de reconstruction répétée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ClickHouse\|ClickHouse]] — apport: Presque chaque étape du cycle transformée en boucle autonome ; agents de tests instables et de couverture manquante devenus 2e et 3e contributeurs du dépôt ; agents produits (console SQL, SRE) construits avec Claude Code (1 occ., 1 fiches)
-- [[kb/Cloudflare\|Cloudflare]] — secteur: Infrastructure réseau ; revue de code IA en CI (5 occ., 5 fiches)
+- [[kb/Cloudflare\|Cloudflare]] — secteur: Réseau, sécurité, plateforme IA (agent cloud) (6 occ., 6 fiches)
 - [[kb/_entites-mineures#Cluely\|Cluely]] — description: Startup voulant aider à « tricher sur tout » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cognition\|Cognition]] — produit_phare: Devin (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Cognizant\|Cognizant]] — secteur: Cabinet de conseil en transformation IT/IA (1 occ., 1 fiches)
@@ -384,6 +384,7 @@
 - [[kb/_entites-mineures#Translucent\|Translucent]] — apport: Marketplace interne d'agents spécialisés par métier ; relecteur de code maison qui éclate une modification en angles multiples puis synthétise (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Trump-Administration\|Trump Administration]] — secteur: Gouvernement fédéral américain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#TypeSafe\|TypeSafe]] — secteur: Éditeur de Jev et de l'API System One (api.typesafe.ai) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#TypeSafe-AI\|TypeSafe AI]] — secteur: Modèles de décision pour l'automatisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#UK-AI-Security-Institute\|UK AI Security Institute]] — rôle: Auteur du stress test ayant révélé la fabrication de fausses identités (1 occ., 1 fiches)
 - [[kb/_entites-mineures#UNLEASH\|UNLEASH]] — secteur: Média HR-tech / futur du travail (1 occ., 1 fiches)
 - [[kb/Uber-Engineering\|Uber Engineering]] — catégorie: Équipe d'ingénierie Uber, publie blog technique sur uber.com/blog, déploie infrastructure agent identity en production pour milliers d'agents internes (1 occ., 1 fiches)

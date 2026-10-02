@@ -1,10 +1,11 @@
-# Diffusion Gemma
+# DiffusionGemma
 
-> **Type** : TECHNOLOGIE | 9 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 10 relations | 2 fiches sources
 
 ## Attributs
 
 - **catégorie** : LLM par diffusion masquée, 2B params, base Gemma 2, attention bidirectionnelle, open weights, sorti début 2025
+- **usage** : Base de l'approche initiale par logprobs
 
 ## Relations (comme sujet)
 
@@ -36,9 +37,11 @@
 
 ## Relations (comme objet)
 
-- [[kb/Google\|Google]] **a_créé** → Diffusion Gemma — 0.97
-- [[kb/Google\|Google]] **publie** → Diffusion Gemma — 0.90
+- [[kb/Google\|Google]] **a_créé** → DiffusionGemma — 0.97
+- [[kb/Google\|Google]] **publie** → DiffusionGemma — 0.90
+- [[kb/Clef\|Clef]] **s_inspire_de** → DiffusionGemma — 0.88
 
 ## Fiches sources
 
+- [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]]
 - [[fiches/2026-06/mindstudio-diffusion-language-models-gemma-2026-06-12\|Diffusion Language Models Explained: How Google's Diffusion Gemma Works]]

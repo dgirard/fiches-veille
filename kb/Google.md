@@ -25,7 +25,7 @@
   - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
 - [[kb/Conductor\|Conductor]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17\|Conductor: Introducing context-driven development for Gemini CLI]]
-- [[kb/Diffusion-Gemma\|Diffusion Gemma]] (TECHNOLOGIE) — 0.97, STATIQUE
+- [[kb/DiffusionGemma\|DiffusionGemma]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2026-06/mindstudio-diffusion-language-models-gemma-2026-06-12\|Diffusion Language Models Explained: How Google's Diffusion Gemma Works]]
 - [[kb/_entites-mineures#Google-Sans-Flex\|Google Sans Flex]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-12/google-sans-flex-font-evolution-design-2025-12-18\|Making Google Sans Flex]]
@@ -104,7 +104,7 @@
   - [[fiches/2025-12/google-sans-flex-font-evolution-design-2025-12-18\|Making Google Sans Flex]]
 - [[kb/_entites-mineures#NotebookLM\|NotebookLM]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27\|The Top 100 Gen AI Consumer Apps - 5th Edition - Andreessen Horowitz]]
-- [[kb/Diffusion-Gemma\|Diffusion Gemma]] (TECHNOLOGIE) — 0.90, STATIQUE
+- [[kb/DiffusionGemma\|DiffusionGemma]] (TECHNOLOGIE) — 0.90, STATIQUE
   - [[fiches/2026-06/mindstudio-diffusion-language-models-gemma-2026-06-12\|Diffusion Language Models Explained: How Google's Diffusion Gemma Works]]
 
 ### recommande

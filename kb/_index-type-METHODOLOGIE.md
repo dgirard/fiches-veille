@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 449 entités de type METHODOLOGIE
+> 451 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -188,6 +188,7 @@
 - [[kb/_entites-mineures#Quality-Gates\|Quality Gates]] — catégorie: Validation automatisée qualité code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Quizzes\|Quizzes]] — règle: Ne merger qu'après avoir réussi parfaitement le quiz sur le changement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#RED-GREEN-TDD\|RED/GREEN TDD]] — description: Test échouant d'abord, puis code minimal pour le faire passer (1 occ., 1 fiches)
+- [[kb/_entites-mineures#RLCD\|RLCD]] — définition: Reinforcement Learning for Calibrated Decisions, avec crédit partiel aux choix ordinaux adjacents (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Ralph-Loop\|Ralph Loop]] — définition: Hook qui intercepte la sortie du modèle et ré-injecte le prompt original dans une fresh context window pour exécution multi-session (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Recursive-Tool-Building\|Recursive Tool Building]] — principe: Construire un outil pour créer un outil — approche méta-cognitive (1 occ., 1 fiches)
 - [[kb/_entites-mineures#References\|References]] — principe: La meilleure référence est du code source (même dans un autre langage) (1 occ., 1 fiches)
@@ -450,4 +451,5 @@
 - [[kb/_entites-mineures#workflow-hybride-Gemini+Claude\|workflow hybride Gemini+Claude]] — principe: Gemini pour ingestion massive, Claude pour raisonnement et génération (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Évaluateurs-tiers-embarqués\|Évaluateurs tiers embarqués]] — dispositif: Bureaux, badges, laptops, permissions comparables aux équipes internes de risque ; droit de publier sans contrôle éditorial, rédactions limitées et signalables (1 occ., 1 fiches)
 - [[kb/_entites-mineures#échelle-en-8-niveaux\|échelle en 8 niveaux]] — définition: Chatbot→Copilot→Agent→Autopilot→Workflows→Assistant→Multi-agent→Orchestrator (1 occ., 1 fiches)
+- [[kb/_entites-mineures#évaluation-de-workflow\|évaluation de workflow]] — définition: Même graphe de calcul pour tous les modèles, comparé à des probabilités de référence (1 occ., 1 fiches)
 - [[kb/_entites-mineures#évaluations-(evals)\|évaluations (evals)]] — rôle: Tester un artefact contre des exemples connus (3 bons/3 mauvais PRD, 5 appels, 2 lancements) (1 occ., 1 fiches)
