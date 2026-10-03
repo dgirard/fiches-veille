@@ -1,6 +1,6 @@
 # Knowledge Base — Veille Technologique
 
-<!-- manifest: sha256=8fe3c5cc060b039d5561d71dda0cd1c7a468dfe4c09a7493a0429c4c49a9196e fiches=428 -->
+<!-- manifest: sha256=0f033c203ee5f82eaa831629096cc800f30ff91907af283ca570f47d380600ed fiches=428 -->
 > 428 fiches | 3569 entités | 6887 triples | Généré le 2026-10-03
 
 ## Navigation

@@ -17,7 +17,7 @@
 - [[kb/_entites-mineures#Dev-Summit-Adeo-Decathlon-2026\|Dev Summit Adeo Decathlon 2026]] — périmètre: Lille, 26-28 mai 2026, plus de 2 000 collaborateurs, premier Dev Summit commun (1 occ., 1 fiches)
 - [[kb/Digital-Omnibus\|Digital Omnibus]] — catégorie: Projet révision RGPD (156 pages) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#EMNLP2025\|EMNLP2025]] — type: Conférence majeure NLP (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Entretien-vidéo-de-4-min-26-s\|Entretien vidéo de 4 min 26 s]] — statut: Date et média d'origine non identifiés dans l'extrait (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Entretien-vidéo-de-4-min-26-s\|Entretien vidéo de 4 min 26 s]] — statut: Fox & Friends First (Fox News), diffusé le 29 mai 2025 selon Fox News (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FinOps-X-2026\|FinOps X 2026]] — date: 8-11 juin 2026, San Diego (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Firebombing-Altman-home-avril-2026\|Firebombing Altman home avril 2026]] — description: Tentative d'incendie criminel du domicile Sam Altman, signal violence populiste anti-IA émergente (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hausse-de-prix-des-tokens-Fable\|Hausse de prix des tokens Fable]] — temporalité: Annoncée imminente (« few days we have left before the prices go up ») au 2026-07-03 (1 occ., 1 fiches)

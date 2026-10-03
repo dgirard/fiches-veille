@@ -28107,7 +28107,7 @@
 
 **Type** : EVENEMENT | 1 relations | 1 fiches
 
-- **statut** : Date et média d'origine non identifiés dans l'extrait
+- **statut** : Fox & Friends First (Fox News), diffusé le 29 mai 2025 selon Fox News
 
 - [[kb/_entites-mineures#Post-X-de-@ytk_matsuda\|Post X de @ytk_matsuda]] **référence** → Entretien vidéo de 4 min 26 s — 0.95
 

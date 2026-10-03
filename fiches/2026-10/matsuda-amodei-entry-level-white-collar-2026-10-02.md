@@ -6,15 +6,15 @@ source: "X"
 
 ## Veille
 
-Post sur X de **Yugen Matsuda** (@ytk_matsuda, entrepreneur indépendant, compte japonais), daté du **2 octobre 2026**, qui diffuse une vidéo de **4 min 26 s** d'un entretien de **Dario Amodei** (CEO d'**Anthropic**) et la résume en quatre puces en japonais (~270 000 vues). Le titre du post affirme que la moitié des nouveaux avocats, consultants et professionnels de la finance « disparaîtra complètement » d'ici 1 à 5 ans. L'entretien lui-même (transcription automatique, intervieweur et date d'origine non identifiés dans l'extrait) est plus nuancé que ce titre.
+Post sur X de **Yugen Matsuda** (@ytk_matsuda, entrepreneur indépendant, compte japonais), daté du **2 octobre 2026**, qui diffuse une vidéo de **4 min 26 s** d'un entretien de **Dario Amodei** (CEO d'**Anthropic**) et la résume en quatre puces en japonais (~270 000 vues). Le titre du post affirme que la moitié des nouveaux avocats, consultants et professionnels de la finance « disparaîtra complètement » d'ici 1 à 5 ans. L'extrait vient de **Fox News** (émission *Fox & Friends First*, bandeau « CEO warns A.I. could wipe out white-collar jobs », Amodei en visioconférence), diffusé selon la page vidéo de Fox News le **29 mai 2025**, soit seize mois avant le post. Il est plus nuancé que le titre du post (transcription automatique).
 
-**(A)** Dans la vidéo, Amodei dit s'inquiéter que les emplois **débutants de cols blancs** (finance, conseil, technologie) soient d'abord augmentés puis remplacés, avec une **crise de l'emploi** possible. Il ne parle pas de « moitié » ni d'avocats. **(B)** Sur le calendrier : *« I would not be surprised if somewhere between one and five years we started to see big effects »*. **(C)** Il ne croit pas pouvoir arrêter le développement de l'IA mais **l'infléchir** : mesure via l'**Economic Index**, formation à l'usage de l'IA, rôle du gouvernement, dont une taxation possible des entreprises d'IA. Les chiffres « moitié » et « 10 à 20 % » de chômage viennent respectivement du post et de la question de l'intervieweur.
+**(A)** Dans la vidéo, Amodei dit s'inquiéter que les emplois **débutants de cols blancs** (finance, conseil, technologie) soient d'abord augmentés puis remplacés, avec une **crise de l'emploi** possible. Il ne parle pas de « moitié » ni d'avocats. **(B)** Sur le calendrier : *« I would not be surprised if somewhere between one and five years we started to see big effects »*. **(C)** Il ne croit pas pouvoir arrêter le développement de l'IA mais **l'infléchir** : mesure via l'**Economic Index**, formation à l'usage de l'IA, rôle du gouvernement, dont une taxation possible des entreprises d'IA. Les chiffres « moitié » et « 10 à 20 % » de chômage viennent du post et de la question de l'intervieweur ; la presse les rattache à un entretien d'Amodei avec Axios la veille.
 
 Rapproche le propos de [[sfeir-ia-emploi-risque-decrochage-2026-07-23]].
 
 ## Titre Article
 
-Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will completely vanish » — vidéo d'un entretien de Dario Amodei
+Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will completely vanish » — extrait de Fox & Friends First (Fox News, 29 mai 2025) avec Dario Amodei
 
 ## Date
 
@@ -30,7 +30,7 @@ Dario Amodei, Anthropic, emplois débutants, cols blancs, avocats, consultants, 
 
 ## Authors
 
-Yugen Matsuda — entrepreneur indépendant, compte X japonais ; post de relais d'un entretien de Dario Amodei (CEO d'Anthropic).
+Yugen Matsuda — entrepreneur indépendant, compte X japonais ; post de relais d'un entretien de Dario Amodei (CEO d'Anthropic) diffusé sur Fox News.
 
 ## Ton
 
@@ -44,13 +44,13 @@ Profil : post viral d'agrégateur, rédigé en japonais pour un public de salari
 - **« On ne peut pas arrêter le bus »** : six ou sept entreprises américaines travaillent sur le sujet ; si l'une s'arrêtait, les autres continueraient, et la Chine prendrait l'avantage. On peut en revanche **infléchir** la trajectoire.
 - **Actions citées** : mesure avec l'**Economic Index** d'Anthropic ; construire des systèmes qui augmentent plutôt que remplacent (jugé insuffisant à long terme) ; éducation à l'usage de l'IA ; action publique, y compris une **taxe sur les entreprises d'IA** présentée comme potentiellement controversée.
 - **Écarts avec le post** : les « moitié des nouveaux avocats, consultants et professionnels de la finance », la disparition des diplômes prestigieux et l'idée de « commander 100 personnes » ne figurent pas dans l'extrait transcrit ; le chiffre de 10 à 20 % de chômage est celui de l'intervieweur, auquel Amodei répond ne pas avoir de boule de cristal.
-- ⚠️ **Portée** : source de seconde main (post de relais), transcription automatique non vérifiée, date et média d'origine de l'entretien non précisés ; la fiche date le post, non l'entretien.
+- ⚠️ **Portée** : source de seconde main (post de relais), transcription automatique non vérifiée ; le post ne cite pas Fox News, identifié par le bandeau à l'image ; la date du 29 mai 2025 provient de la page vidéo de Fox News ; la fiche date le post, non l'entretien.
 
 ## RésuméDe400mots
 
 Yugen Matsuda, entrepreneur indépendant sur X, publie le 2 octobre 2026 une vidéo de moins de cinq minutes d'un entretien de Dario Amodei, dirigeant d'Anthropic, accompagnée d'un texte en japonais. Le titre annonce que la moitié des nouveaux avocats, consultants et professionnels de la finance disparaîtront d'ici un à cinq ans. Quatre puces développent l'idée : le travail intellectuel de base serait traité par l'IA, le compte à rebours serait immédiat, seuls survivraient ceux qui dirigent l'équivalent de cent personnes avec l'IA, et le diplôme prestigieux ne protégerait plus.
 
-La vidéo elle-même dit autre chose, de façon plus prudente. Amodei explique travailler sur l'IA depuis dix ans et avoir surtout remarqué la vitesse de son progrès : il y a deux ans, le niveau d'un bon lycéen, aujourd'hui celui d'un bon étudiant et au-delà. Il voit des bénéfices importants, par exemple contre le cancer et la maladie d'Alzheimer, ou pour une énergie moins chère. Mais les mêmes aptitudes, résumer un document, faire un brainstorming, monter un rapport financier, le font craindre pour les emplois d'entrée de carrière de cols blancs en finance, conseil, technologie et ailleurs. Ces tâches seraient d'abord augmentées puis remplacées, et une crise de l'emploi est possible lorsque le vivier de travail débutant se contractera.
+La vidéo, extraite de l'émission Fox & Friends First de Fox News (diffusée le 29 mai 2025 selon Fox News), dit autre chose, de façon plus prudente. Amodei explique travailler sur l'IA depuis dix ans et avoir surtout remarqué la vitesse de son progrès : il y a deux ans, le niveau d'un bon lycéen, aujourd'hui celui d'un bon étudiant et au-delà. Il voit des bénéfices importants, par exemple contre le cancer et la maladie d'Alzheimer, ou pour une énergie moins chère. Mais les mêmes aptitudes, résumer un document, faire un brainstorming, monter un rapport financier, le font craindre pour les emplois d'entrée de carrière de cols blancs en finance, conseil, technologie et ailleurs. Ces tâches seraient d'abord augmentées puis remplacées, et une crise de l'emploi est possible lorsque le vivier de travail débutant se contractera.
 
 Interrogé sur le calendrier, il répond qu'il est très difficile à prévoir mais qu'il ne serait pas surpris de voir de grands effets entre un et cinq ans. Il dit avoir entendu des dirigeants d'IA et d'autres entreprises en parler en privé, et estime que le message n'arrive ni au grand public ni aux législateurs, d'où sa décision de parler publiquement. Il juge la situation évitable à condition d'agir maintenant, mais pas stoppable : six ou sept entreprises américaines travaillent sur le sujet, et si elles s'arrêtaient toutes, la Chine l'emporterait. On peut donc orienter plutôt qu'arrêter.
 
@@ -83,7 +83,7 @@ Premier pas selon lui : mesurer, avec l'Economic Index d'Anthropic qui suit le r
 |--------|------|----------|--------|--------|
 | Yugen Matsuda | PERSONNE | rôle | Entrepreneur indépendant, compte X @ytk_matsuda | AJOUT |
 | Post X de @ytk_matsuda | DOCUMENT | définition | Post de relais du 2 octobre 2026 avec vidéo de 4 min 26 s, en japonais | AJOUT |
-| Entretien vidéo de 4 min 26 s | EVENEMENT | statut | Date et média d'origine non identifiés dans l'extrait | AJOUT |
+| Entretien vidéo de 4 min 26 s | EVENEMENT | statut | Fox & Friends First (Fox News), diffusé le 29 mai 2025 selon Fox News | AJOUT |
 | Dario Amodei | PERSONNE | rôle | CEO d'Anthropic | AJOUT |
 | Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
 | Economic Index | DOCUMENT | définition | Suivi par Anthropic des effets économiques de l'IA | AJOUT |
