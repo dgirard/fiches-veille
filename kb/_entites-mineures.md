@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2964 entités avec moins de 3 triples/fiches
+> 2971 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (391)
 
@@ -7213,7 +7213,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (662)
+## TECHNOLOGIE (666)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7620,6 +7620,18 @@
 - **utilise** → [[kb/Interactions-API\|Interactions API]] (TECHNOLOGIE) — 0.90
 
 **Fiches** : [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|Interactions API: A unified foundation for models and agents]]
+
+### Agent Readiness {#Agent-Readiness}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Produit Factory évaluant la préparation d'une base de code aux agents (150+ signaux)
+
+- **mesure** → « plus de 150 signaux de la base de code » (MESURE) — 0.90
+
+- [[kb/Factory\|Factory]] **publie** → Agent Readiness — 0.93
+
+**Fiches** : [[fiches/2026-09/reyes-factory-building-machine-software-2026-09-22\|Building the Machine That Builds the Software - Eno Reyes, Co-Founder & CTO of Factory]]
 
 ### Agent Registry {#Agent-Registry}
 
@@ -8969,6 +8981,18 @@
 - [[kb/Meng-To\|Meng To]] **a_créé** → Dream Cut — 0.93
 
 **Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Google's Design.md is a design team in a file (Greg Isenberg × Meng To)]]
+
+### Droid {#Droid}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Agent de codage de Factory, multi-surface (terminal, revue, sandbox)
+
+- **utilise** → [[kb/_entites-mineures#routeur-de-modèles\|routeur de modèles]] (TECHNOLOGIE) — 0.88
+
+- [[kb/Factory\|Factory]] **publie** → Droid — 0.95
+
+**Fiches** : [[fiches/2026-09/reyes-factory-building-machine-software-2026-09-22\|Building the Machine That Builds the Software - Eno Reyes, Co-Founder & CTO of Factory]]
 
 ### Droid/Factory {#Droid-Factory}
 
@@ -10904,6 +10928,18 @@
 - [[kb/Mirakl\|Mirakl]] **publie** → Mirakl Marketplace Platform — 0.95
 
 **Fiches** : [[fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20\|Philippe Corrot, fondateur de Mirakl]]
+
+### Missions {#Missions}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Produit Factory d'objectifs de long terme avec budget de tokens alloué
+
+- **s_applique_à** → objectifs de performance de long terme (CONCEPT) — 0.82
+
+- [[kb/Factory\|Factory]] **publie** → Missions — 0.90
+
+**Fiches** : [[fiches/2026-09/reyes-factory-building-machine-software-2026-09-22\|Building the Machine That Builds the Software - Eno Reyes, Co-Founder & CTO of Factory]]
 
 ### Mistral Regional Endpoints {#Mistral-Regional-Endpoints}
 
@@ -13813,6 +13849,18 @@
 
 **Fiches** : [[fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26\|The turbulent AI era is here. The choices we make now are critical.]]
 
+### routeur de modèles {#routeur-de-modèles}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Allocation du modèle par tâche et par rôle pour arbitrer coût et qualité
+
+- **réduit** → dépendance à un fournisseur de modèle (CONCEPT) — 0.85
+
+- [[kb/_entites-mineures#Droid\|Droid]] **utilise** → routeur de modèles — 0.88
+
+**Fiches** : [[fiches/2026-09/reyes-factory-building-machine-software-2026-09-22\|Building the Machine That Builds the Software - Eno Reyes, Co-Founder & CTO of Factory]]
+
 ### sandboxed iframes {#sandboxed-iframes}
 
 **Type** : TECHNOLOGIE | 1 relations | 2 fiches
@@ -14153,7 +14201,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (991)
+## CONCEPT (994)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -16365,6 +16413,16 @@
 - **fait_partie_de** → [[kb/_entites-mineures#identité-visuelle-d'agent\|identité visuelle d'agent]] (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
+
+### Google metric {#Google-metric}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Lien entre une métrique d'ingénierie et un résultat d'affaires mesurable
+
+- **permet** → allocation d'inférence guidée par le ROI (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-09/reyes-factory-building-machine-software-2026-09-22\|Building the Machine That Builds the Software - Eno Reyes, Co-Founder & CTO of Factory]]
 
 ### Governance ontology {#Governance-ontology}
 
@@ -19157,6 +19215,16 @@
 - **rôle** : Boucle inédite entre personnes et systèmes numériques propre à l'ère IA
 
 **Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|A frontier without an ecosystem is not stable]]
+
+### boucle de rétroaction {#boucle-de-rétroaction}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Signaux, tri, plan, code, validation, déploiement, monitoring, nouveaux signaux
+
+- [[kb/Software-Factory\|Software factory]] **utilise** → boucle de rétroaction — 0.92
+
+**Fiches** : [[fiches/2026-09/reyes-factory-building-machine-software-2026-09-22\|Building the Machine That Builds the Software - Eno Reyes, Co-Founder & CTO of Factory]]
 
 ### boundary objects {#boundary-objects}
 
@@ -23374,6 +23442,17 @@
 - specification-driven development **réduit** → validation circulaire — 0.89
 
 **Fiches** : [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|How AI Changes the SDLC: A Six-Stage Guide]], [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
+
+### validation déterministe {#validation-déterministe}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Lint, tests, typage et conventions imposées comme boucles de rétroaction des agents
+
+- **permet** → efficacité agents (CONCEPT) — 0.90
+- **améliore** → fiabilité des agents (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-09/reyes-factory-building-machine-software-2026-09-22\|Building the Machine That Builds the Software - Eno Reyes, Co-Founder & CTO of Factory]]
 
 ### vault de recherche {#vault-de-recherche}
 

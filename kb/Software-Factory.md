@@ -1,10 +1,10 @@
 # Software Factory
 
-> **Type** : METHODOLOGIE | 9 relations | 3 fiches sources
+> **Type** : METHODOLOGIE | 10 relations | 4 fiches sources
 
 ## Attributs
 
-- **définition** : Développement non-interactif piloté par specs et scenarios sans intervention humaine
+- **définition** : Boucle de développement logiciel de bout en bout pilotée par des agents, humains en stewards
 - **métrique** : $1 000 en tokens par ingénieur humain par jour
 - **règle** : Nul humain n'écrit le code, nul humain ne le relit
 - **statut** : Cible évoquée par l'auteur à l'échelle de l'entreprise
@@ -38,6 +38,8 @@
 
 ### utilise
 
+- [[kb/_entites-mineures#boucle-de-rétroaction\|boucle de rétroaction]] (CONCEPT) — 0.92, ATEMPOREL
+  - [[fiches/2026-09/reyes-factory-building-machine-software-2026-09-22\|Building the Machine That Builds the Software - Eno Reyes, Co-Founder & CTO of Factory]]
 - [[kb/skills-technologie\|skills]] (TECHNOLOGIE) — 0.80, DYNAMIQUE
   - [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)]]
 
@@ -52,3 +54,4 @@
 - [[fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06\|Software Factories And The Agentic Moment]]
 - [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)]]
 - [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]]
+- [[fiches/2026-09/reyes-factory-building-machine-software-2026-09-22\|Building the Machine That Builds the Software - Eno Reyes, Co-Founder & CTO of Factory]]

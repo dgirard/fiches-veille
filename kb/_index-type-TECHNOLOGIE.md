@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 843 entités de type TECHNOLOGIE
+> 847 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -57,6 +57,7 @@
 - [[kb/_entites-mineures#Agent-Development-Kit-(ADK)\|Agent Development Kit (ADK)]] — catégorie: Kit de développement d'agents (1 occ., 1 fiches)
 - [[kb/Agent-Memory\|Agent Memory]] — catégorie: Gestion bidirectionnelle de données pour agents (1 occ., 1 fiches)
 - [[kb/Agent-Plugins\|Agent Plugins]] — définition: Spécification ouverte et vendor-neutral (v1.0.0) empaquetant Agent Skills et serveurs MCP dans un répertoire portable : plugin.json réduit à $schema et name, skills/ au format Agent Skills, mcp.json avec type explicite par entrée, et un espace d'extension en domaine inversé par client (3 occ., 1 fiches)
+- [[kb/_entites-mineures#Agent-Readiness\|Agent Readiness]] — catégorie: Produit Factory évaluant la préparation d'une base de code aux agents (150+ signaux) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent-Registry\|Agent Registry]] — catégorie: Source of truth Uber pour les mappings agent↔workload — utilisé par STS pour vérifier l'autorisation des agents (1 occ., 1 fiches)
 - [[kb/Agent-Skills\|Agent Skills]] — catégorie: Dossiers scripts et instructions expertise domaine (4 occ., 3 fiches)
 - [[kb/_entites-mineures#Agent-Studio\|Agent Studio]] — catégorie: Plateforme no-code construction agents (1 occ., 1 fiches)
@@ -230,6 +231,7 @@
 - [[kb/_entites-mineures#Dose-ID\|Dose ID]] — catégorie: GPT custom d'analyse de données cliniques (sélection de dose vaccinale) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Doubao\|Doubao]] — catégorie: Assistant LLM grand public (Bytedance) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dream-Cut\|Dream Cut]] — catégorie: Mac app de Meng To en développement (révélation prochaine) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Droid\|Droid]] — catégorie: Agent de codage de Factory, multi-surface (terminal, revue, sandbox) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Droid-Factory\|Droid/Factory]] — catégorie: Framework d'agents (1 occ., 1 fiches)
 - [[kb/DuckDB\|DuckDB]] — catégorie: Moteur analytique SQL embarqué en bibliothèque, lancé en 2018, présenté au SIGMOD 2019, licence MIT, compilable en WebAssembly (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Duet\|Duet]] — définition: Produit de Decagon qui réalise de façon autonome la configuration, l'itération et la longue traîne du tuning d'un agent de service client — travail auparavant confié à un humain en boucle (1 occ., 1 fiches)
@@ -462,6 +464,7 @@
 - [[kb/Minions\|Minions]] — catégorie: Agents de codage bout-en-bout one-shot (4 occ., 3 fiches)
 - [[kb/_entites-mineures#Ministral-3\|Ministral 3]] — rôle: Modèle de base de Shieldstral, complété par l'encodeur vision de Pixtral pour la modération multimodale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mirakl-Marketplace-Platform\|Mirakl Marketplace Platform]] — modèle économique: Logiciel connecté au front e-commerce du client, rémunéré en pourcentage des transactions — modèle aligné sur celui du client (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Missions\|Missions]] — catégorie: Produit Factory d'objectifs de long terme avec budget de tokens alloué (1 occ., 1 fiches)
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] — catégorie: Agent de codage CLI open source (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Mistral-Regional-Endpoints\|Mistral Regional Endpoints]] — définition: Produit d'inférence de Mistral AI en disponibilité générale (août 2026) permettant d'épingler l'inférence et ses traitements associés en Europe ou aux États-Unis. Les documents de Mistral prévoient des « transferts limités et encadrés » vers des sous-traitants hors région, les appels d'outils (recherche web) constituant le point de fuite identifié (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mistral-Small-3.1\|Mistral Small 3.1]] — catégorie: Modèle de langage backbone (1 occ., 1 fiches)
@@ -809,6 +812,7 @@
 - [[kb/_entites-mineures#repowire\|repowire]] — catégorie: Mesh-orchestrator open source, premier adoptant officiel d'ADHD (PR #313) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#resolve-pr-feedback\|resolve-pr-feedback]] — description: Skill de résolution feedback PR avec clustering (1 occ., 1 fiches)
 - [[kb/_entites-mineures#robots-dextres\|robots dextres]] — maturité: Développés surtout en Chine ; concurrence attendue sur des tâches physiques d'ici la fin de la décennie (1 occ., 1 fiches)
+- [[kb/_entites-mineures#routeur-de-modèles\|routeur de modèles]] — catégorie: Allocation du modèle par tâche et par rôle pour arbitrer coût et qualité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sandboxed-iframes\|sandboxed iframes]] — rôle: Isolation sécurité UI (1 occ., 2 fiches)
 - [[kb/_entites-mineures#semantic-layer\|semantic layer]] — rôle: Définitions compilées de métriques/dimensions, source de confiance n°1 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#serveurs-MCP\|serveurs MCP]] — composants: outils, ressources, prompts (1 occ., 1 fiches)

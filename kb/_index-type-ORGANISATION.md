@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 434 entités de type ORGANISATION
+> 435 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -150,6 +150,7 @@
 - [[kb/_entites-mineures#FDA\|FDA]] — rôle: Régulateur des dispositifs médicaux aux États-Unis (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FIG-(agence)\|FIG (agence)]] — description: Cas étude Mandese — agence ayant decoupled pricing from staffing (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FTC\|FTC]] — rôle: Régulateur de la concurrence aux États-Unis (1 occ., 1 fiches)
+- [[kb/Factory\|Factory]] — secteur: Agents de codage autonomes ; série C de 150 millions de dollars (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Fella-&-Delilah\|Fella & Delilah]] — catégorie: Firme de télésanté ; incite au 996 par +25 % de salaire et +100 % de parts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Fin-Ideas\|Fin Ideas]] — catégorie: Plateforme média Substack d'Intercom — diffuse les essais des dirigeants R&D (1 occ., 1 fiches)
 - [[kb/FinOps-Foundation\|FinOps Foundation]] — secteur: Standardisation FinOps / Linux Foundation (2 occ., 2 fiches)

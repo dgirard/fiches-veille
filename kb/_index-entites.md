@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3544 entités
+> 3553 entités
 
 ## #
 
@@ -134,6 +134,7 @@
 - [[kb/Agent-Memory\|Agent Memory]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#agent-personnel\|agent personnel]] (CONCEPT, 1 fiches)
 - [[kb/Agent-Plugins\|Agent Plugins]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Agent-Readiness\|Agent Readiness]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Agent-readiness-data-foundations\|Agent readiness data foundations]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Agent-Registry\|Agent Registry]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Agent-Skills\|Agent Skills]] (TECHNOLOGIE, 3 fiches)
@@ -548,6 +549,7 @@
 - [[kb/_entites-mineures#Boucle-de-feedback-développeur\|Boucle de feedback développeur]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Boucle-de-feedback-externe\|Boucle de feedback externe]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#boucle-de-qualité-continue\|boucle de qualité continue]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#boucle-de-rétroaction\|boucle de rétroaction]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#boucles-de-vérification-multi-agents\|boucles de vérification multi-agents]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Bouddha\|Bouddha]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#boundary-objects\|boundary objects]] (CONCEPT, 1 fiches)
@@ -1148,6 +1150,7 @@
 - [[kb/_entites-mineures#Dream-Cut\|Dream Cut]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#DRH\|DRH]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Drift\|Drift]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Droid\|Droid]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Droid-Factory\|Droid/Factory]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#droit-de-sortie\|droit de sortie]] (CONCEPT, 1 fiches)
 - [[kb/Dropbox\|Dropbox]] (ORGANISATION, 2 fiches)
@@ -1230,6 +1233,7 @@
 - [[kb/_entites-mineures#Engineering-360\|Engineering 360]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Engineering-Output\|Engineering Output]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#ENISA\|ENISA]] (ORGANISATION, 1 fiches)
+- [[kb/Eno-Reyes\|Eno Reyes]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#enquête-shopping-IA-2025\|enquête shopping IA 2025]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#enregistrement-gouvernable\|enregistrement gouvernable]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Enterprise-Frontier-Safeguards\|Enterprise Frontier Safeguards]] (TECHNOLOGIE, 1 fiches)
@@ -1291,6 +1295,7 @@
 - [[kb/_entites-mineures#Fable\|Fable]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Fable-5\|Fable 5]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Fabrice-Heyries\|Fabrice Heyries]] (PERSONNE, 1 fiches)
+- [[kb/Factory\|Factory]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Failing-Faster\|Failing Faster]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Failure-modes-market-research-IA\|Failure modes market research IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Famille-skills-frameworks-2026\|Famille skills frameworks 2026]] (CONCEPT, 1 fiches)
@@ -1500,6 +1505,7 @@
 - [[kb/Google-DeepMind\|Google DeepMind]] (ORGANISATION, 4 fiches)
 - [[kb/_entites-mineures#Google-Jules\|Google Jules]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Google-Labs\|Google Labs]] (ORGANISATION, 2 fiches)
+- [[kb/_entites-mineures#Google-metric\|Google metric]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Google-One-AI-Premium\|Google One AI Premium]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Google-Sans\|Google Sans]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Google-Sans-Code\|Google Sans Code]] (TECHNOLOGIE, 1 fiches)
@@ -2149,6 +2155,7 @@
 - [[kb/Mirakl\|Mirakl]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Mirakl-Marketplace-Platform\|Mirakl Marketplace Platform]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#MIRI\|MIRI]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Missions\|Missions]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Mistral\|Mistral]] (ORGANISATION, 1 fiches)
 - [[kb/Mistral-AI\|Mistral AI]] (ORGANISATION, 6 fiches)
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] (TECHNOLOGIE, 1 fiches)
@@ -2777,6 +2784,7 @@
 - [[kb/_entites-mineures#routage-de-modèles\|routage de modèles]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#routage-SIEM\|routage SIEM]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#routage-à-deux-niveaux-de-modèles\|routage à deux niveaux de modèles]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#routeur-de-modèles\|routeur de modèles]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#routeurs-de-modèles-dynamiques\|routeurs de modèles dynamiques]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Routines\|Routines]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#routing-de-modèle\|routing de modèle]] (METHODOLOGIE, 1 fiches)
@@ -2983,7 +2991,7 @@
 - [[kb/_entites-mineures#Socrate\|Socrate]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Software-3.0\|Software 3.0]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Software-Factories,-Light-and-Dark\|Software Factories, Light and Dark]] (DOCUMENT, 1 fiches)
-- [[kb/Software-Factory\|Software Factory]] (METHODOLOGIE, 3 fiches)
+- [[kb/Software-Factory\|Software Factory]] (METHODOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#SoGPT\|SoGPT]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Sohrab-Hosseini\|Sohrab Hosseini]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Sokratis-Kartakis\|Sokratis Kartakis]] (PERSONNE, 1 fiches)
@@ -3379,6 +3387,7 @@
 
 - [[kb/_entites-mineures#Valence\|Valence]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#validation-circulaire\|validation circulaire]] (CONCEPT, 2 fiches)
+- [[kb/_entites-mineures#validation-déterministe\|validation déterministe]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Vanessa-Parli\|Vanessa Parli]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Vanta\|Vanta]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Variable-costs-in-high-margin-SaaS\|Variable costs in high-margin SaaS]] (CONCEPT, 1 fiches)

@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 425 fiches | 1975-12 → 2026-10-01 | généré le 2026-10-02
+> 426 fiches | 1975-12 → 2026-10-01 | généré le 2026-10-03
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -22,6 +22,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **28** [Automating eval design and hillclimbing with Claude](fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28.md) — Lance Martin (Anthropic), blog claude.dev, avec remerciements à Misha Khalman pour le développement de la skill. · Anthropic (claude.dev) — évaluation, eval design, hillclimbing
 - **26** [Context Filter](fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26.md) — Assaf Elovic, créateur de GPT Researcher, auteur de la page (documentation officielle docs.gptr.dev, non signée). · GPT Researcher Docs — filtre de contexte, context filter, sélection de passages
 - **25** [Nope. It's still true. (post X en réponse à Noah Smith)](fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25.md) — Yann LeCun — fondateur et président d'AMI Labs, professeur à NYU, ex-Chief AI Scientist de Meta, prix Turing. Post X. · Yann LeCun (X) — Yann LeCun, AMI Labs, NYU
+- **22** [Building the Machine That Builds the Software | Eno Reyes, Co-Founder & CTO of Factory](fiches/2026-09/reyes-factory-building-machine-software-2026-09-22.md) — Eno Reyes — cofondateur et CTO de Factory ; conférence vidéo (FirstMark Capital). · YouTube — software factory, usine logicielle, Factory
 - **20** [Philippe Corrot, fondateur de Mirakl](fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20.md) — Philippe Corrot, cofondateur et co-CEO de Mirakl, interrogé par Éric Hazan dans *Les Pirates de l'IA* (RCJ). · Les Pirates de l'IA (RCJ) — place de marché, marketplace, modèle de plateforme
 - **20** [WHAT IF THE FUTURE DOES NOT NEED YOU ?](fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20.md) — Asma Mhalla, politiste, autrice de *Technopolitique* ; newsletter *Dangerous Ideas* (Substack). · Dangerous Ideas — peur de devenir superflu, remplacement, compatibilité narrative
 - **15** [Introducing System One Models & Jev](fiches/2026-09/almeida-system-one-models-jev-2026-09-15.md) — Diogo Almeida — fondateur de TypeSafe AI, ancien chercheur chez OpenAI (billet du blog d'entreprise). · TypeSafe AI — System One, modèle de décision, Jev
@@ -546,6 +547,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI](fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30.md) — Zach Davis (LaunchDarkly), Michelle Gill (Engineered by AI), Elisabeth Hendrickson (Curious Duck), Angie Jones (Agentic AI Foundation), Sha Ma (Topogy), Randy Shoup (CircleCI), James Wickett (DryRun Security) ; article collectif, IT Revolution.
 - [The End of Hand-Written Code: A Conversation with David Heinemeier Hansson (DHH) on AI, Omarchy and the Future of Programming](fiches/2026-09/heinemeier-hansson-end-of-hand-written-code-2026-09-28.md) — David Heinemeier Hansson, créateur de Ruby on Rails et copropriétaire de 37signals, interrogé par Vikas Shah dans *Thought Economics*.
 - [Automating eval design and hillclimbing with Claude](fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28.md) — Lance Martin (Anthropic), blog claude.dev, avec remerciements à Misha Khalman pour le développement de la skill.
+- [Building the Machine That Builds the Software | Eno Reyes, Co-Founder & CTO of Factory](fiches/2026-09/reyes-factory-building-machine-software-2026-09-22.md) — Eno Reyes — cofondateur et CTO de Factory ; conférence vidéo (FirstMark Capital).
 - [Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team](fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14.md) — Alan Blount (Technical Solutions Consultant, Google Cloud, @zeroasterisk), publié sur le compte X @GoogleCloudTech.
 - [The Evaporation of Software Engineering (and the Rise of the Agentic Builder)](fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14.md) — Donn Felker (responsable plateforme IA chez Polygon, ex-Tinder, ex-co-animateur du podcast Fragmented), sur son Substack donnfelker.substack.com.
 - [Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic](fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14.md) — Sachin Malhotra (ingénieur, Anthropic), sur le blog claude.com.
@@ -703,6 +705,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Architecture & Construction
 
 - [Context Filter](fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26.md) — Assaf Elovic, créateur de GPT Researcher, auteur de la page (documentation officielle docs.gptr.dev, non signée).
+- [Building the Machine That Builds the Software | Eno Reyes, Co-Founder & CTO of Factory](fiches/2026-09/reyes-factory-building-machine-software-2026-09-22.md) — Eno Reyes — cofondateur et CTO de Factory ; conférence vidéo (FirstMark Capital).
 - [Introducing System One Models & Jev](fiches/2026-09/almeida-system-one-models-jev-2026-09-15.md) — Diogo Almeida — fondateur de TypeSafe AI, ancien chercheur chez OpenAI (billet du blog d'entreprise).
 - [Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic](fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14.md) — Sachin Malhotra (ingénieur, Anthropic), sur le blog claude.com.
 - [« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique](fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06.md) — SFEIR AI (voix éditoriale du cabinet), article non signé individuellement. Restitue un entretien de Matthieu Grymonprez (Adeo) et Romain Taillade (Decathlon).
@@ -766,6 +769,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - [Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)](fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01.md) — Daniel Meppiel — travaille avec des équipes d'ingénierie d'entreprise chez Microsoft et GitHub ; post LinkedIn.
 - [The Dot and the Swarm: Benefitting from the Bitter Lesson](fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01.md) — Ethan Mollick — professeur à la Wharton School (University of Pennsylvania), auteur de *One Useful Thing* (Substack).
+- [Building the Machine That Builds the Software | Eno Reyes, Co-Founder & CTO of Factory](fiches/2026-09/reyes-factory-building-machine-software-2026-09-22.md) — Eno Reyes — cofondateur et CTO de Factory ; conférence vidéo (FirstMark Capital).
 - [Philippe Corrot, fondateur de Mirakl](fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20.md) — Philippe Corrot, cofondateur et co-CEO de Mirakl, interrogé par Éric Hazan dans *Les Pirates de l'IA* (RCJ).
 - [The Evaporation of Software Engineering (and the Rise of the Agentic Builder)](fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14.md) — Donn Felker (responsable plateforme IA chez Polygon, ex-Tinder, ex-co-animateur du podcast Fragmented), sur son Substack donnfelker.substack.com.
 - [Do you even need a presentation?](fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08.md) — Sumeet Gayathri Moghe (global head of culture and organisational design, Thoughtworks), publié sur martinfowler.com ; relecture éditoriale de Martin Fowler.
@@ -1043,6 +1047,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [We Must Pace the Frontier](fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09.md) — Dario Amodei (CEO et cofondateur d'Anthropic), sur son site personnel darioamodei.com.
 - [Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI](fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30.md) — Zach Davis (LaunchDarkly), Michelle Gill (Engineered by AI), Elisabeth Hendrickson (Curious Duck), Angie Jones (Agentic AI Foundation), Sha Ma (Topogy), Randy Shoup (CircleCI), James Wickett (DryRun Security) ; article collectif, IT Revolution.
 - [Personal AI Should Actually Be Personal](fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29.md) — Ryan Sarver (@rsarver), auteur du fil sur X ; fonction non indiquée dans le texte.
+- [Building the Machine That Builds the Software | Eno Reyes, Co-Founder & CTO of Factory](fiches/2026-09/reyes-factory-building-machine-software-2026-09-22.md) — Eno Reyes — cofondateur et CTO de Factory ; conférence vidéo (FirstMark Capital).
 - [Agency and Agents: From the Hugging Face Incident to Twilight Factories](fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31.md) — Ethan Mollick — professeur à la Wharton School (University of Pennsylvania), auteur du blog *One Useful Thing* sur Substack.
 - [When code is abundant](fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24.md) — Bill Staples, directeur général de GitLab (fonction non affichée par la page), sur le blog about.gitlab.com.
 - [The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage](fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21.md) — Louis Claxton (Anthropic, équipe Applied AI), sur le blog claude.com ; contributions créditées à Jim Blackhurst, Will Steuk et Jamal Arif.
@@ -1206,16 +1211,16 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 425 fiches
-- **Par année** : 2026 (248) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 426 fiches
+- **Par année** : 2026 (249) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 159
-  - Architecture & Construction : 59
-  - Transformation & Adoption : 92
+  - Agents de codage IA & Skills : 160
+  - Architecture & Construction : 60
+  - Transformation & Adoption : 93
   - Qualité & Sécurité : 52
   - Économie & Marché : 90
   - Philosophie & Société : 28
-  - Stratégie & Frameworks : 34
+  - Stratégie & Frameworks : 35
   - Outils & Plateformes : 61
   - Recherche & Éducation : 15
   - Produits & Services : 15
@@ -1257,8 +1262,8 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Addy Osmani (3)
   - a16z (3)
   - Cloudflare Blog (2)
+  - YouTube (2)
   - Anthropic (blog claude.com) (2)
   - VentureBeat (2)
   - Cloudflare (2)
   - The New Stack (2)
-  - Netflix (2)

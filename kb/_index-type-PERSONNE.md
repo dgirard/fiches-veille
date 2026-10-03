@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 538 entités de type PERSONNE
+> 539 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -160,6 +160,7 @@
 - [[kb/_entites-mineures#Elliot-Greenwald\|Elliot Greenwald]] — rôle: Auteur du billet fondateur Sierra sur l'outcome-based pricing (10 déc. 2024) (1 occ., 1 fiches)
 - [[kb/Elon-Musk\|Elon Musk]] — rôle: Dirigeant de SpaceX, Tesla, xAI (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Emily-Yuan\|Emily Yuan]] — rôle: Cofondatrice de Corgi, 23 ans (1 occ., 1 fiches)
+- [[kb/Eno-Reyes\|Eno Reyes]] — rôle: Cofondateur et CTO de Factory (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Eric-Maxwell\|Eric Maxwell]] — rôle: Lead 10X Technology consulting Google, ex-Chef Software, contributeur DORA team (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Eric-Meijer\|Eric Meijer]] — rôle: Chercheur informatique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Eric-Pantera\|Eric Pantera]] — rôle: CTO de Swile (Montpellier) (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1039 entités de type CONCEPT
+> 1042 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -255,6 +255,7 @@
 - [[kb/_entites-mineures#Gentle-Singularity\|Gentle Singularity]] — origine: Terme attribué à roon (OpenAI), repris par Sam Altman dans essai éponyme (juin 2025) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Giant-acid-vat\|Giant acid vat]] — source: Métaphore Dean Ball — l'IA dissolvant les institutions médiatrices (presse, syndicats, universités, partis) qui forment le tissu social américain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gloopies\|Gloopies]] — définition: Collection phare de personnages animés de Berd servant d'avatars d'agents (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Google-metric\|Google metric]] — définition: Lien entre une métrique d'ingénierie et un résultat d'affaires mesurable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Governance-ontology\|Governance ontology]] — définition: "The engineering practice that keeps an ontology coherent across change" — ongoing engineering, pas post-project documentation. Ajout 2026 au framework initial (1 occ., 1 fiches)
 - [[kb/Goût-développeur\|Goût développeur]] — description: Jugement de savoir à quoi ressemble la bonne solution avant de coder et discipline de la poursuivre (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GuacaDrone\|GuacaDrone]] — rôle: Cas test révélateur de biais d'évaluation des modèles (1 occ., 1 fiches)
@@ -555,6 +556,7 @@
 - [[kb/_entites-mineures#bikeshedding\|bikeshedding]] — définition: Dispute sur des points mineurs pendant que les problèmes sérieux restent inexaminés ; échec de revue documenté avant l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#bottleneck-shifting\|bottleneck-shifting]] — définition: L'IA ne supprime pas les goulots, elle les déplace en aval (1 occ., 1 fiches)
 - [[kb/_entites-mineures#boucle-cognitive\|boucle cognitive]] — rôle: Boucle inédite entre personnes et systèmes numériques propre à l'ère IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#boucle-de-rétroaction\|boucle de rétroaction]] — définition: Signaux, tri, plan, code, validation, déploiement, monitoring, nouveaux signaux (1 occ., 1 fiches)
 - [[kb/_entites-mineures#boundary-objects\|boundary objects]] — définition: Artefacts structurés passés entre groupes pour transmettre du sens à travers les frontières (1 occ., 1 fiches)
 - [[kb/_entites-mineures#boundary-spanning\|boundary-spanning]] — définition: Mécanisme par lequel l'IA aide un professionnel à raisonner au-delà de son domaine d'origine, effaçant les silos fonctionnels (1 occ., 1 fiches)
 - [[kb/_entites-mineures#bounded-contexts\|bounded contexts]] — origine: Concept de Martin Fowler appliqué à la structuration des contextes LLM (1 occ., 1 fiches)
@@ -999,6 +1001,7 @@
 - [[kb/_entites-mineures#usine-logicielle\|usine logicielle]] — définition: Ensemble outillé — contexte, skills, outils, garde-fous exécutables, quality gate, process produit — qui encadre un code produit par des agents pour qu'il corresponde à une intention et reste contrôlé (1 occ., 1 fiches)
 - [[kb/utilisation-des-agents-de-codage\|utilisation des agents de codage]] — définition: Troisième compétence de la carte, présentée comme désormais requise de tout développeur : disposer d'un bon modèle mental du fonctionnement des agents et de leurs limites, savoir combien intervenir et combien laisser faire, gérer le contexte, arbitrer entre planification et exécution, fournir des vérificateurs ou des evals pour que l'agent ferme ses boucles seul, travailler avec un spec clair et savoir quand ne pas s'en donner la peine, orchestrer plusieurs agents, éviter les pièges comme la destruction d'une base de production. Seule compétence dont l'objet change assez vite pour exiger des routines d'essai d'outils (1 occ., 1 fiches)
 - [[kb/_entites-mineures#validation-circulaire\|validation circulaire]] — définition: Mode d'échec où l'agent qui écrit le code écrit aussi les tests qui le valident : la CI est verte sans back-pressure réelle — « un miroir, pas un anneau de contraintes » (2 occ., 2 fiches)
+- [[kb/_entites-mineures#validation-déterministe\|validation déterministe]] — définition: Lint, tests, typage et conventions imposées comme boucles de rétroaction des agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vault-de-recherche\|vault de recherche]] — définition: Magasin persistant de sources en markdown avec index reconstructible, cycle de vie curé des notes, provenance traçable et score de qualité, consulté avant toute nouvelle récupération (1 occ., 1 fiches)
 - [[kb/_entites-mineures#verrouillage-d'outils\|verrouillage d'outils]] — définition: Restriction de l'allowlist d'un sous-agent à un jeu d'outils donné, rendant un comportement mécaniquement impossible au lieu de le déconseiller par consigne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#verrouillage-développeur\|verrouillage développeur]] — définition: Situation où choisir un agent de codage revient à accepter les seules interfaces qu'il propose — l'un des trois coûts du couplage agent-éditeur (1 occ., 1 fiches)
