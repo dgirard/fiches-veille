@@ -1,10 +1,10 @@
 # Dario Amodei
 
-> **Type** : PERSONNE | 17 relations | 3 fiches sources
+> **Type** : PERSONNE | 23 relations | 4 fiches sources
 
 ## Attributs
 
-- **rôle** : CEO et cofondateur d'Anthropic ; douze ans de travail sur l'IA
+- **rôle** : CEO d'Anthropic
 
 ## Relations (comme sujet)
 
@@ -27,19 +27,28 @@
   - [[fiches/2025-11/yegge-kim-year-ide-died-vibe-coding-2025-11-23\|2026: The Year the IDE Died & Vibe Coding]]
 - « "Any agreement must either have ironclad verifiability, or must be limited enough that defection would not be militarily existential" » (CITATION) — 0.93, ATEMPOREL
   - [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]]
+- « les postes d'entrée de carrière en cols blancs seront d'abord augmentés puis remplacés par l'IA » (AFFIRMATION) — 0.92, DYNAMIQUE
+  - [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
+- « on ne peut pas arrêter le développement de l'IA mais on peut l'infléchir » (AFFIRMATION) — 0.92, DYNAMIQUE
+  - [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
 - « "I don't trust China at all" » (CITATION) — 0.90, STATIQUE
   - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
+- « l'arrêt unilatéral d'un acteur ne stopperait pas le développement » (AFFIRMATION) — 0.85, DYNAMIQUE
+  - [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
 
 ### dirige
 
 - [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.98, DYNAMIQUE
   - [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]]
+  - [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
   - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 
 ### prédit
 
 - « 50% emplois junior white-collar disparus d'ici 2030 » (MESURE) — 0.97, STATIQUE
   - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
+- « de grands effets sur l'emploi débutant entre un et cinq ans » (AFFIRMATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
 - « un essaim plus capable au même niveau de désalignement pourrait tenir l'internet avec un botnet persistant sous 6-12 mois, pour des centaines de milliards de dollars » (AFFIRMATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]]
 - « ces mesures élargiraient significativement l'avance américaine sur 3-5 ans » (AFFIRMATION) — 0.87, DYNAMIQUE
@@ -51,6 +60,10 @@
   - [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]]
 - « contrôle des exportations de puces, répression de la distillation non autorisée, sécurisation des poids » (AFFIRMATION) — 0.94, ATEMPOREL
   - [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]]
+- « éduquer les gens à utiliser l'IA » (AFFIRMATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
+- « taxer les entreprises d'IA pour rééquilibrer le terrain économique » (AFFIRMATION) — 0.85, DYNAMIQUE
+  - [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
 
 ### référence
 
@@ -67,5 +80,6 @@
 ## Fiches sources
 
 - [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]]
+- [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
 - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 - [[fiches/2025-11/yegge-kim-year-ide-died-vibe-coding-2025-11-23\|2026: The Year the IDE Died & Vibe Coding]]

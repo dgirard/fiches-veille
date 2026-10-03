@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 427 fiches | 1975-12 → 2026-10-01 | généré le 2026-10-03
+> 428 fiches | 1975-12 → 2026-10-02 | généré le 2026-10-03
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-10
 
+- **02** [Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will completely vanish » — vidéo d'un entretien de Dario Amodei](fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02.md) — Yugen Matsuda — entrepreneur indépendant, compte X japonais ; post de relais d'un entretien de Dario Amodei (CEO d'Anthropic). · X — Dario Amodei, Anthropic, emplois débutants
 - **01** [Introducing Clef: our open-source decision models, and new RL fine-tuning platform](fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01.md) — Michelle Chen, Alex Reneau, Kevin Flansburg — équipe Workers AI / plateforme IA, blog Cloudflare. · Cloudflare Blog — Clef, Clef-flash, modèle de décision
 - **01** [Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)](fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01.md) — Daniel Meppiel — travaille avec des équipes d'ingénierie d'entreprise chez Microsoft et GitHub ; post LinkedIn. · LinkedIn — Agentic SDLC, SDLC agentique, skills
 - **01** [The Dot and the Swarm: Benefitting from the Bitter Lesson](fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01.md) — Ethan Mollick — professeur à la Wharton School (University of Pennsylvania), auteur de *One Useful Thing* (Substack). · One Useful Thing — Bitter Lesson, leçon amère, management d'agents
@@ -768,6 +769,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Transformation & Adoption
 
+- [Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will completely vanish » — vidéo d'un entretien de Dario Amodei](fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02.md) — Yugen Matsuda — entrepreneur indépendant, compte X japonais ; post de relais d'un entretien de Dario Amodei (CEO d'Anthropic).
 - [Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)](fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01.md) — Daniel Meppiel — travaille avec des équipes d'ingénierie d'entreprise chez Microsoft et GitHub ; post LinkedIn.
 - [The Dot and the Swarm: Benefitting from the Bitter Lesson](fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01.md) — Ethan Mollick — professeur à la Wharton School (University of Pennsylvania), auteur de *One Useful Thing* (Substack).
 - [Building the Machine That Builds the Software | Eno Reyes, Co-Founder & CTO of Factory](fiches/2026-09/reyes-factory-building-machine-software-2026-09-22.md) — Eno Reyes — cofondateur et CTO de Factory ; conférence vidéo (FirstMark Capital).
@@ -919,6 +921,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Économie & Marché
 
+- [Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will completely vanish » — vidéo d'un entretien de Dario Amodei](fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02.md) — Yugen Matsuda — entrepreneur indépendant, compte X japonais ; post de relais d'un entretien de Dario Amodei (CEO d'Anthropic).
 - [Personal AI Should Actually Be Personal](fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29.md) — Ryan Sarver (@rsarver), auteur du fil sur X ; fonction non indiquée dans le texte.
 - [The End of Hand-Written Code: A Conversation with David Heinemeier Hansson (DHH) on AI, Omarchy and the Future of Programming](fiches/2026-09/heinemeier-hansson-end-of-hand-written-code-2026-09-28.md) — David Heinemeier Hansson, créateur de Ruby on Rails et copropriétaire de 37signals, interrogé par Vikas Shah dans *Thought Economics*.
 - [Philippe Corrot, fondateur de Mirakl](fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20.md) — Philippe Corrot, cofondateur et co-CEO de Mirakl, interrogé par Éric Hazan dans *Les Pirates de l'IA* (RCJ).
@@ -1183,6 +1186,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Politique & Régulation
 
+- [Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will completely vanish » — vidéo d'un entretien de Dario Amodei](fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02.md) — Yugen Matsuda — entrepreneur indépendant, compte X japonais ; post de relais d'un entretien de Dario Amodei (CEO d'Anthropic).
 - [We Must Pace the Frontier](fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09.md) — Dario Amodei (CEO et cofondateur d'Anthropic), sur son site personnel darioamodei.com.
 - [GLM-5.3 and the spread of advanced cyber capabilities](fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29.md) — Andrew Fasano, Marius Fleischer, Cole McFaul, Robert Xiao, Tripp Gallagher ; Frontier Red Team, Anthropic (billet de recherche du site anthropic.com).
 - [Philippe Corrot, fondateur de Mirakl](fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20.md) — Philippe Corrot, cofondateur et co-CEO de Mirakl, interrogé par Éric Hazan dans *Les Pirates de l'IA* (RCJ).
@@ -1214,20 +1218,20 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 427 fiches
-- **Par année** : 2026 (250) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 428 fiches
+- **Par année** : 2026 (251) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 160
   - Architecture & Construction : 60
-  - Transformation & Adoption : 93
+  - Transformation & Adoption : 94
   - Qualité & Sécurité : 52
-  - Économie & Marché : 90
+  - Économie & Marché : 91
   - Philosophie & Société : 29
   - Stratégie & Frameworks : 35
   - Outils & Plateformes : 61
   - Recherche & Éducation : 16
   - Produits & Services : 15
-  - Politique & Régulation : 28
+  - Politique & Régulation : 29
 - **Auteurs (top 20)** :
   - Ethan Mollick (13)
   - SFEIR (13)
@@ -1264,9 +1268,9 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - The Batch / DeepLearning.AI (3)
   - Addy Osmani (3)
   - a16z (3)
+  - X (2)
   - Cloudflare Blog (2)
   - YouTube (2)
   - Anthropic (blog claude.com) (2)
   - VentureBeat (2)
   - Cloudflare (2)
-  - The New Stack (2)

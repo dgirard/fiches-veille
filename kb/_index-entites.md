@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3564 entités
+> 3569 entités
 
 ## #
 
@@ -319,7 +319,7 @@
 - [[kb/_entites-mineures#ANSSI\|ANSSI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#antfooding\|antfooding]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Anthony-Ligori\|Anthony Ligori]] (PERSONNE, 1 fiches)
-- [[kb/Anthropic\|Anthropic]] (ORGANISATION, 49 fiches)
+- [[kb/Anthropic\|Anthropic]] (ORGANISATION, 50 fiches)
 - [[kb/_entites-mineures#Anthropic-agents-to-agents-Slack\|Anthropic agents-to-agents Slack]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Anthropic-dogfood-doctrine\|Anthropic dogfood doctrine]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Anthropic-Economic-Index\|Anthropic Economic Index]] (DOCUMENT, 1 fiches)
@@ -1002,7 +1002,7 @@
 - [[kb/_entites-mineures#Daniel-Goetz\|Daniel Goetz]] (PERSONNE, 1 fiches)
 - [[kb/Daniel-Meppiel\|Daniel Meppiel]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Daniel-Rodrigues\|Daniel Rodrigues]] (PERSONNE, 1 fiches)
-- [[kb/Dario-Amodei\|Dario Amodei]] (PERSONNE, 3 fiches)
+- [[kb/Dario-Amodei\|Dario Amodei]] (PERSONNE, 4 fiches)
 - [[kb/_entites-mineures#dark-factory\|dark factory]] (CONCEPT, 1 fiches)
 - [[kb/Darragh-Curran\|Darragh Curran]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#DAST-continu-piloté-par-l'IA\|DAST continu piloté par l'IA]] (METHODOLOGIE, 1 fiches)
@@ -1200,6 +1200,7 @@
 - [[kb/_entites-mineures#EACA-(European-Association-of-Communication-Agencies)\|EACA (European Association of Communication Agencies)]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Ebony-Louis\|Ebony Louis]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#EcoDataCenter\|EcoDataCenter]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Economic-Index\|Economic Index]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Economie-de-la-computation\|Economie de la computation]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Ed-Zitron\|Ed Zitron]] (PERSONNE, 1 fiches)
 - [[kb/Edgar-Kussberg\|Edgar Kussberg]] (PERSONNE, 1 fiches)
@@ -1226,6 +1227,7 @@
 - [[kb/_entites-mineures#Emergent\|Emergent]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Emily-Yuan\|Emily Yuan]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#EMNLP2025\|EMNLP2025]] (EVENEMENT, 1 fiches)
+- [[kb/_entites-mineures#emplois-débutants-de-cols-blancs\|emplois débutants de cols blancs]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Empowerment-promise\|Empowerment promise]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#empreinte-mathématique-de-navigateur\|empreinte mathématique de navigateur]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#enabling-team\|enabling team]] (CONCEPT, 1 fiches)
@@ -1246,6 +1248,7 @@
 - [[kb/_entites-mineures#Entreprise-bionique\|Entreprise bionique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Entretien-de-débogage\|Entretien de débogage]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#entretien-The-End-of-Hand-Written-Code\|entretien The End of Hand-Written Code]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#Entretien-vidéo-de-4-min-26-s\|Entretien vidéo de 4 min 26 s]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#environnement-brownfield\|environnement brownfield]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#environnements-de-RL-privés\|environnements de RL privés]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Ephemeral-Intelligence-Gap\|Ephemeral Intelligence Gap]] (CONCEPT, 1 fiches)
@@ -1686,7 +1689,7 @@
 - [[kb/_entites-mineures#hypothèses-erronées-sans-vérification\|hypothèses erronées sans vérification]] (CONCEPT, 1 fiches)
 ## I
 
-- [[kb/IA\|IA]] (TECHNOLOGIE, 9 fiches)
+- [[kb/IA\|IA]] (TECHNOLOGIE, 10 fiches)
 - [[kb/_entites-mineures#IA-(amplificateur)\|IA (amplificateur)]] (CONCEPT, 1 fiches)
 - [[kb/IA-agentique\|IA agentique]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#IA-comme-outil\|IA comme outil]] (CONCEPT, 1 fiches)
@@ -2555,6 +2558,7 @@
 - [[kb/_entites-mineures#PORTING.md-LIFETIMES.tsv\|PORTING.md / LIFETIMES.tsv]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Position-no-headcount-reduction-(DORA)\|Position no-headcount-reduction (DORA)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Position-épistémique-tierce-(Frizzo)\|Position épistémique tierce (Frizzo)]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Post-X-de-@ytk_matsuda\|Post X de @ytk_matsuda]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#post-mortem-technique-détaillé\|post-mortem technique détaillé]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Posthumanisme-(critique-léonienne)\|Posthumanisme (critique léonienne)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Postman\|Postman]] (ORGANISATION, 1 fiches)
@@ -3551,6 +3555,7 @@
 - [[kb/_entites-mineures#Your-Browser-Does-Math-Differently-on-Every-OS\|Your Browser Does Math Differently on Every OS]] (DOCUMENT, 1 fiches)
 - [[kb/YouTube-organisation\|YouTube]] (ORGANISATION, 3 fiches)
 - [[kb/YouTube-technologie\|YouTube]] (TECHNOLOGIE, 3 fiches)
+- [[kb/_entites-mineures#Yugen-Matsuda\|Yugen Matsuda]] (PERSONNE, 1 fiches)
 - [[kb/Yves-Caseau\|Yves Caseau]] (PERSONNE, 2 fiches)
 ## Z
 

@@ -1,10 +1,10 @@
 # IA
 
-> **Type** : TECHNOLOGIE | 36 relations | 9 fiches sources
+> **Type** : TECHNOLOGIE | 38 relations | 10 fiches sources
 
 ## Attributs
 
-- **catégorie** : Technologie générique dont la variante agentique éprouve la littératie des patterns
+- **catégorie** : Famille générique de systèmes d'intelligence artificielle
 - **impact** : Substitue la cognition humaine et touche simultanément tous les secteurs
 - **métaphore** : Pierre philosophale — transmutation du sable en pensée
 - **usage** : Optimisation des enchères, analytique prédictive, segmentation audience
@@ -71,6 +71,8 @@
   - [[fiches/2025-11/shipper-every-building-ai-native-company-2025-11-23\|How to build an AI-native company (even if your company is 50 years old)]]
 - formation délibérée au jugement architectural (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]]
+- augmentation des travailleurs (CONCEPT) — 0.80, DYNAMIQUE
+  - [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
 
 ### remplace
 
@@ -89,6 +91,8 @@
   - [[fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26\|The turbulent AI era is here. The choices we make now are critical.]]
 - compétences techniques profondes (risque d'atrophie) (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
+- [[kb/_entites-mineures#emplois-débutants-de-cols-blancs\|emplois débutants de cols blancs]] (CONCEPT) — 0.85, DYNAMIQUE
+  - [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
 - interactions de mentorat (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
 - le refactoring (CONCEPT) — 0.85, ATEMPOREL
@@ -121,4 +125,5 @@
 - [[fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26\|The turbulent AI era is here. The choices we make now are critical.]]
 - [[fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15\|AI in the SDLC: Cutting Through the Hype]]
 - [[fiches/2025-01/lee-robinson-personal-software-2025-01-01\|Personal Software]]
+- [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
 - [[fiches/2025-10/think-with-google-demand-led-marketing-budget-2026-2025-10-01\|Think with Google: Demand-Led Marketing - How to Build Your 2026 Budget]]

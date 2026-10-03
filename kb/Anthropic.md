@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 153 relations | 49 fiches sources
+> **Type** : ORGANISATION | 154 relations | 50 fiches sources
 
 ## Attributs
 
@@ -13,7 +13,7 @@
 - **produit** : Claude
 - **revenus** : $1B → $4B en quelques mois (2025)
 - **rôle** : A racheté Bun (déc. 2025) ; éditeur de Claude Fable 5 et Claude Code utilisés pour la réécriture
-- **secteur** : IA ; éditeur de Claude Code et de la skill claude-api
+- **secteur** : IA / Safety
 
 ## Relations (comme sujet)
 
@@ -238,6 +238,8 @@
   - [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
 - étude junior engineers deskilling AI agents (DOCUMENT) — 0.94, STATIQUE
   - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
+- [[kb/_entites-mineures#Economic-Index\|Economic Index]] (DOCUMENT) — 0.93, DYNAMIQUE
+  - [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
 - Building Effective Agents (DOCUMENT) — 0.90, STATIQUE
   - [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]]
 - [[kb/_entites-mineures#Responsible-Scaling-Policy\|Responsible Scaling Policy]] (DOCUMENT) — 0.90, STATIQUE
@@ -385,6 +387,7 @@
 - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Building Powerful Agentic Systems with Claude]]
 - [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Maîtriser Claude Code — Détail complet des 12 modules et ~60 leçons]]
 - [[fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14\|Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic]]
+- [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
 - [[fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01\|Annonce : une alternative européenne à Claude Code (200 M$ de revenus). Voici Mistral AI CLI.]]
 - [[fiches/2026-01/nunez-cherny-claude-code-workflow-venturebeat-2026-01-05\|The creator of Claude Code just revealed his workflow, and developers are losing their minds]]
 - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]

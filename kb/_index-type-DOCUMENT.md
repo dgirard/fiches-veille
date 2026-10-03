@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 179 entités de type DOCUMENT
+> 181 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -42,6 +42,7 @@
 - [[kb/_entites-mineures#DataGen\|DataGen]] — catégorie: Podcast francophone tech/data animé par Robin Conquet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DeepResearch-Bench\|DeepResearch-Bench]] — référence: Classement public de harnais de deep research ; la position de tête revendiquée par hyperresearch est une projection prospective auto-administrée, validation tierce en attente (1 occ., 1 fiches)
 - [[kb/_entites-mineures#EU-AI-Act\|EU AI Act]] — catégorie: Réglementation européenne sur l'IA (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Economic-Index\|Economic Index]] — définition: Suivi par Anthropic des effets économiques de l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Enterprise-Integration-Patterns\|Enterprise Integration Patterns]] — catégorie: Livre de référence de Hohpe (patterns d'intégration) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Failing-Faster\|Failing Faster]] — catégorie: Billet d'opinion / REX craftsmanship (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Fichier-mémoire\|Fichier mémoire]] — chemin: ~/.claude/projects/<projet>/memory/delegate-coding-to-subagents.md (type: feedback) (1 occ., 1 fiches)
@@ -84,6 +85,7 @@
 - [[kb/_entites-mineures#Pew-Research-2025\|Pew Research 2025]] — description: Étude Pew Research 2025 — 50% Américains plus inquiets qu'enthousiastes IA, seulement 10% plus enthousiastes. Écart 40 points "yawning gap" Wallace-Wells (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Phèdre\|Phèdre]] — définition: Dialogue de Platon contenant le mythe de Theuth et Thamus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Platform-Strategy\|Platform Strategy]] — description: Livre en cours d'écriture par Gregor Hohpe (Leanpub), sous-titre *Accelerating Innovation Through Harmonization and Reuse* (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Post-X-de-@ytk_matsuda\|Post X de @ytk_matsuda]] — définition: Post de relais du 2 octobre 2026 avec vidéo de 4 min 26 s, en japonais (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Powered-by-Claude\|Powered by Claude]] — nature: Vitrine partenaires de l'écosystème (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Quinnipiac-IA-optimisme-par-revenu\|Quinnipiac IA optimisme par revenu]] — description: Polling Quinnipiac récent — seul bracket revenus >200k$/an a vue optimiste IA pour vie quotidienne. Donnée canonique inégalité de perception (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Quo-vadis,-humanitas\|Quo vadis, humanitas ?]] — catégorie: Document de la Commission théologique internationale (9 février 2026) sur l'anthropologie chrétienne face aux scénarios futurs de l'humanité — référence-clé dans Magnifica Humanitas (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1045 entités de type CONCEPT
+> 1046 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -701,6 +701,7 @@
 - [[kb/_entites-mineures#efficacité-des-tokens\|efficacité des tokens]] — définition: Frugalité de consommation de tokens comme vertu du dev assisté par IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#email-agent\|email agent]] — usage: Exemple fil rouge de l'article (1 occ., 1 fiches)
 - [[kb/_entites-mineures#email-bankruptcy-feature\|email bankruptcy feature]] — périmètre: Traitement bulk de 53 000 emails via cache + queue (1 occ., 1 fiches)
+- [[kb/_entites-mineures#emplois-débutants-de-cols-blancs\|emplois débutants de cols blancs]] — définition: Postes d'entrée de carrière en finance, conseil, technologie (1 occ., 1 fiches)
 - [[kb/_entites-mineures#empreinte-mathématique-de-navigateur\|empreinte mathématique de navigateur]] — définition: Canal de fingerprinting exploitant le fait que les fonctions transcendantes ne sont pas correctement arrondies : la différence d'arrondi entre bibliothèques mathématiques identifie le système d'exploitation réel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#enabling-team\|enabling team]] — catégorie: Topologie Team Topologies (1 occ., 1 fiches)
 - [[kb/_entites-mineures#end-to-end-lineage\|end-to-end lineage]] — définition: Traçabilité complète des décisions et actions des agents IA pour audit et compliance (1 occ., 1 fiches)

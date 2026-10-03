@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 543 entités de type PERSONNE
+> 544 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -122,7 +122,7 @@
 - [[kb/_entites-mineures#Daniel-Goetz\|Daniel Goetz]] — rôle: Partner/Expert Bain & Company, co-auteur série software industry age of AI volet 1/5 (1 occ., 1 fiches)
 - [[kb/Daniel-Meppiel\|Daniel Meppiel]] — rôle: Accompagne des équipes d'ingénierie d'entreprise chez Microsoft et GitHub (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Daniel-Rodrigues\|Daniel Rodrigues]] — rôle: Designer Every (Figma designs Cora) (1 occ., 1 fiches)
-- [[kb/Dario-Amodei\|Dario Amodei]] — rôle: CEO et cofondateur d'Anthropic ; douze ans de travail sur l'IA (3 occ., 3 fiches)
+- [[kb/Dario-Amodei\|Dario Amodei]] — rôle: CEO d'Anthropic (4 occ., 4 fiches)
 - [[kb/Darragh-Curran\|Darragh Curran]] — rôle: R&D leader Intercom, auteur de l'engagement public 2x productivité R&D en 12 mois (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dave-Crossland\|Dave Crossland]] — rôle: Co-auteur article (1 occ., 1 fiches)
 - [[kb/Dave-Farley\|Dave Farley]] — rôle: Engineering coach, fondateur Modern Software Engineering, ex-Continuous Delivery (livre 2010 avec Jez Humble) (1 occ., 1 fiches)
@@ -534,6 +534,7 @@
 - [[kb/Yann-LeCun\|Yann LeCun]] — rôle: Fondateur et président d'AMI Labs, professeur à NYU, ex-Chief AI Scientist de Meta, prix Turing (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Yegor-Denisov-Blanch\|Yegor Denisov-Blanch]] — rôle: Chercheur, Stanford (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Yoko-Li\|Yoko Li]] — rôle: Partner a16z, entreprise et infrastructure (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Yugen-Matsuda\|Yugen Matsuda]] — rôle: Entrepreneur indépendant, compte X @ytk_matsuda (1 occ., 1 fiches)
 - [[kb/Yves-Caseau\|Yves Caseau]] — rôle: Group Chief Digital & Information Officer, Michelin (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Zach-Davis\|Zach Davis]] — rôle: Principal Engineer, LaunchDarkly (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zach-Gleicher\|Zach Gleicher]] — rôle: Product Manager, Google DeepMind (1 occ., 1 fiches)

@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2981 entités avec moins de 3 triples/fiches
+> 2986 entités avec moins de 3 triples/fiches
 
-## PERSONNE (394)
+## PERSONNE (395)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -3878,6 +3878,17 @@
 - [[kb/Andreessen-Horowitz\|Andreessen Horowitz]] **emploie** → Yoko Li — 0.97
 
 **Fiches** : [[fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19\|One Prompt, Zero Engineers: Your New Internal Dev]], [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|The Trillion Dollar AI Software Development Stack]]
+
+### Yugen Matsuda {#Yugen-Matsuda}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Entrepreneur indépendant, compte X @ytk_matsuda
+
+- **publie** → [[kb/_entites-mineures#Post-X-de-@ytk_matsuda\|Post X de @ytk_matsuda]] (DOCUMENT) — 0.95
+- **affirme_que** → « la moitié des nouveaux avocats, consultants et professionnels de la finance disparaîtra d'ici 1 à 5 ans » (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
 
 ### Zach Davis {#Zach-Davis}
 
@@ -14259,7 +14270,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (997)
+## CONCEPT (998)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -20683,6 +20694,16 @@
 - [[kb/Cora\|Cora]] **a_créé** → email bankruptcy feature — 0.97
 
 **Fiches** : [[fiches/2025-11/klaassen-stop-coding-start-planning-every-2025-11-06\|Stop Coding and Start Planning]]
+
+### emplois débutants de cols blancs {#emplois-débutants-de-cols-blancs}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Postes d'entrée de carrière en finance, conseil, technologie
+
+- [[kb/IA\|IA]] **réduit** → emplois débutants de cols blancs — 0.85
+
+**Fiches** : [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
 
 ### empreinte mathématique de navigateur {#empreinte-mathématique-de-navigateur}
 
@@ -27948,7 +27969,7 @@
 
 **Fiches** : [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Loop Engineering for Product Managers]]
 
-## EVENEMENT (49)
+## EVENEMENT (50)
 
 ### 100% code généré (Cherny) {#100%-code-généré-(Cherny)}
 
@@ -28081,6 +28102,16 @@
 - [[kb/LightRAG\|LightRAG]] **observé_dans** → EMNLP2025 — 0.98
 
 **Fiches** : [[fiches/2024-10/lightrag-simple-fast-rag-hkuds-2024-10-08\|HKUDS/LightRAG: -EMNLP2025- "LightRAG: Simple and Fast Retrieval-Augmented Generation"]]
+
+### Entretien vidéo de 4 min 26 s {#Entretien-vidéo-de-4-min-26-s}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **statut** : Date et média d'origine non identifiés dans l'extrait
+
+- [[kb/_entites-mineures#Post-X-de-@ytk_matsuda\|Post X de @ytk_matsuda]] **référence** → Entretien vidéo de 4 min 26 s — 0.95
+
+**Fiches** : [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
 
 ### FinOps X 2026 {#FinOps-X-2026}
 
@@ -28474,7 +28505,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (153)
+## DOCUMENT (155)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -28819,6 +28850,18 @@
 - [[kb/_entites-mineures#watermark-de-contenu-généré\|watermark de contenu généré]] **s_applique_à** → EU AI Act — 0.92
 
 **Fiches** : [[fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22\|Luc Julia's Controversial Statements on AI Spark Industry Debate]], [[fiches/2025-04/stanford-hai-ai-index-report-2025-trends-2025-04-07\|Stanford HAI: AI Index Report 2025 - Global AI Trends and Metrics]]
+
+### Economic Index {#Economic-Index}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **définition** : Suivi par Anthropic des effets économiques de l'IA
+
+- **mesure** → « rythme auquel les effets sur l'emploi se produisent » (AFFIRMATION) — 0.88
+
+- [[kb/Anthropic\|Anthropic]] **publie** → Economic Index — 0.93
+
+**Fiches** : [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
 
 ### Enterprise Integration Patterns {#Enterprise-Integration-Patterns}
 
@@ -29227,6 +29270,18 @@
 - [[kb/Gregor-Hohpe\|Gregor Hohpe]] **publie** → Platform Strategy — 0.95
 
 **Fiches** : [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|The Magic of Platforms]]
+
+### Post X de @ytk_matsuda {#Post-X-de-@ytk_matsuda}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **définition** : Post de relais du 2 octobre 2026 avec vidéo de 4 min 26 s, en japonais
+
+- **référence** → [[kb/_entites-mineures#Entretien-vidéo-de-4-min-26-s\|Entretien vidéo de 4 min 26 s]] (EVENEMENT) — 0.95
+
+- [[kb/_entites-mineures#Yugen-Matsuda\|Yugen Matsuda]] **publie** → Post X de @ytk_matsuda — 0.95
+
+**Fiches** : [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
 
 ### Powered by Claude {#Powered-by-Claude}
 
