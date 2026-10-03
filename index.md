@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 426 fiches | 1975-12 → 2026-10-01 | généré le 2026-10-03
+> 427 fiches | 1975-12 → 2026-10-01 | généré le 2026-10-03
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -39,6 +39,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### 2026-08
 
 - **31** [Agency and Agents: From the Hugging Face Incident to Twilight Factories](fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31.md) — Ethan Mollick — professeur à la Wharton School (University of Pennsylvania), auteur du blog *One Useful Thing* sur Substack. · One Useful Thing — agentivité, agency, agents autonomes
+- **27** [Socrates on the Invention of Writing and the Relationship of Writing to Memory](fiches/2026-08/norman-socrates-invention-writing-memory-2026-08-27.md) — Jeremy Norman — historien et éditeur de HistoryofInformation.com ; notice de frise chronologique citant Platon (*Phèdre*, v. 370 av. J.-C.). · HistoryofInformation.com — Socrate, Platon, Phèdre
 - **26** [The turbulent AI era is here. The choices we make now are critical.](fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26.md) — Bill Gates — cofondateur de Microsoft, président du conseil de la Gates Foundation. Blog personnel Gates Notes. Page non capturable par `curl | lynx` (403 Akamai) : extraction navigateur. · Gates Notes — équité et IA, transition vers l'ère IA, substitution de la cognition
 - **26** [DuckDB and the changing physics of analytics](fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26.md) — Andy Warfield, ingénieur du service S3 chez AWS, en billet invité sur *All Things Distributed* ; introduction de Werner Vogels, CTO d'Amazon. · All Things Distributed (blog de Werner Vogels) — DuckDB, DuckLabs, acquisition AWS
 - **24** [When code is abundant](fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24.md) — Bill Staples, directeur général de GitLab (fonction non affichée par la page), sur le blog about.gitlab.com. · GitLab (blog about.gitlab.com) — abondance du code, coût par changement accepté, théorie des contraintes
@@ -1015,6 +1016,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Nope. It's still true. (post X en réponse à Noah Smith)](fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25.md) — Yann LeCun — fondateur et président d'AMI Labs, professeur à NYU, ex-Chief AI Scientist de Meta, prix Turing. Post X.
 - [WHAT IF THE FUTURE DOES NOT NEED YOU ?](fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20.md) — Asma Mhalla, politiste, autrice de *Technopolitique* ; newsletter *Dangerous Ideas* (Substack).
 - [The Evaporation of Software Engineering (and the Rise of the Agentic Builder)](fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14.md) — Donn Felker (responsable plateforme IA chez Polygon, ex-Tinder, ex-co-animateur du podcast Fragmented), sur son Substack donnfelker.substack.com.
+- [Socrates on the Invention of Writing and the Relationship of Writing to Memory](fiches/2026-08/norman-socrates-invention-writing-memory-2026-08-27.md) — Jeremy Norman — historien et éditeur de HistoryofInformation.com ; notice de frise chronologique citant Platon (*Phèdre*, v. 370 av. J.-C.).
 - [The turbulent AI era is here. The choices we make now are critical.](fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26.md) — Bill Gates — cofondateur de Microsoft, président du conseil de la Gates Foundation. Blog personnel Gates Notes. Page non capturable par `curl | lynx` (403 Akamai) : extraction navigateur.
 - [The Future is for Everyone: The Path to a Positive AI Future](fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10.md) — **Mark Zuckerberg** — fondateur et PDG de **Meta**. Texte signé du seul prénom (*« – Mark »*), publié le **10 août 2026** sur un domaine dédié de meta.com. La signature n'est pas « Meta », et l'alternance des pronoms est régulière : **« we » pour les engagements de l'entreprise** (*« we will offer free versions »*, *« Meta is implementing a governance structure »*), **« I » pour les affirmations normatives ou contestables** (*« I think this view of alignment is fundamentally flawed »*, *« I propose that companies developing frontier AI should… »*, *« My honest guess, and it is a guess »*). Les engagements produits et de gouvernance sont au « nous », les propositions de politique publique au « je ».
 - [Reflecting on a year of Claude Code](fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17.md) — Boris Cherny (Head of Claude Code, Anthropic) et Cat Wu (Head of Product, Claude Code, Anthropic) — vidéo ~47 s publiée par Claude for Business sur LinkedIn, repartagée par Claude. Commentateurs cités : Omer K., Syed T., Andrei K. van Noordt, Kristóf Nagy, Natasha Egan, Natasha Newbold, Rehan Nazir, Noman A., Kevin Schoovaerts, Sunny Vara, Paul Breuler, Ron H., Mohammadjavad Sayadi, Chris Bounds, Mohamed Anis, Panny Malialis, David H., plebs.me, James Hutchinson, Dewayne J Grunden II, e.a. (28 commentaires de fond retenus sur 55).
@@ -1147,6 +1149,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [GLM-5.3 and the spread of advanced cyber capabilities](fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29.md) — Andrew Fasano, Marius Fleischer, Cole McFaul, Robert Xiao, Tripp Gallagher ; Frontier Red Team, Anthropic (billet de recherche du site anthropic.com).
 - [Nope. It's still true. (post X en réponse à Noah Smith)](fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25.md) — Yann LeCun — fondateur et président d'AMI Labs, professeur à NYU, ex-Chief AI Scientist de Meta, prix Turing. Post X.
 - [Claude Fable 5.1 and Mythos 5.1](fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01.md) — Anthropic — communication produit publiée sur anthropic.com, sans signature individuelle.
+- [Socrates on the Invention of Writing and the Relationship of Writing to Memory](fiches/2026-08/norman-socrates-invention-writing-memory-2026-08-27.md) — Jeremy Norman — historien et éditeur de HistoryofInformation.com ; notice de frise chronologique citant Platon (*Phèdre*, v. 370 av. J.-C.).
 - [The AI Engineering Skills Map](fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14.md) — **Andrew Ng** — fondateur de **DeepLearning.AI**, general partner d'**AI Fund**, cofondateur de **Coursera** et de **Google Brain**, ancien chief scientist de Baidu. Texte signé, à la première personne, écrit *« with my team »* sans qu'aucun collaborateur soit nommé. Publié le **14 août 2026** sur X et dans ***The Batch* n°366** — même texte aux deux endroits ; préférer *The Batch* pour toute citation durable. Quatrième fiche Ng du corpus, après les lettres n°350 (24 avril), n°352 (8 mai) et n°359 (26 juin).
 - [How AI is expanding what people do at work (Work at the Frontier, rapport 1)](fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27.md) — **OpenAI Economic Research** — équipe de recherche économique d'OpenAI ; la page crédite simplement *« OpenAI »* et la classe sous les tags *Economic Research* et *2026*. Le billet est la porte d'entrée d'un **rapport PDF** (`work-at-the-frontier-report.pdf`) et s'adosse à un cadre antérieur de la même équipe, l'**AI Jobs Transition Framework**, dont il reprend la thèse que de nombreux métiers vont **se réorganiser** plutôt que disparaître.
 - [Diffusion Language Models Explained: How Google's Diffusion Gemma Works](fiches/2026-06/mindstudio-diffusion-language-models-gemma-2026-06-12.md) — MindStudio Team
@@ -1211,18 +1214,18 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 426 fiches
-- **Par année** : 2026 (249) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 427 fiches
+- **Par année** : 2026 (250) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 160
   - Architecture & Construction : 60
   - Transformation & Adoption : 93
   - Qualité & Sécurité : 52
   - Économie & Marché : 90
-  - Philosophie & Société : 28
+  - Philosophie & Société : 29
   - Stratégie & Frameworks : 35
   - Outils & Plateformes : 61
-  - Recherche & Éducation : 15
+  - Recherche & Éducation : 16
   - Produits & Services : 15
   - Politique & Régulation : 28
 - **Auteurs (top 20)** :

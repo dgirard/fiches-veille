@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 539 entités de type PERSONNE
+> 543 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -245,6 +245,7 @@
 - [[kb/_entites-mineures#Jeffrey-Ding\|Jeffrey Ding]] — rôle: Politologue, propose le concept "diffusion marathon" (vs winner-take-all race) pour cadrer la course IA comme general-purpose technology (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jeffrey-Herf\|Jeffrey Herf]] — rôle: Historien, auteur de *Reactionary Modernism* (1984) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jensen-Huang\|Jensen Huang]] — affirmation_rapportée: Le développeur devient un « RH d'agent » (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Jeremy-Norman\|Jeremy Norman]] — rôle: Historien et éditeur de HistoryofInformation.com (1 occ., 1 fiches)
 - [[kb/Jesse-Vincent\|Jesse Vincent]] — rôle: Praticien ayant transmis le conseil de délégation multi-modèles (6 occ., 5 fiches)
 - [[kb/Jesse-Zhang\|Jesse Zhang]] — rôle: Cofondateur et CEO de Decagon (agents IA de service client) ; défend une approche produit contre l'approche FDE/services et déclare que deux tiers du travail de déploiement de son entreprise sont réalisés de façon autonome (1 occ., 1 fiches)
 - [[kb/Jessica-Talisman\|Jessica Talisman]] — rôle: Semantic Engineer + Information Architect 25+ ans, MLS, ex-Adobe RDF knowledge graphs, ex-Amazon information architecture, fondatrice Ontology Pipeline Framework et Contextually LLC, auteure newsletter Intentional Arrangement et livre 2026 (1 occ., 1 fiches)
@@ -403,6 +404,7 @@
 - [[kb/_entites-mineures#Philippe-Latombe\|Philippe Latombe]] — rôle: Député MoDem (Vendée), président de la commission d'enquête vulnérabilités numériques, spécialiste souveraineté numérique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Philippe-Martin\|Philippe Martin]] — rôle: auteur, chroniqueur IT francophone (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pierre-de-la-Grand'rive\|Pierre de la Grand'rive]] — rôle: Cofondateur/directeur exécutif de Delos (École Polytechnique X16) ; nom légal Dupuy de la Grand'rive ; revendique « 1 M$ d'ARR en quelques jours » pour Workers (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Platon\|Platon]] — rôle: Philosophe grec, auteur du *Phèdre* (v. 370 av. J.-C.) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Prasad-Borole\|Prasad Borole]] — rôle: Staff Software Engineer chez Uber, co-auteur (1 occ., 1 fiches)
 - [[kb/Prasanna-Sankar\|Prasanna Sankar]] — rôle: Co-fondateur et ex-CTO de Rippling ($16B+), fondateur et CEO de Vorflux AI, #1 coder en Inde (revendiqué) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Prithvi-Rajasekaran\|Prithvi Rajasekaran]] — rôle: Équipe Applied AI, Anthropic (1 occ., 1 fiches)
@@ -460,7 +462,7 @@
 - [[kb/_entites-mineures#Simon-Sinek\|Simon Sinek]] — spécialité: Golden Circle, leadership (1 occ., 1 fiches)
 - [[kb/Simon-Wardley\|Simon Wardley]] — rôle: Stratège, créateur Wardley Mapping (2 occ., 2 fiches)
 - [[kb/Simon-Willison\|Simon Willison]] — rôle: Practitioner IA, développeur, blogger (5 occ., 5 fiches)
-- [[kb/_entites-mineures#Socrate\|Socrate]] — période: 469-399 av. J.-C. (1 occ., 1 fiches)
+- [[kb/Socrate\|Socrate]] — période: 469-399 av. J.-C. (2 occ., 2 fiches)
 - [[kb/Sohrab-Hosseini\|Sohrab Hosseini]] — rôle: Co-fondateur Orq.ai (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sokratis-Kartakis\|Sokratis Kartakis]] — rôle: Co-auteur (Google) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Solomon-Hykes\|Solomon Hykes]] — rôle: Créateur de Docker ; business angel au capital de ZML (2 occ., 2 fiches)
@@ -489,8 +491,10 @@
 - [[kb/_entites-mineures#Ted-Chiang\|Ted Chiang]] — rôle: Écrivain de science-fiction américain, auteur essai BuzzFeed News 2017 sur superintelligence comme no-holds-barred capitalism — citation canonique mobilisée par Wallace-Wells 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ted-Lieu\|Ted Lieu]] — rôle: Représentant US (D-Calif.), co-sponsor de l'AI Kill Switch Act ; background computer science (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tejal-Patwardhan\|Tejal Patwardhan]] — rôle: Lead frontier evaluations OpenAI, responsable GDPVal (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Thamus\|Thamus]] — rôle: Roi-dieu égyptien jugeant l'invention de l'écriture dans le mythe (1 occ., 1 fiches)
 - [[kb/Thariq\|Thariq]] — rôle: Ingénieur Anthropic, expert Claude Code (1 occ., 1 fiches)
 - [[kb/Thariq-Shihipar\|Thariq Shihipar]] — rôle: Équipe Claude Code (intervenant Fireside Chat AIE) (4 occ., 4 fiches)
+- [[kb/_entites-mineures#Theuth\|Theuth]] — rôle: Dieu égyptien inventeur des lettres dans le mythe (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thibaut-de-la-Grand'rive\|Thibaut de la Grand'rive]] — rôle: Cofondateur/directeur commercial-Président de Delos (IÉSEG) ; annonce en déc. 2025 vouloir lever une Série A de plusieurs dizaines de M€ d'ici mars 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thierry-Derouet\|Thierry Derouet]] — rôle: Journaliste IT for Business (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thomas-Bouret\|Thomas Bouret]] — rôle: Patron de Mathieu Grymonprez (a suivi 6 h de cours IA) (1 occ., 1 fiches)

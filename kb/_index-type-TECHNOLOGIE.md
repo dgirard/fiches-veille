@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 847 entités de type TECHNOLOGIE
+> 849 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -355,6 +355,7 @@
 - [[kb/Harvey-technologie\|Harvey]] — secteur: IA juridique et services professionnels (1 occ., 2 fiches)
 - [[kb/_entites-mineures#Help-me-write\|Help me write]] — catégorie: Bouton IA intégré à Google Docs (1 occ., 1 fiches)
 - [[kb/Hermes\|Hermes]] — catégorie: Harness d'agent cité avec OpenClaw (3 occ., 3 fiches)
+- [[kb/_entites-mineures#HistoryofInformation.com\|HistoryofInformation.com]] — catégorie: Site de frises chronologiques sur l'histoire de l'information et des médias (1 occ., 1 fiches)
 - [[kb/Home-Mixer\|Home Mixer]] — rôle: Orchestrateur Rust request-time du pipeline For You feed (hydrate → source → filter → score → select → filter) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Honk\|Honk]] — rôle: Agent de codage en arrière-plan de Spotify ; vérification exposée aux agents sans révéler l'implémentation des vérificateurs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#HubSpot-Customer-Platform\|HubSpot Customer Platform]] — catégorie: Plateforme unifiée CRM, marketing, vente, service (1 occ., 1 fiches)
@@ -774,6 +775,7 @@
 - [[kb/_entites-mineures#html-effectiveness-gallery\|html-effectiveness gallery]] — catégorie: Site exemples de Shihipar (thariqs.github.io/html-effectiveness) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#interface-cerveau-ordinateur\|interface cerveau-ordinateur]] — stade: Technologie en phase précoce (1 occ., 1 fiches)
 - [[kb/_entites-mineures#knowledge-graph\|knowledge graph]] — fonction: Cartographier les interconnexions entre clients, produits, projets, équipes, réglementations et applications (1 occ., 1 fiches)
+- [[kb/_entites-mineures#l'écriture\|l'écriture]] — catégorie: Support externe de la mémoire, objet du mythe (1 occ., 1 fiches)
 - [[kb/_entites-mineures#legacy-systems\|legacy systems]] — caractéristique: Impact sous-estimé dans la transition agentique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#llama.cpp\|llama.cpp]] — positionnement: Roi de l'inférence locale mono-utilisateur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mChat\|mChat]] — catégorie: Chatbot interne Moderna construit sur OpenAI API (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 177 entités de type DOCUMENT
+> 179 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -82,6 +82,7 @@
 - [[kb/_entites-mineures#PORTING.md-LIFETIMES.tsv\|PORTING.md / LIFETIMES.tsv]] — rôle: Artefacts de préparation générés par Claude : mapping patterns/types Zig→Rust, et lifetime tracé de chaque champ de struct (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pattern-doc\|Pattern doc]] — définition: Guidance généralisée depuis plusieurs learnings (plus de levier, plus de risque si périmé) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pew-Research-2025\|Pew Research 2025]] — description: Étude Pew Research 2025 — 50% Américains plus inquiets qu'enthousiastes IA, seulement 10% plus enthousiastes. Écart 40 points "yawning gap" Wallace-Wells (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Phèdre\|Phèdre]] — définition: Dialogue de Platon contenant le mythe de Theuth et Thamus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Platform-Strategy\|Platform Strategy]] — description: Livre en cours d'écriture par Gregor Hohpe (Leanpub), sous-titre *Accelerating Innovation Through Harmonization and Reuse* (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Powered-by-Claude\|Powered by Claude]] — nature: Vitrine partenaires de l'écosystème (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Quinnipiac-IA-optimisme-par-revenu\|Quinnipiac IA optimisme par revenu]] — description: Polling Quinnipiac récent — seul bracket revenus >200k$/an a vue optimiste IA pour vie quotidienne. Donnée canonique inégalité de perception (1 occ., 1 fiches)
@@ -101,6 +102,7 @@
 - [[kb/_entites-mineures#Scalability!-But-at-what-COST\|Scalability! But at what COST?]] — référence: Papier de 2015 de Frank McSherry, Michael Isard et Derek Murray sur l'efficacité par cœur, dont l'épigraphe est attribuée à Paul Barham (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Securing-Software-at-the-Speed-of-AI\|Securing Software at the Speed of AI]] — format: Billet de blog ~1 300 mots restituant l'étude, publié le 18 août 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sinks,-Not-Pipes\|Sinks, Not Pipes]] — catégorie: Essai de Hohpe sur le code « boîte noire » à l'ère de l'IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Socrates-on-the-Invention-of-Writing-and-the-Relationship-of-Writing-to-Memory\|Socrates on the Invention of Writing and the Relationship of Writing to Memory]] — définition: Notice de frise citant le *Phèdre* (274c-275b) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Software-Factories,-Light-and-Dark\|Software Factories, Light and Dark]] — statut: Essai d'Addy Osmani (addyosmani.com, juillet 2026) — source des trois concepts structurants repris par SFEIR ; absent du corpus de veille, candidat d'ajout prioritaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#State-of-AI-Code-Quality-2025\|State of AI Code Quality 2025]] — catégorie: Rapport de recherche industrielle, 609 développeurs sondés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Série-Bain-software-industry-age-of-AI\|Série Bain software industry age of AI]] — description: Série 5 volets Bain & Company 2026 sur l'industrie du logiciel à l'ère IA. Volet 1 : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor (1 occ., 1 fiches)

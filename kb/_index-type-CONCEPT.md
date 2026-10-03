@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1042 entités de type CONCEPT
+> 1045 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -529,6 +529,7 @@
 - [[kb/_entites-mineures#anneau-de-contraintes\|anneau de contraintes]] — définition: Ensemble des sept dimensions de contrainte mécanisées autour d'un agent (correction, sécurité, performance, accessibilité, maintenabilité, efficience économique, compréhensibilité), reliées par la règle de back-pressure ; ne sort que la production qui franchit chaque porte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#annuaire-d'outils-tenu-par-un-éditeur\|annuaire d'outils tenu par un éditeur]] — définition: Position où le fournisseur d'un outil édite le comparateur de sa propre catégorie, occupant la requête d'évaluation tout en y figurant comme option (1 occ., 1 fiches)
 - [[kb/_entites-mineures#anticipation-stratégique\|anticipation stratégique]] — mécanisme: Observer la marchandisation d'aujourd'hui pour prédire les innovations de demain (1 occ., 1 fiches)
+- [[kb/_entites-mineures#apparence-de-savoir\|apparence de savoir]] — définition: Impression de savoir sans compréhension véritable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#apprentissage-continu\|apprentissage continu]] — rôle: Socle non numéroté que Ng place sous les quatre compétences. Sa formulation opérationnelle est plus utile que le slogan : tenir des routines d'essai de nouveaux outils et faire évoluer ses workflows à mesure que les bonnes pratiques changent — soit un temps à budgéter, pas une disposition d'esprit à souhaiter (1 occ., 1 fiches)
 - [[kb/_entites-mineures#apprentissage-statistique\|apprentissage statistique]] — mécanisme: Patterns sociaux absorbés depuis corpus de textes humains (1 occ., 1 fiches)
 - [[kb/_entites-mineures#approche-task-based\|approche task-based]] — définition: Décomposition d'un métier en tâches pour mesurer son exposition à l'IA (Acemoglu-Restrepo, Autor) (1 occ., 1 fiches)
@@ -817,6 +818,8 @@
 - [[kb/_entites-mineures#monétisation-par-les-coûts\|monétisation par les coûts]] — définition: Captation de la valeur d'une technologie par la réduction de la structure de coûts avant toute facturation au client ; rend soutenable un séquencement qualité → distribution → adoption → prix, mais suppose une marge de manœuvre sur les effectifs que toutes les entreprises n'ont pas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#moteur-analytique-embarqué\|moteur analytique embarqué]] — définition: Moteur tournant en bibliothèque dans l'espace d'adressage de l'application, sur ses structures mémoire, sans service externe à l'autre bout d'un câble (1 occ., 1 fiches)
 - [[kb/_entites-mineures#multiplicateurs-de-tokens\|multiplicateurs de tokens]] — valeurs: 6× démo→prod, 5× agent, 5-10× coût réel, 30-200× optim (1 occ., 1 fiches)
+- [[kb/_entites-mineures#mythe-de-Theuth-et-Thamus\|mythe de Theuth et Thamus]] — définition: Récit où l'écriture est dite élixir de rappel et non de mémoire (1 occ., 1 fiches)
+- [[kb/_entites-mineures#mémoire\|mémoire]] — définition: Capacité interne que l'écriture risque de laisser inexercée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mémoire-institutionnelle\|mémoire institutionnelle]] — mécanisme: Git history + agents spécialisés + docs/*.md (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mérite-technique\|mérite technique]] — principe de gouvernance: Critère de décision revendiqué du projet kernel : on adopte les outils (dont l'IA) sur leur valeur technique, « pas sur la peur des nouveaux outils » ni pour des raisons idéologiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#métaphore-de-la-conduite\|métaphore de la conduite]] — rôle: 200 km/h vs 100 km/h : freins (garde-fous) + carte (vision) requis quand l'exécution accélère (1 occ., 1 fiches)

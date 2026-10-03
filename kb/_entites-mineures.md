@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2971 entités avec moins de 3 triples/fiches
+> 2981 entités avec moins de 3 triples/fiches
 
-## PERSONNE (391)
+## PERSONNE (394)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1753,6 +1753,17 @@
 
 **Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]]
 
+### Jeremy Norman {#Jeremy-Norman}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Historien et éditeur de HistoryofInformation.com
+
+- **publie** → [[kb/_entites-mineures#Socrates-on-the-Invention-of-Writing-and-the-Relationship-of-Writing-to-Memory\|Socrates on the Invention of Writing and the Relationship of Writing to Memory]] (DOCUMENT) — 0.95
+- **a_créé** → [[kb/_entites-mineures#HistoryofInformation.com\|HistoryofInformation.com]] (TECHNOLOGIE) — 0.85
+
+**Fiches** : [[fiches/2026-08/norman-socrates-invention-writing-memory-2026-08-27\|Socrates on the Invention of Writing and the Relationship of Writing to Memory]]
+
 ### Jin Montesano {#Jin-Montesano}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -2918,6 +2929,16 @@
 
 **Fiches** : [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)]]
 
+### Platon {#Platon}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Philosophe grec, auteur du *Phèdre* (v. 370 av. J.-C.)
+
+- **a_créé** → [[kb/_entites-mineures#Phèdre\|Phèdre]] (DOCUMENT) — 0.98
+
+**Fiches** : [[fiches/2026-08/norman-socrates-invention-writing-memory-2026-08-27\|Socrates on the Invention of Writing and the Relationship of Writing to Memory]]
+
 ### Prasad Borole {#Prasad-Borole}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -3330,16 +3351,6 @@
 
 **Fiches** : [[fiches/2026-02/guide-comparatif-formats-conference-narrations-deep-research-2026-02\|Traité d'Architecture Narrative et de Rhétorique de Conférence : Guide Global des Formats et des Structures de…]]
 
-### Socrate {#Socrate}
-
-**Type** : PERSONNE | 1 relations | 1 fiches
-
-- **période** : 469-399 av. J.-C.
-
-- **recommande** → examen de soi comme fondement philosophique (CONCEPT) — 0.97
-
-**Fiches** : [[fiches/2026-03/ralmuto-rebuttal-andreessen-introspection-history-2026-03-17\|Rebuttal to Marc Andreessen on Introspection]]
-
 ### Sokratis Kartakis {#Sokratis-Kartakis}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -3558,6 +3569,30 @@
 - **rôle** : Lead frontier evaluations OpenAI, responsable GDPVal
 
 **Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
+
+### Thamus {#Thamus}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Roi-dieu égyptien jugeant l'invention de l'écriture dans le mythe
+
+- **affirme_que** → « l'inventeur d'un art n'est pas juge de son utilité pour ses usagers » (AFFIRMATION) — 0.95
+- **s_oppose_à** → [[kb/_entites-mineures#Theuth\|Theuth]] (PERSONNE) — 0.93
+
+**Fiches** : [[fiches/2026-08/norman-socrates-invention-writing-memory-2026-08-27\|Socrates on the Invention of Writing and the Relationship of Writing to Memory]]
+
+### Theuth {#Theuth}
+
+**Type** : PERSONNE | 3 relations | 1 fiches
+
+- **rôle** : Dieu égyptien inventeur des lettres dans le mythe
+
+- **affirme_que** → « les lettres sont un élixir de mémoire et de sagesse » (AFFIRMATION) — 0.95
+- **a_créé** → [[kb/_entites-mineures#l'écriture\|l'écriture]] (TECHNOLOGIE) — 0.90
+
+- [[kb/_entites-mineures#Thamus\|Thamus]] **s_oppose_à** → Theuth — 0.93
+
+**Fiches** : [[fiches/2026-08/norman-socrates-invention-writing-memory-2026-08-27\|Socrates on the Invention of Writing and the Relationship of Writing to Memory]]
 
 ### Thibaut de la Grand'rive {#Thibaut-de-la-Grand'rive}
 
@@ -7213,7 +7248,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (666)
+## TECHNOLOGIE (668)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -10019,6 +10054,16 @@
 - [[kb/Google\|Google]] **a_créé** → Help me write — 0.99
 
 **Fiches** : [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
+
+### HistoryofInformation.com {#HistoryofInformation.com}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Site de frises chronologiques sur l'histoire de l'information et des médias
+
+- [[kb/_entites-mineures#Jeremy-Norman\|Jeremy Norman]] **a_créé** → HistoryofInformation.com — 0.85
+
+**Fiches** : [[fiches/2026-08/norman-socrates-invention-writing-memory-2026-08-27\|Socrates on the Invention of Writing and the Relationship of Writing to Memory]]
 
 ### Honk {#Honk}
 
@@ -13515,6 +13560,19 @@
 
 **Fiches** : [[fiches/2026-06/singh-kdlc-knowledge-development-life-cycle-2026-06-28\|New Engineering Disciplines for the AI Era Part 3: KDLC — Knowledge Development Life Cycle]]
 
+### l'écriture {#l'écriture}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **catégorie** : Support externe de la mémoire, objet du mythe
+
+- **permet** → rappel externe (CONCEPT) — 0.88
+- **réduit** → « pratique de l'effort de remémoration par les élèves » (AFFIRMATION) — 0.88
+
+- [[kb/_entites-mineures#Theuth\|Theuth]] **a_créé** → l'écriture — 0.90
+
+**Fiches** : [[fiches/2026-08/norman-socrates-invention-writing-memory-2026-08-27\|Socrates on the Invention of Writing and the Relationship of Writing to Memory]]
+
 ### legacy systems {#legacy-systems}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -14201,7 +14259,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (994)
+## CONCEPT (997)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -18968,6 +19026,16 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
+### apparence de savoir {#apparence-de-savoir}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Impression de savoir sans compréhension véritable
+
+- [[kb/_entites-mineures#mémoire\|mémoire]] **s_oppose_à** → apparence de savoir — 0.80
+
+**Fiches** : [[fiches/2026-08/norman-socrates-invention-writing-memory-2026-08-27\|Socrates on the Invention of Writing and the Relationship of Writing to Memory]]
+
 ### apprentissage continu {#apprentissage-continu}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -21742,6 +21810,30 @@
 - **valeurs** : 6× démo→prod, 5× agent, 5-10× coût réel, 30-200× optim
 
 **Fiches** : [[fiches/2025-11/finout-cpo-guide-llm-rag-agents-agentic-token-multipliers-2025-11-02\|FinOps in the Age of AI: A CPO's Guide to LLM Workflows, RAG, AI Agents, and Agentic Systems]]
+
+### mythe de Theuth et Thamus {#mythe-de-Theuth-et-Thamus}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Récit où l'écriture est dite élixir de rappel et non de mémoire
+
+- **s_applique_à** → [[kb/_entites-mineures#mémoire\|mémoire]] (CONCEPT) — 0.85
+
+- [[kb/_entites-mineures#Phèdre\|Phèdre]] **publie** → mythe de Theuth et Thamus — 0.95
+
+**Fiches** : [[fiches/2026-08/norman-socrates-invention-writing-memory-2026-08-27\|Socrates on the Invention of Writing and the Relationship of Writing to Memory]]
+
+### mémoire {#mémoire}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Capacité interne que l'écriture risque de laisser inexercée
+
+- **s_oppose_à** → [[kb/_entites-mineures#apparence-de-savoir\|apparence de savoir]] (CONCEPT) — 0.80
+
+- [[kb/_entites-mineures#mythe-de-Theuth-et-Thamus\|mythe de Theuth et Thamus]] **s_applique_à** → mémoire — 0.85
+
+**Fiches** : [[fiches/2026-08/norman-socrates-invention-writing-memory-2026-08-27\|Socrates on the Invention of Writing and the Relationship of Writing to Memory]]
 
 ### mémoire institutionnelle {#mémoire-institutionnelle}
 
@@ -28382,7 +28474,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (151)
+## DOCUMENT (153)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -29113,6 +29205,19 @@
 
 **Fiches** : [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to…]]
 
+### Phèdre {#Phèdre}
+
+**Type** : DOCUMENT | 3 relations | 1 fiches
+
+- **définition** : Dialogue de Platon contenant le mythe de Theuth et Thamus
+
+- **publie** → [[kb/_entites-mineures#mythe-de-Theuth-et-Thamus\|mythe de Theuth et Thamus]] (CONCEPT) — 0.95
+
+- [[kb/_entites-mineures#Platon\|Platon]] **a_créé** → Phèdre — 0.98
+- [[kb/_entites-mineures#Socrates-on-the-Invention-of-Writing-and-the-Relationship-of-Writing-to-Memory\|Socrates on the Invention of Writing and the Relationship of Writing to Memory]] **référence** → Phèdre — 0.97
+
+**Fiches** : [[fiches/2026-08/norman-socrates-invention-writing-memory-2026-08-27\|Socrates on the Invention of Writing and the Relationship of Writing to Memory]]
+
 ### Platform Strategy {#Platform-Strategy}
 
 **Type** : DOCUMENT | 1 relations | 1 fiches
@@ -29292,6 +29397,18 @@
 - **catégorie** : Essai de Hohpe sur le code « boîte noire » à l'ère de l'IA
 
 **Fiches** : [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
+
+### Socrates on the Invention of Writing and the Relationship of Writing to Memory {#Socrates-on-the-Invention-of-Writing-and-the-Relationship-of-Writing-to-Memory}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **définition** : Notice de frise citant le *Phèdre* (274c-275b)
+
+- **référence** → [[kb/_entites-mineures#Phèdre\|Phèdre]] (DOCUMENT) — 0.97
+
+- [[kb/_entites-mineures#Jeremy-Norman\|Jeremy Norman]] **publie** → Socrates on the Invention of Writing and the Relationship of Writing to Memory — 0.95
+
+**Fiches** : [[fiches/2026-08/norman-socrates-invention-writing-memory-2026-08-27\|Socrates on the Invention of Writing and the Relationship of Writing to Memory]]
 
 ### Software Factories, Light and Dark {#Software-Factories,-Light-and-Dark}
 
