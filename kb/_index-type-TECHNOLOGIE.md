@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 849 entités de type TECHNOLOGIE
+> 854 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -154,7 +154,8 @@
 - [[kb/_entites-mineures#Claude-Opus-4.5\|Claude Opus 4.5]] — rôle: Version antérieure servant de point de comparaison à Opus 4.6 sur l'expérience (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4.6\|Claude Opus 4.6]] — catégorie: Modèle de langage frontier Anthropic (2 occ., 1 fiches)
 - [[kb/Claude-Opus-4.8\|Claude Opus 4.8]] — catégorie: Modèle Anthropic (sortie 28 mai 2026, 1M tokens) (3 occ., 3 fiches)
-- [[kb/_entites-mineures#Claude-Opus-5\|Claude Opus 5]] — résultat de benchmark: Sur Terminal-Bench 2.1 solo, en effort xhigh : run le plus cher du panel à 140,63 dollars pour 75,0 %, sous six runs moins chers, en raison d'un sur-raisonnement ayant provoqué le timeout de 17 tâches sur 88. Cité comme modèle de tier SmartBee, recommandé en effort medium (prix au 2026-07-30) (2 occ., 2 fiches)
+- [[kb/Claude-Opus-5\|Claude Opus 5]] — résultat de benchmark: Sur Terminal-Bench 2.1 solo, en effort xhigh : run le plus cher du panel à 140,63 dollars pour 75,0 %, sous six runs moins chers, en raison d'un sur-raisonnement ayant provoqué le timeout de 17 tâches sur 88. Cité comme modèle de tier SmartBee, recommandé en effort medium (prix au 2026-07-30) (3 occ., 3 fiches)
+- [[kb/_entites-mineures#Claude-Opus-5.5\|Claude Opus 5.5]] — catégorie: Modèle fermé comparé sur le test cyber (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Security\|Claude Security]] — rôle: Scan de vulnérabilités et suggestion de correctifs, propulsé par Mythos 5.1 (1 occ., 1 fiches)
 - [[kb/Claude-Skills\|Claude Skills]] — catégorie: Instructions spécialisées à chargement dynamique (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Claude-Sonnet\|Claude Sonnet]] — versions: 4.0 et 3.7 intégrés comme moteurs IA primaires de Kiro (2 occ., 2 fiches)
@@ -213,7 +214,7 @@
 - [[kb/DeepSeek-Harness\|DeepSeek Harness]] — définition: Harnais d'agent de codage open source (MIT) publié par DeepSeek le 13 août 2026 en developer preview, commande `dsh`, écrit en TypeScript, bâti sur le noyau Cordis vendoré. Architecture « everything is a plugin » : modèles, outils, skills, sessions, sandboxes, stockage, boucles, ordonnancement et interface sont substituables par configuration. Journal de session append-only comme source unique du contexte modèle, avec invariant runtime « model-visible means logged ». Quatre modes : Standard, Code, Minimal, Creator. Démarrage par `npx @deepseek-ai/dsh web`, Web UI sur 127.0.0.1:3080. Aucune promesse de compatibilité : SESSION_FORMAT_VERSION à 0, backends rejetant les anciens formats sur disque (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DeepSeek-V3.1-Terminus\|DeepSeek-V3.1-Terminus]] — catégorie: Grand modèle de langage (prédécesseur) (1 occ., 1 fiches)
 - [[kb/DeepSeek-V3.2-Exp\|DeepSeek-V3.2-Exp]] — architecture: Mixture-of-experts, 685B paramètres, ~37B actifs (2 occ., 1 fiches)
-- [[kb/_entites-mineures#DeepSeek-V4-Pro\|DeepSeek-V4-Pro]] — rôle: Modèle de DeepSeek passé en disponibilité générale le 13 août 2026 (`DeepSeek-V4-Pro-0813`), le jour même de la publication du harnais : niveaux d'effort de raisonnement low, high et max, support natif du format OpenAI Responses API avec intégration optimisée pour Codex, disponible en application, en web (« Expert Mode ») et en API. Nouvelle grille tarifaire heures pleines / heures creuses au 16 août 2026 à 16:00 UTC (1 occ., 1 fiches)
+- [[kb/_entites-mineures#DeepSeek-V4-Pro\|DeepSeek-V4-Pro]] — rôle: Modèle de DeepSeek passé en disponibilité générale le 13 août 2026 (`DeepSeek-V4-Pro-0813`), le jour même de la publication du harnais : niveaux d'effort de raisonnement low, high et max, support natif du format OpenAI Responses API avec intégration optimisée pour Codex, disponible en application, en web (« Expert Mode ») et en API. Nouvelle grille tarifaire heures pleines / heures creuses au 16 août 2026 à 16:00 UTC (2 occ., 2 fiches)
 - [[kb/Deepnote\|Deepnote]] — catégorie: Notebook data science AI-first (4 occ., 1 fiches)
 - [[kb/_entites-mineures#Deepnote-Cloud\|Deepnote Cloud]] — catégorie: Plateforme cloud collaborative (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Demand-Gen\|Demand Gen]] — éditeur: Google (1 occ., 1 fiches)
@@ -280,8 +281,10 @@
 - [[kb/_entites-mineures#GPT-5.5-Cyber\|GPT-5.5-Cyber]] — categorie: Produit IA a acces restreint pour cybersecurite defensive (1 occ., 1 fiches)
 - [[kb/GPT-5.6\|GPT-5.6]] — catégorie: Famille de LLM OpenAI (GA 9 juillet 2026) : 3 tiers Sol/Terra/Luna ; ~1,05 M tokens contexte, 128 k sortie, coupure au 16 février 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-5.6-Luna\|GPT-5.6 Luna]] — résultat de benchmark: Sur Terminal-Bench 2.1 solo : 1,61 dollar et 57,3 % en effort medium, 4,98 dollars et 75,0 % en effort high — illustration que sur un modèle bon marché les tokens de raisonnement sont le meilleur achat disponible (prix au 2026-07-30) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#GPT-6-Astra\|GPT-6 Astra]] — catégorie: Modèle fermé comparé en cyber, finance, droit et ancrage visuel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-6.1-Astra\|GPT-6.1 Astra]] — statut: Mis de côté par OpenAI après des tests (action sans permission) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-OSS-Safeguard\|GPT-OSS-Safeguard]] — positionnement: Modèle de sûreté à poids ouverts, version 20B mesurée à égalité avec Shieldstral (84,9 % de F1 texte) malgré une taille sept fois supérieure (1 occ., 1 fiches)
+- [[kb/_entites-mineures#GPU-NVIDIA-Grace-Blackwell\|GPU NVIDIA Grace Blackwell]] — catégorie: Matériel d'entraînement de ML4 (3 800 GPU) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GSAP\|GSAP]] — catégorie: Bibliothèque animation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gas-Town\|Gas Town]] — définition: Plateforme open source d'orchestration de swarms d'agents Claude Code en parallèle. Lancée 1er janvier 2026 par Steve Yegge (1 occ., 1 fiches)
 - [[kb/Gemini-entite\|Gemini]] — catégorie: IA générative Google (6 occ., 6 fiches)
@@ -467,6 +470,8 @@
 - [[kb/_entites-mineures#Mirakl-Marketplace-Platform\|Mirakl Marketplace Platform]] — modèle économique: Logiciel connecté au front e-commerce du client, rémunéré en pourcentage des transactions — modèle aligné sur celui du client (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Missions\|Missions]] — catégorie: Produit Factory d'objectifs de long terme avec budget de tokens alloué (1 occ., 1 fiches)
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] — catégorie: Agent de codage CLI open source (2 occ., 1 fiches)
+- [[kb/_entites-mineures#Mistral-Forge\|Mistral Forge]] — catégorie: Offre d'entraînement, personnalisation et environnement RL pour les clients de Mistral (1 occ., 1 fiches)
+- [[kb/Mistral-Large-4\|Mistral Large 4]] — catégorie: Modèle MoE multimodal, 1 000 Md de paramètres (49 Md actifs), préversion le 6 octobre 2026, poids annoncés fin octobre ; 1,36 $ / 4,18 $ par million de tokens (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mistral-Regional-Endpoints\|Mistral Regional Endpoints]] — définition: Produit d'inférence de Mistral AI en disponibilité générale (août 2026) permettant d'épingler l'inférence et ses traitements associés en Europe ou aux États-Unis. Les documents de Mistral prévoient des « transferts limités et encadrés » vers des sous-traitants hors région, les appels d'outils (recherche web) constituant le point de fuite identifié (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mistral-Small-3.1\|Mistral Small 3.1]] — catégorie: Modèle de langage backbone (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mobile-Android-workflow-CI\|Mobile Android workflow CI]] — description: Produit interne Raiffeisen — pipeline auto plan / implementation / test pour mobile, redesign complet du SDLC mobile (1 occ., 1 fiches)

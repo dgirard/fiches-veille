@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1046 entités de type CONCEPT
+> 1048 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -531,6 +531,7 @@
 - [[kb/_entites-mineures#anticipation-stratégique\|anticipation stratégique]] — mécanisme: Observer la marchandisation d'aujourd'hui pour prédire les innovations de demain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#apparence-de-savoir\|apparence de savoir]] — définition: Impression de savoir sans compréhension véritable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#apprentissage-continu\|apprentissage continu]] — rôle: Socle non numéroté que Ng place sous les quatre compétences. Sa formulation opérationnelle est plus utile que le slogan : tenir des routines d'essai de nouveaux outils et faire évoluer ses workflows à mesure que les bonnes pratiques changent — soit un temps à budgéter, pas une disposition d'esprit à souhaiter (1 occ., 1 fiches)
+- [[kb/_entites-mineures#apprentissage-par-renforcement\|apprentissage par renforcement]] — définition: Post-entraînement sur les résultats des tentatives du modèle, à difficulté croissante (1 occ., 1 fiches)
 - [[kb/_entites-mineures#apprentissage-statistique\|apprentissage statistique]] — mécanisme: Patterns sociaux absorbés depuis corpus de textes humains (1 occ., 1 fiches)
 - [[kb/_entites-mineures#approche-task-based\|approche task-based]] — définition: Décomposition d'un métier en tâches pour mesurer son exposition à l'IA (Acemoglu-Restrepo, Autor) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#arbitrage-réglementaire\|arbitrage réglementaire]] — principe: Montage d'alliance sans fusion : l'absence de prise au capital préserve la gouvernance de Mistral et minimise le risque d'examen antitrust (FTC, Commission européenne) (1 occ., 1 fiches)
@@ -941,6 +942,7 @@
 - [[kb/_entites-mineures#sophisme-de-McNamara\|sophisme de McNamara]] — définition: Écarter le non-quantifiable comme non pertinent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté\|souveraineté]] — principe: Propriété d'architecture (non un label) qui se qualifie dépendance par dépendance ; à décomposer en quatre couches — modèle, exécution, infrastructure, relation commerciale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté-(Delos)\|souveraineté (Delos)]] — état: Hébergement Scaleway + chiffrement TLS/AES-256, données non utilisées pour l'entraînement ; mais calcul encore partiellement sur Azure France fin 2025, bascule 100 % Scaleway visée début 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#souveraineté-de-l'IA\|souveraineté de l'IA]] — définition: Contrôle des clients sur déploiement, données et politiques, avec hébergement européen (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté-numérique\|souveraineté numérique]] — domaine: Stratégie des États face à la concentration IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#souveraineté-organisationnelle\|souveraineté organisationnelle]] — précision: Propriété des événements et droit de sortie, distincts de la disponibilité et de la résistance à l'altération (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté-par-étages\|souveraineté par étages]] — principe: La maîtrise durable suppose de garder ouvertes trois couches — infrastructure, plateforme, modèle ; le contrat Airbus sécurise la première, la réversibilité de l'IA reste à jouer (1 occ., 1 fiches)

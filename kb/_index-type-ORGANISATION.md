@@ -260,7 +260,7 @@
 - [[kb/_entites-mineures#MiniMax\|MiniMax]] — secteur: IA / Modèles de langage (1 occ., 1 fiches)
 - [[kb/Mirakl\|Mirakl]] — situation 2026: 750 collaborateurs, 180-200 M$ d'ARR, 20 Md$ attendus en transit sur les plateformes, près de 100 000 vendeurs ; première équipe IA créée en 2017 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mistral\|Mistral]] — secteur: IA / modèles de langage (Europe) (1 occ., 1 fiches)
-- [[kb/Mistral-AI\|Mistral AI]] — secteur: IA / Open source (6 occ., 6 fiches)
+- [[kb/Mistral-AI\|Mistral AI]] — secteur: Modèles d'IA, souveraineté, datacenters européens (7 occ., 7 fiches)
 - [[kb/_entites-mineures#Modern-Data-101\|Modern Data 101]] — description: Plateforme Substack data community ~20 000 membres, publie expert contributions data engineering / architecture (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Modern-Software-Engineering\|Modern Software Engineering]] — secteur: Chaîne YouTube + coaching ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/Moderna\|Moderna]] — secteur: Biotechnologie / mRNA medicines (2 occ., 1 fiches)

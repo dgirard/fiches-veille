@@ -1,13 +1,13 @@
 # Mistral AI
 
-> **Type** : ORGANISATION | 42 relations | 6 fiches sources
+> **Type** : ORGANISATION | 45 relations | 7 fiches sources
 
 ## Attributs
 
 - **catégorie** : Société française d'intelligence artificielle générative, modèles ouverts et fermés, basée à Paris/Londres, 1000 collaborateurs, valorisation 12 Md€, objectif revenus 1 Md€ fin 2026, ~75% CA Europe
 - **positionnement** : Laboratoire français passé d'éditeur de modèles open-weights à fournisseur d'infrastructure d'inférence souveraine (août 2026) : jalons annoncés de 200 MW fin 2027 et 1 GW fin 2030, financés par des engagements clients pluriannuels ; hébergement de modèles ouverts tiers, dont GLM-5.2 ; ~4 Md$ levés à ce jour, Microsoft comme locataire d'ancrage de ses datacenters européens
 - **rôle** : Éditeur français de modèles de langage, « meilleur pari européen sur la couche modèle » (SFEIR) ; valorisé ~20 Md€, trois ans d'existence ; présent B2C (Le Chat), B2B (API), open-weights et frontier, infrastructure, verticalisation
-- **secteur** : IA / Open source
+- **secteur** : Modèles d'IA, souveraineté, datacenters européens
 
 ## Relations (comme sujet)
 
@@ -20,6 +20,8 @@
 
 - « l'inférence en région reste soumise à des transferts limités et encadrés vers des sous-traitants pouvant se situer hors de la région choisie » (AFFIRMATION) — 0.93, ATEMPOREL
   - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
+- « les refus des modèles fermés bloquent la recherche de vulnérabilités et la réponse à incident » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/mistral-large-4-le-chonk-2026-10-06\|Introducing Mistral Large 4]]
 
 ### collabore_avec
 
@@ -92,6 +94,8 @@
 
 - [[kb/Voxtral\|Voxtral]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]
+- [[kb/Mistral-Large-4\|Mistral Large 4]] (TECHNOLOGIE) — 0.98, STATIQUE
+  - [[fiches/2026-10/mistral-large-4-le-chonk-2026-10-06\|Introducing Mistral Large 4]]
 - [[kb/Shieldstral\|Shieldstral]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
 - [[kb/_entites-mineures#Mistral-Regional-Endpoints\|Mistral Regional Endpoints]] (TECHNOLOGIE) — 0.96, STATIQUE
@@ -100,6 +104,11 @@
   - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
 - [[kb/_entites-mineures#Robostral\|Robostral]] (TECHNOLOGIE) — 0.82, STATIQUE
   - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
+
+### recommande
+
+- « déployer ML4 en privé ou sur site pour les opérations de sécurité » (AFFIRMATION) — 0.85, ATEMPOREL
+  - [[fiches/2026-10/mistral-large-4-le-chonk-2026-10-06\|Introducing Mistral Large 4]]
 
 ### utilise
 
@@ -125,6 +134,7 @@
 - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
 - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 - [[fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01\|Annonce : une alternative européenne à Claude Code (200 M$ de revenus). Voici Mistral AI CLI.]]
+- [[fiches/2026-10/mistral-large-4-le-chonk-2026-10-06\|Introducing Mistral Large 4]]
 - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
 - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 - [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]

@@ -11,7 +11,7 @@
 
 ### concurrence
 
-- [[kb/_entites-mineures#Claude-Opus-5\|Claude Opus 5]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
+- [[kb/Claude-Opus-5\|Claude Opus 5]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-07/mozilla-state-of-open-source-ai-2026-07\|The state of open source AI (v1.0.1, juillet 2026)]]
 - [[kb/Claude-entite\|Claude]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
   - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]

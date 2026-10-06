@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3569 entités
+> 3577 entités
 
 ## #
 
@@ -350,6 +350,7 @@
 - [[kb/_entites-mineures#Apprenticeship-model-collapse\|Apprenticeship model collapse]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#apprentissage-autodidacte\|apprentissage autodidacte]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#apprentissage-continu\|apprentissage continu]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#apprentissage-par-renforcement\|apprentissage par renforcement]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#apprentissage-statistique\|apprentissage statistique]] (CONCEPT, 1 fiches)
 - [[kb/approbation-humaine-par-transaction\|approbation humaine par transaction]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#approche-AI-native\|approche AI-native]] (METHODOLOGIE, 1 fiches)
@@ -728,7 +729,8 @@
 - [[kb/_entites-mineures#Claude-Opus-4.5\|Claude Opus 4.5]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4.6\|Claude Opus 4.6]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Claude-Opus-4.8\|Claude Opus 4.8]] (TECHNOLOGIE, 3 fiches)
-- [[kb/_entites-mineures#Claude-Opus-5\|Claude Opus 5]] (TECHNOLOGIE, 2 fiches)
+- [[kb/Claude-Opus-5\|Claude Opus 5]] (TECHNOLOGIE, 3 fiches)
+- [[kb/_entites-mineures#Claude-Opus-5.5\|Claude Opus 5.5]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-Security\|Claude Security]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Claude-Skills\|Claude Skills]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#Claude-Sonnet\|Claude Sonnet]] (TECHNOLOGIE, 2 fiches)
@@ -1054,7 +1056,7 @@
 - [[kb/DeepSeek-Harness\|DeepSeek Harness]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#DeepSeek-V3.1-Terminus\|DeepSeek-V3.1-Terminus]] (TECHNOLOGIE, 1 fiches)
 - [[kb/DeepSeek-V3.2-Exp\|DeepSeek-V3.2-Exp]] (TECHNOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#DeepSeek-V4-Pro\|DeepSeek-V4-Pro]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#DeepSeek-V4-Pro\|DeepSeek-V4-Pro]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Deloitte\|Deloitte]] (ORGANISATION, 1 fiches)
 - [[kb/Delos-Intelligence\|Delos Intelligence]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Demand-Gen\|Demand Gen]] (TECHNOLOGIE, 1 fiches)
@@ -1555,8 +1557,10 @@
 - [[kb/_entites-mineures#GPT-5.5-Cyber\|GPT-5.5-Cyber]] (TECHNOLOGIE, 1 fiches)
 - [[kb/GPT-5.6\|GPT-5.6]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#GPT-5.6-Luna\|GPT-5.6 Luna]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#GPT-6-Astra\|GPT-6 Astra]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#GPT-6.1-Astra\|GPT-6.1 Astra]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#GPT-OSS-Safeguard\|GPT-OSS-Safeguard]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#GPU-NVIDIA-Grace-Blackwell\|GPU NVIDIA Grace Blackwell]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Grammarly\|Grammarly]] (TECHNOLOGIE, 1 fiches)
 - [[kb/graphify\|graphify]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Graphify-Labs\|Graphify Labs]] (ORGANISATION, 1 fiches)
@@ -2164,8 +2168,10 @@
 - [[kb/_entites-mineures#MIRI\|MIRI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Missions\|Missions]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Mistral\|Mistral]] (ORGANISATION, 1 fiches)
-- [[kb/Mistral-AI\|Mistral AI]] (ORGANISATION, 6 fiches)
+- [[kb/Mistral-AI\|Mistral AI]] (ORGANISATION, 7 fiches)
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Mistral-Forge\|Mistral Forge]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Mistral-Large-4\|Mistral Large 4]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Mistral-Regional-Endpoints\|Mistral Regional Endpoints]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Mistral-Small-3.1\|Mistral Small 3.1]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#MIT\|MIT]] (ORGANISATION, 1 fiches)
@@ -3027,6 +3033,7 @@
 - [[kb/_entites-mineures#souveraineté\|souveraineté]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#souveraineté-(Delos)\|souveraineté (Delos)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#souveraineté-comme-levier\|souveraineté comme levier]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#souveraineté-de-l'IA\|souveraineté de l'IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#souveraineté-numérique\|souveraineté numérique]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#souveraineté-organisationnelle\|souveraineté organisationnelle]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#souveraineté-par-étages\|souveraineté par étages]] (CONCEPT, 1 fiches)
@@ -3166,6 +3173,7 @@
 - [[kb/_entites-mineures#séquencement-d'adoption\|séquencement d'adoption]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#série-5-volets-software-age-of-AI\|série 5 volets software age of AI]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Série-Bain-software-industry-age-of-AI\|Série Bain software industry age of AI]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#série-D-de-3-Md€\|série D de 3 Md€]] (EVENEMENT, 1 fiches)
 ## T
 
 - [[kb/_entites-mineures#Tags\|Tags]] (TECHNOLOGIE, 1 fiches)

@@ -1,6 +1,6 @@
 # Index — EVENEMENT
 
-> 54 entités de type EVENEMENT
+> 55 entités de type EVENEMENT
 
 - [[kb/_entites-mineures#100%-code-généré-(Cherny)\|100% code généré (Cherny)]] — description: Depuis octobre/novembre 2025, Cherny écrit 0% manuel — modèle écrit l'intégralité de son code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#200-postes-tech-supprimés-nov-2024\|200 postes tech supprimés nov 2024]] — description: Réduction d'effectif McKinsey nov 2024, ~0,5% des humains. Petit relatif vs ampleur déclaration mais signal directionnel (1 occ., 1 fiches)
@@ -56,3 +56,4 @@
 - [[kb/panne-de-service-Claude\|panne de service Claude]] — date: 2025-09-18 (3 occ., 1 fiches)
 - [[kb/_entites-mineures#preuve-de-Navier-Stokes\|preuve de Navier-Stokes]] — date: 2026-09-08 (annonce OpenAI, acceptation formelle en attente) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#rétrospective-d'un-an\|rétrospective d'un an]] — description: Format d'écriture (one-year usage assessment) qui devient courant en 2026 — Frizzo, Curran (Intercom 16 mois 3×) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#série-D-de-3-Md€\|série D de 3 Md€]] — définition: Plus grande levée de fonds en capital d'une entreprise technologique européenne selon Mistral (1 occ., 1 fiches)

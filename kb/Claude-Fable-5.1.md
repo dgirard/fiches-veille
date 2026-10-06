@@ -56,7 +56,7 @@
 
 ### surpasse
 
-- [[kb/_entites-mineures#Claude-Opus-5\|Claude Opus 5]] (TECHNOLOGIE) — 0.92, STATIQUE
+- [[kb/Claude-Opus-5\|Claude Opus 5]] (TECHNOLOGIE) — 0.92, STATIQUE
   - [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
 - GPT-5.6 Sol (TECHNOLOGIE) — 0.90, STATIQUE
   - [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]

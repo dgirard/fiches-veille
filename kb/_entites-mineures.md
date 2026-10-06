@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2986 entités avec moins de 3 triples/fiches
+> 2992 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (395)
 
@@ -7259,7 +7259,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (668)
+## TECHNOLOGIE (671)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -8413,19 +8413,15 @@
 
 **Fiches** : [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Building a C Compiler with a Team of Parallel Claudes]]
 
-### Claude Opus 5 {#Claude-Opus-5}
+### Claude Opus 5.5 {#Claude-Opus-5.5}
 
-**Type** : TECHNOLOGIE | 3 relations | 2 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
-- **résultat de benchmark** : Sur Terminal-Bench 2.1 solo, en effort xhigh : run le plus cher du panel à 140,63 dollars pour 75,0 %, sous six runs moins chers, en raison d'un sur-raisonnement ayant provoqué le timeout de 17 tâches sur 88. Cité comme modèle de tier SmartBee, recommandé en effort medium (prix au 2026-07-30)
-- **rôle** : Modèle de repli pour les tâches cyber et biologie redirigées
+- **catégorie** : Modèle fermé comparé sur le test cyber
 
-- **s_oppose_à** → « le mur d'horloge du harness en effort xhigh : le sur-raisonnement a provoqué un timeout sur 17 des 88 tâches » (AFFIRMATION) — 0.93
+- [[kb/Mistral-Large-4\|Mistral Large 4]] **surpasse** → Claude Opus 5.5 — 0.85
 
-- [[kb/Claude-Fable-5.1\|Claude Fable 5.1]] **surpasse** → Claude Opus 5 — 0.92
-- [[kb/Kimi-K3\|Kimi K3]] **concurrence** → Claude Opus 5 — 0.90
-
-**Fiches** : [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]], [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
+**Fiches** : [[fiches/2026-10/mistral-large-4-le-chonk-2026-10-06\|Introducing Mistral Large 4]]
 
 ### Claude Security {#Claude-Security}
 
@@ -8886,13 +8882,15 @@
 
 ### DeepSeek-V4-Pro {#DeepSeek-V4-Pro}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
+- **catégorie** : Modèle ouvert comparé sur code et flux agentiques
 - **rôle** : Modèle de DeepSeek passé en disponibilité générale le 13 août 2026 (`DeepSeek-V4-Pro-0813`), le jour même de la publication du harnais : niveaux d'effort de raisonnement low, high et max, support natif du format OpenAI Responses API avec intégration optimisée pour Codex, disponible en application, en web (« Expert Mode ») et en API. Nouvelle grille tarifaire heures pleines / heures creuses au 16 août 2026 à 16:00 UTC
 
 - [[kb/DeepSeek-organisation\|DeepSeek]] **publie** → DeepSeek-V4-Pro — 0.95
+- [[kb/Mistral-Large-4\|Mistral Large 4]] **surpasse** → DeepSeek-V4-Pro — 0.88
 
-**Fiches** : [[fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13\|DeepSeek Harness developer preview: Everything is a plugin]]
+**Fiches** : [[fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13\|DeepSeek Harness developer preview: Everything is a plugin]], [[fiches/2026-10/mistral-large-4-le-chonk-2026-10-06\|Introducing Mistral Large 4]]
 
 ### Deepnote Cloud {#Deepnote-Cloud}
 
@@ -9409,6 +9407,16 @@
 
 **Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 
+### GPT-6 Astra {#GPT-6-Astra}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Modèle fermé comparé en cyber, finance, droit et ancrage visuel
+
+- [[kb/Mistral-Large-4\|Mistral Large 4]] **surpasse** → GPT-6 Astra — 0.85
+
+**Fiches** : [[fiches/2026-10/mistral-large-4-le-chonk-2026-10-06\|Introducing Mistral Large 4]]
+
 ### GPT-6.1 Astra {#GPT-6.1-Astra}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -9426,6 +9434,16 @@
 - **positionnement** : Modèle de sûreté à poids ouverts, version 20B mesurée à égalité avec Shieldstral (84,9 % de F1 texte) malgré une taille sept fois supérieure
 
 **Fiches** : [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
+
+### GPU NVIDIA Grace Blackwell {#GPU-NVIDIA-Grace-Blackwell}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Matériel d'entraînement de ML4 (3 800 GPU)
+
+- [[kb/Mistral-Large-4\|Mistral Large 4]] **utilise** → GPU NVIDIA Grace Blackwell — 0.95
+
+**Fiches** : [[fiches/2026-10/mistral-large-4-le-chonk-2026-10-06\|Introducing Mistral Large 4]]
 
 ### GSAP {#GSAP}
 
@@ -10996,6 +11014,16 @@
 - [[kb/Factory\|Factory]] **publie** → Missions — 0.90
 
 **Fiches** : [[fiches/2026-09/reyes-factory-building-machine-software-2026-09-22\|Building the Machine That Builds the Software - Eno Reyes, Co-Founder & CTO of Factory]]
+
+### Mistral Forge {#Mistral-Forge}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Offre d'entraînement, personnalisation et environnement RL pour les clients de Mistral
+
+- [[kb/Mistral-Large-4\|Mistral Large 4]] **utilise** → Mistral Forge — 0.90
+
+**Fiches** : [[fiches/2026-10/mistral-large-4-le-chonk-2026-10-06\|Introducing Mistral Large 4]]
 
 ### Mistral Regional Endpoints {#Mistral-Regional-Endpoints}
 
@@ -14270,7 +14298,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (998)
+## CONCEPT (1000)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -19058,6 +19086,16 @@
 
 **Fiches** : [[fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14\|The AI Engineering Skills Map]]
 
+### apprentissage par renforcement {#apprentissage-par-renforcement}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Post-entraînement sur les résultats des tentatives du modèle, à difficulté croissante
+
+- [[kb/Mistral-Large-4\|Mistral Large 4]] **utilise** → apprentissage par renforcement — 0.95
+
+**Fiches** : [[fiches/2026-10/mistral-large-4-le-chonk-2026-10-06\|Introducing Mistral Large 4]]
+
 ### apprentissage statistique {#apprentissage-statistique}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -22952,6 +22990,16 @@
 - **état** : Hébergement Scaleway + chiffrement TLS/AES-256, données non utilisées pour l'entraînement ; mais calcul encore partiellement sur Azure France fin 2025, bascule 100 % Scaleway visée début 2026
 
 **Fiches** : [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)]]
+
+### souveraineté de l'IA {#souveraineté-de-l'IA}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Contrôle des clients sur déploiement, données et politiques, avec hébergement européen
+
+- [[kb/Mistral-Large-4\|Mistral Large 4]] **permet** → souveraineté de l'IA — 0.85
+
+**Fiches** : [[fiches/2026-10/mistral-large-4-le-chonk-2026-10-06\|Introducing Mistral Large 4]]
 
 ### souveraineté numérique {#souveraineté-numérique}
 
@@ -27969,7 +28017,7 @@
 
 **Fiches** : [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Loop Engineering for Product Managers]]
 
-## EVENEMENT (50)
+## EVENEMENT (51)
 
 ### 100% code généré (Cherny) {#100%-code-généré-(Cherny)}
 
@@ -28449,6 +28497,16 @@
 - **description** : Format d'écriture (one-year usage assessment) qui devient courant en 2026 — Frizzo, Curran (Intercom 16 mois 3×)
 
 **Fiches** : [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|A Year With Claude Code: My Output Doubled. My Attention Span Didn't.]]
+
+### série D de 3 Md€ {#série-D-de-3-Md€}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **définition** : Plus grande levée de fonds en capital d'une entreprise technologique européenne selon Mistral
+
+- **permet** → « la feuille de route de développement du modèle » (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-10/mistral-large-4-le-chonk-2026-10-06\|Introducing Mistral Large 4]]
 
 ## LIEU (5)
 
