@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 430 fiches | 1975-12 → 2026-10-06 | généré le 2026-10-08
+> 431 fiches | 1975-12 → 2026-10-08 | généré le 2026-10-08
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-10
 
+- **08** [Welcome to Gemini at Work 2026: Introducing the Gemini agent](fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08.md) — Thomas Kurian — CEO de Google Cloud ; billet du blog Google Cloud adapté de sa keynote. · Google Cloud — Gemini agent, Gemini Enterprise, Google Cloud
 - **06** [Introducing Mistral Large 4](fiches/2026-10/mistral-large-4-le-chonk-2026-10-06.md) — Mistral AI — éditeur de modèles d'IA ; billet de blog de l'entreprise (« By Mistral »). · Mistral AI — Mistral Large 4, ML4, le Chonk
 - **06** [Introducing Personal Agent Protocol](fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06.md) — Bret Taylor et Clay Bavor — cofondateurs de Sierra, plateforme d'agents IA pour l'expérience client ; billet du blog Sierra. · Sierra — Personal Agent Protocol, standard ouvert, agents personnels
 - **02** [Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will completely vanish » — extrait de Fox & Friends First (Fox News, 29 mai 2025) avec Dario Amodei](fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02.md) — Yugen Matsuda — entrepreneur indépendant, compte X japonais ; post de relais d'un entretien de Dario Amodei (CEO d'Anthropic) diffusé sur Fox News. · X — Dario Amodei, Anthropic, emplois débutants
@@ -709,6 +710,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Architecture & Construction
 
+- [Welcome to Gemini at Work 2026: Introducing the Gemini agent](fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08.md) — Thomas Kurian — CEO de Google Cloud ; billet du blog Google Cloud adapté de sa keynote.
 - [Context Filter](fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26.md) — Assaf Elovic, créateur de GPT Researcher, auteur de la page (documentation officielle docs.gptr.dev, non signée).
 - [Building the Machine That Builds the Software | Eno Reyes, Co-Founder & CTO of Factory](fiches/2026-09/reyes-factory-building-machine-software-2026-09-22.md) — Eno Reyes — cofondateur et CTO de Factory ; conférence vidéo (FirstMark Capital).
 - [Introducing System One Models & Jev](fiches/2026-09/almeida-system-one-models-jev-2026-09-15.md) — Diogo Almeida — fondateur de TypeSafe AI, ancien chercheur chez OpenAI (billet du blog d'entreprise).
@@ -869,6 +871,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Qualité & Sécurité
 
+- [Welcome to Gemini at Work 2026: Introducing the Gemini agent](fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08.md) — Thomas Kurian — CEO de Google Cloud ; billet du blog Google Cloud adapté de sa keynote.
 - [Introducing Mistral Large 4](fiches/2026-10/mistral-large-4-le-chonk-2026-10-06.md) — Mistral AI — éditeur de modèles d'IA ; billet de blog de l'entreprise (« By Mistral »).
 - [We Must Pace the Frontier](fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09.md) — Dario Amodei (CEO et cofondateur d'Anthropic), sur son site personnel darioamodei.com.
 - [Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI](fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30.md) — Zach Davis (LaunchDarkly), Michelle Gill (Engineered by AI), Elisabeth Hendrickson (Curious Duck), Angie Jones (Agentic AI Foundation), Sha Ma (Topogy), Randy Shoup (CircleCI), James Wickett (DryRun Security) ; article collectif, IT Revolution.
@@ -1091,6 +1094,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Outils & Plateformes
 
+- [Welcome to Gemini at Work 2026: Introducing the Gemini agent](fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08.md) — Thomas Kurian — CEO de Google Cloud ; billet du blog Google Cloud adapté de sa keynote.
 - [Introducing Personal Agent Protocol](fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06.md) — Bret Taylor et Clay Bavor — cofondateurs de Sierra, plateforme d'agents IA pour l'expérience client ; billet du blog Sierra.
 - [Introducing Clef: our open-source decision models, and new RL fine-tuning platform](fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01.md) — Michelle Chen, Alex Reneau, Kevin Flansburg — équipe Workers AI / plateforme IA, blog Cloudflare.
 - [Automating eval design and hillclimbing with Claude](fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28.md) — Lance Martin (Anthropic), blog claude.dev, avec remerciements à Misha Khalman pour le développement de la skill.
@@ -1175,6 +1179,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Produits & Services
 
+- [Welcome to Gemini at Work 2026: Introducing the Gemini agent](fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08.md) — Thomas Kurian — CEO de Google Cloud ; billet du blog Google Cloud adapté de sa keynote.
 - [Introducing Mistral Large 4](fiches/2026-10/mistral-large-4-le-chonk-2026-10-06.md) — Mistral AI — éditeur de modèles d'IA ; billet de blog de l'entreprise (« By Mistral »).
 - [Introducing Personal Agent Protocol](fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06.md) — Bret Taylor et Clay Bavor — cofondateurs de Sierra, plateforme d'agents IA pour l'expérience client ; billet du blog Sierra.
 - [Introducing Clef: our open-source decision models, and new RL fine-tuning platform](fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01.md) — Michelle Chen, Alex Reneau, Kevin Flansburg — équipe Workers AI / plateforme IA, blog Cloudflare.
@@ -1227,19 +1232,19 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 430 fiches
-- **Par année** : 2026 (253) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 431 fiches
+- **Par année** : 2026 (254) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 161
-  - Architecture & Construction : 60
+  - Architecture & Construction : 61
   - Transformation & Adoption : 94
-  - Qualité & Sécurité : 53
+  - Qualité & Sécurité : 54
   - Économie & Marché : 92
   - Philosophie & Société : 29
   - Stratégie & Frameworks : 36
-  - Outils & Plateformes : 62
+  - Outils & Plateformes : 63
   - Recherche & Éducation : 16
-  - Produits & Services : 17
+  - Produits & Services : 18
   - Politique & Régulation : 29
 - **Auteurs (top 20)** :
   - Ethan Mollick (13)
@@ -1277,9 +1282,9 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - The Batch / DeepLearning.AI (3)
   - Addy Osmani (3)
   - a16z (3)
+  - Google Cloud (2)
   - Mistral AI (2)
   - X (2)
   - Cloudflare Blog (2)
   - YouTube (2)
   - Anthropic (blog claude.com) (2)
-  - VentureBeat (2)

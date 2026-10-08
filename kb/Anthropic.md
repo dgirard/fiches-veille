@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 154 relations | 50 fiches sources
+> **Type** : ORGANISATION | 155 relations | 51 fiches sources
 
 ## Attributs
 
@@ -107,6 +107,8 @@
 - gouvernement américain (ORGANISATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
   - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
+- [[kb/Google-Cloud\|Google Cloud]] (ORGANISATION) — 0.80, DYNAMIQUE
+  - [[fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08\|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]
 
 ### concurrence
 
@@ -383,6 +385,7 @@
 - [[fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29\|GLM-5.3 and the spread of advanced cyber capabilities]]
 - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
 - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
+- [[fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08\|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]
 - [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
 - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Building Powerful Agentic Systems with Claude]]
 - [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Maîtriser Claude Code — Détail complet des 12 modules et ~60 leçons]]

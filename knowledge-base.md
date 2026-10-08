@@ -1,26 +1,26 @@
 # Knowledge Base — Veille Technologique
 
-<!-- manifest: sha256=da4718fc62e69dfd329e8ed187c64cf7250260d5453339b05f4df5591138b211 fiches=430 -->
-> 430 fiches | 3586 entités | 6925 triples | Généré le 2026-10-08
+<!-- manifest: sha256=40fd76901a9b2a9016d95a22ccd604a3ee48977e62aee6782a86c36160eb8b27 fiches=431 -->
+> 431 fiches | 3594 entités | 6943 triples | Généré le 2026-10-08
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
-- [[kb/_index-type-PERSONNE\|PERSONNE]] (546)
+- [[kb/_index-type-PERSONNE\|PERSONNE]] (547)
 - [[kb/_index-type-ORGANISATION\|ORGANISATION]] (439)
-- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (857)
-- [[kb/_index-type-CONCEPT\|CONCEPT]] (1048)
+- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (863)
+- [[kb/_index-type-CONCEPT\|CONCEPT]] (1049)
 - [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (455)
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (55)
 - [[kb/_index-type-LIEU\|LIEU]] (5)
 - [[kb/_index-type-DOCUMENT\|DOCUMENT]] (181)
-- [[kb/_entites-mineures\|Entités mineures]] (2999)
+- [[kb/_entites-mineures\|Entités mineures]] (3006)
 
 ## Entités les plus connectées
 
 | Entité | Type | Relations | Fiches |
 |--------|------|-----------|--------|
-| [[kb/Anthropic\|Anthropic]] | ORGANISATION | 154 | 50 |
+| [[kb/Anthropic\|Anthropic]] | ORGANISATION | 155 | 51 |
 | [[kb/Claude-Code\|Claude Code]] | TECHNOLOGIE | 124 | 56 |
 | [[kb/Ethan-Mollick\|Ethan Mollick]] | PERSONNE | 70 | 16 |
 | [[kb/SFEIR\|SFEIR]] | ORGANISATION | 68 | 11 |
@@ -35,9 +35,9 @@
 | [[kb/Arthur-Mensch\|Arthur Mensch]] | PERSONNE | 34 | 3 |
 | [[kb/agents-IA\|agents IA]] | TECHNOLOGIE | 33 | 5 |
 | [[kb/Léon-XIV\|Léon XIV]] | PERSONNE | 29 | 1 |
+| [[kb/Claude-entite\|Claude]] | TECHNOLOGIE | 27 | 12 |
 | [[kb/Sierra\|Sierra]] | ORGANISATION | 27 | 4 |
 | [[kb/Agent-Client-Protocol\|Agent Client Protocol]] | TECHNOLOGIE | 26 | 4 |
-| [[kb/Claude-entite\|Claude]] | TECHNOLOGIE | 26 | 11 |
 | [[kb/MCP\|MCP]] | TECHNOLOGIE | 26 | 16 |
 | [[kb/Addy-Osmani\|Addy Osmani]] | PERSONNE | 25 | 8 |
 
@@ -45,28 +45,28 @@
 
 ### Prédicats les plus fréquents
 
-- **affirme_que** : 857
-- **utilise** : 787
+- **affirme_que** : 858
+- **utilise** : 793
 - **permet** : 641
-- **mesure** : 548
-- **publie** : 400
+- **mesure** : 549
+- **publie** : 401
 - **a_créé** : 384
 - **recommande** : 324
-- **s_applique_à** : 287
-- **réduit** : 252
+- **s_applique_à** : 288
+- **réduit** : 253
 - **s_oppose_à** : 251
 - **est_basé_sur** : 246
-- **fait_partie_de** : 219
+- **fait_partie_de** : 220
+- **améliore** : 217
 - **est_instance_de** : 215
-- **améliore** : 215
 - **remplace** : 157
 
 ### Distribution par type
 
-- **PERSONNE** : 546 (15.2%)
+- **PERSONNE** : 547 (15.2%)
 - **ORGANISATION** : 439 (12.2%)
-- **TECHNOLOGIE** : 857 (23.9%)
-- **CONCEPT** : 1048 (29.2%)
+- **TECHNOLOGIE** : 863 (24.0%)
+- **CONCEPT** : 1049 (29.2%)
 - **METHODOLOGIE** : 455 (12.7%)
 - **EVENEMENT** : 55 (1.5%)
 - **LIEU** : 5 (0.1%)
@@ -74,5 +74,5 @@
 
 ### Déduplication
 
-- **Triples** : 7044 → 6925 (119 doublons)
-- **Entités** : 4747 → 3586 (1161 doublons)
+- **Triples** : 7062 → 6943 (119 doublons)
+- **Entités** : 4761 → 3594 (1167 doublons)

@@ -1,11 +1,11 @@
 # Model Context Protocol
 
-> **Type** : TECHNOLOGIE | 20 relations | 7 fiches sources
+> **Type** : TECHNOLOGIE | 21 relations | 8 fiches sources
 
 ## Attributs
 
 - **abréviation** : MCP — standard ouvert d'accès aux outils
-- **catégorie** : Standard ouvert d'accès live aux outils/données (Anthropic, nov. 2024)
+- **catégorie** : Standard de connexion d'outils pris en charge par le Gemini agent
 - **rôle** : Contrat d'exécution déjà portable, déclaré dans mcp.json avec un type explicite par entrée, ce qui supprime l'inférence du transport (stdio, Streamable HTTP, HTTP+SSE historique)
 - **usage** : Interface langage naturel pour données de conformité
 
@@ -51,6 +51,7 @@
 - [[kb/QMD\|QMD]] **utilise** → Model Context Protocol — 0.97
 - [[kb/Agent-Plugins\|Agent Plugins]] **utilise** → Model Context Protocol — 0.96
 - Phase 2 production **est_basé_sur** → Model Context Protocol — 0.95
+- [[kb/Gemini-agent\|Gemini agent]] **utilise** → Model Context Protocol — 0.95
 - [[kb/_entites-mineures#Vanta\|Vanta]] **utilise** → Model Context Protocol — 0.95
 - [[kb/Buzz\|Buzz]] **utilise** → Model Context Protocol — 0.93
 - [[kb/_entites-mineures#buzz-agent\|buzz-agent]] **utilise** → Model Context Protocol — 0.93
@@ -64,6 +65,7 @@
 - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
 - [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 - [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
+- [[fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08\|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]
 - [[fiches/2025-07/mcp-for-beginners-microsoft-developer-youtube-2025-07-28\|MCP for Beginners - YouTube]]
 - [[fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25\|MCP-UI: The Future of Agentic Interfaces]]
 - [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate]]

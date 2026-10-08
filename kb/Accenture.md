@@ -1,11 +1,11 @@
 # Accenture
 
-> **Type** : ORGANISATION | 5 relations | 3 fiches sources
+> **Type** : ORGANISATION | 6 relations | 4 fiches sources
 
 ## Attributs
 
 - **baisse actions sur 2 ans** : -30 %
-- **secteur** : Conseil global, ~700 000 employés. Cité comme archétype de la résilience du conseil face à l'IA via la responsabilité contractuelle
+- **secteur** : Conseil ; crée un Gemini Enterprise Business Group
 - **valorisation boursière** : 155 milliards de dollars
 
 ## Relations (comme sujet)
@@ -33,9 +33,11 @@
 ## Relations (comme objet)
 
 - [[kb/Department-of-Government-Efficiency\|Department of Government Efficiency]] **s_oppose_à** → Accenture — 0.95
+- [[kb/Google-Cloud\|Google Cloud]] **collabore_avec** → Accenture — 0.88
 
 ## Fiches sources
 
 - [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|AI sets up Kodak moment for global consultants]]
+- [[fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08\|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]
 - [[fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12\|Live Agent Tracker - AI Agents we're building for our customers]]
 - [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|You will know that the AI labs believe in ASI when -they dissolve their forward deployed engineering teams-]]

@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1048 entités de type CONCEPT
+> 1049 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -63,6 +63,7 @@
 - [[kb/_entites-mineures#Adaptive-organization\|Adaptive organization]] — définition: Organisation où people, technology et work sont continuellement réalignés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Adoption-IA-en-entreprise\|Adoption IA en entreprise]] — enjeu: Leadership et gestion du risque (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent\|Agent]] — niveau: 3 — exécution pas-à-pas avec approbation (1 occ., 2 fiches)
+- [[kb/_entites-mineures#Agent-collègue\|Agent collègue]] — définition: Agent à rôle persistant, avec identité, e-mail et stockage propres (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent-readiness-data-foundations\|Agent readiness data foundations]] — description: Chantier stratégique CDO 2026 — redesign des data foundations pour permettre exécution agentic. Convergence avec DORA AI-accessible internal data + healthy data ecosystems, Talisman Ontology Pipeline Refresh, Seale Semantic Agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent-Language-Fit\|Agent-Language Fit]] — définition: Capacité langage à servir collaboration humain-LLM (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent-agnostic-(PROJ-AI)\|Agent-agnostic (PROJ-AI)]] — description: Markdown + file conventions supportent Claude, Cursor et autres LLMs — pas de lock-in (1 occ., 1 fiches)

@@ -1,11 +1,11 @@
 # Claude
 
-> **Type** : TECHNOLOGIE | 26 relations | 11 fiches sources
+> **Type** : TECHNOLOGIE | 27 relations | 12 fiches sources
 
 ## Attributs
 
 - **categorie** : IA generative enterprise
-- **catégorie** : Modèle de langage
+- **catégorie** : Modèles d'Anthropic orchestrables par le Gemini agent
 - **famille de produits** : Claude.ai, Claude Code, API
 - **limitation** : Pas de génération d'images ou vidéos
 - **usage** : Agent de codage utilisé sur un projet d'animation graphique
@@ -55,6 +55,7 @@
 - [[kb/Anthropic-Interviewer\|Anthropic Interviewer]] **utilise** → Claude — 0.95
 - [[kb/David-Thomas\|David Thomas]] **utilise** → Claude — 0.95
 - Entreprises regulees **utilise** → Claude — 0.95
+- [[kb/Gemini-agent\|Gemini agent]] **utilise** → Claude — 0.95
 - [[kb/_entites-mineures#Marketing-AI-OS\|Marketing AI OS]] **utilise** → Claude — 0.93
 - temps de raisonnement **améliore** → Claude — 0.92
 - [[kb/GPT-5.6\|GPT-5.6]] **concurrence** → Claude — 0.92
@@ -67,6 +68,7 @@
 - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Introducing Agent Skills]]
 - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
 - [[fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04\|Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI]]
+- [[fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08\|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]
 - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Building Powerful Agentic Systems with Claude]]
 - [[fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05\|It is amazing how many companies I talk to STILL have AI effectively blocked by IT & legal departments...]]
 - [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Giving your AI a Job Interview]]

@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2999 entités avec moins de 3 triples/fiches
+> 3006 entités avec moins de 3 triples/fiches
 
-## PERSONNE (397)
+## PERSONNE (398)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -3631,6 +3631,16 @@
 - **rôle** : Patron de Mathieu Grymonprez (a suivi 6 h de cours IA)
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
+
+### Thomas Kurian {#Thomas-Kurian}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : CEO de Google Cloud
+
+- **dirige** → [[kb/Google-Cloud\|Google Cloud]] (ORGANISATION) — 0.97
+
+**Fiches** : [[fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08\|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]
 
 ### Thomas d'Aquin {#Thomas-d'Aquin}
 
@@ -7312,7 +7322,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (673)
+## TECHNOLOGIE (678)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7720,6 +7730,18 @@
 
 **Fiches** : [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|Interactions API: A unified foundation for models and agents]]
 
+### Agent Gateway {#Agent-Gateway}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Pare-feu réseau d'IA appliquant les politiques aux flux des agents
+
+- **résout** → « contrôle de ce que les agents ne doivent jamais toucher » (AFFIRMATION) — 0.90
+
+- [[kb/Gemini-agent\|Gemini agent]] **utilise** → Agent Gateway — 0.95
+
+**Fiches** : [[fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08\|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]
+
 ### Agent Readiness {#Agent-Readiness}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -7743,6 +7765,16 @@
 - [[kb/STS-(Security-Token-Service)\|STS (Security Token Service)]] **utilise** → Agent Registry — 0.97
 
 **Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
+
+### Agent Sandbox {#Agent-Sandbox}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Bac à sable d'exécution des agents avec frontière réseau propre
+
+- [[kb/Gemini-agent\|Gemini agent]] **utilise** → Agent Sandbox — 0.93
+
+**Fiches** : [[fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08\|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]
 
 ### Agent Studio {#Agent-Studio}
 
@@ -9990,6 +10022,16 @@
 
 **Fiches** : [[fiches/2025-10/rippletide-agent-reliability-enterprise-architecture-2025-10-29\|Agent reliability: What's missing in Enterprise AI agent architecture?]]
 
+### Google Workspace {#Google-Workspace}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Suite bureautique dans laquelle le Gemini agent opère
+
+- [[kb/Gemini-agent\|Gemini agent]] **s_applique_à** → Google Workspace — 0.95
+
+**Fiches** : [[fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08\|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]
+
 ### Gotham {#Gotham}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -10446,6 +10488,18 @@
 - **fait_partie_de** → [[kb/Plakar-technologie\|Plakar]] (TECHNOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2026-01/plakar-sauvegarde-open-source-deep-research-2026-01\|Plakar : la révolution française de la sauvegarde open source]]
+
+### Knowledge Catalog {#Knowledge-Catalog}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Catalogue de définitions métier partagé par les agents de données
+
+- **améliore** → « précision SQL de Bloomberg Media de 63 % » (MESURE) — 0.90
+
+- [[kb/Gemini-agent\|Gemini agent]] **utilise** → Knowledge Catalog — 0.92
+
+**Fiches** : [[fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08\|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]
 
 ### Kubernetes {#Kubernetes}
 
@@ -12710,6 +12764,16 @@
 
 **Fiches** : [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
 
+### TPU 8i {#TPU-8i}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Puce d'inférence de Google, 80 % de meilleur rapport prix-performance
+
+- **améliore** → « rapport prix-performance de 80 % par rapport à la génération précédente » (MESURE) — 0.90
+
+**Fiches** : [[fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08\|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]
+
 ### Tags {#Tags}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -14373,7 +14437,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1000)
+## CONCEPT (1001)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -14869,6 +14933,16 @@
 - **converge_avec** → onboarding d'un stagiaire (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|the 2026 ai engineer roadmap]], [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|The Eight Levels of AI Adoption]]
+
+### Agent collègue {#Agent-collègue}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Agent à rôle persistant, avec identité, e-mail et stockage propres
+
+- **fait_partie_de** → [[kb/Gemini-agent\|Gemini agent]] (TECHNOLOGIE) — 0.92
+
+**Fiches** : [[fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08\|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]
 
 ### Agent readiness data foundations {#Agent-readiness-data-foundations}
 
