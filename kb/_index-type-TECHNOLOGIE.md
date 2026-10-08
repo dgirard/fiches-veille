@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 854 entités de type TECHNOLOGIE
+> 857 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -377,7 +377,7 @@
 - [[kb/_entites-mineures#Indice-d'Utilisation-de-l'IA-(AUI)\|Indice d'Utilisation de l'IA (AUI)]] — usage: mesurer adoption comparative par pays (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ink\|Ink]] — usage: Framework React pour UI terminal (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Insights\|Insights]] — catégorie: Agent spécialisé données (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Instinct\|Instinct]] — catégorie: Assistant personnel à licence perpétuelle sur les données (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Instinct\|Instinct]] — catégorie: Assistant personnel à licence perpétuelle sur les données (1 occ., 2 fiches)
 - [[kb/_entites-mineures#Inter\|Inter]] — catégorie: Police typographique recommandée (1 occ., 1 fiches)
 - [[kb/Interactions-API\|Interactions API]] — catégorie: API unifiée modèles et agents (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Issuing-for-agents\|Issuing for agents]] — définition: Brique Stripe exposant les API Issuing pour construire des portefeuilles et cartes agentiques sur mesure : cartes virtuelles à usage unique, stockage de fonds, contrôles de dépense, permissions au niveau de la carte, antifraude à l'autorisation, visibilité temps réel (1 occ., 1 fiches)
@@ -431,7 +431,7 @@
 - [[kb/_entites-mineures#Luna\|Luna]] — positionnement: Tier rapide/économique haut volume (résumé, classification, routing, temps réel) ; 1 $/6 $ par M tokens (1 occ., 1 fiches)
 - [[kb/_entites-mineures#M5Stack-Stick-3\|M5Stack Stick 3]] — catégorie: Petit appareil hardware (~30 €) support de l'agent DIY (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MAZU\|MAZU]] — catégorie: Système d'alerte météo précoce par IA (initiative ONU « Early Warnings for All ») (1 occ., 1 fiches)
-- [[kb/MCP\|MCP]] — catégorie: Protocole d'outillage dont l'article fixe la pile minimale utile au workflow (18 occ., 15 fiches)
+- [[kb/MCP\|MCP]] — catégorie: Standard d'API cité pour l'accès des agents (19 occ., 16 fiches)
 - [[kb/_entites-mineures#MCP-(OAuth)\|MCP (OAuth)]] — usage: Connexion de l'agent à Todoist (50 outils) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MCP-Gateway\|MCP Gateway]] — catégorie: Policy enforcement point Uber pour l'invocation des MCP tools — décisions d'accès tool-level basées sur l'actor chain complète (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MCP-Hub\|MCP Hub]] — catégorie: Annuaire de serveurs MCP pour éviter duplication (1 occ., 1 fiches)
@@ -512,6 +512,7 @@
 - [[kb/_entites-mineures#Nvidia-H100\|Nvidia H100]] — description: GPU haute performance pour inférence IA, ressource rare et disputée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nvidia-Jetson\|Nvidia Jetson]] — catégorie: Plateforme edge AI propriétaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#O-NET\|O*NET]] — usage: classification des tâches professionnelles pour analyse IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#OAuth\|OAuth]] — catégorie: Standard d'autorisation d'accès, base des sessions du protocole (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OAuth-2.0-Token-Exchange-(RFC-8693)\|OAuth 2.0 Token Exchange (RFC 8693)]] — catégorie: Standard IETF pour l'échange de tokens entre services — base conceptuelle du per-hop token exchange Uber (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OAuth-2.1\|OAuth 2.1]] — rôle: Protocole d'authentification provider-side (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OSS-20b\|OSS-20b]] — catégorie: Modèle open-source (1 occ., 1 fiches)
@@ -524,6 +525,7 @@
 - [[kb/_entites-mineures#OpenAI-Codex\|OpenAI Codex]] — catégorie: Agent de codage autonome OpenAI (2 occ., 2 fiches)
 - [[kb/_entites-mineures#OpenAI-Operator\|OpenAI Operator]] — éditeur: OpenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenAI-Sora\|OpenAI Sora]] — catégorie: Modèle de génération vidéo concurrent (1 occ., 1 fiches)
+- [[kb/_entites-mineures#OpenAPI\|OpenAPI]] — catégorie: Standard d'API cité pour l'accès des agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenBSD\|OpenBSD]] — catégorie: Système d'exploitation Unix sécurisé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenClaude\|OpenClaude]] — catégorie: Variante open / locale de Claude Code mentionnée par Meng (1 occ., 1 fiches)
 - [[kb/OpenClaw\|OpenClaw]] — categorie: Agent IA persistant 24/7 (6 occ., 6 fiches)
@@ -546,6 +548,7 @@
 - [[kb/_entites-mineures#Performance-Max\|Performance Max]] — éditeur: Google (1 occ., 1 fiches)
 - [[kb/Perplexity-technologie\|Perplexity]] — catégorie: Moteur de recherche LLM natif (1 occ., 5 fiches)
 - [[kb/_entites-mineures#Perplexity-Computer\|Perplexity Computer]] — categorie: Agent knowledge work (1 occ., 1 fiches)
+- [[kb/Personal-Agent-Protocol\|Personal Agent Protocol]] — catégorie: Standard ouvert d'interaction entre agents personnels et entreprises ; annoncé le 6 octobre 2026, spécification v0.1 prévue en octobre (1 occ., 1 fiches)
 - [[kb/Phoenix\|Phoenix]] — rôle: Service JAX ML, transformer dérivé Grok-1, fait à la fois retrieval (two-tower) et ranking (prédit 19 actions par candidat) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Phoenix-checkpoint-released\|Phoenix checkpoint released]] — définition: Mini-model open-source : 2 layers, 4 attention heads, 256-dim, entraîné sur corpus 537K posts sports — démonstrateur architectural, **pas** le modèle production (1 occ., 1 fiches)
 - [[kb/Plakar-technologie\|Plakar]] — catégorie: Solution de sauvegarde open source (1 occ., 2 fiches)

@@ -35,7 +35,7 @@
   - [[fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29\|Giving agents the ability to pay]]
 - [[kb/_entites-mineures#Shared-Payment-Token\|Shared Payment Token]] (TECHNOLOGIE) — 0.95, ATEMPOREL
   - [[fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29\|Giving agents the ability to pay]]
-- OAuth (TECHNOLOGIE) — 0.94, ATEMPOREL
+- [[kb/_entites-mineures#OAuth\|OAuth]] (TECHNOLOGIE) — 0.94, ATEMPOREL
   - [[fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29\|Giving agents the ability to pay]]
 
 ## Relations (comme objet)

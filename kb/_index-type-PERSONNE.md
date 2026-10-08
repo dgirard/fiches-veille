@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 544 entités de type PERSONNE
+> 546 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -88,7 +88,7 @@
 - [[kb/_entites-mineures#Brad-Smith\|Brad Smith]] — rôle: Dirigeant Microsoft ayant confirmé l'absence de nouvelle prise de participation de Microsoft au capital de Mistral (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bradley-Axen\|Bradley Axen]] — rôle: Head of AI Capabilities chez Block ; porte l'argument de marché du lancement de Buzz : toute entreprise aura besoin d'un lieu où humains et agents travaillent ensemble, et la question est de savoir s'il sera propriétaire ou ouvert (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bradley-Shimmin\|Bradley Shimmin]] — rôle: Lead data intelligence and analytics practice, The Futurum Group (1 occ., 1 fiches)
-- [[kb/Bret-Taylor\|Bret Taylor]] — rôle: Co-fondateur et CEO de Sierra, président du conseil d'OpenAI (1 occ., 1 fiches)
+- [[kb/Bret-Taylor\|Bret Taylor]] — rôle: Cofondateur de Sierra (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Brian-Fioca\|Brian Fioca]] — rôle: Engineering, OpenAI (1 occ., 1 fiches)
 - [[kb/Brian-Houck\|Brian Houck]] — rôle: Contradicteur nommé, rattaché à DX ; auteur du texte auquel ce billet répond (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Brian-Kessman\|Brian Kessman]] — rôle: Founder/Principal Lodestar Agency Consulting. Auteur principal du rapport VoxComm "Redesigning the Agency Value Model" (mars 2026) (1 occ., 1 fiches)
@@ -110,6 +110,7 @@
 - [[kb/Chris-Williams\|Chris Williams]] — rôle: Auteur de la série ADLC, fondateur JSConf (@voodootikigod) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Christina-Lu\|Christina Lu]] — rôle: Chercheuse MATS / Oxford, en collaboration Anthropic (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Christopher-Alexander\|Christopher Alexander]] — rôle: Architecte-bâtisseur, théoricien des patterns (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Clay-Bavor\|Clay Bavor]] — rôle: Cofondateur de Sierra (1 occ., 1 fiches)
 - [[kb/Cobus-Greyling\|Cobus Greyling]] — rôle: Chief Evangelist @ Kore.ai, auteur Medium (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Confucius\|Confucius]] — période: 551-479 av. J.-C. (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cormac\|Cormac]] — rôle: Team lead Intercom du data analytics platform (Streamlit-Snowflake, prototype février → adoption généralisée) (1 occ., 1 fiches)
@@ -505,6 +506,7 @@
 - [[kb/Timothée-Lacroix\|Timothée Lacroix]] — rôle: Cofondateur et CTO de Mistral AI ; porte publiquement la thèse que l'inférence auto-hébergée devient intenable au-delà d'environ 100 milliards de paramètres denses, et assume l'irréversibilité des engagements ECU (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tobias-Lütke\|Tobias Lütke]] — rôle: CEO Shopify, créateur QMD (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tom-Brow\|Tom Brow]] — rôle: Ingénieur chez Block, auteur du billet « A Buzz on your phone » (29 juillet 2026) sur l'application mobile : pas d'hébergement d'agents, signature des messages, appairage QR depuis le desktop, aucun SDK d'analytics et suppression des métadonnées EXIF (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Tony-Bates\|Tony Bates]] — rôle: Chairman et CEO de Genesys (1 occ., 1 fiches)
 - [[kb/Tony-Seale\|Tony Seale]] — rôle: Évangéliste knowledge graph, auteur LinkedIn The Knowledge Graph Guy (2 occ., 2 fiches)
 - [[kb/Tracey-Franklin\|Tracey Franklin]] — rôle: Chief People and Digital Technology Officer de Moderna (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Travis-Turner\|Travis Turner]] — rôle: Auteur Evil Martians, co-rédacteur Chronicles AI-assisted engineers burning out (mai 2026) (1 occ., 1 fiches)

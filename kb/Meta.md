@@ -1,12 +1,12 @@
 # Meta
 
-> **Type** : ORGANISATION | 20 relations | 5 fiches sources
+> **Type** : ORGANISATION | 22 relations | 6 fiches sources
 
 ## Attributs
 
 - **apport** : Source de la télémétrie de volume de diffs citée en ouverture et opérateur du système RADAR
 - **positionnement** : Se déclare en août 2026 « la seule entreprise principalement concentrée sur la superintelligence personnelle pour tous », par opposition aux labos construisant pour les entreprises, gouvernements et institutions ; annonce une gouvernance donnant au conseil indépendant l'approbation des critères de publication, un mode entièrement privé, des accès gratuits doublés d'une enchère dynamique sur le compute, et la reprise de publications open source
-- **secteur** : Réseaux sociaux / IA
+- **secteur** : Partenaire de développement du protocole
 
 ## Relations (comme sujet)
 
@@ -16,6 +16,13 @@
   - [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
 - [[kb/RADAR\|RADAR]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for?]]
+- [[kb/Personal-Agent-Protocol\|Personal Agent Protocol]] (TECHNOLOGIE) — 0.90, STATIQUE
+  - [[fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06\|Introducing Personal Agent Protocol]]
+
+### collabore_avec
+
+- [[kb/Sierra\|Sierra]] (ORGANISATION) — 0.97, STATIQUE
+  - [[fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06\|Introducing Personal Agent Protocol]]
 
 ### concurrence
 
@@ -79,4 +86,5 @@
 - [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for?]]
 - [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
 - [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
+- [[fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06\|Introducing Personal Agent Protocol]]
 - [[fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10\|The Future is for Everyone: The Path to a Positive AI Future]]

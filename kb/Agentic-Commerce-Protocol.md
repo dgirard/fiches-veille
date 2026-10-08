@@ -39,7 +39,7 @@
 - [[kb/Stripe\|Stripe]] **a_créé** → Agentic Commerce Protocol — 0.97
 - [[kb/Amazon\|Amazon]] **s_oppose_à** → Agentic Commerce Protocol — 0.97
 - [[kb/_entites-mineures#Etsy\|Etsy]] **utilise** → Agentic Commerce Protocol — 0.93
-- Walmart **utilise** → Agentic Commerce Protocol — 0.93
+- [[kb/Walmart\|Walmart]] **utilise** → Agentic Commerce Protocol — 0.93
 - [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] **concurrence** → Agentic Commerce Protocol — 0.92
 
 ## Fiches sources

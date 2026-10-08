@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 435 entités de type ORGANISATION
+> 439 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -167,6 +167,7 @@
 - [[kb/Gartner\|Gartner]] — secteur: Recherche et conseil technologique (4 occ., 4 fiches)
 - [[kb/Gates-Foundation\|Gates Foundation]] — secteur: Philanthropie / santé mondiale, agriculture, éducation — 200 Md$ sur 20 ans, 19 restants (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Generative-AI-Labs\|Generative AI Labs]] — affiliation: The Wharton School, University of Pennsylvania (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Genesys\|Genesys]] — secteur: Expérience client ; partenaire du protocole (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ghostty\|Ghostty]] — réaction: Bans permanents pour code généré par IA (1 occ., 2 fiches)
 - [[kb/GitHub-organisation\|GitHub]] — rôle: Éditeur de Copilot, cité comme point de comparaison tarifaire (2 occ., 5 fiches)
 - [[kb/_entites-mineures#GitLab\|GitLab]] — positionnement: Éditeur DevSecOps pariant sur une plateforme neutre en modèle et en cloud plutôt que sur un modèle propriétaire (1 occ., 1 fiches)
@@ -202,6 +203,7 @@
 - [[kb/_entites-mineures#IT-Revolution\|IT Revolution]] — secteur: Éditeur DevOps, revue Enterprise Technology Leadership Journal (1 occ., 1 fiches)
 - [[kb/_entites-mineures#IT-for-Business\|IT for Business]] — catégorie: Média technologique français (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ignition-Consulting-Group\|Ignition Consulting Group]] — secteur: Cabinet conseil dirigé par Tim Williams, spécialisé transformation agences communication (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Instinct\|Instinct]] — secteur: Rejoint l'effort annoncé (1 occ., 2 fiches)
 - [[kb/Intercom\|Intercom]] — échelle: 1305 employés, 500 R&D, 8,5M lignes code, 30 000 clients B2B, 313 deploys/jour, 2M+ QPS peak (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Intuit\|Intuit]] — secteur: Logiciels financiers (utilisateur Lovable) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Investir\|Investir]] — type: Publication financière du groupe Les Echos ; numéro « spécial patrons » IA (1 occ., 1 fiches)
@@ -248,7 +250,7 @@
 - [[kb/_entites-mineures#Meitu\|Meitu]] — secteur: Applications photo/vidéo IA (Chine) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Menlo-Ventures\|Menlo Ventures]] — secteur: Capital-risque (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Merit-Systems\|Merit Systems]] — secteur: Infrastructure commerce agentique (1 occ., 1 fiches)
-- [[kb/Meta\|Meta]] — secteur: Réseaux sociaux / IA (5 occ., 5 fiches)
+- [[kb/Meta\|Meta]] — secteur: Partenaire de développement du protocole (6 occ., 6 fiches)
 - [[kb/Meta-AI-Research\|Meta AI Research]] — positionnement: Entre sur le marché de l'agent de codage en terminal après ses concurrents et l'assume, en publiant quatre comparatifs où son modèle ne prend jamais la tête, y compris sur son propre benchmark interne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Meta-Superintelligence-Labs\|Meta Superintelligence Labs]] — rôle: Entité de recherche de Meta présentée comme opérationnelle en août 2026, dont la mise en route conditionne la reprise annoncée de la publication de « certains » modèles open source (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michelin\|Michelin]] — secteur: Industrie / Transformation numérique (2 occ., 2 fiches)
@@ -322,6 +324,7 @@
 - [[kb/_entites-mineures#Rilla\|Rilla]] — catégorie: Start-up d'IA (logiciels de coaching commercial) ; ~80 employés au 996 (1 occ., 1 fiches)
 - [[kb/Rippletide\|Rippletide]] — secteur: infrastructure IA enterprise / gouvernance agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Riskified\|Riskified]] — secteur: Prévention fraude / e-commerce (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Rocket\|Rocket]] — secteur: Immobilier et financement ; partenaire du protocole (1 occ., 1 fiches)
 - [[kb/_entites-mineures#S3NS\|S3NS]] — qualification: SecNumCloud 3.2 ANSSI (déc. 2025) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SAP\|SAP]] — secteur: Éditeur ERP / Cloud (1 occ., 1 fiches)
 - [[kb/SFEIR\|SFEIR]] — relation: Groupe parent de WEnvision (13 occ., 11 fiches)
@@ -336,8 +339,8 @@
 - [[kb/_entites-mineures#Sears-Home-Services\|Sears Home Services]] — secteur: Services à domicile (utilisateur Replit) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SemiAnalysis\|SemiAnalysis]] — secteur: Recherche semiconducteurs et IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ShinyHunters\|ShinyHunters]] — rôle: Collectif criminel de vol de données et d'extorsion (GTG-50014) ; affiliés opérant par agents (1 occ., 1 fiches)
-- [[kb/Shopify\|Shopify]] — secteur: E-commerce / Plateforme marchands (8 occ., 6 fiches)
-- [[kb/Sierra\|Sierra]] — secteur: IA conversationnelle / Agents d'entreprise (4 occ., 3 fiches)
+- [[kb/Shopify\|Shopify]] — secteur: Commerce en ligne ; partenaire du protocole (9 occ., 7 fiches)
+- [[kb/Sierra\|Sierra]] — secteur: Plateforme d'agents IA pour l'expérience client (5 occ., 4 fiches)
 - [[kb/_entites-mineures#SitePoint\|SitePoint]] — secteur: Média technique développeurs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Snowflake\|Snowflake]] — secteur: Données et analytique cloud (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Société-Générale\|Société Générale]] — secteur: Banque (1 occ., 1 fiches)
@@ -358,7 +361,7 @@
 - [[kb/_entites-mineures#Startups-AI-native\|Startups AI-native]] — caractéristique: Petite équipe générant des revenus massifs grâce au découplage taille/échelle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#State-Department\|State Department]] — secteur: Diplomatie américaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Strategize-Your-Career\|Strategize Your Career]] — type: Newsletter Substack pour ingénieurs logiciels (1 occ., 1 fiches)
-- [[kb/Stripe\|Stripe]] — secteur: Paiements / Fintech (6 occ., 6 fiches)
+- [[kb/Stripe\|Stripe]] — secteur: Paiements ; partenaire du protocole (7 occ., 7 fiches)
 - [[kb/_entites-mineures#StrongDM-AI\|StrongDM AI]] — date_fondation: 14 juillet 2025 (2 occ., 1 fiches)
 - [[kb/_entites-mineures#SubImage\|SubImage]] — secteur: Cybersécurité (Silicon Valley) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SuperClaude-Org\|SuperClaude-Org]] — type: Communauté open source (1 occ., 1 fiches)
@@ -399,6 +402,7 @@
 - [[kb/_entites-mineures#WAICO\|WAICO]] — catégorie: Organisation mondiale de coopération en IA (2 occ., 1 fiches)
 - [[kb/WEnvision\|WEnvision]] — secteur: Cabinet de conseil FR (Paris, Lille, Strasbourg, Bordeaux, Nantes, Toulouse, Belgique, Luxembourg) (9 occ., 8 fiches)
 - [[kb/_entites-mineures#WNS\|WNS]] — rôle: Acquisition Capgemini 2026 → « leader mondial des opérations intelligentes », pilier de croissance (1 occ., 1 fiches)
+- [[kb/Walmart\|Walmart]] — secteur: Distribution ; partenaire du protocole (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Wayfair\|Wayfair]] — secteur: E-commerce / Ameublement (1 occ., 1 fiches)
 - [[kb/Weave\|Weave]] — batch YC: Winter 2025 (3 occ., 1 fiches)
 - [[kb/Wescale\|Wescale]] — secteur: Cabinet français de conseil cloud / DevOps / industrialisation IT (1 occ., 1 fiches)

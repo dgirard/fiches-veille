@@ -1,20 +1,20 @@
 # Knowledge Base — Veille Technologique
 
-<!-- manifest: sha256=5faaf0020157a9439c992d16d59d59f1e733c91cab95b726d48f0ccc20635bc2 fiches=429 -->
-> 429 fiches | 3577 entités | 6905 triples | Généré le 2026-10-06
+<!-- manifest: sha256=da4718fc62e69dfd329e8ed187c64cf7250260d5453339b05f4df5591138b211 fiches=430 -->
+> 430 fiches | 3586 entités | 6925 triples | Généré le 2026-10-08
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
-- [[kb/_index-type-PERSONNE\|PERSONNE]] (544)
-- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (435)
-- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (854)
+- [[kb/_index-type-PERSONNE\|PERSONNE]] (546)
+- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (439)
+- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (857)
 - [[kb/_index-type-CONCEPT\|CONCEPT]] (1048)
 - [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (455)
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (55)
 - [[kb/_index-type-LIEU\|LIEU]] (5)
 - [[kb/_index-type-DOCUMENT\|DOCUMENT]] (181)
-- [[kb/_entites-mineures\|Entités mineures]] (2992)
+- [[kb/_entites-mineures\|Entités mineures]] (2999)
 
 ## Entités les plus connectées
 
@@ -35,23 +35,23 @@
 | [[kb/Arthur-Mensch\|Arthur Mensch]] | PERSONNE | 34 | 3 |
 | [[kb/agents-IA\|agents IA]] | TECHNOLOGIE | 33 | 5 |
 | [[kb/Léon-XIV\|Léon XIV]] | PERSONNE | 29 | 1 |
+| [[kb/Sierra\|Sierra]] | ORGANISATION | 27 | 4 |
 | [[kb/Agent-Client-Protocol\|Agent Client Protocol]] | TECHNOLOGIE | 26 | 4 |
 | [[kb/Claude-entite\|Claude]] | TECHNOLOGIE | 26 | 11 |
+| [[kb/MCP\|MCP]] | TECHNOLOGIE | 26 | 16 |
 | [[kb/Addy-Osmani\|Addy Osmani]] | PERSONNE | 25 | 8 |
-| [[kb/MCP\|MCP]] | TECHNOLOGIE | 25 | 15 |
-| [[kb/Compound-Engineering\|Compound Engineering]] | METHODOLOGIE | 25 | 7 |
 
 ## Statistiques
 
 ### Prédicats les plus fréquents
 
-- **affirme_que** : 856
-- **utilise** : 784
-- **permet** : 640
+- **affirme_que** : 857
+- **utilise** : 787
+- **permet** : 641
 - **mesure** : 548
-- **publie** : 399
-- **a_créé** : 383
-- **recommande** : 323
+- **publie** : 400
+- **a_créé** : 384
+- **recommande** : 324
 - **s_applique_à** : 287
 - **réduit** : 252
 - **s_oppose_à** : 251
@@ -63,16 +63,16 @@
 
 ### Distribution par type
 
-- **PERSONNE** : 544 (15.2%)
-- **ORGANISATION** : 435 (12.2%)
-- **TECHNOLOGIE** : 854 (23.9%)
-- **CONCEPT** : 1048 (29.3%)
+- **PERSONNE** : 546 (15.2%)
+- **ORGANISATION** : 439 (12.2%)
+- **TECHNOLOGIE** : 857 (23.9%)
+- **CONCEPT** : 1048 (29.2%)
 - **METHODOLOGIE** : 455 (12.7%)
 - **EVENEMENT** : 55 (1.5%)
 - **LIEU** : 5 (0.1%)
-- **DOCUMENT** : 181 (5.1%)
+- **DOCUMENT** : 181 (5.0%)
 
 ### Déduplication
 
-- **Triples** : 7024 → 6905 (119 doublons)
-- **Entités** : 4732 → 3577 (1155 doublons)
+- **Triples** : 7044 → 6925 (119 doublons)
+- **Entités** : 4747 → 3586 (1161 doublons)

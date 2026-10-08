@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 429 fiches | 1975-12 → 2026-10-06 | généré le 2026-10-06
+> 430 fiches | 1975-12 → 2026-10-06 | généré le 2026-10-08
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -9,6 +9,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### 2026-10
 
 - **06** [Introducing Mistral Large 4](fiches/2026-10/mistral-large-4-le-chonk-2026-10-06.md) — Mistral AI — éditeur de modèles d'IA ; billet de blog de l'entreprise (« By Mistral »). · Mistral AI — Mistral Large 4, ML4, le Chonk
+- **06** [Introducing Personal Agent Protocol](fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06.md) — Bret Taylor et Clay Bavor — cofondateurs de Sierra, plateforme d'agents IA pour l'expérience client ; billet du blog Sierra. · Sierra — Personal Agent Protocol, standard ouvert, agents personnels
 - **02** [Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will completely vanish » — extrait de Fox & Friends First (Fox News, 29 mai 2025) avec Dario Amodei](fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02.md) — Yugen Matsuda — entrepreneur indépendant, compte X japonais ; post de relais d'un entretien de Dario Amodei (CEO d'Anthropic) diffusé sur Fox News. · X — Dario Amodei, Anthropic, emplois débutants
 - **01** [Introducing Clef: our open-source decision models, and new RL fine-tuning platform](fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01.md) — Michelle Chen, Alex Reneau, Kevin Flansburg — équipe Workers AI / plateforme IA, blog Cloudflare. · Cloudflare Blog — Clef, Clef-flash, modèle de décision
 - **01** [Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)](fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01.md) — Daniel Meppiel — travaille avec des équipes d'ingénierie d'entreprise chez Microsoft et GitHub ; post LinkedIn. · LinkedIn — Agentic SDLC, SDLC agentique, skills
@@ -1051,6 +1052,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Stratégie & Frameworks
 
+- [Introducing Personal Agent Protocol](fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06.md) — Bret Taylor et Clay Bavor — cofondateurs de Sierra, plateforme d'agents IA pour l'expérience client ; billet du blog Sierra.
 - [Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)](fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01.md) — Daniel Meppiel — travaille avec des équipes d'ingénierie d'entreprise chez Microsoft et GitHub ; post LinkedIn.
 - [The Dot and the Swarm: Benefitting from the Bitter Lesson](fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01.md) — Ethan Mollick — professeur à la Wharton School (University of Pennsylvania), auteur de *One Useful Thing* (Substack).
 - [We Must Pace the Frontier](fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09.md) — Dario Amodei (CEO et cofondateur d'Anthropic), sur son site personnel darioamodei.com.
@@ -1089,6 +1091,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Outils & Plateformes
 
+- [Introducing Personal Agent Protocol](fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06.md) — Bret Taylor et Clay Bavor — cofondateurs de Sierra, plateforme d'agents IA pour l'expérience client ; billet du blog Sierra.
 - [Introducing Clef: our open-source decision models, and new RL fine-tuning platform](fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01.md) — Michelle Chen, Alex Reneau, Kevin Flansburg — équipe Workers AI / plateforme IA, blog Cloudflare.
 - [Automating eval design and hillclimbing with Claude](fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28.md) — Lance Martin (Anthropic), blog claude.dev, avec remerciements à Misha Khalman pour le développement de la skill.
 - [Context Filter](fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26.md) — Assaf Elovic, créateur de GPT Researcher, auteur de la page (documentation officielle docs.gptr.dev, non signée).
@@ -1173,6 +1176,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Produits & Services
 
 - [Introducing Mistral Large 4](fiches/2026-10/mistral-large-4-le-chonk-2026-10-06.md) — Mistral AI — éditeur de modèles d'IA ; billet de blog de l'entreprise (« By Mistral »).
+- [Introducing Personal Agent Protocol](fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06.md) — Bret Taylor et Clay Bavor — cofondateurs de Sierra, plateforme d'agents IA pour l'expérience client ; billet du blog Sierra.
 - [Introducing Clef: our open-source decision models, and new RL fine-tuning platform](fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01.md) — Michelle Chen, Alex Reneau, Kevin Flansburg — équipe Workers AI / plateforme IA, blog Cloudflare.
 - [Personal AI Should Actually Be Personal](fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29.md) — Ryan Sarver (@rsarver), auteur du fil sur X ; fonction non indiquée dans le texte.
 - [Introducing System One Models & Jev](fiches/2026-09/almeida-system-one-models-jev-2026-09-15.md) — Diogo Almeida — fondateur de TypeSafe AI, ancien chercheur chez OpenAI (billet du blog d'entreprise).
@@ -1223,8 +1227,8 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 429 fiches
-- **Par année** : 2026 (252) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 430 fiches
+- **Par année** : 2026 (253) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 161
   - Architecture & Construction : 60
@@ -1232,10 +1236,10 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Qualité & Sécurité : 53
   - Économie & Marché : 92
   - Philosophie & Société : 29
-  - Stratégie & Frameworks : 35
-  - Outils & Plateformes : 61
+  - Stratégie & Frameworks : 36
+  - Outils & Plateformes : 62
   - Recherche & Éducation : 16
-  - Produits & Services : 16
+  - Produits & Services : 17
   - Politique & Régulation : 29
 - **Auteurs (top 20)** :
   - Ethan Mollick (13)

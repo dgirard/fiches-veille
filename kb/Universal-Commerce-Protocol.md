@@ -64,7 +64,7 @@
 - [[kb/_entites-mineures#Etsy\|Etsy]] **utilise** → Universal Commerce Protocol — 0.98
 - [[kb/_entites-mineures#Wayfair\|Wayfair]] **utilise** → Universal Commerce Protocol — 0.98
 - [[kb/Shopify\|Shopify]] **a_créé** → Universal Commerce Protocol — 0.97
-- Walmart **a_créé** → Universal Commerce Protocol — 0.97
+- [[kb/Walmart\|Walmart]] **a_créé** → Universal Commerce Protocol — 0.97
 - [[kb/Amazon\|Amazon]] **s_oppose_à** → Universal Commerce Protocol — 0.97
 - [[kb/_entites-mineures#Carrefour\|Carrefour]] **utilise** → Universal Commerce Protocol — 0.95
 - [[kb/Shopify\|Shopify]] **utilise** → Universal Commerce Protocol — 0.95

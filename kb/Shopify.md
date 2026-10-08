@@ -1,13 +1,13 @@
 # Shopify
 
-> **Type** : ORGANISATION | 16 relations | 6 fiches sources
+> **Type** : ORGANISATION | 17 relations | 7 fiches sources
 
 ## Attributs
 
 - **exposition** : Moat jugé tenable grâce à la complexité absorbée des systèmes de paiement, d'expédition et de taxes ; l'auteur siège à son conseil
 - **profit opérationnel Q3 2025** : 264 millions USD
 - **revenu Q3 2025** : 2,84 milliards USD (+32% annuel)
-- **secteur** : E-commerce / Plateforme marchands
+- **secteur** : Commerce en ligne ; partenaire du protocole
 - **statut adoption** : Full deployment MCP-UI
 
 ## Relations (comme sujet)
@@ -64,6 +64,7 @@
 ## Relations (comme objet)
 
 - [[kb/_entites-mineures#Tobias-Lütke\|Tobias Lütke]] **dirige** → Shopify — 0.99
+- [[kb/Sierra\|Sierra]] **collabore_avec** → Shopify — 0.92
 
 ## Fiches sources
 
@@ -73,3 +74,4 @@
 - [[fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25\|MCP-UI: The Future of Agentic Interfaces]]
 - [[fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22\|Making AI Work: Leadership, Lab, and Crowd]]
 - [[fiches/2025-11/shopify-ai-traffic-orders-growth-techcrunch-2025-11-04\|Shopify says AI traffic is up 7x since January, AI-driven orders are up 11x]]
+- [[fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06\|Introducing Personal Agent Protocol]]

@@ -1,10 +1,10 @@
 # Bret Taylor
 
-> **Type** : PERSONNE | 3 relations | 1 fiches sources
+> **Type** : PERSONNE | 4 relations | 2 fiches sources
 
 ## Attributs
 
-- **rôle** : Co-fondateur et CEO de Sierra, président du conseil d'OpenAI
+- **rôle** : Cofondateur de Sierra
 
 ## Relations (comme sujet)
 
@@ -23,6 +23,12 @@
 - The AI-native interview (DOCUMENT) — 0.95, STATIQUE
   - [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|The AI-native interview]]
 
+### travaille_chez
+
+- [[kb/Sierra\|Sierra]] (ORGANISATION) — 0.97, DYNAMIQUE
+  - [[fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06\|Introducing Personal Agent Protocol]]
+
 ## Fiches sources
 
+- [[fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06\|Introducing Personal Agent Protocol]]
 - [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|The AI-native interview]]

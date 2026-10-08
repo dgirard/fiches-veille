@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2992 entités avec moins de 3 triples/fiches
+> 2999 entités avec moins de 3 triples/fiches
 
-## PERSONNE (395)
+## PERSONNE (397)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -831,6 +831,16 @@
 - **a_créé** → concept de design pattern (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]]
+
+### Clay Bavor {#Clay-Bavor}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Cofondateur de Sierra
+
+- **travaille_chez** → [[kb/Sierra\|Sierra]] (ORGANISATION) — 0.97
+
+**Fiches** : [[fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06\|Introducing Personal Agent Protocol]]
 
 ### Confucius {#Confucius}
 
@@ -3660,6 +3670,17 @@
 
 **Fiches** : [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
 
+### Tony Bates {#Tony-Bates}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Chairman et CEO de Genesys
+
+- **travaille_chez** → [[kb/_entites-mineures#Genesys\|Genesys]] (ORGANISATION) — 0.95
+- **affirme_que** → « l'IA personnelle crée une nouvelle porte d'entrée de l'entreprise » (CITATION) — 0.93
+
+**Fiches** : [[fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06\|Introducing Personal Agent Protocol]]
+
 ### Travis Turner {#Travis-Turner}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -3970,7 +3991,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (320)
+## ORGANISATION (323)
 
 ### 10x {#10x}
 
@@ -5240,6 +5261,17 @@
 
 **Fiches** : [[fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07\|Playing Pretend: Expert Personas Don't Improve Factual Accuracy]]
 
+### Genesys {#Genesys}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **secteur** : Expérience client ; partenaire du protocole
+
+- [[kb/_entites-mineures#Tony-Bates\|Tony Bates]] **travaille_chez** → Genesys — 0.95
+- [[kb/Sierra\|Sierra]] **collabore_avec** → Genesys — 0.92
+
+**Fiches** : [[fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06\|Introducing Personal Agent Protocol]]
+
 ### Ghostty {#Ghostty}
 
 **Type** : ORGANISATION | 2 relations | 2 fiches
@@ -5506,6 +5538,17 @@
 - [[kb/Tim-Williams\|Tim Williams]] **a_créé** → Ignition Consulting Group — 0.96
 
 **Fiches** : [[fiches/2026-03/voxcomm-mediapost-redesigning-agency-value-model-billable-hours-dead-2026-03\|Redesigning the Agency Value Model (rapport VoxComm 95 pages, mars 2026) + Billable Hours Are Dead, AI Killed Them,…]]
+
+### Instinct {#Instinct}
+
+**Type** : ORGANISATION | 2 relations | 2 fiches
+
+- **secteur** : Rejoint l'effort annoncé
+
+- **collabore_avec** → [[kb/Sierra\|Sierra]] (ORGANISATION) — 0.90
+- **observé_dans** → « licence perpétuelle et irrévocable couvrant captures d'écran et frappes, y compris pour l'entraînement » (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]], [[fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06\|Introducing Personal Agent Protocol]]
 
 ### Intuit {#Intuit}
 
@@ -6398,6 +6441,16 @@
 
 **Fiches** : [[fiches/2025-10/novik-ai-online-shopping-consumers-2025-10-26\|The future is already here: 73% of consumers are already using AI for online shopping]]
 
+### Rocket {#Rocket}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Immobilier et financement ; partenaire du protocole
+
+- [[kb/Sierra\|Sierra]] **collabore_avec** → Rocket — 0.92
+
+**Fiches** : [[fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06\|Introducing Personal Agent Protocol]]
+
 ### S3NS {#S3NS}
 
 **Type** : ORGANISATION | 4 relations | 1 fiches
@@ -7259,7 +7312,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (671)
+## TECHNOLOGIE (673)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -10236,13 +10289,14 @@
 
 ### Instinct {#Instinct}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
 - **catégorie** : Assistant personnel à licence perpétuelle sur les données
 
+- **collabore_avec** → [[kb/Sierra\|Sierra]] (ORGANISATION) — 0.90
 - **observé_dans** → « licence perpétuelle et irrévocable couvrant captures d'écran et frappes, y compris pour l'entraînement » (AFFIRMATION) — 0.88
 
-**Fiches** : [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
+**Fiches** : [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]], [[fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06\|Introducing Personal Agent Protocol]]
 
 ### Inter {#Inter}
 
@@ -11361,6 +11415,17 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
+### OAuth {#OAuth}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Standard d'autorisation d'accès, base des sessions du protocole
+
+- [[kb/Personal-Agent-Protocol\|Personal Agent Protocol]] **utilise** → OAuth — 0.97
+- [[kb/Link-wallet-for-agents\|Link wallet for agents]] **utilise** → OAuth — 0.94
+
+**Fiches** : [[fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06\|Introducing Personal Agent Protocol]]
+
 ### OAuth 2.0 Token Exchange (RFC 8693) {#OAuth-2.0-Token-Exchange-(RFC-8693)}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -11465,6 +11530,16 @@
 - [[kb/Genie-3\|Genie 3]] **concurrence** → OpenAI Sora — 0.85
 
 **Fiches** : [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
+
+### OpenAPI {#OpenAPI}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Standard d'API cité pour l'accès des agents
+
+- [[kb/Personal-Agent-Protocol\|Personal Agent Protocol]] **utilise** → OpenAPI — 0.88
+
+**Fiches** : [[fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06\|Introducing Personal Agent Protocol]]
 
 ### OpenBSD {#OpenBSD}
 

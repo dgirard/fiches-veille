@@ -1,12 +1,12 @@
 # Stripe
 
-> **Type** : ORGANISATION | 15 relations | 6 fiches sources
+> **Type** : ORGANISATION | 16 relations | 7 fiches sources
 
 ## Attributs
 
 - **positionnement** : Co-auteur de l'Agentic Commerce Protocol avec OpenAI, et simultanément émetteur (Issuing) et portefeuille (Link) : détient les rails de cartes que les protocoles machine-natifs prétendent remplacer
 - **rôle** : Testeur précoce (migration Ruby 50M lignes)
-- **secteur** : Paiements / Fintech
+- **secteur** : Paiements ; partenaire du protocole
 
 ## Relations (comme sujet)
 
@@ -61,6 +61,7 @@
 ## Relations (comme objet)
 
 - [[kb/_entites-mineures#Dan-Hill\|Dan Hill]] **travaille_chez** → Stripe — 0.96
+- [[kb/Sierra\|Sierra]] **collabore_avec** → Stripe — 0.92
 
 ## Fiches sources
 
@@ -70,3 +71,4 @@
 - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions: Stripe's one-shot, end-to-end coding agents -- Part 2]]
 - [[fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29\|Giving agents the ability to pay]]
 - [[fiches/2026-01/nrf-2026-commerce-agentique-ucp-deep-research-2026-01-13\|NRF 2026 : Retail's Big Show – Document de Référence : Commerce Agentique, Universal Commerce Protocol et…]]
+- [[fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06\|Introducing Personal Agent Protocol]]

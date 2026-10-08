@@ -1,11 +1,11 @@
 # MCP
 
-> **Type** : TECHNOLOGIE | 25 relations | 15 fiches sources
+> **Type** : TECHNOLOGIE | 26 relations | 16 fiches sources
 
 ## Attributs
 
 - **categorie** : Protocole exposition services pour agents
-- **catégorie** : Protocole d'outillage dont l'article fixe la pile minimale utile au workflow
+- **catégorie** : Standard d'API cité pour l'accès des agents
 - **date_lancement** : Novembre 2024
 - **fonction** : Protocole de connecteurs portables (Codex ↔ Claude Code)
 - **forme_longue** : Model Context Protocol
@@ -85,6 +85,7 @@
 - [[kb/_entites-mineures#everyone-ships\|everyone ships]] **utilise** → MCP — 0.90
 - [[kb/Shopify\|Shopify]] **utilise** → MCP — 0.90
 - overhead de tokens excessif **observé_dans** → MCP — 0.88
+- [[kb/Personal-Agent-Protocol\|Personal Agent Protocol]] **utilise** → MCP — 0.88
 - [[kb/Peter-Aideloje\|Peter Aideloje]] **recommande** → MCP — 0.87
 - [[kb/Agent-Skills\|Agent Skills]] **converge_avec** → MCP — 0.85
 
@@ -104,4 +105,5 @@
 - [[fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03\|Portal by Spotify cut my Claude Code token usage by 90%]]
 - [[fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15\|MCP remplace le navigateur : Voici comment les développeurs devraient se préparer]]
 - [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate]]
+- [[fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06\|Introducing Personal Agent Protocol]]
 - [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]
