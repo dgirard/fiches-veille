@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 3024 entités avec moins de 3 triples/fiches
+> 3023 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (402)
 
@@ -7373,7 +7373,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (680)
+## TECHNOLOGIE (679)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -10684,26 +10684,18 @@
 
 ### Lilli {#Lilli}
 
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+**Type** : TECHNOLOGIE | 4 relations | 2 fiches
 
+- **catégorie** : Plateforme IA interne de McKinsey ; déclinaison Lilli Teamspace pour les agents
 - **description** : Chatbot interne McKinsey utilisé par 70% des employés. Outil emblématique de la transformation IA interne
 
 - **mesure** → « utilisation par 70% des employés McKinsey » (MESURE) — 0.92
 
 - [[kb/McKinsey-&-Company\|McKinsey & Company]] **a_créé** → Lilli — 0.94
+- [[kb/McKinsey\|McKinsey]] **a_créé** → Lilli — 0.92
+- [[kb/Performance-intelligence\|Performance intelligence]] **utilise** → Lilli — 0.88
 
-**Fiches** : [[fiches/2026-01/sternfels-mckinsey-60000-people-20000-agents-officechai-2026-01-14\|McKinsey Now Has 60,000 People, But 20,000 Of Them Are AI Agents: McKinsey's Bob Sternfels]]
-
-### Lilli Teamspace {#Lilli-Teamspace}
-
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
-
-- **catégorie** : Espace agentique de McKinsey fondé sur Lilli
-
-- [[kb/McKinsey\|McKinsey]] **a_créé** → Lilli Teamspace — 0.90
-- [[kb/Bureau-de-transformation-agentique\|Bureau de transformation agentique]] **utilise** → Lilli Teamspace — 0.88
-
-**Fiches** : [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
+**Fiches** : [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]], [[fiches/2026-01/sternfels-mckinsey-60000-people-20000-agents-officechai-2026-01-14\|McKinsey Now Has 60,000 People, But 20,000 Of Them Are AI Agents: McKinsey's Bob Sternfels]]
 
 ### Linear MCP {#Linear-MCP}
 
@@ -13169,7 +13161,7 @@
 - **catégorie** : Plateforme McKinsey de suivi de transformation
 
 - [[kb/McKinsey\|McKinsey]] **a_créé** → Wave — 0.92
-- [[kb/Bureau-de-transformation-agentique\|Bureau de transformation agentique]] **utilise** → Wave — 0.90
+- [[kb/_entites-mineures#Source-unique-de-vérité\|Source unique de vérité]] **utilise** → Wave — 0.90
 
 **Fiches** : [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
 
@@ -14510,7 +14502,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1007)
+## CONCEPT (1008)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -15519,9 +15511,24 @@
 
 **Type** : CONCEPT | 1 relations | 1 fiches
 
-- **définition** : Fonction centrale qui pilote le changement dans l'entreprise
+- **définition** : Fonction centrale qui pilote un programme de transformation dans l'entreprise
 
-- [[kb/Bureau-de-transformation-agentique\|Bureau de transformation agentique]] **est_variante_de** → Bureau de transformation — 0.90
+- [[kb/_entites-mineures#Bureau-de-transformation-agentique\|Bureau de transformation agentique]] **est_variante_de** → Bureau de transformation — 0.90
+
+**Fiches** : [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
+
+### Bureau de transformation agentique {#Bureau-de-transformation-agentique}
+
+**Type** : CONCEPT | 5 relations | 1 fiches
+
+- **définition** : Bureau de transformation dont le suivi, le reporting et la coordination sont confiés à des agents autonomes
+
+- **utilise** → [[kb/IA-agentique\|IA agentique]] (TECHNOLOGIE) — 0.95
+- **est_variante_de** → [[kb/_entites-mineures#Bureau-de-transformation\|Bureau de transformation]] (CONCEPT) — 0.90
+
+- [[kb/_entites-mineures#Facilitation-des-conversations\|Facilitation des conversations]] **fait_partie_de** → Bureau de transformation agentique — 0.95
+- [[kb/Performance-intelligence\|Performance intelligence]] **fait_partie_de** → Bureau de transformation agentique — 0.95
+- [[kb/_entites-mineures#Source-unique-de-vérité\|Source unique de vérité]] **fait_partie_de** → Bureau de transformation agentique — 0.95
 
 **Fiches** : [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
 
@@ -24300,7 +24307,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (398)
+## METHODOLOGIE (397)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -25216,9 +25223,9 @@
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
 
-- **définition** : Génération automatique des briefings et questions pour les comités de pilotage
+- **définition** : Génération par agents des briefings et questions des comités de pilotage
 
-- **fait_partie_de** → [[kb/Bureau-de-transformation-agentique\|Bureau de transformation agentique]] (CONCEPT) — 0.95
+- **fait_partie_de** → [[kb/_entites-mineures#Bureau-de-transformation-agentique\|Bureau de transformation agentique]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
 
@@ -25725,16 +25732,6 @@
 
 **Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Writing the AI-HR Playbook with Ethan Mollick]]
 
-### Performance intelligence {#Performance-intelligence}
-
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
-
-- **définition** : Synthèse continue des données d'initiatives et remontée des seules exceptions
-
-- **fait_partie_de** → [[kb/Bureau-de-transformation-agentique\|Bureau de transformation agentique]] (CONCEPT) — 0.95
-
-**Fiches** : [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
-
 ### Personal life OS agent {#Personal-life-OS-agent}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -26153,11 +26150,12 @@
 
 ### Source unique de vérité {#Source-unique-de-vérité}
 
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
 
-- **définition** : Vue vivante de la valeur délivrée, des risques et des décisions en attente
+- **définition** : Vue vivante de la valeur délivrée, des risques et des décisions en attente, par liaison dynamique des données
 
-- **fait_partie_de** → [[kb/Bureau-de-transformation-agentique\|Bureau de transformation agentique]] (CONCEPT) — 0.95
+- **fait_partie_de** → [[kb/_entites-mineures#Bureau-de-transformation-agentique\|Bureau de transformation agentique]] (CONCEPT) — 0.95
+- **utilise** → [[kb/_entites-mineures#Wave\|Wave]] (TECHNOLOGIE) — 0.90
 
 **Fiches** : [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
 
@@ -30222,7 +30220,7 @@
 
 **Type** : DOCUMENT | 1 relations | 1 fiches
 
-- **catégorie** : Article McKinsey Transformation Practice, septembre 2026
+- **catégorie** : Article McKinsey Transformation Practice, septembre 2026, 8 pages
 
 - [[kb/McKinsey\|McKinsey]] **publie** → article The agentic transformation office — 0.97
 

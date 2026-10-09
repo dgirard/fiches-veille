@@ -1,6 +1,6 @@
 # McKinsey
 
-> **Type** : ORGANISATION | 16 relations | 2 fiches sources
+> **Type** : ORGANISATION | 18 relations | 2 fiches sources
 
 ## Attributs
 
@@ -10,15 +10,17 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#Wave\|Wave]] (TECHNOLOGIE) — 0.92, STATIQUE
+- [[kb/_entites-mineures#Lilli\|Lilli]] (TECHNOLOGIE) — 0.92, STATIQUE
   - [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
-- [[kb/_entites-mineures#Lilli-Teamspace\|Lilli Teamspace]] (TECHNOLOGIE) — 0.90, STATIQUE
+- [[kb/_entites-mineures#Wave\|Wave]] (TECHNOLOGIE) — 0.92, STATIQUE
   - [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
 
 ### affirme_que
 
 - « le modèle Agile atteint ses limites avec les agents IA » (AFFIRMATION) — 0.95, DYNAMIQUE
   - [[fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23\|Moving away from Agile: What's Next? Reshaping Software Delivery with Agents]]
+- « le succès du déploiement dépend de la conduite du changement au sein du bureau de transformation » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
 - « une erreur de donnée peut déclencher une réaction en chaîne entre agents connectés » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
 
@@ -26,6 +28,10 @@
 
 - « 500% productivité en flow state » (MESURE) — 0.93, STATIQUE
   - [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|A Year With Claude Code: My Output Doubled. My Attention Span Didn't.]]
+- « 35 à 40 % de temps gagné sur les tâches cœur du bureau de transformation, 70 % ou plus dans certains cas » (MESURE) — 0.85, STATIQUE
+  - [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
+- « équipe centrale ramenée d'un manager et neuf collaborateurs à un manager et deux après automatisation de dix processus » (MESURE) — 0.85, STATIQUE
+  - [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
 
 ### prédit
 
@@ -43,9 +49,7 @@
 
 ### recommande
 
-- « de commencer par le reporting puis d'étendre à l'automatisation des actions » (AFFIRMATION) — 0.92, ATEMPOREL
-  - [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
-- « de repositionner le personnel comme orchestrateur de workflows » (AFFIRMATION) — 0.88, ATEMPOREL
+- « commencer par le reporting et l'insight, puis étendre à l'automatisation d'actions entre systèmes » (AFFIRMATION) — 0.92, ATEMPOREL
   - [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
 
 ## Relations (comme objet)

@@ -7,7 +7,7 @@
 ## Attributs
 
 - **actualité_évoquée** : Rumeur de rachat par SpaceX (à valider)
-- **catégorie** : Éditeur de code assisté par IA
+- **catégorie** : Éditeur de code orienté IA, utilisé pour bâtir le cadre agentique de suivi
 - **position** : IDE assisté par IA détenu par Anysphere, utilisé par plus de la moitié du Fortune 500, positionné au-dessus de la couche modèle avec neutralité multi-modèles visible
 - **secteur** : Outils de codage IA
 
@@ -45,11 +45,6 @@
 - « ARR doublé en un trimestre, atteignant 2 Md$ » (MESURE) — 0.93, STATIQUE
   - [[fiches/2026-05/bain-100b-saas-opportunity-cross-system-labor-agentic-ai-2026-05\|The $100-Billion SaaS Opportunity Hiding in Cross-System Labor]]
 
-### permet
-
-- « cadre agentique de suivi de performance » (AFFIRMATION) — 0.88, STATIQUE
-  - [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
-
 ### publie
 
 - nouvelle politique tarifaire (CONCEPT) — 0.98, DYNAMIQUE
@@ -75,6 +70,7 @@
 - [[kb/ADHD\|ADHD]] **s_applique_à** → Cursor — 0.90
 - [[kb/fichiers-de-règles-partagés\|fichiers de règles partagés]] **s_applique_à** → Cursor — 0.90
 - [[kb/Superpowers\|Superpowers]] **s_applique_à** → Cursor — 0.90
+- [[kb/Performance-intelligence\|Performance intelligence]] **utilise** → Cursor — 0.88
 - [[kb/Augmented-Craftsman\|Augmented Craftsman]] **utilise** → Cursor — 0.87
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] **s_oppose_à** → Cursor — 0.80
 

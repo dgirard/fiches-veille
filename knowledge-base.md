@@ -1,20 +1,20 @@
 # Knowledge Base — Veille Technologique
 
-<!-- manifest: sha256=1a3062e1a2d4d0db64482a78d1f55110194e078fb14728b3b1eb1bd37e0219cd fiches=433 -->
-> 433 fiches | 3614 entités | 6977 triples | Généré le 2026-10-09
+<!-- manifest: sha256=e2398e2dd7801311efb8ad282c91dad8198321ba2273c8a2c457531440093a77 fiches=433 -->
+> 433 fiches | 3613 entités | 6977 triples | Généré le 2026-10-09
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
 - [[kb/_index-type-PERSONNE\|PERSONNE]] (551)
 - [[kb/_index-type-ORGANISATION\|ORGANISATION]] (440)
-- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (866)
+- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (865)
 - [[kb/_index-type-CONCEPT\|CONCEPT]] (1056)
 - [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (458)
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (55)
 - [[kb/_index-type-LIEU\|LIEU]] (5)
 - [[kb/_index-type-DOCUMENT\|DOCUMENT]] (183)
-- [[kb/_entites-mineures\|Entités mineures]] (3024)
+- [[kb/_entites-mineures\|Entités mineures]] (3023)
 
 ## Entités les plus connectées
 
@@ -45,16 +45,16 @@
 
 ### Prédicats les plus fréquents
 
-- **affirme_que** : 863
-- **utilise** : 795
-- **permet** : 642
-- **mesure** : 549
+- **affirme_que** : 864
+- **utilise** : 797
+- **permet** : 641
+- **mesure** : 551
 - **publie** : 402
 - **a_créé** : 387
-- **recommande** : 328
+- **recommande** : 327
 - **s_applique_à** : 289
-- **réduit** : 256
-- **s_oppose_à** : 252
+- **réduit** : 254
+- **s_oppose_à** : 251
 - **est_basé_sur** : 246
 - **fait_partie_de** : 227
 - **améliore** : 217
@@ -63,9 +63,9 @@
 
 ### Distribution par type
 
-- **PERSONNE** : 551 (15.2%)
+- **PERSONNE** : 551 (15.3%)
 - **ORGANISATION** : 440 (12.2%)
-- **TECHNOLOGIE** : 866 (24.0%)
+- **TECHNOLOGIE** : 865 (23.9%)
 - **CONCEPT** : 1056 (29.2%)
 - **METHODOLOGIE** : 458 (12.7%)
 - **EVENEMENT** : 55 (1.5%)
@@ -75,4 +75,4 @@
 ### Déduplication
 
 - **Triples** : 7096 → 6977 (119 doublons)
-- **Entités** : 4786 → 3614 (1172 doublons)
+- **Entités** : 4786 → 3613 (1173 doublons)

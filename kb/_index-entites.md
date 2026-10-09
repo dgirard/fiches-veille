@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3614 entités
+> 3613 entités
 
 ## #
 
@@ -598,7 +598,7 @@
 - [[kb/_entites-mineures#bulle-Internet-de-2000\|bulle Internet de 2000]] (EVENEMENT, 1 fiches)
 - [[kb/Bun\|Bun]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Bureau-de-transformation\|Bureau de transformation]] (CONCEPT, 1 fiches)
-- [[kb/Bureau-de-transformation-agentique\|Bureau de transformation agentique]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Bureau-de-transformation-agentique\|Bureau de transformation agentique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Burnout-vs-Brain-fry\|Burnout vs Brain fry]] (CONCEPT, 1 fiches)
 - [[kb/Buzz\|Buzz]] (TECHNOLOGIE, 7 fiches)
 - [[kb/_entites-mineures#Buzz-Desktop\|Buzz Desktop]] (TECHNOLOGIE, 1 fiches)
@@ -1973,8 +1973,7 @@
 - [[kb/_entites-mineures#Lightning-AI\|Lightning AI]] (ORGANISATION, 1 fiches)
 - [[kb/LightRAG\|LightRAG]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Lilach-Mollick\|Lilach Mollick]] (PERSONNE, 2 fiches)
-- [[kb/_entites-mineures#Lilli\|Lilli]] (TECHNOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#Lilli-Teamspace\|Lilli Teamspace]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Lilli\|Lilli]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Limit-the-Loop\|Limit the Loop]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Limites-d'usage-IA\|Limites d'usage IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#limites-de-dépense-sans-approbation\|limites de dépense sans approbation]] (CONCEPT, 1 fiches)
@@ -2497,7 +2496,7 @@
 - [[kb/_entites-mineures#pensée-claire\|pensée claire]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#PentAGI\|PentAGI]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#People-and-Digital-Technology\|People and Digital Technology]] (ORGANISATION, 1 fiches)
-- [[kb/_entites-mineures#Performance-intelligence\|Performance intelligence]] (METHODOLOGIE, 1 fiches)
+- [[kb/Performance-intelligence\|Performance intelligence]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Performance-Max\|Performance Max]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Performance-Review-Redesign\|Performance Review Redesign]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Permanent-underclass\|Permanent underclass]] (CONCEPT, 1 fiches)

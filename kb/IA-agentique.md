@@ -1,10 +1,10 @@
 # IA agentique
 
-> **Type** : TECHNOLOGIE | 23 relations | 5 fiches sources
+> **Type** : TECHNOLOGIE | 21 relations | 5 fiches sources
 
 ## Attributs
 
-- **catégorie** : Agents qui planifient, agissent et bouclent des workflows multi-étapes
+- **catégorie** : Agents qui planifient, agissent et bouclent des workflows multi-étapes sans attendre de prompt
 - **description** : IA autonome ou semi-autonome percevant, décidant et agissant
 - **paradigme** : Navigation directe dans le contexte complet
 - **rupture revendiquée** : Nouvelle forme de travail : agents exécutant des tâches, insérés dans les processus métier, contribuant à la décision
@@ -46,10 +46,6 @@
   - [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]]
 - « la viabilité de l'inférence auto-hébergée : au-delà d'environ 100 milliards de paramètres denses, et avec des modèles au trillion de paramètres et un volume croissant de tokens, le on-premise devient intenable » (AFFIRMATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
-- « temps passé sur les tâches cœur du bureau de transformation de 35 à 40 % » (MESURE) — 0.88, STATIQUE
-  - [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
-- « équipe centrale d'un manager et neuf collaborateurs à un manager et deux » (MESURE) — 0.88, STATIQUE
-  - [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
 
 ### s_applique_à
 
@@ -64,8 +60,6 @@
 
 - organigramme et middle management (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11\|Beyond Brain Speed: The Economics of Computation]]
-- « IA générative comme outil de productivité personnelle » (AFFIRMATION) — 0.85, ATEMPOREL
-  - [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
 
 ### surpasse
 
@@ -80,6 +74,7 @@
 ## Relations (comme objet)
 
 - [[kb/Capgemini\|Capgemini]] **utilise** → IA agentique — 0.96
+- [[kb/_entites-mineures#Bureau-de-transformation-agentique\|Bureau de transformation agentique]] **utilise** → IA agentique — 0.95
 - [[kb/_entites-mineures#Cielo\|Cielo]] **utilise** → IA agentique — 0.92
 - [[kb/Mark-Zuckerberg\|Mark Zuckerberg]] **soutient** → IA agentique — 0.88
 - [[kb/KDLC\|KDLC]] **s_applique_à** → IA agentique — 0.86
