@@ -1,6 +1,6 @@
 # Cursor
 
-> **Type** : ORGANISATION | 23 relations | 15 fiches sources
+> **Type** : ORGANISATION | 24 relations | 16 fiches sources
 
 > **Même entité, autre type** : [[kb/Cursor-technologie\|Cursor (TECHNOLOGIE)]]
 
@@ -43,6 +43,11 @@
 - « ARR doublé en un trimestre, atteignant 2 Md$ » (MESURE) — 0.93, STATIQUE
   - [[fiches/2026-05/bain-100b-saas-opportunity-cross-system-labor-agentic-ai-2026-05\|The $100-Billion SaaS Opportunity Hiding in Cross-System Labor]]
 
+### permet
+
+- « cadre agentique de suivi de performance » (AFFIRMATION) — 0.88, STATIQUE
+  - [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
+
 ### publie
 
 - nouvelle politique tarifaire (CONCEPT) — 0.98, DYNAMIQUE
@@ -78,6 +83,7 @@
 - [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 - [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Launches Kiro, A Specification-Driven Agentic IDE]]
 - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
+- [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
 - [[fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07\|Deepnote: the data notebook for the AI era]]
 - [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|L'ère des assistants de codage IA bon marché pourrait être révolue]]
 - [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear: AI-First Issue Tracking Reimagined]]

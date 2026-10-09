@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 863 entités de type TECHNOLOGIE
+> 865 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -201,7 +201,7 @@
 - [[kb/_entites-mineures#Cornell-AI-Gateway\|Cornell AI Gateway]] — catégorie: Passerelle IA gouvernée (données non utilisées pour l'entraînement externe, accès restreint, PII retirées) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cowork\|Cowork]] — description: Claude Code en version GUI, construit en 10 jours (2 occ., 2 fiches)
 - [[kb/CrewAI\|CrewAI]] — catégorie: Framework multi-agents collaboratifs (3 occ., 3 fiches)
-- [[kb/Cursor-technologie\|Cursor]] — catégorie: Éditeur de code IA (14 occ., 15 fiches)
+- [[kb/Cursor-technologie\|Cursor]] — catégorie: Éditeur de code assisté par IA (15 occ., 16 fiches)
 - [[kb/_entites-mineures#Cursor-YOLO-mode\|Cursor YOLO mode]] — rôle: Révélateur de la capacité long-horizon des modèles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CyberGym\|CyberGym]] — définition: Benchmark de découverte de vulnérabilités partant du code source en boîte blanche, mesurant la capacité à identifier puis valider une faille en déclenchant le défaut. Évalué par Z.ai sur 1 507 tâches, Pass@1 en run unique. GLM-5.3 y obtient 84,5 %, meilleur score du tableau comparatif (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DFlash\|DFlash]] — perf: Décodage spéculatif (block diffusion) ; ~6,17× sur Qwen3-8B (recherche), « jusqu'à 10× » annoncé (arXiv:2602.06036) (1 occ., 1 fiches)
@@ -370,7 +370,7 @@
 - [[kb/_entites-mineures#Hyperframes\|Hyperframes]] — catégorie: Outil motion design / framework (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hypergraph-Database\|Hypergraph Database]] — catégorie: base de données hypergraphe pour raisonnement agents (2 occ., 1 fiches)
 - [[kb/IA\|IA]] — impact: Substitue la cognition humaine et touche simultanément tous les secteurs (10 occ., 10 fiches)
-- [[kb/IA-agentique\|IA agentique]] — description: IA autonome ou semi-autonome percevant, décidant et agissant (4 occ., 4 fiches)
+- [[kb/IA-agentique\|IA agentique]] — description: IA autonome ou semi-autonome percevant, décidant et agissant (5 occ., 5 fiches)
 - [[kb/_entites-mineures#IA-de-codage\|IA de codage]] — effet: Augmentation de productivité, transformation du métier (1 occ., 1 fiches)
 - [[kb/IA-générative\|IA générative]] — catégorie: Technologie IA de génération de contenu (4 occ., 4 fiches)
 - [[kb/_entites-mineures#IA-souveraine\|IA souveraine]] — définition: Exploiter des modèles sur données industrielles sensibles avec une chaîne complète (calcul, entraînement, inférence) maintenue en juridiction de confiance européenne (1 occ., 1 fiches)
@@ -420,6 +420,7 @@
 - [[kb/_entites-mineures#Le-Chat\|Le Chat]] — catégorie: Assistant IA Mistral AI (1 occ., 1 fiches)
 - [[kb/LightRAG\|LightRAG]] — licence: MIT (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Lilli\|Lilli]] — description: Chatbot interne McKinsey utilisé par 70% des employés. Outil emblématique de la transformation IA interne (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Lilli-Teamspace\|Lilli Teamspace]] — catégorie: Espace agentique de McKinsey fondé sur Lilli (1 occ., 1 fiches)
 - [[kb/Linear\|Linear]] — catégorie: Outil de gestion de projet AI-first (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Linear-MCP\|Linear MCP]] — catégorie: Protocole de connexion aux outils IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Linear-Sync-Engine\|Linear Sync Engine]] — attribut: Architecture haute performance temps réel (1 occ., 1 fiches)
@@ -716,6 +717,7 @@
 - [[kb/Voxtral\|Voxtral]] — catégorie: Modèle de compréhension vocale open source (5 occ., 1 fiches)
 - [[kb/_entites-mineures#Voxtral-Mini-Transcribe\|Voxtral Mini Transcribe]] — rôle: Variante de transcription pure de la famille Voxtral, la moins chère du lot (1 occ., 1 fiches)
 - [[kb/Voxtral-Small\|Voxtral Small]] — rôle: Variante 24 B de la famille Voxtral, destinée au déploiement à l'échelle (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Wave\|Wave]] — catégorie: Plateforme McKinsey de suivi de transformation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Web-Artifacts-Builder\|Web Artifacts Builder]] — catégorie: Skill permettant React/Tailwind/shadcn dans Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Web-Bot-Auth\|Web Bot Auth]] — rôle: Mécanisme préexistant d'enregistrement d'identité d'agent par paire de clés, auquel Cloudflare Wallets ajoute une couche lisible par un humain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Whisper-large-v3\|Whisper large-v3]] — catégorie: Modèle ASR open source (OpenAI) (1 occ., 1 fiches)

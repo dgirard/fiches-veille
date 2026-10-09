@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 547 entités de type PERSONNE
+> 550 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -106,6 +106,7 @@
 - [[kb/Charley-Stoney\|Charley Stoney]] — rôle: President VoxComm + CEO EACA (European Association of Communication Agencies). Auteur intro rapport VoxComm avec "decouple revenue and profit from staffing numbers" (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Charlie-Dai\|Charlie Dai]] — rôle: VP et analyste principal, Forrester (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Charlie-Munger\|Charlie Munger]] — citation: « Show me the incentive and I will show you the outcome » (clôture du thread) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Chase-Covington\|Chase Covington]] — rôle: Partner McKinsey, New York (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Chris-McLaughlin\|Chris McLaughlin]] — rôle: Partner/Expert Bain & Company, co-auteur série software industry age of AI 2026 (1 occ., 1 fiches)
 - [[kb/Chris-Williams\|Chris Williams]] — rôle: Auteur de la série ADLC, fondateur JSConf (@voodootikigod) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Christina-Lu\|Christina Lu]] — rôle: Chercheuse MATS / Oxford, en collaboration Anthropic (1 occ., 1 fiches)
@@ -136,6 +137,7 @@
 - [[kb/_entites-mineures#David-Kiron\|David Kiron]] — affiliation: MIT Sloan (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Lipman\|David Lipman]] — rôle: Partner Bain & Company, co-auteur série software industry age of AI volet 1/5 (Rule of 40) (1 occ., 1 fiches)
 - [[kb/David-Perrin\|David Perrin]] — rôle: Dominicain, auteur à la Revue thomiste (1 occ., 1 fiches)
+- [[kb/_entites-mineures#David-Pralong\|David Pralong]] — rôle: Senior partner McKinsey, Charlotte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Sacks\|David Sacks]] — rôle: AI and Crypto Czar (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Shor\|David Shor]] — rôle: Pollster Démocrate, stratégiste messaging IA pour 2028 (1 occ., 1 fiches)
 - [[kb/David-Thomas\|David Thomas]] — rôle: Co-auteur The Pragmatic Programmer, signataire Manifeste Agile (« Pragdave ») (1 occ., 1 fiches)
@@ -507,6 +509,7 @@
 - [[kb/Timothée-Lacroix\|Timothée Lacroix]] — rôle: Cofondateur et CTO de Mistral AI ; porte publiquement la thèse que l'inférence auto-hébergée devient intenable au-delà d'environ 100 milliards de paramètres denses, et assume l'irréversibilité des engagements ECU (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tobias-Lütke\|Tobias Lütke]] — rôle: CEO Shopify, créateur QMD (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tom-Brow\|Tom Brow]] — rôle: Ingénieur chez Block, auteur du billet « A Buzz on your phone » (29 juillet 2026) sur l'application mobile : pas d'hébergement d'agents, signature des messages, appairage QR depuis le desktop, aucun SDK d'analytics et suppression des métadonnées EXIF (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Tomer-Slaney\|Tomer Slaney]] — rôle: Partner McKinsey, New York (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tony-Bates\|Tony Bates]] — rôle: Chairman et CEO de Genesys (1 occ., 1 fiches)
 - [[kb/Tony-Seale\|Tony Seale]] — rôle: Évangéliste knowledge graph, auteur LinkedIn The Knowledge Graph Guy (2 occ., 2 fiches)
 - [[kb/Tracey-Franklin\|Tracey Franklin]] — rôle: Chief People and Digital Technology Officer de Moderna (2 occ., 1 fiches)

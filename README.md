@@ -39,16 +39,16 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
 
 <!-- stats:begin -->
 
-- **Total** : 431 fiches
-- **Par année** : 2026 (254) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 432 fiches
+- **Par année** : 2026 (255) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 161
+  - Agents de codage IA & Skills : 162
   - Architecture & Construction : 61
-  - Transformation & Adoption : 94
+  - Transformation & Adoption : 95
   - Qualité & Sécurité : 54
   - Économie & Marché : 92
   - Philosophie & Société : 29
-  - Stratégie & Frameworks : 36
+  - Stratégie & Frameworks : 37
   - Outils & Plateformes : 63
   - Recherche & Éducation : 16
   - Produits & Services : 18
@@ -94,7 +94,7 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - X (2)
   - Cloudflare Blog (2)
   - YouTube (2)
-  - Anthropic (blog claude.com) (2)
+  - McKinsey (2)
 
 <!-- stats:end -->
 

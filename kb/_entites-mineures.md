@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 3006 entités avec moins de 3 triples/fiches
+> 3016 entités avec moins de 3 triples/fiches
 
-## PERSONNE (398)
+## PERSONNE (401)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -801,6 +801,16 @@
 
 **Fiches** : [[fiches/2026-05/gupta-token-budget-wars-marginal-token-utility-2026-05-28\|Token Budget Wars]]
 
+### Chase Covington {#Chase-Covington}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Partner McKinsey, New York
+
+- **travaille_chez** → [[kb/McKinsey\|McKinsey]] (ORGANISATION) — 0.97
+
+**Fiches** : [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
+
 ### Chris McLaughlin {#Chris-McLaughlin}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1000,6 +1010,16 @@
 - **a_créé** → AI Brings Headwinds and Tailwinds (DOCUMENT) — 0.96
 
 **Fiches** : [[fiches/2026-04/bain-ai-rule-of-40-headwinds-tailwinds-saas-2026-04\|AI Brings Headwinds and Tailwinds to the Rule of 40]]
+
+### David Pralong {#David-Pralong}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Senior partner McKinsey, Charlotte
+
+- **travaille_chez** → [[kb/McKinsey\|McKinsey]] (ORGANISATION) — 0.97
+
+**Fiches** : [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
 
 ### David Sacks {#David-Sacks}
 
@@ -3679,6 +3699,16 @@
 - **rôle** : Ingénieur chez Block, auteur du billet « A Buzz on your phone » (29 juillet 2026) sur l'application mobile : pas d'hébergement d'agents, signature des messages, appairage QR depuis le desktop, aucun SDK d'analytics et suppression des métadonnées EXIF
 
 **Fiches** : [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
+
+### Tomer Slaney {#Tomer-Slaney}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Partner McKinsey, New York
+
+- **travaille_chez** → [[kb/McKinsey\|McKinsey]] (ORGANISATION) — 0.97
+
+**Fiches** : [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
 
 ### Tony Bates {#Tony-Bates}
 
@@ -7322,7 +7352,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (678)
+## TECHNOLOGIE (680)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -10643,6 +10673,17 @@
 
 **Fiches** : [[fiches/2026-01/sternfels-mckinsey-60000-people-20000-agents-officechai-2026-01-14\|McKinsey Now Has 60,000 People, But 20,000 Of Them Are AI Agents: McKinsey's Bob Sternfels]]
 
+### Lilli Teamspace {#Lilli-Teamspace}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Espace agentique de McKinsey fondé sur Lilli
+
+- [[kb/McKinsey\|McKinsey]] **a_créé** → Lilli Teamspace — 0.90
+- [[kb/Bureau-de-transformation-agentique\|Bureau de transformation agentique]] **utilise** → Lilli Teamspace — 0.88
+
+**Fiches** : [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
+
 ### Linear MCP {#Linear-MCP}
 
 **Type** : TECHNOLOGIE | 3 relations | 1 fiches
@@ -13100,6 +13141,17 @@
 
 **Fiches** : [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]
 
+### Wave {#Wave}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Plateforme McKinsey de suivi de transformation
+
+- [[kb/McKinsey\|McKinsey]] **a_créé** → Wave — 0.92
+- [[kb/Bureau-de-transformation-agentique\|Bureau de transformation agentique]] **utilise** → Wave — 0.90
+
+**Fiches** : [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
+
 ### Web Artifacts Builder {#Web-Artifacts-Builder}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -14437,7 +14489,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1001)
+## CONCEPT (1002)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -15441,6 +15493,16 @@
 - **définition** : Rôle élargi — ingénieur, designer, product manager, expert sécurité, marketeur ou expert métier — capable d'exprimer une intention, diriger des agents et évaluer le résultat
 
 **Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
+
+### Bureau de transformation {#Bureau-de-transformation}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Fonction centrale qui pilote le changement dans l'entreprise
+
+- [[kb/Bureau-de-transformation-agentique\|Bureau de transformation agentique]] **est_variante_de** → Bureau de transformation — 0.90
+
+**Fiches** : [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
 
 ### Burnout vs Brain fry {#Burnout-vs-Brain-fry}
 
@@ -24160,7 +24222,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (395)
+## METHODOLOGIE (398)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -25072,6 +25134,16 @@
 
 **Fiches** : [[fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17\|Some observations on Kimi (thread X)]]
 
+### Facilitation des conversations {#Facilitation-des-conversations}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Génération automatique des briefings et questions pour les comités de pilotage
+
+- **fait_partie_de** → [[kb/Bureau-de-transformation-agentique\|Bureau de transformation agentique]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
+
 ### Federal jobs guarantee {#Federal-jobs-guarantee}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -25575,6 +25647,16 @@
 
 **Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Writing the AI-HR Playbook with Ethan Mollick]]
 
+### Performance intelligence {#Performance-intelligence}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Synthèse continue des données d'initiatives et remontée des seules exceptions
+
+- **fait_partie_de** → [[kb/Bureau-de-transformation-agentique\|Bureau de transformation agentique]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
+
 ### Personal life OS agent {#Personal-life-OS-agent}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -25990,6 +26072,16 @@
 - [[kb/_entites-mineures#Rosalie-Zandona\|Rosalie Zandona]] **dirige** → Skill Based Organisation — 0.90
 
 **Fiches** : [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
+
+### Source unique de vérité {#Source-unique-de-vérité}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Vue vivante de la valeur délivrée, des risques et des décisions en attente
+
+- **fait_partie_de** → [[kb/Bureau-de-transformation-agentique\|Bureau de transformation agentique]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
 
 ### Sparkline {#Sparkline}
 
@@ -28712,7 +28804,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (155)
+## DOCUMENT (156)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -30047,6 +30139,16 @@
 - [[kb/Ethan-Mollick\|Ethan Mollick]] **publie** → article The Dot and the Swarm — 0.98
 
 **Fiches** : [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
+
+### article The agentic transformation office {#article-The-agentic-transformation-office}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **catégorie** : Article McKinsey Transformation Practice, septembre 2026
+
+- [[kb/McKinsey\|McKinsey]] **publie** → article The agentic transformation office — 0.97
+
+**Fiches** : [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
 
 ### article Training AI to Paint with Code {#article-Training-AI-to-Paint-with-Code}
 

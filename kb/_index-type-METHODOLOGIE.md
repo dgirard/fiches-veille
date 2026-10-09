@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 455 entités de type METHODOLOGIE
+> 458 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -106,6 +106,7 @@
 - [[kb/_entites-mineures#Entretien-de-débogage\|Entretien de débogage]] — description: Revue et amélioration d'une codebase avec PR brouillon en itérant avec des agents de codage (pilote) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FSRS\|FSRS]] — catégorie: algorithme de répétition espacée pour flashcards (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FUD-réglementaire\|FUD réglementaire]] — mécanisme: Stratégie prêtée à l'administration Trump : faire émettre par chaque agence une soft law semant le doute (ex. « backdoors » présumées) sur les modèles chinois à poids ouverts, sans « interdire l'open source », pour dissuader les entreprises régulées sans effrayer les hyperscalers (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Facilitation-des-conversations\|Facilitation des conversations]] — définition: Génération automatique des briefings et questions pour les comités de pilotage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Federal-jobs-guarantee\|Federal jobs guarantee]] — description: Politique populaire selon Shor, plus efficace que UBI pour répondre au permanent underclass (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FinOps\|FinOps]] — catégorie: Optimisation financière cloud (2 occ., 2 fiches)
 - [[kb/_entites-mineures#FinOps-de-l'IA-générative\|FinOps de l'IA générative]] — principe: Payer la charge au bon prix sur le bon matériel ; logique « coût par résultat / coût du token servi » (1 occ., 1 fiches)
@@ -165,6 +166,7 @@
 - [[kb/PROJ-AI\|PROJ-AI]] — définition: Couche méthodologique légère pour rendre les projets collectifs transmissibles via repo+agent+doctrine ; transforme les projets en artefacts réutilisables (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Paired-Prompts-method\|Paired Prompts method]] — catégorie: Évaluation biais politique IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Performance-Review-Redesign\|Performance Review Redesign]] — description: Refonte des reviews pour exploiter le feedback continu IA, pas juste l'écriture (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Performance-intelligence\|Performance intelligence]] — définition: Synthèse continue des données d'initiatives et remontée des seules exceptions (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Personal-life-OS-agent\|Personal life OS agent]] — niveau: Expert — deep context, knowledge graph personnel, proactive monitoring, value alignment, privacy architecture, transparent reasoning (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Phase-1-Fondation-des-Champions\|Phase 1 Fondation des Champions]] — objectif: Identifier et responsabiliser des ambassadeurs IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Phase-2-Mise-à-l'échelle\|Phase 2 Mise à l'échelle]] — objectif: Étendre les pratiques validées à toute l'organisation (1 occ., 1 fiches)
@@ -212,6 +214,7 @@
 - [[kb/_entites-mineures#Six-facteurs-d'automatisation-(Bain)\|Six facteurs d'automatisation (Bain)]] — définition: Grille évaluation Bain : output verifiability, consequence of failure, digitized knowledge availability, integration complexity, process variability, physical world dependency (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Skill-Based-Organisation\|Skill Based Organisation]] — définition: Modèle d'organisation faisant de la compétence réellement opérationnelle — et non du poste — l'unité de base du travail (1 occ., 1 fiches)
 - [[kb/Software-Factory\|Software Factory]] — définition: Boucle de développement logiciel de bout en bout pilotée par des agents, humains en stewards (5 occ., 4 fiches)
+- [[kb/_entites-mineures#Source-unique-de-vérité\|Source unique de vérité]] — définition: Vue vivante de la valeur délivrée, des risques et des décisions en attente (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sparkline\|Sparkline]] — principe: Oscillation "Ce qui est" vs "Ce qui pourrait être" (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Spec-Drive-Development\|Spec Drive Development]] — alias: SDD, Software 3.0 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Spec-to-Code\|Spec to Code]] — rôle: Génération high-fidelity testable code via coordinated agents depuis la Super Spec (1 occ., 1 fiches)
