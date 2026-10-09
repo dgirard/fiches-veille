@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1056 entités de type CONCEPT
+> 1060 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -62,7 +62,7 @@
 - [[kb/_entites-mineures#Accélération-projection-2030-vers-2026\|Accélération projection 2030 vers 2026]] — description: McKinsey a divisé par 3+ son ETA pour atteindre la parité humains/agents — 3 000 agents il y a 18 mois, 20 000 maintenant. Pattern systématique 2024-2026 où trajectoires observées dépassent projections initiales (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Adaptive-organization\|Adaptive organization]] — définition: Organisation où people, technology et work sont continuellement réalignés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Adoption-IA-en-entreprise\|Adoption IA en entreprise]] — enjeu: Leadership et gestion du risque (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Agent\|Agent]] — niveau: 3 — exécution pas-à-pas avec approbation (1 occ., 2 fiches)
+- [[kb/Agent-concept\|Agent]] — niveau: 3 — exécution pas-à-pas avec approbation (2 occ., 3 fiches)
 - [[kb/_entites-mineures#Agent-collègue\|Agent collègue]] — définition: Agent à rôle persistant, avec identité, e-mail et stockage propres (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent-readiness-data-foundations\|Agent readiness data foundations]] — description: Chantier stratégique CDO 2026 — redesign des data foundations pour permettre exécution agentic. Convergence avec DORA AI-accessible internal data + healthy data ecosystems, Talisman Ontology Pipeline Refresh, Seale Semantic Agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent-Language-Fit\|Agent-Language Fit]] — définition: Capacité langage à servir collaboration humain-LLM (1 occ., 1 fiches)
@@ -135,7 +135,7 @@
 - [[kb/_entites-mineures#Caveat-20-80-(HABERT)\|Caveat 20/80 (HABERT)]] — source: "Technology is 20%, team discipline is 80%" — refus explicite solutionnisme technique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Centralize-expertise-not-innovation\|Centralize expertise not innovation]] — définition: Principe canonique cité par Hohpe (attribué à Peter / Thoughtworks) — la plateforme évite la réinvention de la roue (expertise commune) mais laisse l'innovation aux équipes proches du client (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Charge-cognitive\|Charge cognitive]] — levier: Chunking, interactions exploratoires, questions de réflexion (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Chatbot\|Chatbot]] — niveau: 1 — conversation sans contexte embarqué (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Chatbot\|Chatbot]] — niveau: 1 — conversation sans contexte embarqué (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Checkpoints-de-capacité\|Checkpoints de capacité]] — forme: Si capacité X (ex. échapper aux méthodes de sandboxing courantes), alors certifications d'alignement Y et Z (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cinq-clés-systémiques-d'adoption\|Cinq clés systémiques d'adoption]] — définition: Trust + Platform + Data + Users + Guardrails — capabilities organisationnelles qui transforment l'adoption en valeur financière (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cinq-collaboration-patterns-(Lattice)\|Cinq collaboration patterns (Lattice)]] — source: Série d'articles martinfowler.com par techygarg expliquant les patterns sous-jacents au framework (1 occ., 1 fiches)
@@ -157,6 +157,7 @@
 - [[kb/Cognitive-Surrender\|Cognitive Surrender]] — définition: Mode toxique : accepter l'output IA en bloc sans former de raisonnement parallèle ; "borrowing the model's confidence as substitute for personal understanding" (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cognitive-surrender-(réponse)\|Cognitive surrender (réponse)]] — catégorie: Pratique de rester dans la boucle décisionnelle via lisibilité HTML (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Coherence-neighborhood\|Coherence neighborhood]] — définition: Termes frères d'un concept, inspectés/réparés au write time contre la dérive sémantique (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Collaborateur-synthétique\|Collaborateur synthétique]] — définition: Super-orchestrateur persistant à identité numérique propre, intégré aux équipes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Colonialisme-des-données\|Colonialisme des données]] — définition: Concept léonien (n. 178) : nouvelle forme de domination qui s'approprie les données plutôt que les corps, transforme les vies en informations exploitables — *« nouvelles terres rares du pouvoir »* (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Community-of-Practice\|Community of Practice]] — usage: Développement connaissance pour data experts distribués (1 occ., 1 fiches)
 - [[kb/Compaction-concept\|Compaction]] — définition: Résumé automatique de la conversation remplaçant l'historique (1 occ., 2 fiches)
@@ -267,6 +268,7 @@
 - [[kb/_entites-mineures#HR-is-R&D-now\|HR is R&D now]] — définition: Formule de Mollick : la fonction RH devient l'unité de R&D organisationnelle de l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hapax-legomenon\|Hapax legomenon]] — description: Slide volontairement illisible, autorisé une seule fois par présentation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Harnachabilité\|Harnachabilité]] — définition: Degré auquel une codebase est apte au harnachage par des agents (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Harnais-agentique\|Harnais agentique]] — définition: Mémoire, compétences, outils, connecteurs, orchestration autour du modèle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Harnais-d'agent\|Harnais d'agent]] — définition: Tout ce qui n'est pas le modèle dans un agent, incluant outils et logique d'exécution (1 occ., 1 fiches)
 - [[kb/Harness\|Harness]] — catégorie: Couche abstraction agent (outils, prompts, mémoire, sécurité) (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Harness-as-a-Service\|Harness-as-a-Service]] — définition: Bascule industrielle des LLM APIs (completion) vers les harness APIs (runtime). SDK fournissant loop, tools, context, hooks, sandbox par défaut. (1 occ., 1 fiches)
@@ -356,6 +358,7 @@
 - [[kb/_entites-mineures#Ontologie-comme-backbone-IA\|Ontologie comme backbone IA]] — convergence: Position transversale Talisman + Seale Semantic Agent (ontology only moat) + Foundation Capital Context Graphs + Bain agent readiness + DORA AI-accessible internal data + Habert PROJ-AI six zones doctrine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Operator-Posture-(Osmani)\|Operator Posture (Osmani)]] — source: Thèse pivot : "the fundamental distinction isn't about the tools themselves but operator posture" — la responsabilité reste humaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Optionality-framework\|Optionality framework]] — définition: Chaque expérience est une option à faible coût ; AI réduit option premium ; experiment frequency = leading financial indicator. Emprunt finance dérivée appliqué au software development (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Orchestrateur\|Orchestrateur]] — définition: Décompose un besoin, répartit entre agents spécialisés, consolide (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Orchestrator\|Orchestrator]] — niveau: 8 — agent-manager de sous-agents (expérimental) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ordinateur-malléable\|Ordinateur malléable]] — définition: Machine dont l'utilisateur final peut modifier ou réécrire le système lui-même via un agent, au même niveau que son concepteur — impossible sur OS fermés, tenable sur Linux (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Organisation-AI-First\|Organisation AI-First]] — piliers: Avantage concurrentiel, P&L remodelé, plateforme décentralisée, agents IA, talents spécialisés (1 occ., 1 fiches)
@@ -400,6 +403,7 @@
 - [[kb/_entites-mineures#Purple-gradient-meme\|Purple gradient meme]] — catégorie: Signal négatif de design générique post-vibe-coding (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pyramide-de-tests\|Pyramide de tests]] — définition: Modèle Mike Cohn — tests unitaires (base, nombreux, rapides) > intégration > acceptance > e2e (sommet, peu nombreux, lents). Eveillard mobilise pour réfuter "rebalance from unit to system" (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Quality-Control-Zone\|Quality Control Zone]] — caractéristiques: coût d'erreur élevé + connaissance explicite (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Quatre-modalités-fonctionnelles-de-l'IA\|Quatre modalités fonctionnelles de l'IA]] — définition: Typologie chatbot, agent, orchestrateur, collaborateur synthétique, de sophistication croissante (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Question-forte-vs-faible\|Question forte vs faible]] — exemple: Faible : "What are the trends?" / Forte : "Where does pricing feel tolerated rather than embraced?" (1 occ., 1 fiches)
 - [[kb/_entites-mineures#QuickBee\|QuickBee]] — définition: Tier d'agent rapide et bon marché, réservé au travail documenté : builds, captures d'écran, exécution de la suite de tests, tri de première passe. Modèles cités : GPT-5.6 Luna, DeepSeek V4 Flash, modèles locaux. Effort recommandé : max, xhigh ou high (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Quiet-career-change\|Quiet career change]] — définition: Concept-pivot Chepurin/Turner — les devs choisis pour coder font désormais un travail différent sans transition de carrière consciente. 4 voies possibles (1 occ., 1 fiches)

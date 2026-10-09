@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 865 entités de type TECHNOLOGIE
+> 866 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -50,7 +50,7 @@
 - [[kb/_entites-mineures#AWS-Lambda\|AWS Lambda]] — rôle: Explorée comme primitive adaptée au lancement rapide de requêtes DuckDB (1 occ., 1 fiches)
 - [[kb/Acontext\|Acontext]] — catégorie: Plateforme de données contextuelles cloud-native (3 occ., 1 fiches)
 - [[kb/_entites-mineures#Adobe-Photoshop\|Adobe Photoshop]] — catégorie: Outil de retouche photo (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Agent\|Agent]] — catégorie: Brique commune aux cinq projets de la feuille de route, par opposition au simple wrapper d'API (1 occ., 2 fiches)
+- [[kb/Agent-technologie\|Agent]] — catégorie: Brique commune aux cinq projets de la feuille de route, par opposition au simple wrapper d'API (1 occ., 3 fiches)
 - [[kb/Agent-Client-Protocol\|Agent Client Protocol]] — rôle: Frontière entre le client de bureau Berd et le runtime goose (5 occ., 4 fiches)
 - [[kb/_entites-mineures#Agent-Communication-Protocol\|Agent Communication Protocol]] — définition: Protocole d'interopérabilité agent-à-agent d'IBM Research / BeeAI ; troisième porteur du sigle ACP, marginal dans le débat mais polluant les recherches (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent-Development-Kit\|Agent Development Kit]] — acronyme: ADK (1 occ., 1 fiches)
@@ -135,13 +135,13 @@
 - [[kb/_entites-mineures#ChatGPT-Enterprise\|ChatGPT Enterprise]] — catégorie: Plateforme GenAI entreprise (OpenAI) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ChatGPT-Instant-Checkout\|ChatGPT Instant Checkout]] — catégorie: Checkout agentique sans visite site marchand (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Chunk\|Chunk]] — catégorie: Agent CircleCI qui valide ses propres correctifs avant tout regard humain — taux de conversion des tâches d'agent en PR abouties doublé (1 occ., 1 fiches)
-- [[kb/Claude-entite\|Claude]] — catégorie: Modèles d'Anthropic orchestrables par le Gemini agent (12 occ., 12 fiches)
+- [[kb/Claude-entite\|Claude]] — catégorie: Modèles d'Anthropic orchestrables par le Gemini agent (13 occ., 13 fiches)
 - [[kb/_entites-mineures#Claude-3.5\|Claude 3.5]] — version_clé: Révision octobre 2024 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-4-Opus\|Claude 4 Opus]] — prix: 15 $/75 $ par M tokens (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-4.5-Sonnet\|Claude 4.5 Sonnet]] — point fort: Qualité d'écriture créative (1 occ., 1 fiches)
 - [[kb/Claude-Agent-SDK\|Claude Agent SDK]] — catégorie: SDK d'agents d'Anthropic (3 occ., 3 fiches)
 - [[kb/Claude-Code\|Claude Code]] — atout: Suivi d'instructions, génération de code, utilisation d'outils (62 occ., 56 fiches)
-- [[kb/_entites-mineures#Claude-Cowork\|Claude Cowork]] — categorie: Agent knowledge work (2 occ., 2 fiches)
+- [[kb/Claude-Cowork\|Claude Cowork]] — categorie: Agent knowledge work (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Claude-Design\|Claude Design]] — mécanisme: Lit le code sous-jacent d'un composant/site référencé, pas seulement le rendu (1 occ., 1 fiches)
 - [[kb/Claude-Desktop\|Claude Desktop]] — définition: Client de bureau d'Anthropic (Mac et Windows depuis le 31 octobre 2024, beta Linux le 30 juin 2026) : Quick Entry sur macOS, Desktop Extensions pour installer un serveur MCP local en un clic, accès aux fichiers locaux, onglets Chat / Cowork / Code. Construction Electron plus couches natives (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Desktop-app\|Claude Desktop app]] — catégorie: Application bureau Claude, support natif git worktrees (1 occ., 1 fiches)
@@ -196,6 +196,7 @@
 - [[kb/_entites-mineures#Contract-Companion\|Contract Companion]] — catégorie: GPT custom Moderna pour résumer les contrats (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Control-Tower\|Control Tower]] — catégorie: Couche centralisée de gouvernance d'agents (Orq.ai) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Copilot-AI\|Copilot AI]] — catégorie: Assistant IA Microsoft (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Copilot-Autopilot\|Copilot Autopilot]] — catégorie: Offre d'agents de Microsoft citée comme comparable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Copilot-Code-Review\|Copilot Code Review]] — catégorie: Revue de code native de GitHub Copilot, activable de façon centralisée (1 occ., 1 fiches)
 - [[kb/Cora\|Cora]] — catégorie: Assistant email / chief of staff IA, produit Every (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Cordis\|Cordis]] — définition: Framework de composition par plugins du projet tiers cordiverse, noyau de DeepSeek Harness et vendoré dans son dépôt (avec cosmokit, hmr, loader, schemastery, timer et cinq autres modules) selon un manifeste et une procédure de synchronisation. Les plugins contribuent services, événements typés et effets réversibles à un contexte partagé ; le montage, le démontage et les dépendances sont gérés par le noyau, et les enregistrements se dénouent au déchargement du plugin. Point de dépendance externe : l'argument central du produit repose sur un projet que DeepSeek ne contrôle pas (1 occ., 1 fiches)
@@ -308,7 +309,7 @@
 - [[kb/_entites-mineures#Gemini-Developer-API\|Gemini Developer API]] — catégorie: API d'accès aux modèles Gemini (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gemini-Enterprise-Agent-Platform\|Gemini Enterprise Agent Platform]] — catégorie: Plateforme d'agents d'entreprise Google (retrait du nom Vertex AI à Cloud Next 2026) ; Agent Engine→Deployments, Memory Bank, Sessions, Agent Registry, Policies, Gateways (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Gemini-Enterprise-Web-Search\|Gemini Enterprise Web Search]] — usage: Recherche d'identité fournisseur sur les cas inconnus (1 occ., 1 fiches)
-- [[kb/Gemini-agent\|Gemini agent]] — catégorie: Agent universel de travail de Google Cloud, annoncé le 8 octobre 2026 (1 occ., 1 fiches)
+- [[kb/Gemini-agent\|Gemini agent]] — catégorie: Agent universel de travail de Google Cloud, annoncé le 8 octobre 2026 (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Gemini-models\|Gemini models]] — catégorie: Modèles LLM Google (2.5-pro, flash, flash-lite) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gemma-2\|Gemma 2]] — rôle: Architecture Transformer de base adaptée pour Diffusion Gemma (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gemma-4\|Gemma 4]] — architecture: MoE 26 Mds params / ~4 Mds actifs, inférence locale (1 occ., 1 fiches)

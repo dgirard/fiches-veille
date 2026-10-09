@@ -41,7 +41,7 @@
 
 - [[kb/_entites-mineures#Base44\|Base44]] (TECHNOLOGIE) — 0.90, STATIQUE
   - [[fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14\|The Evaporation of Software Engineering (and the Rise of the Agentic Builder)]]
-- [[kb/_entites-mineures#Claude-Cowork\|Claude Cowork]] (TECHNOLOGIE) — 0.90, STATIQUE
+- [[kb/Claude-Cowork\|Claude Cowork]] (TECHNOLOGIE) — 0.90, STATIQUE
   - [[fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14\|The Evaporation of Software Engineering (and the Rise of the Agentic Builder)]]
 
 ### permet

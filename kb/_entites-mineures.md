@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 3023 entités avec moins de 3 triples/fiches
+> 3025 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (402)
 
@@ -7373,7 +7373,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (679)
+## TECHNOLOGIE (678)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7739,17 +7739,6 @@
 - **utilise** → [[kb/IA-générative\|IA générative]] (TECHNOLOGIE) — 0.92
 
 **Fiches** : [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
-
-### Agent {#Agent}
-
-**Type** : TECHNOLOGIE | 2 relations | 2 fiches
-
-- **catégorie** : Brique commune aux cinq projets de la feuille de route, par opposition au simple wrapper d'API
-
-- **est_basé_sur** → the loop (boucle autonome orientée but) (CONCEPT) — 0.95
-- **converge_avec** → onboarding d'un stagiaire (CONCEPT) — 0.90
-
-**Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|the 2026 ai engineer roadmap]], [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|The Eight Levels of AI Adoption]]
 
 ### Agent Communication Protocol {#Agent-Communication-Protocol}
 
@@ -8436,19 +8425,6 @@
 
 **Fiches** : [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Giving your AI a Job Interview]]
 
-### Claude Cowork {#Claude-Cowork}
-
-**Type** : TECHNOLOGIE | 2 relations | 2 fiches
-
-- **categorie** : Agent knowledge work
-- **rôle** : Environnement dans lequel un CFO a construit et déployé son outil financier sur une session de deux mois, jusqu'à saturation
-
-- **fait_partie_de** → agents knowledge work (CONCEPT) — 0.90
-
-- [[kb/vibe-coding\|vibe coding]] **observé_dans** → Claude Cowork — 0.90
-
-**Fiches** : [[fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14\|The Evaporation of Software Engineering (and the Rise of the Agentic Builder)]], [[fiches/2026-03/levie-building-trillions-agents-software-2026-03-07\|Building for trillions of agents]]
-
 ### Claude Design {#Claude-Design}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -8854,6 +8830,16 @@
 - **catégorie** : Assistant IA Microsoft
 
 **Fiches** : [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud : l'ère des prédateurs pour vos budgets IT]]
+
+### Copilot Autopilot {#Copilot-Autopilot}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Offre d'agents de Microsoft citée comme comparable
+
+- **concurrence** → [[kb/Gemini-agent\|Gemini agent]] (TECHNOLOGIE) — 0.80
+
+**Fiches** : [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]]
 
 ### Copilot Code Review {#Copilot-Code-Review}
 
@@ -14502,7 +14488,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1008)
+## CONCEPT (1011)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -14987,17 +14973,6 @@
 - Aversion au risque **réduit** → Adoption IA en entreprise — 0.90
 
 **Fiches** : [[fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05\|It is amazing how many companies I talk to STILL have AI effectively blocked by IT & legal departments...]]
-
-### Agent {#Agent}
-
-**Type** : CONCEPT | 2 relations | 2 fiches
-
-- **niveau** : 3 — exécution pas-à-pas avec approbation
-
-- **est_basé_sur** → the loop (boucle autonome orientée but) (CONCEPT) — 0.95
-- **converge_avec** → onboarding d'un stagiaire (CONCEPT) — 0.90
-
-**Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|the 2026 ai engineer roadmap]], [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|The Eight Levels of AI Adoption]]
 
 ### Agent collègue {#Agent-collègue}
 
@@ -15645,11 +15620,14 @@
 
 ### Chatbot {#Chatbot}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 2 fiches
 
+- **définition** : Répond et génère des contenus par interactions ponctuelles
 - **niveau** : 1 — conversation sans contexte embarqué
 
-**Fiches** : [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|The Eight Levels of AI Adoption]]
+- **fait_partie_de** → [[kb/_entites-mineures#Quatre-modalités-fonctionnelles-de-l'IA\|Quatre modalités fonctionnelles de l'IA]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]], [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|The Eight Levels of AI Adoption]]
 
 ### Checkpoints de capacité {#Checkpoints-de-capacité}
 
@@ -15840,6 +15818,19 @@
 - **définition** : Termes frères d'un concept, inspectés/réparés au write time contre la dérive sémantique
 
 **Fiches** : [[fiches/2026-07/klaassen-thinkroom-compounding-knowledge-lifecycle-2026-07-02\|The Compounding Knowledge Lifecycle — Agent Guide]]
+
+### Collaborateur synthétique {#Collaborateur-synthétique}
+
+**Type** : CONCEPT | 3 relations | 1 fiches
+
+- **définition** : Super-orchestrateur persistant à identité numérique propre, intégré aux équipes
+
+- **fait_partie_de** → [[kb/_entites-mineures#Quatre-modalités-fonctionnelles-de-l'IA\|Quatre modalités fonctionnelles de l'IA]] (CONCEPT) — 0.95
+- **est_variante_de** → [[kb/_entites-mineures#Orchestrateur\|Orchestrateur]] (CONCEPT) — 0.88
+
+- [[kb/Gemini-agent\|Gemini agent]] **est_instance_de** → Collaborateur synthétique — 0.85
+
+**Fiches** : [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]]
 
 ### Colonialisme des données {#Colonialisme-des-données}
 
@@ -16826,6 +16817,17 @@
 
 **Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering for coding agent users]]
 
+### Harnais agentique {#Harnais-agentique}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Mémoire, compétences, outils, connecteurs, orchestration autour du modèle
+
+- **est_instance_de** → « un user agent, au sens où le navigateur l'était pour le web ouvert » (AFFIRMATION) — 0.92
+- **s_oppose_à** → « modèle de langage comme seul porteur de l'intelligence opérationnelle » (AFFIRMATION) — 0.85
+
+**Fiches** : [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]]
+
 ### Harnais d'agent {#Harnais-d'agent}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -17661,6 +17663,19 @@
 
 **Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|The ROI of AI-assisted Software Development]]
 
+### Orchestrateur {#Orchestrateur}
+
+**Type** : CONCEPT | 3 relations | 1 fiches
+
+- **définition** : Décompose un besoin, répartit entre agents spécialisés, consolide
+
+- **fait_partie_de** → [[kb/_entites-mineures#Quatre-modalités-fonctionnelles-de-l'IA\|Quatre modalités fonctionnelles de l'IA]] (CONCEPT) — 0.95
+
+- [[kb/_entites-mineures#Collaborateur-synthétique\|Collaborateur synthétique]] **est_variante_de** → Orchestrateur — 0.88
+- [[kb/Claude-Cowork\|Claude Cowork]] **est_instance_de** → Orchestrateur — 0.70
+
+**Fiches** : [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]]
+
 ### Orchestrator {#Orchestrator}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -18055,6 +18070,20 @@
 - **utilise** → [[kb/_entites-mineures#Human-in-the-loop\|human-in-the-loop]] (METHODOLOGIE) — 0.94
 
 **Fiches** : [[fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11\|The Gen AI Playbook for Organizations]]
+
+### Quatre modalités fonctionnelles de l'IA {#Quatre-modalités-fonctionnelles-de-l'IA}
+
+**Type** : CONCEPT | 5 relations | 1 fiches
+
+- **définition** : Typologie chatbot, agent, orchestrateur, collaborateur synthétique, de sophistication croissante
+
+- [[kb/Agent-concept\|Agent]] **fait_partie_de** → Quatre modalités fonctionnelles de l'IA — 0.95
+- [[kb/_entites-mineures#Chatbot\|Chatbot]] **fait_partie_de** → Quatre modalités fonctionnelles de l'IA — 0.95
+- [[kb/_entites-mineures#Collaborateur-synthétique\|Collaborateur synthétique]] **fait_partie_de** → Quatre modalités fonctionnelles de l'IA — 0.95
+- [[kb/_entites-mineures#Orchestrateur\|Orchestrateur]] **fait_partie_de** → Quatre modalités fonctionnelles de l'IA — 0.95
+- [[kb/Fred-Cavazza\|Fred Cavazza]] **a_créé** → Quatre modalités fonctionnelles de l'IA — 0.88
+
+**Fiches** : [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]]
 
 ### Question forte vs faible {#Question-forte-vs-faible}
 

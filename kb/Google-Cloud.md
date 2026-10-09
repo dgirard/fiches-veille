@@ -1,6 +1,6 @@
 # Google Cloud
 
-> **Type** : ORGANISATION | 16 relations | 4 fiches sources
+> **Type** : ORGANISATION | 17 relations | 5 fiches sources
 
 ## Attributs
 
@@ -38,6 +38,7 @@
 ### publie
 
 - [[kb/Gemini-agent\|Gemini agent]] (TECHNOLOGIE) — 0.98, STATIQUE
+  - [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]]
   - [[fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08\|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]
 - [[kb/Rapport-DORA-2025\|Rapport DORA 2025]] (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Announcing the 2025 DORA Report: State of AI-Assisted Software Development]]
@@ -51,11 +52,13 @@
 - [[kb/_entites-mineures#Eva-Dong\|Eva Dong]] **travaille_chez** → Google Cloud — 0.95
 - [[kb/_entites-mineures#Ursula-Lübbert-Passing\|Ursula Lübbert-Passing]] **travaille_chez** → Google Cloud — 0.95
 - [[kb/SFEIR\|SFEIR]] **collabore_avec** → Google Cloud — 0.90
+- [[kb/Microsoft\|Microsoft]] **concurrence** → Google Cloud — 0.85
 - [[kb/Anthropic\|Anthropic]] **collabore_avec** → Google Cloud — 0.80
 
 ## Fiches sources
 
 - [[fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14\|Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team]]
+- [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]]
 - [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|The ROI of AI-assisted Software Development]]
 - [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Announcing the 2025 DORA Report: State of AI-Assisted Software Development]]
 - [[fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08\|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]

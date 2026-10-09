@@ -1,6 +1,6 @@
 # Microsoft
 
-> **Type** : ORGANISATION | 23 relations | 10 fiches sources
+> **Type** : ORGANISATION | 24 relations | 11 fiches sources
 
 ## Attributs
 
@@ -32,6 +32,11 @@
 
 - modèle de leadership pour l'IA (METHODOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|The Pivotal Role Of Chief HR Officer in AI Transformation]]
+
+### concurrence
+
+- [[kb/Google-Cloud\|Google Cloud]] (ORGANISATION) — 0.85, DYNAMIQUE
+  - [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]]
 
 ### fait_partie_de
 
@@ -88,6 +93,7 @@
 ## Fiches sources
 
 - [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
+- [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]]
 - [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud : l'ère des prédateurs pour vos budgets IT]]
 - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
 - [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)]]

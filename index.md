@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 433 fiches | 1975-12 → 2026-10-09 | généré le 2026-10-09
+> 434 fiches | 1975-12 → 2026-10-09 | généré le 2026-10-09
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-10
 
+- **09** [Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)](fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09.md) — Fred Cavazza — auteur du post sur X (@fredcavazza) ; fonction non précisée dans le texte. · X — collaborateur synthétique, chatbot, agent
 - **09** [The three joys of engineering: liberation or loss depends on which joy you lean on most](fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09.md) — Addy Osmani — Member of Technical Staff chez Anthropic (fonction affichée) ; post LinkedIn. · LinkedIn — joie de faire, joie de savoir, joie de compter
 - **08** [Welcome to Gemini at Work 2026: Introducing the Gemini agent](fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08.md) — Thomas Kurian — CEO de Google Cloud ; billet du blog Google Cloud adapté de sa keynote. · Google Cloud — Gemini agent, Gemini Enterprise, Google Cloud
 - **06** [Introducing Mistral Large 4](fiches/2026-10/mistral-large-4-le-chonk-2026-10-06.md) — Mistral AI — éditeur de modèles d'IA ; billet de blog de l'entreprise (« By Mistral »). · Mistral AI — Mistral Large 4, ML4, le Chonk
@@ -777,6 +778,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Transformation & Adoption
 
+- [Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)](fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09.md) — Fred Cavazza — auteur du post sur X (@fredcavazza) ; fonction non précisée dans le texte.
 - [The three joys of engineering: liberation or loss depends on which joy you lean on most](fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09.md) — Addy Osmani — Member of Technical Staff chez Anthropic (fonction affichée) ; post LinkedIn.
 - [Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will completely vanish » — extrait de Fox & Friends First (Fox News, 29 mai 2025) avec Dario Amodei](fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02.md) — Yugen Matsuda — entrepreneur indépendant, compte X japonais ; post de relais d'un entretien de Dario Amodei (CEO d'Anthropic) diffusé sur Fox News.
 - [Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)](fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01.md) — Daniel Meppiel — travaille avec des équipes d'ingénierie d'entreprise chez Microsoft et GitHub ; post LinkedIn.
@@ -1061,6 +1063,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Stratégie & Frameworks
 
+- [Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)](fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09.md) — Fred Cavazza — auteur du post sur X (@fredcavazza) ; fonction non précisée dans le texte.
 - [Introducing Personal Agent Protocol](fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06.md) — Bret Taylor et Clay Bavor — cofondateurs de Sierra, plateforme d'agents IA pour l'expérience client ; billet du blog Sierra.
 - [Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)](fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01.md) — Daniel Meppiel — travaille avec des équipes d'ingénierie d'entreprise chez Microsoft et GitHub ; post LinkedIn.
 - [The Dot and the Swarm: Benefitting from the Bitter Lesson](fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01.md) — Ethan Mollick — professeur à la Wharton School (University of Pennsylvania), auteur de *One Useful Thing* (Substack).
@@ -1186,6 +1189,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Produits & Services
 
+- [Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)](fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09.md) — Fred Cavazza — auteur du post sur X (@fredcavazza) ; fonction non précisée dans le texte.
 - [Welcome to Gemini at Work 2026: Introducing the Gemini agent](fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08.md) — Thomas Kurian — CEO de Google Cloud ; billet du blog Google Cloud adapté de sa keynote.
 - [Introducing Mistral Large 4](fiches/2026-10/mistral-large-4-le-chonk-2026-10-06.md) — Mistral AI — éditeur de modèles d'IA ; billet de blog de l'entreprise (« By Mistral »).
 - [Introducing Personal Agent Protocol](fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06.md) — Bret Taylor et Clay Bavor — cofondateurs de Sierra, plateforme d'agents IA pour l'expérience client ; billet du blog Sierra.
@@ -1239,19 +1243,19 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 433 fiches
-- **Par année** : 2026 (256) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 434 fiches
+- **Par année** : 2026 (257) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 162
   - Architecture & Construction : 61
-  - Transformation & Adoption : 96
+  - Transformation & Adoption : 97
   - Qualité & Sécurité : 54
   - Économie & Marché : 92
   - Philosophie & Société : 30
-  - Stratégie & Frameworks : 37
+  - Stratégie & Frameworks : 38
   - Outils & Plateformes : 63
   - Recherche & Éducation : 16
-  - Produits & Services : 18
+  - Produits & Services : 19
   - Politique & Régulation : 29
 - **Auteurs (top 20)** :
   - Ethan Mollick (13)
@@ -1285,13 +1289,13 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - OpenAI (6)
   - Ethan Mollick (4)
   - GitHub (4)
+  - X (3)
   - Block Engineering (3)
   - The Batch / DeepLearning.AI (3)
   - Addy Osmani (3)
   - a16z (3)
   - Google Cloud (2)
   - Mistral AI (2)
-  - X (2)
   - Cloudflare Blog (2)
   - YouTube (2)
   - McKinsey (2)
