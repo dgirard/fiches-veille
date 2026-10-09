@@ -1,6 +1,6 @@
 # Gemini agent
 
-> **Type** : TECHNOLOGIE | 12 relations | 2 fiches sources
+> **Type** : TECHNOLOGIE | 14 relations | 2 fiches sources
 
 ## Attributs
 
@@ -8,10 +8,20 @@
 
 ## Relations (comme sujet)
 
+### est_basé_sur
+
+- [[kb/Harness\|Harness]] (CONCEPT) — 0.85, DYNAMIQUE
+  - [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)]]
+
 ### est_instance_de
 
-- [[kb/_entites-mineures#Collaborateur-synthétique\|Collaborateur synthétique]] (CONCEPT) — 0.85, DYNAMIQUE
-  - [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]]
+- [[kb/_entites-mineures#Collaborateur-synthétique\|Collaborateur synthétique]] (CONCEPT) — 0.82, DYNAMIQUE
+  - [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)]]
+
+### permet
+
+- [[kb/_entites-mineures#Identité-organisationnelle-des-agents\|Identité organisationnelle des agents]] (CONCEPT) — 0.88, DYNAMIQUE
+  - [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)]]
 
 ### réduit
 
@@ -30,7 +40,7 @@
 - [[kb/_entites-mineures#Agent-Gateway\|Agent Gateway]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08\|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]
 - [[kb/Claude-entite\|Claude]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
-  - [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]]
+  - [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)]]
   - [[fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08\|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]
 - [[kb/Model-Context-Protocol\|Model Context Protocol]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08\|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]
@@ -43,9 +53,9 @@
 
 - [[kb/Google-Cloud\|Google Cloud]] **publie** → Gemini agent — 0.98
 - [[kb/_entites-mineures#Agent-collègue\|Agent collègue]] **fait_partie_de** → Gemini agent — 0.92
-- [[kb/_entites-mineures#Copilot-Autopilot\|Copilot Autopilot]] **concurrence** → Gemini agent — 0.80
+- [[kb/_entites-mineures#Copilot-Autopilot\|Copilot Autopilot]] **concurrence** → Gemini agent — 0.78
 
 ## Fiches sources
 
-- [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]]
+- [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)]]
 - [[fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08\|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]

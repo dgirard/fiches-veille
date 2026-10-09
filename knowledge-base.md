@@ -1,20 +1,20 @@
 # Knowledge Base — Veille Technologique
 
-<!-- manifest: sha256=2bc492045c78818d18ccbc0db79c3865a123089ac35c4735d21c336fcef4aaf8 fiches=434 -->
-> 434 fiches | 3619 entités | 6991 triples | Généré le 2026-10-09
+<!-- manifest: sha256=1f418db5ccf35b55c41bd7c30ffddf33de430854372fe3907952420bacad97d1 fiches=434 -->
+> 434 fiches | 3620 entités | 6995 triples | Généré le 2026-10-09
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
 - [[kb/_index-type-PERSONNE\|PERSONNE]] (552)
 - [[kb/_index-type-ORGANISATION\|ORGANISATION]] (440)
-- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (866)
+- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (867)
 - [[kb/_index-type-CONCEPT\|CONCEPT]] (1060)
 - [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (458)
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (55)
 - [[kb/_index-type-LIEU\|LIEU]] (5)
 - [[kb/_index-type-DOCUMENT\|DOCUMENT]] (183)
-- [[kb/_entites-mineures\|Entités mineures]] (3025)
+- [[kb/_entites-mineures\|Entités mineures]] (3026)
 
 ## Entités les plus connectées
 
@@ -45,27 +45,27 @@
 
 ### Prédicats les plus fréquents
 
-- **affirme_que** : 865
+- **affirme_que** : 868
 - **utilise** : 797
-- **permet** : 641
+- **permet** : 642
 - **mesure** : 551
-- **publie** : 402
+- **publie** : 403
 - **a_créé** : 388
 - **recommande** : 328
 - **s_applique_à** : 289
 - **réduit** : 254
-- **s_oppose_à** : 252
-- **est_basé_sur** : 246
+- **s_oppose_à** : 251
+- **est_basé_sur** : 247
 - **fait_partie_de** : 231
-- **est_instance_de** : 217
+- **est_instance_de** : 218
 - **améliore** : 217
 - **remplace** : 157
 
 ### Distribution par type
 
-- **PERSONNE** : 552 (15.3%)
+- **PERSONNE** : 552 (15.2%)
 - **ORGANISATION** : 440 (12.2%)
-- **TECHNOLOGIE** : 866 (23.9%)
+- **TECHNOLOGIE** : 867 (24.0%)
 - **CONCEPT** : 1060 (29.3%)
 - **METHODOLOGIE** : 458 (12.7%)
 - **EVENEMENT** : 55 (1.5%)
@@ -74,5 +74,5 @@
 
 ### Déduplication
 
-- **Triples** : 7112 → 6991 (121 doublons)
-- **Entités** : 4799 → 3619 (1180 doublons)
+- **Triples** : 7116 → 6995 (121 doublons)
+- **Entités** : 4801 → 3620 (1181 doublons)

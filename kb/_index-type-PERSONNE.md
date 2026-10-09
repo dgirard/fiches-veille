@@ -183,7 +183,7 @@
 - [[kb/_entites-mineures#Francesco-Bonacci\|Francesco Bonacci]] — rôle: Engineer, founder Cua AI, auteur du post X viral "Vibe Coding Paralysis: When Infinite Productivity Breaks Your Brain" (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Franciska-Dethlefsen\|Franciska Dethlefsen]] — rôle: Head of growth and marketing chez Zed Industries ; autrice de la communication produit sur la facturation Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Franck-Le-Moal\|Franck Le Moal]] — rôle: Global Technical Officer du groupe LVMH (1 occ., 1 fiches)
-- [[kb/Fred-Cavazza\|Fred Cavazza]] — rôle: Auteur du post X ; fonction non précisée (1 occ., 1 fiches)
+- [[kb/Fred-Cavazza\|Fred Cavazza]] — rôle: Auteur du post X ; fonction non indiquée (1 occ., 1 fiches)
 - [[kb/Fred-PLAIS\|Fred PLAIS]] — rôle: Co-fondateur & CEO d'Archie, ex-CEO de Platform.sh (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Friedrich-Hayek\|Friedrich Hayek]] — rôle: Économiste autrichien (1899-1992), Nobel 1974, école autrichienne, théoricien de l'information distribuée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gabriel-Vasquez\|Gabriel Vasquez]] — rôle: Investment Partner, Andreessen Horowitz (Enterprise & Fintech) (1 occ., 1 fiches)

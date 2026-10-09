@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 866 entités de type TECHNOLOGIE
+> 867 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -134,6 +134,7 @@
 - [[kb/_entites-mineures#ChatGPT-Desktop\|ChatGPT Desktop]] — définition: Client de bureau d'OpenAI (macOS annoncé le 13 mai 2024, disponible le 25 juin) : raccourci global Option/Alt + Espace, companion window au premier plan, captures d'écran natives ; fusionné avec Codex le 9 juillet 2026 en une app à onglets Chat / Work / Codex, l'ancienne version devenant ChatGPT Classic (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ChatGPT-Enterprise\|ChatGPT Enterprise]] — catégorie: Plateforme GenAI entreprise (OpenAI) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ChatGPT-Instant-Checkout\|ChatGPT Instant Checkout]] — catégorie: Checkout agentique sans visite site marchand (2 occ., 1 fiches)
+- [[kb/_entites-mineures#ChatGPT-Work\|ChatGPT Work]] — catégorie: Offre décrite par l'auteur comme limitée à l'orchestration (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Chunk\|Chunk]] — catégorie: Agent CircleCI qui valide ses propres correctifs avant tout regard humain — taux de conversion des tâches d'agent en PR abouties doublé (1 occ., 1 fiches)
 - [[kb/Claude-entite\|Claude]] — catégorie: Modèles d'Anthropic orchestrables par le Gemini agent (13 occ., 13 fiches)
 - [[kb/_entites-mineures#Claude-3.5\|Claude 3.5]] — version_clé: Révision octobre 2024 (1 occ., 1 fiches)
@@ -196,7 +197,7 @@
 - [[kb/_entites-mineures#Contract-Companion\|Contract Companion]] — catégorie: GPT custom Moderna pour résumer les contrats (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Control-Tower\|Control Tower]] — catégorie: Couche centralisée de gouvernance d'agents (Orq.ai) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Copilot-AI\|Copilot AI]] — catégorie: Assistant IA Microsoft (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Copilot-Autopilot\|Copilot Autopilot]] — catégorie: Offre d'agents de Microsoft citée comme comparable (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Copilot-Autopilot\|Copilot Autopilot]] — catégorie: Offre de Microsoft citée comme d'ambition comparable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Copilot-Code-Review\|Copilot Code Review]] — catégorie: Revue de code native de GitHub Copilot, activable de façon centralisée (1 occ., 1 fiches)
 - [[kb/Cora\|Cora]] — catégorie: Assistant email / chief of staff IA, produit Every (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Cordis\|Cordis]] — définition: Framework de composition par plugins du projet tiers cordiverse, noyau de DeepSeek Harness et vendoré dans son dépôt (avec cosmokit, hmr, loader, schemastery, timer et cinq autres modules) selon un manifeste et une procédure de synchronisation. Les plugins contribuent services, événements typés et effets réversibles à un contexte partagé ; le montage, le démontage et les dépendances sont gérés par le noyau, et les enregistrements se dénouent au déchargement du plugin. Point de dépendance externe : l'argument central du produit repose sur un projet que DeepSeek ne contrôle pas (1 occ., 1 fiches)

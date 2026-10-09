@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3619 entités
+> 3620 entités
 
 ## #
 
@@ -688,6 +688,7 @@
 - [[kb/_entites-mineures#ChatGPT-Desktop\|ChatGPT Desktop]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#ChatGPT-Enterprise\|ChatGPT Enterprise]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#ChatGPT-Instant-Checkout\|ChatGPT Instant Checkout]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#ChatGPT-Work\|ChatGPT Work]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#chaîne-d'approvisionnement-IA\|chaîne d'approvisionnement IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#chaîne-de-valeur\|chaîne de valeur]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Checkpoints-de-capacité\|Checkpoints de capacité]] (CONCEPT, 1 fiches)
@@ -1636,9 +1637,8 @@
 - [[kb/_entites-mineures#Harley-Finkelstein\|Harley Finkelstein]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Harnachabilité\|Harnachabilité]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#harnais\|harnais]] (CONCEPT, 1 fiches)
-- [[kb/_entites-mineures#Harnais-agentique\|Harnais agentique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Harnais-d'agent\|Harnais d'agent]] (CONCEPT, 1 fiches)
-- [[kb/Harness\|Harness]] (CONCEPT, 4 fiches)
+- [[kb/Harness\|Harness]] (CONCEPT, 5 fiches)
 - [[kb/Harness-engineering\|Harness engineering]] (METHODOLOGIE, 5 fiches)
 - [[kb/_entites-mineures#harness-export-AWS\|harness export AWS]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Harness-as-a-Service\|Harness-as-a-Service]] (CONCEPT, 1 fiches)
@@ -1734,6 +1734,7 @@
 - [[kb/_entites-mineures#identifiant-de-ressource-logique\|identifiant de ressource logique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#identité-déléguée-d'agent\|identité déléguée d'agent]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#identité-opératoire\|identité opératoire]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Identité-organisationnelle-des-agents\|Identité organisationnelle des agents]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#identité-professionnelle\|identité professionnelle]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#identité-visuelle-d'agent\|identité visuelle d'agent]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Ido-Salomon\|Ido Salomon]] (PERSONNE, 2 fiches)

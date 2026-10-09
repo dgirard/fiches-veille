@@ -33,11 +33,6 @@
 - modèle de leadership pour l'IA (METHODOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|The Pivotal Role Of Chief HR Officer in AI Transformation]]
 
-### concurrence
-
-- [[kb/Google-Cloud\|Google Cloud]] (ORGANISATION) — 0.85, DYNAMIQUE
-  - [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]]
-
 ### fait_partie_de
 
 - AAIF (ORGANISATION) — 0.93, DYNAMIQUE
@@ -67,6 +62,8 @@
   - [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)]]
 - [[kb/Agent-Plugins\|Agent Plugins]] (TECHNOLOGIE) — 0.90, STATIQUE
   - [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
+- [[kb/_entites-mineures#Copilot-Autopilot\|Copilot Autopilot]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
+  - [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)]]
 
 ### réduit
 
@@ -93,7 +90,7 @@
 ## Fiches sources
 
 - [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
-- [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]]
+- [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)]]
 - [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud : l'ère des prédateurs pour vos budgets IT]]
 - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
 - [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)]]

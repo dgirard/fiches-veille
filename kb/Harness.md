@@ -1,10 +1,11 @@
 # Harness
 
-> **Type** : CONCEPT | 6 relations | 4 fiches sources
+> **Type** : CONCEPT | 7 relations | 5 fiches sources
 
 ## Attributs
 
 - **catégorie** : Couche abstraction agent (outils, prompts, mémoire, sécurité)
+- **définition** : Harnais agentique : mémoire, compétences, outils, connecteurs et orchestration autour du modèle
 - **rôle** : Couche que DeepSeek résume par l'équation « Agent = Model + Harness » : le modèle est *« l'âme de l'agent »*, le harnais est ce qui lui permet de comprendre son environnement, d'utiliser des outils et de continuer à travailler en conditions réelles. DSH en propose une définition opérationnelle par composition de plugins et journal unique, plutôt que par catalogue de fonctionnalités
 - **usage** : Met la production de HTML/CSS/JS interactif à portée de non-développeurs
 - **équation** : Agent = Modèle + Harness ; modèle ~10 %, harness ~90 %
@@ -32,9 +33,11 @@
 
 - [[kb/DeepSeek-Harness\|DeepSeek Harness]] **est_instance_de** → Harness — 0.97
 - [[kb/Codex\|Codex]] **utilise** → Harness — 0.92
+- [[kb/Gemini-agent\|Gemini agent]] **est_basé_sur** → Harness — 0.85
 
 ## Fiches sources
 
+- [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)]]
 - [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|Future-Proof Coding Agents: Building Reliable Systems That Outlast Model Cycles]]
 - [[fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13\|DeepSeek Harness developer preview: Everything is a plugin]]
 - [[fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08\|Do you even need a presentation?]]

@@ -68,7 +68,7 @@
 - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Introducing Agent Skills]]
 - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
 - [[fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04\|Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI]]
-- [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]]
+- [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)]]
 - [[fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08\|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]
 - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Building Powerful Agentic Systems with Claude]]
 - [[fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05\|It is amazing how many companies I talk to STILL have AI effectively blocked by IT & legal departments...]]

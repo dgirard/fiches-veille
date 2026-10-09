@@ -6,7 +6,7 @@
 
 ## Attributs
 
-- **définition** : Exécute des tâches en mobilisant outils et applications, autonomie variable
+- **définition** : Exécute des tâches avec outils et applications, autonomie variable
 - **niveau** : 3 — exécution pas-à-pas avec approbation
 
 ## Relations (comme sujet)
@@ -24,10 +24,10 @@
 ### fait_partie_de
 
 - [[kb/_entites-mineures#Quatre-modalités-fonctionnelles-de-l'IA\|Quatre modalités fonctionnelles de l'IA]] (CONCEPT) — 0.95, ATEMPOREL
-  - [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]]
+  - [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)]]
 
 ## Fiches sources
 
-- [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]]
+- [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)]]
 - [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|the 2026 ai engineer roadmap]]
 - [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|The Eight Levels of AI Adoption]]

@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 3025 entités avec moins de 3 triples/fiches
+> 3026 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (402)
 
@@ -7373,7 +7373,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (678)
+## TECHNOLOGIE (679)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -8384,6 +8384,16 @@
 
 **Fiches** : [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
 
+### ChatGPT Work {#ChatGPT-Work}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Offre décrite par l'auteur comme limitée à l'orchestration
+
+- **est_instance_de** → [[kb/_entites-mineures#Orchestrateur\|Orchestrateur]] (CONCEPT) — 0.72
+
+**Fiches** : [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)]]
+
 ### Chunk {#Chunk}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -8833,13 +8843,15 @@
 
 ### Copilot Autopilot {#Copilot-Autopilot}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
-- **catégorie** : Offre d'agents de Microsoft citée comme comparable
+- **catégorie** : Offre de Microsoft citée comme d'ambition comparable
 
-- **concurrence** → [[kb/Gemini-agent\|Gemini agent]] (TECHNOLOGIE) — 0.80
+- **concurrence** → [[kb/Gemini-agent\|Gemini agent]] (TECHNOLOGIE) — 0.78
 
-**Fiches** : [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]]
+- [[kb/Microsoft\|Microsoft]] **publie** → Copilot Autopilot — 0.85
+
+**Fiches** : [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)]]
 
 ### Copilot Code Review {#Copilot-Code-Review}
 
@@ -15622,12 +15634,12 @@
 
 **Type** : CONCEPT | 1 relations | 2 fiches
 
-- **définition** : Répond et génère des contenus par interactions ponctuelles
+- **définition** : Répond, recherche et génère des contenus par interactions ponctuelles
 - **niveau** : 1 — conversation sans contexte embarqué
 
 - **fait_partie_de** → [[kb/_entites-mineures#Quatre-modalités-fonctionnelles-de-l'IA\|Quatre modalités fonctionnelles de l'IA]] (CONCEPT) — 0.95
 
-**Fiches** : [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]], [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|The Eight Levels of AI Adoption]]
+**Fiches** : [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)]], [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|The Eight Levels of AI Adoption]]
 
 ### Checkpoints de capacité {#Checkpoints-de-capacité}
 
@@ -15823,14 +15835,14 @@
 
 **Type** : CONCEPT | 3 relations | 1 fiches
 
-- **définition** : Super-orchestrateur persistant à identité numérique propre, intégré aux équipes
+- **définition** : Super-orchestrateur persistant à identité numérique propre, missions de plusieurs personnes
 
 - **fait_partie_de** → [[kb/_entites-mineures#Quatre-modalités-fonctionnelles-de-l'IA\|Quatre modalités fonctionnelles de l'IA]] (CONCEPT) — 0.95
-- **est_variante_de** → [[kb/_entites-mineures#Orchestrateur\|Orchestrateur]] (CONCEPT) — 0.88
+- **est_variante_de** → [[kb/_entites-mineures#Orchestrateur\|Orchestrateur]] (CONCEPT) — 0.90
 
-- [[kb/Gemini-agent\|Gemini agent]] **est_instance_de** → Collaborateur synthétique — 0.85
+- [[kb/Gemini-agent\|Gemini agent]] **est_instance_de** → Collaborateur synthétique — 0.82
 
-**Fiches** : [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]]
+**Fiches** : [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)]]
 
 ### Colonialisme des données {#Colonialisme-des-données}
 
@@ -16817,17 +16829,6 @@
 
 **Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering for coding agent users]]
 
-### Harnais agentique {#Harnais-agentique}
-
-**Type** : CONCEPT | 2 relations | 1 fiches
-
-- **définition** : Mémoire, compétences, outils, connecteurs, orchestration autour du modèle
-
-- **est_instance_de** → « un user agent, au sens où le navigateur l'était pour le web ouvert » (AFFIRMATION) — 0.92
-- **s_oppose_à** → « modèle de langage comme seul porteur de l'intelligence opérationnelle » (AFFIRMATION) — 0.85
-
-**Fiches** : [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]]
-
 ### Harnais d'agent {#Harnais-d'agent}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -17009,6 +17010,16 @@
 - **définition** : Internal Developer Platform traité comme produit avec utilisateurs (devs ET agents IA), guardrails et UX réduisant cognitive load — primary connective tissue for AI value (DORA 2025 confirmé)
 
 **Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|The ROI of AI-assisted Software Development]]
+
+### Identité organisationnelle des agents {#Identité-organisationnelle-des-agents}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Comptes, permissions et ressources faisant de l'agent un acteur identifiable du SI
+
+- [[kb/Gemini-agent\|Gemini agent]] **permet** → Identité organisationnelle des agents — 0.88
+
+**Fiches** : [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)]]
 
 ### Imperfect metrics doctrine {#Imperfect-metrics-doctrine}
 
@@ -17665,16 +17676,17 @@
 
 ### Orchestrateur {#Orchestrateur}
 
-**Type** : CONCEPT | 3 relations | 1 fiches
+**Type** : CONCEPT | 4 relations | 1 fiches
 
-- **définition** : Décompose un besoin, répartit entre agents spécialisés, consolide
+- **définition** : Décompose un besoin, répartit entre agents spécialisés, coordonne et consolide
 
 - **fait_partie_de** → [[kb/_entites-mineures#Quatre-modalités-fonctionnelles-de-l'IA\|Quatre modalités fonctionnelles de l'IA]] (CONCEPT) — 0.95
 
-- [[kb/_entites-mineures#Collaborateur-synthétique\|Collaborateur synthétique]] **est_variante_de** → Orchestrateur — 0.88
-- [[kb/Claude-Cowork\|Claude Cowork]] **est_instance_de** → Orchestrateur — 0.70
+- [[kb/_entites-mineures#Collaborateur-synthétique\|Collaborateur synthétique]] **est_variante_de** → Orchestrateur — 0.90
+- [[kb/_entites-mineures#ChatGPT-Work\|ChatGPT Work]] **est_instance_de** → Orchestrateur — 0.72
+- [[kb/Claude-Cowork\|Claude Cowork]] **est_instance_de** → Orchestrateur — 0.72
 
-**Fiches** : [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]]
+**Fiches** : [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)]]
 
 ### Orchestrator {#Orchestrator}
 
@@ -18075,15 +18087,15 @@
 
 **Type** : CONCEPT | 5 relations | 1 fiches
 
-- **définition** : Typologie chatbot, agent, orchestrateur, collaborateur synthétique, de sophistication croissante
+- **définition** : Typologie de l'auteur : chatbot, agent, orchestrateur, collaborateur synthétique
 
 - [[kb/Agent-concept\|Agent]] **fait_partie_de** → Quatre modalités fonctionnelles de l'IA — 0.95
 - [[kb/_entites-mineures#Chatbot\|Chatbot]] **fait_partie_de** → Quatre modalités fonctionnelles de l'IA — 0.95
 - [[kb/_entites-mineures#Collaborateur-synthétique\|Collaborateur synthétique]] **fait_partie_de** → Quatre modalités fonctionnelles de l'IA — 0.95
 - [[kb/_entites-mineures#Orchestrateur\|Orchestrateur]] **fait_partie_de** → Quatre modalités fonctionnelles de l'IA — 0.95
-- [[kb/Fred-Cavazza\|Fred Cavazza]] **a_créé** → Quatre modalités fonctionnelles de l'IA — 0.88
+- [[kb/Fred-Cavazza\|Fred Cavazza]] **a_créé** → Quatre modalités fonctionnelles de l'IA — 0.85
 
-**Fiches** : [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : les quatre modalités de l'IA (post X sur Gemini at Work)]]
+**Fiches** : [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)]]
 
 ### Question forte vs faible {#Question-forte-vs-faible}
 
