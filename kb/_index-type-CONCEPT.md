@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1051 entités de type CONCEPT
+> 1056 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -302,6 +302,9 @@
 - [[kb/_entites-mineures#Jagged-intelligence\|Jagged intelligence]] — exemple: Opus 4.7 refactorise 100k lignes mais conseille de marcher 50m au car wash (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jaggedness-des-capacités-IA\|Jaggedness des capacités IA]] — description: Concept popularisé par Mollick : les capacités IA progressent de manière inégale par domaine, créant des compétences fortes à côté de défaillances grossières (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jeu-train-test-séparé\|Jeu train/test séparé]] — rôle: Le hillclimber lit le train ; le test n'est jamais vu (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Joy-of-knowing\|Joy of knowing]] — définition: Plaisir d'un modèle mental assez fort pour sentir où est le bogue (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Joy-of-making\|Joy of making]] — définition: Plaisir du flux et du moment où tout s'emboîte (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Joy-of-mattering\|Joy of mattering]] — définition: Plaisir d'être l'expert dont tout dépendait (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Joyful-artifact\|Joyful artifact]] — catégorie: Critère émotionnel-pragmatique de choix de format (engagement praticien) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Judgment-per-minute\|Judgment per minute]] — catégorie: KPI émergent du designer agentique : densité de micro-décisions (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Juge-Stratégique\|Juge Stratégique]] — définition: Nouveau rôle humain : intervient là où le jugement est irremplaçable, prime sur l'écriture de code (1 occ., 1 fiches)
@@ -369,6 +372,7 @@
 - [[kb/_entites-mineures#Permanent-underclass\|Permanent underclass]] — définition: Théorie virale 2026 : fenêtre limitée pour bâtir richesse avant que IA/robotique remplacent intégralement le travail humain, figeant les positions de classe (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Peur-de-devenir-superflu\|Peur de devenir superflu]] — définition: Sensation que quelque chose pourrait continuer sans moi ; se décline de l'individu à l'Europe (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Phase-Expand\|Phase Expand]] — description: Phase de croissance en escalier où l'on bute sur des ressources limitantes successives (modèle Explore/Expand/Extract) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Pick-versus-conjure\|Pick versus conjure]] — définition: Choisir parmi des options n'est pas concevoir ; la capacité de concevoir s'érode si l'on ne l'exerce pas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pivot-conceptuel-cluster-outcome-based-2025-2026\|Pivot conceptuel cluster outcome-based 2025-2026]] — description: Kamelman/Thoughtworks (déc 2025) précède chronologiquement et unifie conceptuellement les manifestations sectorielles : Sternfels/McKinsey (consulting, jan 2026), VoxComm/Mandese (agences, mars 2026), Bain Rule of 40 (SaaS, avril 2026), Bain cross-system labor (enterprise, mai 2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Plancher-financier-DORA-vs-plafond-praticien\|Plancher financier DORA vs plafond praticien]] — description: Lecture juste : DORA 12.5% time saved = plancher défendable devant CFO (avoided hire), ratios praticiens 3-5× (Frizzo/Wescale/Curran) ou ×4.5 (Tatsyi Claude stack) = plafond organisationnel observé incluant nouveaux produits / new product space que le calculator ne capte pas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Plateforme-Gov+Prod+Audit\|Plateforme Gov+Prod+Audit]] — définition: Vraie plateforme IA d'industrialisation, radicalement différente d'un usage ad hoc ou bibliothèque de prompts (1 occ., 1 fiches)
@@ -471,6 +475,7 @@
 - [[kb/_entites-mineures#The-Button\|The Button]] — catégorie: Métaphore d'accès trivial à l'IA générative (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Grader\|The Grader]] — statut: Système d'évaluation imaginé par les agents, sans existence conforme à leur représentation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Theory-of-Constraints\|Theory of Constraints]] — application: L'IA accélère une étape qui n'était pas le bottleneck, donc déplace le problème ailleurs (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Three-joys-of-engineering\|Three joys of engineering]] — définition: Grille de lecture : making, knowing, mattering comme sources de joie du métier d'ingénieur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tier-1-Constitution\|Tier 1 Constitution]] — catégorie: Hot memory — fichier Markdown 660 lignes toujours chargé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tier-2-Agents-spécialisés\|Tier 2 Agents spécialisés]] — catégorie: Domain experts — 19 specs, 9300 lignes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tier-3-Knowledge-Base\|Tier 3 Knowledge Base]] — catégorie: Cold memory — 34 docs, 16250 lignes via MCP (1 occ., 1 fiches)

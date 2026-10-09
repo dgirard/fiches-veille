@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3605 entités
+> 3614 entités
 
 ## #
 
@@ -102,7 +102,7 @@
 - [[kb/_entites-mineures#ACV-ADEME-Mistral\|ACV ADEME Mistral]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Adam-Cohen\|Adam Cohen]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Adaptive-organization\|Adaptive organization]] (CONCEPT, 1 fiches)
-- [[kb/Addy-Osmani\|Addy Osmani]] (PERSONNE, 8 fiches)
+- [[kb/Addy-Osmani\|Addy Osmani]] (PERSONNE, 9 fiches)
 - [[kb/_entites-mineures#ADEME\|ADEME]] (ORGANISATION, 1 fiches)
 - [[kb/Adeo\|Adeo]] (ORGANISATION, 2 fiches)
 - [[kb/ADHD\|ADHD]] (TECHNOLOGIE, 1 fiches)
@@ -169,6 +169,7 @@
 - [[kb/_entites-mineures#Agentmail\|Agentmail]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Agents-CLI\|Agents CLI]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#agents-d'arrière-plan-persistants\|agents d'arrière-plan persistants]] (CONCEPT, 1 fiches)
+- [[kb/Agents-de-codage\|Agents de codage]] (TECHNOLOGIE, 1 fiches)
 - [[kb/agents-IA\|agents IA]] (TECHNOLOGIE, 5 fiches)
 - [[kb/_entites-mineures#agents-Langchain\|agents Langchain]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Agents-moraux-artificiels-(refus)\|Agents moraux artificiels (refus)]] (CONCEPT, 1 fiches)
@@ -322,7 +323,7 @@
 - [[kb/_entites-mineures#ANSSI\|ANSSI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#antfooding\|antfooding]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Anthony-Ligori\|Anthony Ligori]] (PERSONNE, 1 fiches)
-- [[kb/Anthropic\|Anthropic]] (ORGANISATION, 51 fiches)
+- [[kb/Anthropic\|Anthropic]] (ORGANISATION, 52 fiches)
 - [[kb/_entites-mineures#Anthropic-agents-to-agents-Slack\|Anthropic agents-to-agents Slack]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Anthropic-dogfood-doctrine\|Anthropic dogfood doctrine]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Anthropic-Economic-Index\|Anthropic Economic Index]] (DOCUMENT, 1 fiches)
@@ -495,6 +496,7 @@
 - [[kb/_entites-mineures#BCG-X\|BCG X]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#BDD-(Behavior-Driven-Development)\|BDD (Behavior-Driven Development)]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#behavioral-observability\|behavioral observability]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Ben-Simpson\|Ben Simpson]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Ben-vs-Alice-(case-study)\|Ben vs Alice (case study)]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Benchmark\|Benchmark]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#benchmarks-du-modèle\|benchmarks du modèle]] (CONCEPT, 1 fiches)
@@ -1574,6 +1576,7 @@
 - [[kb/_entites-mineures#GPT-6.1-Astra\|GPT-6.1 Astra]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#GPT-OSS-Safeguard\|GPT-OSS-Safeguard]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#GPU-NVIDIA-Grace-Blackwell\|GPU NVIDIA Grace Blackwell]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Grafana-Labs\|Grafana Labs]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Grammarly\|Grammarly]] (TECHNOLOGIE, 1 fiches)
 - [[kb/graphify\|graphify]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Graphify-Labs\|Graphify Labs]] (ORGANISATION, 1 fiches)
@@ -1857,6 +1860,9 @@
 - [[kb/Josh-Bersin\|Josh Bersin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jotunn8\|Jotunn8]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#journal-d'événements-d'agent\|journal d'événements d'agent]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Joy-of-knowing\|Joy of knowing]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Joy-of-making\|Joy of making]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Joy-of-mattering\|Joy of mattering]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Joyful-artifact\|Joyful artifact]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#João-Queirós\|João Queirós]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#JSON\|JSON]] (TECHNOLOGIE, 1 fiches)
@@ -2533,6 +2539,7 @@
 - [[kb/_entites-mineures#Phoenix-checkpoint-released\|Phoenix checkpoint released]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Phèdre\|Phèdre]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#pi-ai\|pi-ai]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Pick-versus-conjure\|Pick versus conjure]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Pierre-de-la-Grand'rive\|Pierre de la Grand'rive]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#pierre-philosophale\|pierre philosophale]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#pile-de-l'IA-personnelle\|pile de l'IA personnelle]] (CONCEPT, 1 fiches)
@@ -2584,6 +2591,7 @@
 - [[kb/_entites-mineures#PORTING.md-LIFETIMES.tsv\|PORTING.md / LIFETIMES.tsv]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Position-no-headcount-reduction-(DORA)\|Position no-headcount-reduction (DORA)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Position-épistémique-tierce-(Frizzo)\|Position épistémique tierce (Frizzo)]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#post-Three-joys-of-engineering\|post Three joys of engineering]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Post-X-de-@ytk_matsuda\|Post X de @ytk_matsuda]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#post-mortem-technique-détaillé\|post-mortem technique détaillé]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Posthumanisme-(critique-léonienne)\|Posthumanisme (critique léonienne)]] (CONCEPT, 1 fiches)
@@ -3307,6 +3315,7 @@
 - [[kb/_entites-mineures#Thoughtworks-Future-of-Software-Development-Retreat\|Thoughtworks Future of Software Development Retreat]] (EVENEMENT, 1 fiches)
 - [[kb/Threat-Intelligence-Report-septembre-2026\|Threat Intelligence Report septembre 2026]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Three-Fidelities\|Three Fidelities]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Three-joys-of-engineering\|Three joys of engineering]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Three-layers-of-reach\|Three layers of reach]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Three-properties-of-a-real-platform\|Three properties of a real platform]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#three-layer-framework-(Uber)\|three-layer framework (Uber)]] (METHODOLOGIE, 1 fiches)

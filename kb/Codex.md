@@ -29,7 +29,7 @@
 
 ### fait_partie_de
 
-- Agents de codage (TECHNOLOGIE) — 0.97, ATEMPOREL
+- [[kb/Agents-de-codage\|Agents de codage]] (TECHNOLOGIE) — 0.97, ATEMPOREL
   - [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|The AI-native interview]]
 
 ### mesure

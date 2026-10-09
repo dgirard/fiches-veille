@@ -96,7 +96,7 @@
 
 ### fait_partie_de
 
-- Agents de codage (TECHNOLOGIE) — 0.97, ATEMPOREL
+- [[kb/Agents-de-codage\|Agents de codage]] (TECHNOLOGIE) — 0.97, ATEMPOREL
   - [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|The AI-native interview]]
 - coding assistants à allouer (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2026-04/finout-finops-ai-agents-four-step-allocation-framework-2026-04-27\|FinOps for AI Agents: A Four-Step Allocation Framework]]

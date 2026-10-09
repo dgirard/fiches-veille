@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 439 entités de type ORGANISATION
+> 440 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -38,7 +38,7 @@
 - [[kb/_entites-mineures#Americans-for-Responsible-Innovation\|Americans for Responsible Innovation]] — rôle: ONG (Brad Carson) soutenant l'AI Kill Switch Act ; plaide pour un off switch fiable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Amplitude\|Amplitude]] — apport: Refonte de six mois de l'environnement, de la CI et de la revue, avec approbation automatisée documentée pour SOC 2 sur critères, décisions journalisées et voie de dérogation (1 occ., 1 fiches)
 - [[kb/Andreessen-Horowitz\|Andreessen Horowitz]] — secteur: Capital-risque, Silicon Valley (6 occ., 6 fiches)
-- [[kb/Anthropic\|Anthropic]] — secteur: IA / Safety (51 occ., 51 fiches)
+- [[kb/Anthropic\|Anthropic]] — secteur: IA / Safety (52 occ., 52 fiches)
 - [[kb/_entites-mineures#Anthropic-Institute\|Anthropic Institute]] — description: Institut Anthropic lancé mars 2026, dirigé par Jack Clark, regroupant economics + societal impact + frontier safety (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Anthropic-Threat-Intelligence\|Anthropic Threat Intelligence]] — rôle: Analyse des données d'investigation via Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Anysphere\|Anysphere]] — rôle: Société propriétaire de Cursor ; tour de 2 milliards à 50 milliards de valorisation préempté par l'accord (1 occ., 1 fiches)
@@ -181,6 +181,7 @@
 - [[kb/_entites-mineures#Google-Labs\|Google Labs]] — secteur: Recherche et développement IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Google-X\|Google X]] — secteur: Laboratoire d'innovation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Governing-Board\|Governing Board]] — rôle: Direction industrielle + allocation des fonds (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Grafana-Labs\|Grafana Labs]] — secteur: Observabilité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Graphify-Labs\|Graphify Labs]] — rôle: Société éditrice de graphify, passée par Y Combinator promotion S26 ; construit une plateforme commerciale continue au-dessus de la skill open source (1 occ., 1 fiches)
 - [[kb/Graphite.io\|Graphite.io]] — secteur: Marketing / Optimisation contenu IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Greptile\|Greptile]] — catégorie: Start-up tech (San Francisco) (1 occ., 1 fiches)

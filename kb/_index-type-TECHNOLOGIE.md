@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 865 entités de type TECHNOLOGIE
+> 866 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -74,6 +74,7 @@
 - [[kb/_entites-mineures#Agentmail\|Agentmail]] — categorie: Identite email pour agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agents-CLI\|Agents CLI]] — définition: Outil Google empaquetant les skills maison d'agent building, évaluation, déploiement, observabilité et publication ; distribué au format Agent Plugins et utilisable depuis Antigravity, Gemini CLI, Claude Code ou Cursor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agents-SDK\|Agents SDK]] — rôle: Orchestration LLM pour génération de code (1 occ., 1 fiches)
+- [[kb/Agents-de-codage\|Agents de codage]] — catégorie: Agents d'IA qui écrivent et modifient du code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ahrefs-MCP\|Ahrefs MCP]] — catégorie: Serveur MCP fournissant les données SEO live (1 occ., 1 fiches)
 - [[kb/AiKA-Modes\|AiKA Modes]] — définition: Agent déclaratif sur runtime éphémère — instructions, modèle, température, outils MCP, visibilité publique ou privée ; résolution par nom avec préséance perso, équipe, public (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Akzidenz-Grotesk-Next-Pro\|Akzidenz-Grotesk Next Pro]] — catégorie: Police typographique recommandée (1 occ., 1 fiches)

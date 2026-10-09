@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 3016 entités avec moins de 3 triples/fiches
+> 3024 entités avec moins de 3 triples/fiches
 
-## PERSONNE (401)
+## PERSONNE (402)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -549,6 +549,17 @@
 - **rôle** : Software Engineer I chez Uber, co-auteur
 
 **Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
+
+### Ben Simpson {#Ben-Simpson}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Senior Software Engineer chez Grafana Labs (commentateur)
+
+- **travaille_chez** → [[kb/_entites-mineures#Grafana-Labs\|Grafana Labs]] (ORGANISATION) — 0.90
+- **recommande** → « une skill qui ajoute de la friction avant de coder » (AFFIRMATION) — 0.80
+
+**Fiches** : [[fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09\|The three joys of engineering: liberation or loss depends on which joy you lean on most]]
 
 ### Benjamin Franklin {#Benjamin-Franklin}
 
@@ -4031,7 +4042,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (323)
+## ORGANISATION (324)
 
 ### 10x {#10x}
 
@@ -5407,6 +5418,16 @@
 - **dirige** → [[kb/Tokenomics-Foundation\|Tokenomics Foundation]] (ORGANISATION) — 0.88
 
 **Fiches** : [[fiches/2026-06/tokenomics-foundation-linux-finops-token-economics-about-2026-06-03\|About — Tokenomics Foundation (a Linux Foundation project)]]
+
+### Grafana Labs {#Grafana-Labs}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Observabilité
+
+- [[kb/_entites-mineures#Ben-Simpson\|Ben Simpson]] **travaille_chez** → Grafana Labs — 0.90
+
+**Fiches** : [[fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09\|The three joys of engineering: liberation or loss depends on which joy you lean on most]]
 
 ### Graphify Labs {#Graphify-Labs}
 
@@ -14489,7 +14510,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1002)
+## CONCEPT (1007)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -17119,6 +17140,40 @@
 
 **Fiches** : [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
 
+### Joy of knowing {#Joy-of-knowing}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Plaisir d'un modèle mental assez fort pour sentir où est le bogue
+
+- **fait_partie_de** → [[kb/_entites-mineures#Three-joys-of-engineering\|Three joys of engineering]] (CONCEPT) — 0.97
+
+- [[kb/_entites-mineures#Pick-versus-conjure\|Pick versus conjure]] **fait_partie_de** → Joy of knowing — 0.88
+
+**Fiches** : [[fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09\|The three joys of engineering: liberation or loss depends on which joy you lean on most]]
+
+### Joy of making {#Joy-of-making}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Plaisir du flux et du moment où tout s'emboîte
+
+- **fait_partie_de** → [[kb/_entites-mineures#Three-joys-of-engineering\|Three joys of engineering]] (CONCEPT) — 0.97
+
+- [[kb/Agents-de-codage\|Agents de codage]] **s_applique_à** → Joy of making — 0.80
+
+**Fiches** : [[fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09\|The three joys of engineering: liberation or loss depends on which joy you lean on most]]
+
+### Joy of mattering {#Joy-of-mattering}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Plaisir d'être l'expert dont tout dépendait
+
+- **fait_partie_de** → [[kb/_entites-mineures#Three-joys-of-engineering\|Three joys of engineering]] (CONCEPT) — 0.97
+
+**Fiches** : [[fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09\|The three joys of engineering: liberation or loss depends on which joy you lean on most]]
+
 ### Joyful artifact {#Joyful-artifact}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -17739,6 +17794,16 @@
 - **est_instance_de** → croissance en escalier avec ressources limitantes (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Starving Genies]]
+
+### Pick versus conjure {#Pick-versus-conjure}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Choisir parmi des options n'est pas concevoir ; la capacité de concevoir s'érode si l'on ne l'exerce pas
+
+- **fait_partie_de** → [[kb/_entites-mineures#Joy-of-knowing\|Joy of knowing]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09\|The three joys of engineering: liberation or loss depends on which joy you lean on most]]
 
 ### Pivot conceptuel cluster outcome-based 2025-2026 {#Pivot-conceptuel-cluster-outcome-based-2025-2026}
 
@@ -18668,6 +18733,19 @@
 - **application** : L'IA accélère une étape qui n'était pas le bottleneck, donc déplace le problème ailleurs
 
 **Fiches** : [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|AI Assisted Development is a TRAP Without Continuous Delivery]]
+
+### Three joys of engineering {#Three-joys-of-engineering}
+
+**Type** : CONCEPT | 4 relations | 1 fiches
+
+- **définition** : Grille de lecture : making, knowing, mattering comme sources de joie du métier d'ingénieur
+
+- [[kb/_entites-mineures#Joy-of-knowing\|Joy of knowing]] **fait_partie_de** → Three joys of engineering — 0.97
+- [[kb/_entites-mineures#Joy-of-making\|Joy of making]] **fait_partie_de** → Three joys of engineering — 0.97
+- [[kb/_entites-mineures#Joy-of-mattering\|Joy of mattering]] **fait_partie_de** → Three joys of engineering — 0.97
+- [[kb/Addy-Osmani\|Addy Osmani]] **a_créé** → Three joys of engineering — 0.90
+
+**Fiches** : [[fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09\|The three joys of engineering: liberation or loss depends on which joy you lean on most]]
 
 ### Tier 1 Constitution {#Tier-1-Constitution}
 
@@ -27782,7 +27860,7 @@
 
 - **catégorie** : Inspection par un pair, dont l'article conteste la tenue face au débit agentique
 
-- agents de codage **surpasse** → revue de code humaine — 0.90
+- [[kb/Agents-de-codage\|agents de codage]] **surpasse** → revue de code humaine — 0.90
 - [[kb/pipeline-de-vérification-adversariale-multi-agents\|pipeline de vérification adversariale multi-agents]] **remplace** → revue de code humaine — 0.90
 
 **Fiches** : [[fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11\|The End of Code Review: Coding Agents Supersede Human Inspection]]
@@ -28804,7 +28882,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (156)
+## DOCUMENT (157)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -30319,6 +30397,14 @@
 - **est_basé_sur** → [[kb/_entites-mineures#spec-md\|spec.md]] (DOCUMENT) — 0.90
 
 **Fiches** : [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
+
+### post Three joys of engineering {#post-Three-joys-of-engineering}
+
+**Type** : DOCUMENT | 0 relations | 1 fiches
+
+- **catégorie** : Post LinkedIn et schéma de Venn, 9 octobre 2026
+
+**Fiches** : [[fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09\|The three joys of engineering: liberation or loss depends on which joy you lean on most]]
 
 ### post-mortem technique détaillé {#post-mortem-technique-détaillé}
 

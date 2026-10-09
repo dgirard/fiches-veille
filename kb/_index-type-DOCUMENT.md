@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 182 entités de type DOCUMENT
+> 183 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -169,6 +169,7 @@
 - [[kb/_entites-mineures#intent-md\|intent.md]] — rôle: Proto-spec écrite par l'auteur de l'idée : problème, résultat attendu, contraintes, questions ouvertes (1 occ., 1 fiches)
 - [[kb/page-Context-Filter\|page Context Filter]] — forme: Documentation technique de GPT Researcher avec benchmark reproductible (scripts collect, replay, judge dans evals/context_filter), réécrite le 26 septembre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#plan-md\|plan.md]] — rôle: Plan d'implémentation accepté : fichiers touchés, ordre du travail, risques, preuves attendues (1 occ., 1 fiches)
+- [[kb/_entites-mineures#post-Three-joys-of-engineering\|post Three joys of engineering]] — catégorie: Post LinkedIn et schéma de Venn, 9 octobre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#post-mortem-technique-détaillé\|post-mortem technique détaillé]] — valeur: transparence radicale envers clients (1 occ., 1 fiches)
 - [[kb/_entites-mineures#rapport-DORA-2024\|rapport DORA 2024]] — date: 2024 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#rapport-Disrupting-AI-espionage-novembre-2025\|rapport Disrupting AI espionage novembre 2025]] — statut: Rapport précédent, dont le modèle opératoire autonome est déclaré diffusé à toutes les classes d'acteurs (1 occ., 1 fiches)

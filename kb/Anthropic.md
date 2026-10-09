@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 155 relations | 51 fiches sources
+> **Type** : ORGANISATION | 156 relations | 52 fiches sources
 
 ## Attributs
 
@@ -346,6 +346,7 @@
 - [[kb/_entites-mineures#Snowflake\|Snowflake]] **collabore_avec** → Anthropic — 0.90
 - administration Trump **s_oppose_à** → Anthropic — 0.90
 - recours collectif envisagé en Californie **s_oppose_à** → Anthropic — 0.90
+- [[kb/Addy-Osmani\|Addy Osmani]] **travaille_chez** → Anthropic — 0.90
 - [[kb/Thariq\|Thariq]] **travaille_chez** → Anthropic — 0.90
 - [[kb/AWS\|AWS]] **utilise** → Anthropic — 0.90
 - [[kb/_entites-mineures#Composer\|Composer]] **concurrence** → Anthropic — 0.89
@@ -397,6 +398,7 @@
 - [[fiches/2025-07/openai-chatgpt-agent-launch-announcement-2025-07-17\|Introducing ChatGPT Agent]]
 - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
 - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
+- [[fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09\|The three joys of engineering: liberation or loss depends on which joy you lean on most]]
 - [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Powered by Claude]]
 - [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|From RAG to Rigor Mortis: Why Retrieval-Augmented Generation looks like dying]]
 - [[fiches/2025-11/rajasekaran-anthropic-frontend-design-skills-2025-11-12\|Improving frontend design through Skills]]

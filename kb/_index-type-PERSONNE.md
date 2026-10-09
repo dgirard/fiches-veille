@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 550 entités de type PERSONNE
+> 551 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -11,7 +11,7 @@
 - [[kb/_entites-mineures#Aaron-Wanjala\|Aaron Wanjala]] — rôle: Cloud developer advocate Google Cloud, Spring Boot/Angular, app modernization + AI code assistance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Abhishek-Kankani\|Abhishek Kankani]] — rôle: Auteur de l'article Cloudflare Blog (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Adam-Cohen\|Adam Cohen]] — rôle: Co-fondateur & CEO (1 occ., 1 fiches)
-- [[kb/Addy-Osmani\|Addy Osmani]] — rôle: Ingénieur Google, a popularisé le terme « loop engineering » (juin 2026) (9 occ., 8 fiches)
+- [[kb/Addy-Osmani\|Addy Osmani]] — rôle: Member of Technical Staff chez Anthropic (fonction affichée) (10 occ., 9 fiches)
 - [[kb/_entites-mineures#Adrian-Kinnersley\|Adrian Kinnersley]] — rôle: Dirigeant d'une société de recrutement ; alerte sur la non-conformité légale du 996 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Adrien-Nussenbaum\|Adrien Nussenbaum]] — rôle: Cofondateur de Splitgames puis de Mirakl ; parti ouvrir l'activité commerciale à Boston en 2015 (1 occ., 1 fiches)
 - [[kb/Ahmad-Osman\|Ahmad Osman]] — rôle: Auteur du thread ; ancien power user de Claude Code (2024-2026) devenu critique (1 occ., 1 fiches)
@@ -72,6 +72,7 @@
 - [[kb/_entites-mineures#Barron-Ernst\|Barron Ernst]] — rôle: Auteur / Analyste commerce IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Baudouin-Arbarétier\|Baudouin Arbarétier]] — rôle: Co-fondateur Ordalie (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bayard-Walsh\|Bayard Walsh]] — rôle: Software Engineer I chez Uber, co-auteur (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Ben-Simpson\|Ben Simpson]] — rôle: Senior Software Engineer chez Grafana Labs (commentateur) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Benjamin-Franklin\|Benjamin Franklin]] — rôle: Père fondateur américain, praticien de l'auto-examen (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bharat-N.-Anand\|Bharat N. Anand]] — rôle: Doyen, NYU Stern School of Business (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bharat-Ramamurti\|Bharat Ramamurti]] — rôle: Ex-deputy director NEC Biden, "China shock could happen over two years" (1 occ., 1 fiches)
