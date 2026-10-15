@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3638 entités
+> 3648 entités
 
 ## #
 
@@ -403,6 +403,7 @@
 - [[kb/_entites-mineures#Article-DHH-2014-TDD-is-dead\|Article DHH 2014 "TDD is dead"]] (DOCUMENT, 1 fiches)
 - [[kb/article-GLM-5.3-and-the-spread-of-advanced-cyber-capabilities\|article GLM-5.3 and the spread of advanced cyber capabilities]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#article-Introducing-System-One-Models-&-Jev\|article Introducing System One Models & Jev]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#article-Linux-kernel-devs-drop-obligatory-confession\|article Linux kernel devs drop obligatory confession]] (DOCUMENT, 1 fiches)
 - [[kb/article-Personal-AI-Should-Actually-Be-Personal\|article Personal AI Should Actually Be Personal]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#article-The-agentic-transformation-office\|article The agentic transformation office]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#article-The-AI-operating-system\|article The AI operating system]] (DOCUMENT, 1 fiches)
@@ -1598,6 +1599,7 @@
 - [[kb/_entites-mineures#Greg-Callahan\|Greg Callahan]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Greg-Fiore\|Greg Fiore]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Greg-Isenberg\|Greg Isenberg]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Greg-Kroah-Hartman\|Greg Kroah-Hartman]] (PERSONNE, 1 fiches)
 - [[kb/Gregor-Hohpe\|Gregor Hohpe]] (PERSONNE, 3 fiches)
 - [[kb/_entites-mineures#Greptile\|Greptile]] (ORGANISATION, 1 fiches)
 - [[kb/grill-with-docs\|grill-with-docs]] (METHODOLOGIE, 1 fiches)
@@ -1846,6 +1848,7 @@
 - [[kb/Jean-Paul-Paoli\|Jean-Paul Paoli]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jean-Philippe-Aumasson\|Jean-Philippe Aumasson]] (PERSONNE, 1 fiches)
 - [[kb/Jeff-Bezos\|Jeff Bezos]] (PERSONNE, 2 fiches)
+- [[kb/Jeff-Layton\|Jeff Layton]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jeff-Otto\|Jeff Otto]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jeffrey-Ding\|Jeffrey Ding]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jeffrey-Herf\|Jeffrey Herf]] (PERSONNE, 1 fiches)
@@ -1956,6 +1959,7 @@
 - [[kb/Laura-Tacho\|Laura Tacho]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#Lauren-(@poteto)\|Lauren (@poteto)]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Lauren-Reader\|Lauren Reader]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Laurent-Pinchart\|Laurent Pinchart]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#LAYS\|LAYS]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Le-Chat\|Le Chat]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Le-Touilleur-Express\|Le Touilleur Express]] (ORGANISATION, 2 fiches)
@@ -1999,8 +2003,8 @@
 - [[kb/_entites-mineures#Linenoise\|Linenoise]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Link-wallet-for-agents\|Link wallet for agents]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#lint-de-patterns\|lint de patterns]] (CONCEPT, 1 fiches)
-- [[kb/Linus-Torvalds\|Linus Torvalds]] (PERSONNE, 1 fiches)
-- [[kb/_entites-mineures#Linux\|Linux]] (TECHNOLOGIE, 2 fiches)
+- [[kb/Linus-Torvalds\|Linus Torvalds]] (PERSONNE, 2 fiches)
+- [[kb/Linux\|Linux]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#Linux-6.9\|Linux 6.9]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Linux-Foundation\|Linux Foundation]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#Lior-Novik\|Lior Novik]] (PERSONNE, 1 fiches)
@@ -2069,6 +2073,7 @@
 - [[kb/_entites-mineures#Magentic-Marketplace\|Magentic Marketplace]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Magnifica-Humanitas\|Magnifica Humanitas]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Magnificat-(Lc-1,-46-55)\|Magnificat (Lc 1, 46-55)]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Maintainers-Summit\|Maintainers Summit]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#Make-vs-Buy\|Make vs Buy]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Management-par-intervention\|Management par intervention]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Manager-d'agents\|Manager d'agents]] (CONCEPT, 2 fiches)
@@ -2684,6 +2689,7 @@
 - [[kb/_entites-mineures#protocoles-de-confiance-des-agents\|protocoles de confiance des agents]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#prototype-dogfood-productionize\|prototype dogfood productionize]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#provenance-d'arête\|provenance d'arête]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Provenance-du-code\|Provenance du code]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#provenance-footers\|provenance footers]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Présentation-live\|Présentation live]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#PSR-(Project-Security-Review)\|PSR (Project Security Review)]] (TECHNOLOGIE, 1 fiches)
@@ -2918,6 +2924,7 @@
 - [[kb/_entites-mineures#SAO\|SAO]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#SAP\|SAP]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Sarah-Allali\|Sarah Allali]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Sasha-Levin\|Sasha Levin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Sashiko\|Sashiko]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#satisfaction-probabiliste\|satisfaction probabiliste]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Satlyt\|Satlyt]] (ORGANISATION, 1 fiches)
@@ -3228,6 +3235,7 @@
 - [[kb/_entites-mineures#série-D-de-3-Md€\|série D de 3 Md€]] (EVENEMENT, 1 fiches)
 ## T
 
+- [[kb/_entites-mineures#Tag-Assisted-by\|Tag Assisted-by]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Tags\|Tags]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Tailwind-CSS\|Tailwind CSS]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Tailwinds-AI\|Tailwinds AI]] (CONCEPT, 1 fiches)
@@ -3317,6 +3325,7 @@
 - [[kb/The-New-SDLC-With-Vibe-Coding\|The New SDLC With Vibe Coding]] (DOCUMENT, 1 fiches)
 - [[kb/The-New-York-Times\|The New York Times]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#The-Pragmatic-Programmer\|The Pragmatic Programmer]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#The-Register\|The Register]] (ORGANISATION, 1 fiches)
 - [[kb/The-Software-Architect-Elevator\|The Software Architect Elevator]] (DOCUMENT, 3 fiches)
 - [[kb/_entites-mineures#The-state-of-open-source-AI\|The state of open source AI]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#The-Strategy-Stack\|The Strategy Stack]] (ORGANISATION, 1 fiches)
@@ -3332,6 +3341,7 @@
 - [[kb/_entites-mineures#Thinking,-Fast-and-Slow\|Thinking, Fast and Slow]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Thinkroom\|Thinkroom]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Thomas-Bouret\|Thomas Bouret]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Thomas-Claburn\|Thomas Claburn]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Thomas-d'Aquin\|Thomas d'Aquin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Thomas-Kurian\|Thomas Kurian]] (PERSONNE, 1 fiches)
 - [[kb/Thomas-Petersen\|Thomas Petersen]] (PERSONNE, 1 fiches)

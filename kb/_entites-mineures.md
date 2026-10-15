@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 3039 entités avec moins de 3 triples/fiches
+> 3047 entités avec moins de 3 triples/fiches
 
-## PERSONNE (404)
+## PERSONNE (408)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1525,6 +1525,16 @@
 
 **Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Google's Design.md is a design team in a file (Greg Isenberg × Meng To)]]
 
+### Greg Kroah-Hartman {#Greg-Kroah-Hartman}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Mainteneur historique du noyau Linux
+
+- **affirme_que** → « les LLM sont assez bons pour trouver des bugs, le code n'étant que des motifs » (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14\|Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code,…]]
+
 ### Guido Appenzeller {#Guido-Appenzeller}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -2106,6 +2116,19 @@
 - **rôle** : Interviewer Sequoia de l'événement Cherny
 
 **Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
+
+### Laurent Pinchart {#Laurent-Pinchart}
+
+**Type** : PERSONNE | 3 relations | 1 fiches
+
+- **rôle** : Développeur du noyau Linux, fondateur d'Ideas on Board
+
+- **a_créé** → Ideas on Board (ORGANISATION) — 0.90
+- **soutient** → [[kb/_entites-mineures#Tag-Assisted-by\|Tag Assisted-by]] (CONCEPT) — 0.88
+
+- [[kb/Linus-Torvalds\|Linus Torvalds]] **s_oppose_à** → Laurent Pinchart — 0.85
+
+**Fiches** : [[fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14\|Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code,…]]
 
 ### Lei Zhang {#Lei-Zhang}
 
@@ -3277,6 +3300,17 @@
 
 **Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|« On est dans une boîte de Petri » : la Silicon Valley, ce pays où les agents IA sont déjà des collègues]]
 
+### Sasha Levin {#Sasha-Levin}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Développeur du noyau Linux, ingénieur chez Nvidia
+
+- **affirme_que** → « le Maintainers Summit a trouvé un consensus pour déprécier le tag Assisted-by » (AFFIRMATION) — 0.95
+- **travaille_chez** → [[kb/Nvidia\|Nvidia]] (ORGANISATION) — 0.92
+
+**Fiches** : [[fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14\|Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code,…]]
+
 ### Savir Basil {#Savir-Basil}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -3685,6 +3719,16 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
+### Thomas Claburn {#Thomas-Claburn}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : AI and software reporter, The Register
+
+- **travaille_chez** → [[kb/_entites-mineures#The-Register\|The Register]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14\|Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code,…]]
+
 ### Thomas Kurian {#Thomas-Kurian}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -4064,7 +4108,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (325)
+## ORGANISATION (326)
 
 ### 10x {#10x}
 
@@ -6978,6 +7022,18 @@
 
 **Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|The Pivotal Role Of Chief HR Officer in AI Transformation]]
 
+### The Register {#The-Register}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **secteur** : Presse technique britannique
+
+- **publie** → [[kb/_entites-mineures#article-Linux-kernel-devs-drop-obligatory-confession\|article Linux kernel devs drop obligatory confession]] (DOCUMENT) — 0.97
+
+- [[kb/_entites-mineures#Thomas-Claburn\|Thomas Claburn]] **travaille_chez** → The Register — 0.95
+
+**Fiches** : [[fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14\|Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code,…]]
+
 ### The Strategy Stack {#The-Strategy-Stack}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -7405,7 +7461,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (682)
+## TECHNOLOGIE (681)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -10776,19 +10832,6 @@
 - [[kb/Claude-Code\|Claude Code]] **améliore** → Linenoise — 0.93
 
 **Fiches** : [[fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11\|Don't fall into the anti-AI hype]]
-
-### Linux {#Linux}
-
-**Type** : TECHNOLOGIE | 2 relations | 2 fiches
-
-- **avantage agentique** : 40 millions de lignes intégralement présentes dans le pré-entraînement des modèles de frontière ; noyau le plus revu de l'histoire, estimation de 15 000 Md$ d'économie en dépendant
-- **catégorie** : Noyau open source dirigé par Torvalds ; adopte officiellement une position non anti-IA (l'IA comme outil jugé sur son mérite technique)
-
-- **permet** → « un avantage agentique décisif, ses 40 millions de lignes étant dans le pré-entraînement de tous les modèles de frontière » (AFFIRMATION) — 0.92
-
-- [[kb/Linus-Torvalds\|Linus Torvalds]] **dirige** → Linux — 0.98
-
-**Fiches** : [[fiches/2026-09/heinemeier-hansson-end-of-hand-written-code-2026-09-28\|The End of Hand-Written Code: A Conversation with David Heinemeier Hansson (DHH) on AI, Omarchy and the Future of…]], [[fiches/2026-07/torvalds-llm-outil-kernel-2026-07-14\|Re: Linking Patchwork with Sashiko? (message linux-media sur la position du kernel Linux vis-à-vis de l'IA)]]
 
 ### Linux 6.9 {#Linux-6.9}
 
@@ -14559,7 +14602,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1013)
+## CONCEPT (1015)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -18104,6 +18147,16 @@
 
 **Fiches** : [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Lessons from Building Claude Code: Prompt Caching Is Everything]]
 
+### Provenance du code {#Provenance-du-code}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Mention de l'outil ou de l'agent ayant contribué à un code ou un commit
+
+- [[kb/Claude-Code\|Claude Code]] **utilise** → Provenance du code — 0.80
+
+**Fiches** : [[fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14\|Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code,…]]
+
 ### Présentation live {#Présentation-live}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -18772,6 +18825,20 @@
 - **surpasse** → Prix au token (CONCEPT) — 0.97
 
 **Fiches** : [[fiches/2026-03/sitepoint-local-llms-vs-cloud-tco-break-even-2026-03-05\|Local LLMs vs Cloud APIs: 2026 Total Cost of Ownership Analysis]]
+
+### Tag Assisted-by {#Tag-Assisted-by}
+
+**Type** : CONCEPT | 4 relations | 1 fiches
+
+- **définition** : Mention obligatoire dans le message de commit de l'usage d'un outil de codage avancé ; proposée en juillet 2025, documentée en janvier 2026, dépréciée en octobre 2026
+
+- **fait_partie_de** → [[kb/Linux\|Linux]] (TECHNOLOGIE) — 0.85
+
+- [[kb/_entites-mineures#Maintainers-Summit\|Maintainers Summit]] **s_oppose_à** → Tag Assisted-by — 0.92
+- [[kb/Jeff-Layton\|Jeff Layton]] **s_oppose_à** → Tag Assisted-by — 0.90
+- [[kb/_entites-mineures#Laurent-Pinchart\|Laurent Pinchart]] **soutient** → Tag Assisted-by — 0.88
+
+**Fiches** : [[fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14\|Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code,…]]
 
 ### Tailwinds AI {#Tailwinds-AI}
 
@@ -28478,7 +28545,7 @@
 
 **Fiches** : [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Loop Engineering for Product Managers]]
 
-## EVENEMENT (51)
+## EVENEMENT (52)
 
 ### 100% code généré (Cherny) {#100%-code-généré-(Cherny)}
 
@@ -28686,6 +28753,16 @@
 - **permet** → nouveau paradigme de recherche web (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2025-10/perplexity-chrome-integration-browser-ai-search-2025-10-22\|Perplexity Integrates Directly into Chrome Browser, Challenging Google Search Dominance]]
+
+### Maintainers Summit {#Maintainers-Summit}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **catégorie** : Réunion annuelle des mainteneurs du noyau Linux
+
+- **s_oppose_à** → [[kb/_entites-mineures#Tag-Assisted-by\|Tag Assisted-by]] (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14\|Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code,…]]
 
 ### Métriques PROJ-AI {#Métriques-PROJ-AI}
 
@@ -29024,7 +29101,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (160)
+## DOCUMENT (161)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -30369,6 +30446,16 @@
 - [[kb/_entites-mineures#Diogo-Almeida\|Diogo Almeida]] **publie** → article Introducing System One Models & Jev — 0.97
 
 **Fiches** : [[fiches/2026-09/almeida-system-one-models-jev-2026-09-15\|Introducing System One Models & Jev]]
+
+### article Linux kernel devs drop obligatory confession {#article-Linux-kernel-devs-drop-obligatory-confession}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **catégorie** : Article The Register, 14 octobre 2026
+
+- [[kb/_entites-mineures#The-Register\|The Register]] **publie** → article Linux kernel devs drop obligatory confession — 0.97
+
+**Fiches** : [[fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14\|Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code,…]]
 
 ### article The AI operating system {#article-The-AI-operating-system}
 

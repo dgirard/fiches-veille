@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 441 entités de type ORGANISATION
+> 442 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -382,6 +382,7 @@
 - [[kb/_entites-mineures#The-Intelligence-Fabric\|The Intelligence Fabric]] — catégorie: Newsletter / blog sur l'IA et l'organisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Josh-Bersin-Company\|The Josh Bersin Company]] — rôle: Cabinet d'analyse RH éditeur de la note, distinct de son fondateur (1 occ., 1 fiches)
 - [[kb/The-New-York-Times\|The New York Times]] — secteur: Presse / journalisme de données (1 occ., 1 fiches)
+- [[kb/_entites-mineures#The-Register\|The Register]] — secteur: Presse technique britannique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Strategy-Stack\|The Strategy Stack]] — catégorie: Newsletter Substack stratégie / AI operating models / agentic workflows (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thinking-Machines-Lab\|Thinking Machines Lab]] — fondatrice: Mira Murati (ex-CTO OpenAI) (1 occ., 1 fiches)
 - [[kb/Thoughtworks\|Thoughtworks]] — secteur: Cabinet global de conseil software engineering, fondé 1993, héritage XP / CI-CD / microservices / refactoring (6 occ., 6 fiches)

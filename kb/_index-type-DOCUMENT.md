@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 186 entités de type DOCUMENT
+> 187 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -151,6 +151,7 @@
 - [[kb/_entites-mineures#article-Automating-eval-design-and-hillclimbing\|article Automating eval design and hillclimbing]] — nature: Playbook du blog claude.dev, 28 septembre 2026 (1 occ., 1 fiches)
 - [[kb/article-GLM-5.3-and-the-spread-of-advanced-cyber-capabilities\|article GLM-5.3 and the spread of advanced cyber capabilities]] — forme: Billet de recherche du 29 septembre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-Introducing-System-One-Models-&-Jev\|article Introducing System One Models & Jev]] — date: 2026-09-15 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#article-Linux-kernel-devs-drop-obligatory-confession\|article Linux kernel devs drop obligatory confession]] — catégorie: Article The Register, 14 octobre 2026 (1 occ., 1 fiches)
 - [[kb/article-Personal-AI-Should-Actually-Be-Personal\|article Personal AI Should Actually Be Personal]] — forme: Fil X du 29 septembre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-The-AI-operating-system\|article The AI operating system]] — catégorie: Article McKinsey/QuantumBlack, octobre 2026, 12 pages (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-The-Dot-and-the-Swarm\|article The Dot and the Swarm]] — date: 2026-10-01 (1 occ., 1 fiches)

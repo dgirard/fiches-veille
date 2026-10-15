@@ -1,6 +1,6 @@
 # Index — EVENEMENT
 
-> 55 entités de type EVENEMENT
+> 56 entités de type EVENEMENT
 
 - [[kb/_entites-mineures#100%-code-généré-(Cherny)\|100% code généré (Cherny)]] — description: Depuis octobre/novembre 2025, Cherny écrit 0% manuel — modèle écrit l'intégralité de son code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#200-postes-tech-supprimés-nov-2024\|200 postes tech supprimés nov 2024]] — description: Réduction d'effectif McKinsey nov 2024, ~0,5% des humains. Petit relatif vs ampleur déclaration mais signal directionnel (1 occ., 1 fiches)
@@ -25,6 +25,7 @@
 - [[kb/_entites-mineures#IPO-de-SpaceX\|IPO de SpaceX]] — calendrier: Cotation visée en juin 2026 à une valorisation rapportée de 1 750 milliards de dollars ; conditionne l'exercice de l'option sur Cursor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Incident-#714\|Incident #714]] — résultat: Fix + learning + test de régression + doctrine AGENTS.md (classe de défaillance retirée) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Intégration-Chrome-Perplexity\|Intégration Chrome Perplexity]] — date: 2025-10-22 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Maintainers-Summit\|Maintainers Summit]] — catégorie: Réunion annuelle des mainteneurs du noyau Linux (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Métriques-PROJ-AI\|Métriques PROJ-AI]] — description: Sur 3 missions actives : onboarding 3 sem → 2 jours, traçabilité 30% → 100%, doc archi 6 sem → continu, archéologie PM 30% → négligeable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NRF-2026\|NRF 2026]] — lieu: Javits Center, New York (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Offre-départ-9-mois-salaire-avril-2024\|Offre départ 9 mois salaire avril 2024]] — description: Programme volontaire de départ McKinsey avril 2024 — 9 mois de salaire offerts, mécanisme de réduction effectif douce (1 occ., 1 fiches)

@@ -430,7 +430,7 @@
 - [[kb/_entites-mineures#Linear-Sync-Engine\|Linear Sync Engine]] — attribut: Architecture haute performance temps réel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Linenoise\|Linenoise]] — catégorie: Bibliothèque édition ligne de commande (1 occ., 1 fiches)
 - [[kb/Link-wallet-for-agents\|Link wallet for agents]] — définition: Portefeuille Stripe lancé le 29 avril 2026 donnant à un agent un accès programmatique à Link par OAuth : sur demande de dépense approuvée par l'humain, l'agent reçoit une carte à usage unique ou un Shared Payment Token adossé aux moyens de paiement déjà enregistrés, sans jamais accéder aux identifiants bruts (2 occ., 1 fiches)
-- [[kb/_entites-mineures#Linux\|Linux]] — catégorie: Noyau open source dirigé par Torvalds ; adopte officiellement une position non anti-IA (l'IA comme outil jugé sur son mérite technique) (2 occ., 2 fiches)
+- [[kb/Linux\|Linux]] — catégorie: Noyau de système d'exploitation open source (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Linux-6.9\|Linux 6.9]] — type: Noyau Linux (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Llama-3-70B\|Llama 3 70B]] — rôle: génération dataset entraînement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Llama-4\|Llama 4]] — rôle: Famille de modèles ouverts servant de point de comparaison, dont Maverick est la variante testée (1 occ., 1 fiches)

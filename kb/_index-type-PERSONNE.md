@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 554 entités de type PERSONNE
+> 559 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -205,6 +205,7 @@
 - [[kb/_entites-mineures#Greg-Callahan\|Greg Callahan]] — rôle: Partner/Expert Bain & Company, co-auteur série software industry age of AI volet 1/5 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Greg-Fiore\|Greg Fiore]] — rôle: Partner/Expert Bain & Company, co-auteur série software industry age of AI 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Greg-Isenberg\|Greg Isenberg]] — rôle: Host podcast indie founders / AI startups, ideabrowser.com (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Greg-Kroah-Hartman\|Greg Kroah-Hartman]] — rôle: Mainteneur historique du noyau Linux (1 occ., 1 fiches)
 - [[kb/Gregor-Hohpe\|Gregor Hohpe]] — rôle: Architecte, auteur de The Software Architect Elevator ; cadre de référence (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Guido-Appenzeller\|Guido Appenzeller]] — rôle: Investisseur a16z, infrastructure IA (1 occ., 1 fiches)
 - [[kb/Guillaume-Dumortier\|Guillaume Dumortier]] — rôle: Auteur de la newsletter LinkedIn *Growth Marketing Fit* ; a conçu et exploité un système d'IA marketing interne (« Marketing AI OS ») pour une équipe d'une soixantaine de personnes, dont il publie le journal de pannes en août 2026 (1 occ., 1 fiches)
@@ -247,6 +248,7 @@
 - [[kb/Jean-Paul-Paoli\|Jean-Paul Paoli]] — rôle: Auteur de l'essai (newsletter The Intelligence Fabric) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jean-Philippe-Aumasson\|Jean-Philippe Aumasson]] — rôle: Cryptographe auditeur (1 occ., 1 fiches)
 - [[kb/Jeff-Bezos\|Jeff Bezos]] — rôle: Co-CEO Project Prometheus (2 occ., 2 fiches)
+- [[kb/Jeff-Layton\|Jeff Layton]] — rôle: Développeur du noyau Linux chez Red Hat (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jeff-Otto\|Jeff Otto]] — rôle: CMO, Riskified (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jeffrey-Ding\|Jeffrey Ding]] — rôle: Politologue, propose le concept "diffusion marathon" (vs winner-take-all race) pour cadrer la course IA comme general-purpose technology (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jeffrey-Herf\|Jeffrey Herf]] — rôle: Historien, auteur de *Reactionary Modernism* (1984) (1 occ., 1 fiches)
@@ -293,6 +295,7 @@
 - [[kb/Laura-Tacho\|Laura Tacho]] — rôle: Experte en expérience développeur (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Lauren-(@poteto)\|Lauren (@poteto)]] — rôle: Personne citée pour la feature map et l'outillage « mains et yeux » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lauren-Reader\|Lauren Reader]] — rôle: Interviewer Sequoia de l'événement Cherny (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Laurent-Pinchart\|Laurent Pinchart]] — rôle: Développeur du noyau Linux, fondateur d'Ideas on Board (1 occ., 1 fiches)
 - [[kb/Lee-Robinson\|Lee Robinson]] — rôle: Développeur / Tech lead (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Lei-Zhang\|Lei Zhang]] — rôle: Head of Technology Infrastructure Engineering, Bloomberg (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Leigh-Maddock\|Leigh Maddock]] — rôle: Ingénieur chez Block ; cité pour avoir migré plus de 2 000 apps et projets avec un Swarm Buzz composé d'un coordinateur, de 1 à 10 migrateurs parallèles et d'un vérificateur indépendant (1 occ., 1 fiches)
@@ -304,7 +307,7 @@
 - [[kb/Liad-Yosef\|Liad Yosef]] — rôle: AI & MCP Lead - Monday.com (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Liam-Cripwell\|Liam Cripwell]] — rôle: auteur NuExtract (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lilach-Mollick\|Lilach Mollick]] — rôle: Chercheuse, co-conceptrice de la Twilight Factory (2 occ., 2 fiches)
-- [[kb/Linus-Torvalds\|Linus Torvalds]] — rôle: Créateur et mainteneur suprême du noyau Linux (et de Git) ; fixe ici la position officielle du projet pro-outils IA, sur critère de mérite technique (1 occ., 1 fiches)
+- [[kb/Linus-Torvalds\|Linus Torvalds]] — rôle: Créateur et mainteneur principal du noyau Linux (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Lior-Novik\|Lior Novik]] — affiliation: Maariv / Jerusalem Post (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lisa-Orr\|Lisa Orr]] — rôle: Leader ingénierie chez Zapier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lisa-Su\|Lisa Su]] — rôle: PDG AMD (1 occ., 1 fiches)
@@ -450,6 +453,7 @@
 - [[kb/Sam-Schillace\|Sam Schillace]] — rôle: Auteur, technologiste, observateur industrie IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Samir-Mody\|Samir Mody]] — rôle: Head of AI Engineering, The Browser Company (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sarah-Allali\|Sarah Allali]] — rôle: Fondatrice de Lobby (agent IA qui agit en conséquence d'emails) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Sasha-Levin\|Sasha Levin]] — rôle: Développeur du noyau Linux, ingénieur chez Nvidia (1 occ., 1 fiches)
 - [[kb/Satya-Nadella\|Satya Nadella]] — rôle: PDG de Microsoft (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Savir-Basil\|Savir Basil]] — rôle: Co-auteur, chercheur Wharton (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Scott-Galloway\|Scott Galloway]] — rôle: Cité : plus fort ROI personnel de l'IA = collaborateur pour penser (1 occ., 1 fiches)
@@ -505,6 +509,7 @@
 - [[kb/_entites-mineures#Thibaut-de-la-Grand'rive\|Thibaut de la Grand'rive]] — rôle: Cofondateur/directeur commercial-Président de Delos (IÉSEG) ; annonce en déc. 2025 vouloir lever une Série A de plusieurs dizaines de M€ d'ici mars 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thierry-Derouet\|Thierry Derouet]] — rôle: Journaliste IT for Business (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thomas-Bouret\|Thomas Bouret]] — rôle: Patron de Mathieu Grymonprez (a suivi 6 h de cours IA) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Thomas-Claburn\|Thomas Claburn]] — rôle: AI and software reporter, The Register (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thomas-Kurian\|Thomas Kurian]] — rôle: CEO de Google Cloud (1 occ., 1 fiches)
 - [[kb/Thomas-Petersen\|Thomas Petersen]] — rôle: Principal Designer & Builder chez Block ; première fiche du corpus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thomas-d'Aquin\|Thomas d'Aquin]] — époque: Théologien scolastique (XIIIe siècle) (1 occ., 1 fiches)

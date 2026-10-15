@@ -1,10 +1,10 @@
 # Linus Torvalds
 
-> **Type** : PERSONNE | 10 relations | 1 fiches sources
+> **Type** : PERSONNE | 12 relations | 2 fiches sources
 
 ## Attributs
 
-- **rôle** : Créateur et mainteneur suprême du noyau Linux (et de Git) ; fixe ici la position officielle du projet pro-outils IA, sur critère de mérite technique
+- **rôle** : Créateur et mainteneur principal du noyau Linux
 
 ## Relations (comme sujet)
 
@@ -12,6 +12,8 @@
 
 - « l'IA est un outil comme les autres, et clairement un outil utile » (AFFIRMATION) — 0.95, ATEMPOREL
   - [[fiches/2026-07/torvalds-llm-outil-kernel-2026-07-14\|Re: Linking Patchwork with Sashiko? (message linux-media sur la position du kernel Linux vis-à-vis de l'IA)]]
+- « la compréhension du code par le contributeur dépend peu des outils qu'il utilise » (AFFIRMATION) — 0.95, ATEMPOREL
+  - [[fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14\|Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code,…]]
 - « Linux n'est pas un projet anti-IA ; c'est la position officielle du kernel » (AFFIRMATION) — 0.95, STATIQUE
   - [[fiches/2026-07/torvalds-llm-outil-kernel-2026-07-14\|Re: Linking Patchwork with Sashiko? (message linux-media sur la position du kernel Linux vis-à-vis de l'IA)]]
 - « l'utilité de l'IA n'est plus une question ouverte ; quiconque en doute n'a pas vraiment essayé » (AFFIRMATION) — 0.90, STATIQUE
@@ -29,7 +31,8 @@
 
 ### dirige
 
-- [[kb/_entites-mineures#Linux\|Linux]] (TECHNOLOGIE) — 0.98, DYNAMIQUE
+- [[kb/Linux\|Linux]] (TECHNOLOGIE) — 0.98, DYNAMIQUE
+  - [[fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14\|Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code,…]]
   - [[fiches/2026-07/torvalds-llm-outil-kernel-2026-07-14\|Re: Linking Patchwork with Sashiko? (message linux-media sur la position du kernel Linux vis-à-vis de l'IA)]]
 
 ### recommande
@@ -37,6 +40,12 @@
 - « faire en sorte que les outils LLM aident les mainteneurs plutôt que de leur causer de la peine » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-07/torvalds-llm-outil-kernel-2026-07-14\|Re: Linking Patchwork with Sashiko? (message linux-media sur la position du kernel Linux vis-à-vis de l'IA)]]
 
+### s_oppose_à
+
+- [[kb/_entites-mineures#Laurent-Pinchart\|Laurent Pinchart]] (PERSONNE) — 0.85, STATIQUE
+  - [[fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14\|Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code,…]]
+
 ## Fiches sources
 
+- [[fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14\|Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code,…]]
 - [[fiches/2026-07/torvalds-llm-outil-kernel-2026-07-14\|Re: Linking Patchwork with Sashiko? (message linux-media sur la position du kernel Linux vis-à-vis de l'IA)]]

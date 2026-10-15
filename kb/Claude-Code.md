@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 124 relations | 56 fiches sources
+> **Type** : TECHNOLOGIE | 125 relations | 56 fiches sources
 
 ## Attributs
 
@@ -227,6 +227,8 @@
   - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Building Powerful Agentic Systems with Claude]]
 - [[kb/Opus-4.8\|Opus 4.8]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-06/lushbinary-loop-engineering-ai-coding-agents-guide-2026-06-09\|Loop Engineering: The Guide for AI Agents]]
+- [[kb/_entites-mineures#Provenance-du-code\|Provenance du code]] (CONCEPT) — 0.80, DYNAMIQUE
+  - [[fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14\|Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code,…]]
 
 ## Relations (comme objet)
 

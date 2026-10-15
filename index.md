@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 436 fiches | 1975-12 → 2026-10-14 | généré le 2026-10-15
+> 437 fiches | 1975-12 → 2026-10-14 | généré le 2026-10-15
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-10
 
+- **14** [Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code, whatever tools they use](fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14.md) — Thomas Claburn — AI and software reporter, The Register. · The Register — noyau Linux, Linux kernel, tag Assisted-by
 - **14** [Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.](fiches/2026-10/osmani-agentic-verification-2026-10-14.md) — Addy Osmani — ingénieur (Anthropic, cf. fiches antérieures) ; billet sur son Substack *Elevate*. · Substack (Elevate) — vérification agentique, boucle de rétroaction, agent auto-vérifiant
 - **09** [Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)](fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09.md) — Fred Cavazza (@fredcavazza) — auteur du post sur X ; fonction non indiquée dans le texte. · X — collaborateur synthétique, chatbot, agent
 - **09** [The three joys of engineering: liberation or loss depends on which joy you lean on most](fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09.md) — Addy Osmani — Member of Technical Staff chez Anthropic (fonction affichée) ; post LinkedIn. · LinkedIn — joie de faire, joie de savoir, joie de compter
@@ -551,6 +552,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Agents de codage IA & Skills
 
+- [Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code, whatever tools they use](fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14.md) — Thomas Claburn — AI and software reporter, The Register.
 - [Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.](fiches/2026-10/osmani-agentic-verification-2026-10-14.md) — Addy Osmani — ingénieur (Anthropic, cf. fiches antérieures) ; billet sur son Substack *Elevate*.
 - [The three joys of engineering: liberation or loss depends on which joy you lean on most](fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09.md) — Addy Osmani — Member of Technical Staff chez Anthropic (fonction affichée) ; post LinkedIn.
 - [Introducing Mistral Large 4](fiches/2026-10/mistral-large-4-le-chonk-2026-10-06.md) — Mistral AI — éditeur de modèles d'IA ; billet de blog de l'entreprise (« By Mistral »).
@@ -1036,6 +1038,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Philosophie & Société
 
+- [Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code, whatever tools they use](fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14.md) — Thomas Claburn — AI and software reporter, The Register.
 - [The three joys of engineering: liberation or loss depends on which joy you lean on most](fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09.md) — Addy Osmani — Member of Technical Staff chez Anthropic (fonction affichée) ; post LinkedIn.
 - [The End of Hand-Written Code: A Conversation with David Heinemeier Hansson (DHH) on AI, Omarchy and the Future of Programming](fiches/2026-09/heinemeier-hansson-end-of-hand-written-code-2026-09-28.md) — David Heinemeier Hansson, créateur de Ruby on Rails et copropriétaire de 37signals, interrogé par Vikas Shah dans *Thought Economics*.
 - [Nope. It's still true. (post X en réponse à Noah Smith)](fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25.md) — Yann LeCun — fondateur et président d'AMI Labs, professeur à NYU, ex-Chief AI Scientist de Meta, prix Turing. Post X.
@@ -1218,6 +1221,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Politique & Régulation
 
+- [Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code, whatever tools they use](fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14.md) — Thomas Claburn — AI and software reporter, The Register.
 - [Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will completely vanish » — extrait de Fox & Friends First (Fox News, 29 mai 2025) avec Dario Amodei](fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02.md) — Yugen Matsuda — entrepreneur indépendant, compte X japonais ; post de relais d'un entretien de Dario Amodei (CEO d'Anthropic) diffusé sur Fox News.
 - [We Must Pace the Frontier](fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09.md) — Dario Amodei (CEO et cofondateur d'Anthropic), sur son site personnel darioamodei.com.
 - [GLM-5.3 and the spread of advanced cyber capabilities](fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29.md) — Andrew Fasano, Marius Fleischer, Cole McFaul, Robert Xiao, Tripp Gallagher ; Frontier Red Team, Anthropic (billet de recherche du site anthropic.com).
@@ -1250,20 +1254,20 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 436 fiches
-- **Par année** : 2026 (259) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 437 fiches
+- **Par année** : 2026 (260) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 163
+  - Agents de codage IA & Skills : 164
   - Architecture & Construction : 62
   - Transformation & Adoption : 98
   - Qualité & Sécurité : 55
   - Économie & Marché : 92
-  - Philosophie & Société : 30
+  - Philosophie & Société : 31
   - Stratégie & Frameworks : 39
   - Outils & Plateformes : 63
   - Recherche & Éducation : 16
   - Produits & Services : 19
-  - Politique & Régulation : 29
+  - Politique & Régulation : 30
 - **Auteurs (top 20)** :
   - Ethan Mollick (13)
   - SFEIR (13)

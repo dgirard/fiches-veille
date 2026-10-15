@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1064 entités de type CONCEPT
+> 1066 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -400,6 +400,7 @@
 - [[kb/_entites-mineures#Productized-solutions\|Productized solutions]] — définition: Concept Mandese — transformation des services agences en produits packagés reproductibles. Convergence avec Curran Skills-Based Plugin Architecture et Lattice atoms/molecules (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Programmation-supervisée\|Programmation supervisée]] — catégorie: Nouveau paradigme de développement avec agents IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Prompt-caching\|Prompt caching]] — description: Mécanisme de réutilisation du prefill par correspondance de préfixe (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Provenance-du-code\|Provenance du code]] — définition: Mention de l'outil ou de l'agent ayant contribué à un code ou un commit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Présentation-live\|Présentation live]] — condition: Réservée à la présence synchrone : influence, objections en temps réel, pitch, célébration (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Public-wealth-fund\|Public wealth fund]] — définition: Fonds donnant à tous les citoyens une equity stake dans les A.I. companies (proposition OpenAI) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Purgatoire-des-pilotes-IA\|Purgatoire des pilotes IA]] — description: Investissements massifs en IA sans industrialisation ni passage à l'échelle (1 occ., 1 fiches)
@@ -472,6 +473,7 @@
 - [[kb/_entites-mineures#System-One-Models\|System One Models]] — définition: Modèles produisant des décisions typées et probabilistes, sans génération de texte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sémantique-data\|Sémantique data]] — enjeu: Une définition unique par concept métier, lisible par un agent ; attaque par verticales (1 occ., 1 fiches)
 - [[kb/_entites-mineures#TCO-(Total-Cost-of-Ownership)\|TCO (Total Cost of Ownership)]] — rôle: Cadre de décision local vs cloud (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Tag-Assisted-by\|Tag Assisted-by]] — définition: Mention obligatoire dans le message de commit de l'usage d'un outil de codage avancé ; proposée en juillet 2025, documentée en janvier 2026, dépréciée en octobre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tailwinds-AI\|Tailwinds AI]] — définition: (1) Productivity sales/marketing/R&D ; (2) Transformations réussies = +10-25% EBITDA ; (3) Outcome-based pricing fixed seats → labor/operations ; (4) Incumbents avantage customer relationships + embedded workflows (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Talent-Density\|Talent Density]] — définition: Concept Bersin : nouveau process de talent management combinant pay, titles, redeployment (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Taste-as-moat\|Taste as moat]] — catégorie: Thèse Meng To — la taste est le seul moat dans l'âge agentique (1 occ., 1 fiches)

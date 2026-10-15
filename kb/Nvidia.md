@@ -1,6 +1,6 @@
 # Nvidia
 
-> **Type** : ORGANISATION | 13 relations | 4 fiches sources
+> **Type** : ORGANISATION | 14 relations | 4 fiches sources
 
 ## Attributs
 
@@ -50,6 +50,7 @@
 - [[kb/OpenAI\|OpenAI]] **collabore_avec** → Nvidia — 0.95
 - [[kb/OpenAI\|OpenAI]] **utilise** → Nvidia — 0.95
 - [[kb/économie-circulaire-IA\|économie circulaire IA]] **s_applique_à** → Nvidia — 0.92
+- [[kb/_entites-mineures#Sasha-Levin\|Sasha Levin]] **travaille_chez** → Nvidia — 0.92
 - [[kb/Mistral-AI\|Mistral AI]] **utilise** → Nvidia — 0.88
 
 ## Fiches sources
