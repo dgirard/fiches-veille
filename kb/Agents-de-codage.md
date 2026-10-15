@@ -1,6 +1,6 @@
 # Agents de codage
 
-> **Type** : TECHNOLOGIE | 16 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 17 relations | 1 fiches sources
 
 ## Attributs
 
@@ -59,6 +59,7 @@
 
 - [[kb/Claude-Code\|Claude Code]] **fait_partie_de** → Agents de codage — 0.97
 - [[kb/Codex\|Codex]] **fait_partie_de** → Agents de codage — 0.97
+- [[kb/Agentic-verification\|Agentic verification]] **améliore** → Agents de codage — 0.90
 - bases de code épurées **améliore** → Agents de codage — 0.88
 
 ## Fiches sources

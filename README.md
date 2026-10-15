@@ -39,13 +39,13 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
 
 <!-- stats:begin -->
 
-- **Total** : 434 fiches
-- **Par année** : 2026 (257) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 435 fiches
+- **Par année** : 2026 (258) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 162
+  - Agents de codage IA & Skills : 163
   - Architecture & Construction : 61
   - Transformation & Adoption : 97
-  - Qualité & Sécurité : 54
+  - Qualité & Sécurité : 55
   - Économie & Marché : 92
   - Philosophie & Société : 30
   - Stratégie & Frameworks : 38
@@ -58,7 +58,7 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - SFEIR (13)
   - Anthropic (10)
   - Deep Research Veille Interne (9)
-  - Addy Osmani (7)
+  - Addy Osmani (8)
   - Chris Williams (7)
   - Philippe Ensarguet (6)
   - Boris Cherny (5)

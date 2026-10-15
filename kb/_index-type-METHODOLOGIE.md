@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 458 entités de type METHODOLOGIE
+> 461 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -37,6 +37,7 @@
 - [[kb/_entites-mineures#Agent-employees\|Agent employees]] — définition: Mode 1 de travail avec agents — délégation asynchrone, persistent identity, intervient en fond. Exemples Every : Claudie, Andy, Viktor ; Fin (Intercom) résout 65% support (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agentic-SDLC\|Agentic SDLC]] — définition: Cycle de vie logiciel où des agents prennent en charge des étapes, démarré selon quatre points d'entrée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agentic-engineering\|Agentic engineering]] — fonction: Préserver le quality bar avec coordination d'agents stochastiques (2 occ., 2 fiches)
+- [[kb/Agentic-verification\|Agentic verification]] — définition: Équiper l'agent de contrôles qu'il exécute seul (E2E, propriétés, différentiel) dans une boucle rapide et déterministe (1 occ., 1 fiches)
 - [[kb/Agentique-adaptative\|Agentique adaptative]] — définition: Approche architecturale à 4 piliers pour IA agentique en production (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Analysis-of-Competing-Hypotheses-(ACH)\|Analysis of Competing Hypotheses (ACH)]] — source: Richards Heuer (CIA) — méthodologie d'évaluation parallèle d'hypothèses concurrentes, ancêtre méthodologique de la Tension Map (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Approved-fixtures\|Approved fixtures]] — catégorie: Pattern de test pour harnais comportemental (1 occ., 1 fiches)
@@ -92,6 +93,7 @@
 - [[kb/_entites-mineures#Design-to-Exit\|Design to Exit]] — principe: Payer d'avance la couche d'abstraction qui rend le fournisseur remplaçable, plutôt qu'espérer une réversibilité non construite (2 occ., 2 fiches)
 - [[kb/_entites-mineures#DevOps\|DevOps]] — catégorie: Méthodologie intégrant développement et opérations (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Developer-Experience\|Developer Experience]] — rôle: Standardisation AI-assisted dev via governed golden paths, pipelines automatisés, shared capability catalog (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Differential-testing\|Differential testing]] — définition: Comparer ancien et nouveau système sur les mêmes entrées ; l'ancien sert d'oracle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dilemma-Tale\|Dilemma Tale]] — origine: Afrique, question ouverte finale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Discovery-Mode\|Discovery Mode]] — rôle: Phase 1 : baseline acteurs + patterns visibles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Doctrine-sociale-de-l'Église\|Doctrine sociale de l'Église]] — définition: Corpus magistériel vivant depuis Rerum Novarum (1891) qui articule Évangile, anthropologie chrétienne, et questions sociales (économie, politique, technique) — patrimoine de sagesse, principes et discernement communautaire (1 occ., 1 fiches)
@@ -237,6 +239,7 @@
 - [[kb/Test-impact-analysis\|Test impact analysis]] — définition: Service déterministe de sélection des tests par changement : un listener enregistre les résultats de chaque run, un selector lit l'historique et décide quels tests tournent sur chaque PR (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Test-Driven-Development\|Test-Driven Development]] — définition: Méthodologie où les tests guident l'écriture du code — j'écris à chaque fois un peu de code "en réaction" à un nouveau test. À distinguer de Test-first (écriture tous tests avant code) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Test-first\|Test-first]] — définition: Pratique d'écriture de tous les tests avant la moindre ligne de code. Confondu avec TDD par DHH 2014, distinction levée par Eveillard 2022 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Tests-E2E\|Tests E2E]] — définition: Tests simulant un parcours utilisateur réel, oracle de « fini » pour l'agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Think-Before-Coding\|Think Before Coding]] — objectif: Expliciter hypothèses, poser des questions avant de coder (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Three-Fidelities\|Three Fidelities]] — niveaux: Fidelity One / Two / Three selon complexité et clarté (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Three-layers-of-reach\|Three layers of reach]] — définition: Cadre généralisé du rapport : Eligibility (binary, Grox + filtres) → Retrieval (probabilistic, two-tower) → Ranking (continuous, weighted sum + multipliers) (1 occ., 1 fiches)
@@ -394,7 +397,7 @@
 - [[kb/procédure-infographique\|procédure infographique]] — inspiration: Steve Jobs, obsession de la perfection (1 occ., 1 fiches)
 - [[kb/_entites-mineures#progressive-disclosure\|progressive disclosure]] — principe: Orienter vers le bon fichier de référence selon la situation (1 occ., 1 fiches)
 - [[kb/projet-Paint-with-Code\|projet Paint with Code]] — définition: Entraînement par RL d'un LLM à générer des peintures sous forme de code (1 occ., 1 fiches)
-- [[kb/_entites-mineures#property-based-testing\|property-based testing]] — rôle: Complément de vérification face aux limites du test automatisé classique (1 occ., 1 fiches)
+- [[kb/property-based-testing\|property-based testing]] — rôle: Complément de vérification face aux limites du test automatisé classique (2 occ., 2 fiches)
 - [[kb/_entites-mineures#prosecution\|prosecution]] — définition: Revue de code conçue comme une accusation adversariale visant à réfuter, pas à évaluer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#prototype-dogfood-productionize\|prototype dogfood productionize]] — boucle: Agent interne construit avec Claude Code, éprouvé en interne, puis promu en produit client via API, SDK ou Claude Managed Agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pull-request\|pull request]] — critique: Contestée comme centre du processus de développement : construire, finir, emballer et transmettre avant d'avoir la conversation importante (1 occ., 1 fiches)

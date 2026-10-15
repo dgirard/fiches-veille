@@ -1,6 +1,6 @@
 # Boris Cherny
 
-> **Type** : PERSONNE | 35 relations | 11 fiches sources
+> **Type** : PERSONNE | 37 relations | 11 fiches sources
 
 ## Attributs
 
@@ -18,6 +18,7 @@
   - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
   - [[fiches/2026-06/ng-thebatch-359-3-product-development-loops-2026-06-26\|3 Key Product Development Loops (The Batch, Issue 359 — « Dear friends » letter)]]
   - [[fiches/2026-01/nunez-cherny-claude-code-workflow-venturebeat-2026-01-05\|The creator of Claude Code just revealed his workflow, and developers are losing their minds]]
+  - [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
   - [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Loop Engineering for Product Managers]]
   - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]
 - [[kb/Steps-of-AI-Adoption\|Steps of AI Adoption]] (METHODOLOGIE) — 0.98, STATIQUE
@@ -115,6 +116,10 @@
   - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]
 - subagents spécialisés (code-simplifier, verify-app) (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-01/nunez-cherny-claude-code-workflow-venturebeat-2026-01-05\|The creator of Claude Code just revealed his workflow, and developers are losing their minds]]
+- [[kb/_entites-mineures#Lean\|Lean]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
+  - [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
+- [[kb/TLA+\|TLA+]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
+  - [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
 
 ## Relations (comme objet)
 

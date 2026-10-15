@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 552 entités de type PERSONNE
+> 553 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -11,7 +11,7 @@
 - [[kb/_entites-mineures#Aaron-Wanjala\|Aaron Wanjala]] — rôle: Cloud developer advocate Google Cloud, Spring Boot/Angular, app modernization + AI code assistance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Abhishek-Kankani\|Abhishek Kankani]] — rôle: Auteur de l'article Cloudflare Blog (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Adam-Cohen\|Adam Cohen]] — rôle: Co-fondateur & CEO (1 occ., 1 fiches)
-- [[kb/Addy-Osmani\|Addy Osmani]] — rôle: Member of Technical Staff chez Anthropic (fonction affichée) (10 occ., 9 fiches)
+- [[kb/Addy-Osmani\|Addy Osmani]] — rôle: Member of Technical Staff chez Anthropic (fonction affichée) (11 occ., 10 fiches)
 - [[kb/_entites-mineures#Adrian-Kinnersley\|Adrian Kinnersley]] — rôle: Dirigeant d'une société de recrutement ; alerte sur la non-conformité légale du 996 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Adrien-Nussenbaum\|Adrien Nussenbaum]] — rôle: Cofondateur de Splitgames puis de Mirakl ; parti ouvrir l'activité commerciale à Boston en 2015 (1 occ., 1 fiches)
 - [[kb/Ahmad-Osman\|Ahmad Osman]] — rôle: Auteur du thread ; ancien power user de Claude Code (2024-2026) devenu critique (1 occ., 1 fiches)
@@ -290,6 +290,7 @@
 - [[kb/Lance-Martin\|Lance Martin]] — rôle: Auteur de l'article, Anthropic (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Laura-Entis\|Laura Entis]] — rôle: Co-autrice (Every), journaliste/éditrice (1 occ., 1 fiches)
 - [[kb/Laura-Tacho\|Laura Tacho]] — rôle: Experte en expérience développeur (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Lauren-(@poteto)\|Lauren (@poteto)]] — rôle: Personne citée pour la feature map et l'outillage « mains et yeux » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lauren-Reader\|Lauren Reader]] — rôle: Interviewer Sequoia de l'événement Cherny (1 occ., 1 fiches)
 - [[kb/Lee-Robinson\|Lee Robinson]] — rôle: Développeur / Tech lead (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Lei-Zhang\|Lei Zhang]] — rôle: Head of Technology Infrastructure Engineering, Bloomberg (1 occ., 1 fiches)

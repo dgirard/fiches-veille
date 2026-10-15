@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 867 entités de type TECHNOLOGIE
+> 871 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -372,6 +372,7 @@
 - [[kb/_entites-mineures#Hugging-Face\|Hugging Face]] — catégorie: Plateforme de distribution de modèles (1 occ., 2 fiches)
 - [[kb/_entites-mineures#Hyperframes\|Hyperframes]] — catégorie: Outil motion design / framework (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hypergraph-Database\|Hypergraph Database]] — catégorie: base de données hypergraphe pour raisonnement agents (2 occ., 1 fiches)
+- [[kb/_entites-mineures#Hypothesis\|Hypothesis]] — catégorie: Bibliothèque de tests de propriétés Python (1 occ., 1 fiches)
 - [[kb/IA\|IA]] — impact: Substitue la cognition humaine et touche simultanément tous les secteurs (10 occ., 10 fiches)
 - [[kb/IA-agentique\|IA agentique]] — description: IA autonome ou semi-autonome percevant, décidant et agissant (5 occ., 5 fiches)
 - [[kb/_entites-mineures#IA-de-codage\|IA de codage]] — effet: Augmentation de productivité, transformation du métier (1 occ., 1 fiches)
@@ -421,6 +422,7 @@
 - [[kb/_entites-mineures#Language-Server-Protocol\|Language Server Protocol]] — rôle: Précédent revendiqué par ACP : a découplé serveurs de langage et éditeurs, ACP vise le même découplage pour les agents (1 occ., 1 fiches)
 - [[kb/Lattice\|Lattice]] — catégorie: Framework open-source MIT de skills composables pour coding agents Claude Code/Cursor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Le-Chat\|Le Chat]] — catégorie: Assistant IA Mistral AI (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Lean\|Lean]] — catégorie: Assistant de preuve (1 occ., 1 fiches)
 - [[kb/LightRAG\|LightRAG]] — licence: MIT (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Lilli\|Lilli]] — description: Chatbot interne McKinsey utilisé par 70% des employés. Outil emblématique de la transformation IA interne (2 occ., 2 fiches)
 - [[kb/Linear\|Linear]] — catégorie: Outil de gestion de projet AI-first (1 occ., 1 fiches)
@@ -673,7 +675,7 @@
 - [[kb/_entites-mineures#Superpowers-Lab\|Superpowers Lab]] — description: Dépôt de skills expérimentaux en cours de test (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Superpowers-Marketplace\|Superpowers Marketplace]] — description: Marketplace curatée de plugins Claude Code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#System-reminder\|System-reminder]] — description: Balise dans le message utilisateur pour infos dynamiques sans casser le cache (1 occ., 1 fiches)
-- [[kb/_entites-mineures#TLA+\|TLA+]] — catégorie: Langage de modélisation formelle (états, transitions, invariants) (2 occ., 2 fiches)
+- [[kb/TLA+\|TLA+]] — catégorie: Langage de spécification formelle (3 occ., 3 fiches)
 - [[kb/TOON\|TOON]] — nom complet: Token-Oriented Object Notation (5 occ., 1 fiches)
 - [[kb/_entites-mineures#TPU\|TPU]] — fabricant: Google / Broadcom (1 occ., 1 fiches)
 - [[kb/_entites-mineures#TPU-8i\|TPU 8i]] — catégorie: Puce d'inférence de Google, 80 % de meilleur rapport prix-performance (1 occ., 1 fiches)
@@ -779,6 +781,7 @@
 - [[kb/_entites-mineures#dots\|dots]] — éditeur: OpenAI ; permet aussi d'appeler l'agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#edge-computing\|edge computing]] — nature: Exécution locale sans dépendance cloud (1 occ., 1 fiches)
 - [[kb/_entites-mineures#extension-Iceberg-de-DuckDB\|extension Iceberg de DuckDB]] — maturité: Implémentation des spécifications Iceberg v2 et v3, sponsorisée par AWS, plus de 800 000 téléchargements hebdomadaires (1 occ., 1 fiches)
+- [[kb/_entites-mineures#fast-check\|fast-check]] — catégorie: Bibliothèque de tests de propriétés JS/TS (1 occ., 1 fiches)
 - [[kb/_entites-mineures#format-.deepnote\|format .deepnote]] — type: YAML human-readable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#format-.ipynb\|format .ipynb]] — type: JSON (format Jupyter historique) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#frontend-aesthetics-skill\|frontend aesthetics skill]] — taille: ~400 tokens (1 occ., 1 fiches)
@@ -824,6 +827,7 @@
 - [[kb/_entites-mineures#preserved-thinking\|preserved thinking]] — définition: Mécanisme de Fable 5.1 empêchant les nouveaux comptes API d'altérer system prompt, outils ou messages précédant le raisonnement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#proj-ai-commons\|proj-ai-commons]] — description: Bibliothèque partagée patterns anonymisés (templates DR, slash-commands, doctrine) — bootstrap 30 min vs 1 semaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#promptfoo\|promptfoo]] — usage: Pilote des exécutions d'agent (provider exec) pour comparer deux modèles sur les mêmes tâches, timeout 60 s (1 occ., 1 fiches)
+- [[kb/_entites-mineures#proptest\|proptest]] — catégorie: Bibliothèque de tests de propriétés Rust (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pypdf\|pypdf]] — catégorie: Bibliothèque Python de manipulation de PDF (1 occ., 1 fiches)
 - [[kb/_entites-mineures#reasoning-engine\|reasoning engine]] — définition: Cœur de Beyond Zero : IA hiérarchique serveur + endpoints, mode rapide (ABAC à l'accès) et mode lent (inférence sur une série d'actions), rendant un verdict allow / deny / challenge (1 occ., 1 fiches)
 - [[kb/_entites-mineures#relais-Buzz\|relais Buzz]] — limite: Source de vérité unique — la souveraineté promise est un droit de sortie, pas une redondance (1 occ., 1 fiches)

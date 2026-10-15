@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1060 entités de type CONCEPT
+> 1062 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -238,6 +238,7 @@
 - [[kb/_entites-mineures#Failure-modes-market-research-IA\|Failure modes market research IA]] — détail: (1) questions vagues → outputs superficiels, (2) sur-reliance polished summaries, (3) validation sautée, (4) insights non convertis en décisions (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Famille-skills-frameworks-2026\|Famille skills frameworks 2026]] — composants: Lattice (techygarg), Superpowers (Vincent), Skills (Anthropic), PROJ-AI (Habert WEnvision), Skills-Based Plugin Architecture (Curran/Intercom), Usine Logicielle Augmentée (Wescale), Compound Engineering (Every / Shipper / Klaassen) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Fascination-criteres-objectifs\|Fascination criteres objectifs]] — description: Tendance a privilegier les metriques mesurables au detriment d'objectifs importants mais difficiles a quantifier (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Feature-map\|Feature map]] — définition: Inventaire des fonctionnalités du point de vue utilisateur : accès, raccourcis, sélecteurs, résultats attendus, pièges (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FinOps-appliqué-à-l'IA\|FinOps appliqué à l'IA]] — principe: Optimiser l'efficience (coût/valeur), coûts ~10 €/h par poste (2 occ., 2 fiches)
 - [[kb/_entites-mineures#FinOps-pour-IA\|FinOps pour IA]] — catégorie: Gouvernance coûts workloads IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#First-party-data\|First-party data]] — rôle: Alimentation du flywheel IA (1 occ., 1 fiches)
@@ -476,6 +477,7 @@
 - [[kb/_entites-mineures#Tension-DORA-prescriptif-vs-Tatsyi-descriptif\|Tension DORA-prescriptif vs Tatsyi-descriptif]] — description: DORA recommande cou (norme a priori) ; Tatsyi/Raiffeisen rapporte −75 personnes avec réallocation délibérée (descriptif a posteriori). Les deux positions ne sont pas inconciliables — à utiliser comme pivot de débat COMEX (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tension-prescriptif-vs-descriptif\|Tension prescriptif vs descriptif]] — description: DORA ROI 2026 recommande "do not adopt headcount-reduction strategy" (norme a priori) ; McKinsey assume publiquement réduction (200 postes) + remplacement par 20 000 agents (pratique a posteriori). Pivot de débat COMEX (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tensions-non-résolues-(Frizzo)\|Tensions non résolues (Frizzo)]] — détail: (1) FOMO, (2) Review quality at scale, (3) Skill atrophy — questions ouvertes que l'auteur pose sans trancher (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Tests-instables\|Tests instables]] — définition: Tests non déterministes (flaky) qui apprennent à l'agent à relancer plutôt qu'à corriger (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Button\|The Button]] — catégorie: Métaphore d'accès trivial à l'IA générative (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Grader\|The Grader]] — statut: Système d'évaluation imaginé par les agents, sans existence conforme à leur représentation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Theory-of-Constraints\|Theory of Constraints]] — application: L'IA accélère une étape qui n'était pas le bottleneck, donc déplace le problème ailleurs (1 occ., 1 fiches)

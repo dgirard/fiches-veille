@@ -1,6 +1,6 @@
 # Addy Osmani
 
-> **Type** : PERSONNE | 32 relations | 9 fiches sources
+> **Type** : PERSONNE | 38 relations | 10 fiches sources
 
 ## Attributs
 
@@ -37,6 +37,8 @@
   - [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
 - « la joie de savoir est la plus exposée à l'érosion avec les agents » (AFFIRMATION) — 0.95, ATEMPOREL
   - [[fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09\|The three joys of engineering: liberation or loss depends on which joy you lean on most]]
+- « le goulot des agents de codage est la vérification, non l'écriture du code » (AFFIRMATION) — 0.95, DYNAMIQUE
+  - [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
 - « les throughput metrics ne distinguent pas understood work de rubber-stamped work » (AFFIRMATION) — 0.95, ATEMPOREL
   - [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
 - « sans comprendre sa base de code, l'agent dirige l'ingénieur » (AFFIRMATION) — 0.93, ATEMPOREL
@@ -47,6 +49,8 @@
   - [[fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09\|The three joys of engineering: liberation or loss depends on which joy you lean on most]]
 - « les patterns de harnais convergent entre Claude Code, Cursor, Codex, Aider et Cline » (AFFIRMATION) — 0.92, ATEMPOREL
   - [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
+- « une bien meilleure boucle de rétroaction vaut mieux qu'un modèle un peu meilleur » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
 - « l'IA est comme un développeur junior, utile mais jamais sans supervision » (AFFIRMATION) — 0.88, ATEMPOREL
   - [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
@@ -56,6 +60,8 @@
   - [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
 - [[kb/_entites-mineures#Agent-Harness-Engineering\|Agent Harness Engineering]] (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
+- [[kb/_entites-mineures#article-Agentic-Verification\|article Agentic Verification]] (DOCUMENT) — 0.98, STATIQUE
+  - [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
 - guide specs agents IA (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-01/osmani-how-write-good-spec-ai-agents-2026-01-13\|How to write a good spec for AI agents]]
 - [[kb/Loop-Engineering\|Loop Engineering]] (METHODOLOGIE) — 0.95, STATIQUE
@@ -67,14 +73,23 @@
   - [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
 - 6 garde-fous structurels organisationnels (METHODOLOGIE) — 0.97, ATEMPOREL
   - [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
+- « écrire le contrôle avant le code » (AFFIRMATION) — 0.95, ATEMPOREL
+  - [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
 - PRs ~100 lignes max (METHODOLOGIE) — 0.94, ATEMPOREL
   - [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
 - solo keyboard time régulier (METHODOLOGIE) — 0.94, ATEMPOREL
   - [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
 - « de s'appuyer sur ce qui rend le travail personnel » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09\|The three joys of engineering: liberation or loss depends on which joy you lean on most]]
+- « une boucle de tests rapide et déterministe, sous la seconde pour la boucle cœur » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
 - « traiter les agents IA comme des stagiaires compétents » (AFFIRMATION) — 0.88, ATEMPOREL
   - [[fiches/2026-01/osmani-how-write-good-spec-ai-agents-2026-01-13\|How to write a good spec for AI agents]]
+
+### référence
+
+- [[kb/_entites-mineures#Lauren-(@poteto)\|Lauren (@poteto)]] (PERSONNE) — 0.85, STATIQUE
+  - [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
 
 ### s_oppose_à
 
@@ -101,6 +116,7 @@
 
 - [[fiches/2026-06/lushbinary-loop-engineering-ai-coding-agents-guide-2026-06-09\|Loop Engineering: The Guide for AI Agents]]
 - [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
+- [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
 - [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
 - [[fiches/2025-11/osmani-conductors-orchestrators-agentic-coding-2025-11-01\|Conductors to Orchestrators: The Future of Agentic Coding]]
 - [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|The New SDLC With Vibe Coding — From ad-hoc prompting to Agentic Engineering]]

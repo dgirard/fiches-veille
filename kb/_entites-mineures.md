@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 3026 entités avec moins de 3 triples/fiches
+> 3034 entités avec moins de 3 triples/fiches
 
-## PERSONNE (402)
+## PERSONNE (403)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -2076,6 +2076,18 @@
 - **publie** → [[kb/_entites-mineures#The-Eight-Levels-of-AI-Adoption\|The Eight Levels of AI Adoption]] (DOCUMENT) — 0.95
 
 **Fiches** : [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|The Eight Levels of AI Adoption]]
+
+### Lauren (@poteto) {#Lauren-(@poteto)}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Personne citée pour la feature map et l'outillage « mains et yeux »
+
+- **recommande** → [[kb/_entites-mineures#Feature-map\|Feature map]] (CONCEPT) — 0.85
+
+- [[kb/Addy-Osmani\|Addy Osmani]] **référence** → Lauren (@poteto) — 0.85
+
+**Fiches** : [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
 
 ### Lauren Reader {#Lauren-Reader}
 
@@ -7373,7 +7385,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (679)
+## TECHNOLOGIE (682)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -9198,7 +9210,7 @@
 
 - **échelle** : >5 000 milliards de requêtes/heure ; vérifié par modélisation formelle
 
-- **utilise** → [[kb/_entites-mineures#TLA+\|TLA+]] (TECHNOLOGIE) — 0.93
+- **utilise** → [[kb/TLA+\|TLA+]] (TECHNOLOGIE) — 0.93
 
 **Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]]
 
@@ -10294,6 +10306,16 @@
 
 **Fiches** : [[fiches/2025-10/rippletide-agent-reliability-enterprise-architecture-2025-10-29\|Agent reliability: What's missing in Enterprise AI agent architecture?]]
 
+### Hypothesis {#Hypothesis}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Bibliothèque de tests de propriétés Python
+
+- [[kb/property-based-testing\|Property-based testing]] **utilise** → Hypothesis — 0.90
+
+**Fiches** : [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
+
 ### IA de codage {#IA-de-codage}
 
 **Type** : TECHNOLOGIE | 3 relations | 1 fiches
@@ -10679,6 +10701,16 @@
 - **utilise** → [[kb/Voxtral\|Voxtral]] (TECHNOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]
+
+### Lean {#Lean}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Assistant de preuve
+
+- [[kb/Boris-Cherny\|Boris Cherny]] **utilise** → Lean — 0.85
+
+**Fiches** : [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
 
 ### Lilli {#Lilli}
 
@@ -12791,20 +12823,6 @@
 
 **Fiches** : [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Lessons from Building Claude Code: Prompt Caching Is Everything]]
 
-### TLA+ {#TLA+}
-
-**Type** : TECHNOLOGIE | 3 relations | 2 fiches
-
-- **catégorie** : Langage de modélisation formelle (états, transitions, invariants)
-- **usage** : Employé par Block pour spécifier et model-checker le protocole de stockage Git de Buzz : durabilité, reconstruction et poussées concurrentes, sous réserve de trois garanties explicites du magasin d'objets
-
-- **permet** → « de model-checker la durabilité, la reconstruction et les poussées concurrentes du protocole de stockage Git de Buzz » (AFFIRMATION) — 0.94
-
-- [[kb/Block\|Block]] **utilise** → TLA+ — 0.95
-- [[kb/_entites-mineures#DynamoDB\|DynamoDB]] **utilise** → TLA+ — 0.93
-
-**Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]], [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
-
 ### TPU {#TPU}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -13695,6 +13713,16 @@
 
 **Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
 
+### fast-check {#fast-check}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Bibliothèque de tests de propriétés JS/TS
+
+- [[kb/property-based-testing\|Property-based testing]] **utilise** → fast-check — 0.90
+
+**Fiches** : [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
+
 ### format .deepnote {#format-.deepnote}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -14067,6 +14095,16 @@
 - [[kb/Alan-Blount\|Alan Blount]] **utilise** → promptfoo — 0.93
 
 **Fiches** : [[fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14\|Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team]]
+
+### proptest {#proptest}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Bibliothèque de tests de propriétés Rust
+
+- [[kb/property-based-testing\|Property-based testing]] **utilise** → proptest — 0.90
+
+**Fiches** : [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
 
 ### pypdf {#pypdf}
 
@@ -14500,7 +14538,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1011)
+## CONCEPT (1013)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -16556,6 +16594,16 @@
 - **permet** → désalignement des systèmes de récompenses (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/1975-12/kerr-folly-rewarding-a-hoping-b-academy-management-1975-12\|On the Folly of Rewarding A, While Hoping for B]]
+
+### Feature map {#Feature-map}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Inventaire des fonctionnalités du point de vue utilisateur : accès, raccourcis, sélecteurs, résultats attendus, pièges
+
+- [[kb/_entites-mineures#Lauren-(@poteto)\|Lauren (@poteto)]] **recommande** → Feature map — 0.85
+
+**Fiches** : [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
 
 ### FinOps appliqué à l'IA {#FinOps-appliqué-à-l'IA}
 
@@ -18753,6 +18801,16 @@
 - **détail** : (1) FOMO, (2) Review quality at scale, (3) Skill atrophy — questions ouvertes que l'auteur pose sans trancher
 
 **Fiches** : [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|A Year With Claude Code: My Output Doubled. My Attention Span Didn't.]]
+
+### Tests instables {#Tests-instables}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Tests non déterministes (flaky) qui apprennent à l'agent à relancer plutôt qu'à corriger
+
+- **réduit** → [[kb/Agentic-verification\|Agentic verification]] (METHODOLOGIE) — 0.85
+
+**Fiches** : [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
 
 ### The Button {#The-Button}
 
@@ -24348,7 +24406,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (397)
+## METHODOLOGIE (398)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -25117,6 +25175,18 @@
 - **rôle** : Standardisation AI-assisted dev via governed golden paths, pipelines automatisés, shared capability catalog
 
 **Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
+
+### Differential testing {#Differential-testing}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Comparer ancien et nouveau système sur les mêmes entrées ; l'ancien sert d'oracle
+
+- **s_applique_à** → migration logicielle (CONCEPT) — 0.90
+
+- [[kb/Agentic-verification\|Agentic verification]] **utilise** → Differential testing — 0.93
+
+**Fiches** : [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
 
 ### Dilemma Tale {#Dilemma-Tale}
 
@@ -26395,6 +26465,16 @@
 - **est_variante_de** → [[kb/_entites-mineures#Test-Driven-Development\|Test-Driven Development]] (METHODOLOGIE) — 0.96
 
 **Fiches** : [[fiches/2022-12/eveillard-tdd-is-dead-long-live-testing-reponse-dhh-2022-12-07\|TDD is dead. Long live testing. (Une contre-argumentation point à point à l'article phare de David Heinemeier Hansson,…]]
+
+### Tests E2E {#Tests-E2E}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Tests simulant un parcours utilisateur réel, oracle de « fini » pour l'agent
+
+- [[kb/Agentic-verification\|Agentic verification]] **utilise** → Tests E2E — 0.93
+
+**Fiches** : [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
 
 ### Think Before Coding {#Think-Before-Coding}
 
@@ -27738,14 +27818,6 @@
 
 **Fiches** : [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 
-### property-based testing {#property-based-testing}
-
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
-
-- **rôle** : Complément de vérification face aux limites du test automatisé classique
-
-**Fiches** : [[fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11\|The End of Code Review: Coding Agents Supersede Human Inspection]]
-
 ### prosecution {#prosecution}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
@@ -28921,7 +28993,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (157)
+## DOCUMENT (158)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -30224,6 +30296,16 @@
 - [[kb/_entites-mineures#sécurité-du-SDLC-AI-native\|sécurité du SDLC AI-native]] **est_basé_sur** → Zero Trust for Agents — 0.90
 
 **Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
+
+### article Agentic Verification {#article-Agentic-Verification}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **catégorie** : Billet Substack (Elevate), 14 octobre 2026
+
+- [[kb/Addy-Osmani\|Addy Osmani]] **publie** → article Agentic Verification — 0.98
+
+**Fiches** : [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
 
 ### article Automating eval design and hillclimbing {#article-Automating-eval-design-and-hillclimbing}
 

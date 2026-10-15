@@ -122,7 +122,7 @@
   - [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
 - [[kb/Square\|Square]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
-- [[kb/_entites-mineures#TLA+\|TLA+]] (TECHNOLOGIE) — 0.95, STATIQUE
+- [[kb/TLA+\|TLA+]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
   - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
 - [[kb/_entites-mineures#Tamarin\|Tamarin]] (TECHNOLOGIE) — 0.92, STATIQUE
