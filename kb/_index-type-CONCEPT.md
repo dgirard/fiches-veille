@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1062 entités de type CONCEPT
+> 1064 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -41,6 +41,7 @@
 - [[kb/_entites-mineures#AI-jobpocalypse\|AI jobpocalypse]] — catégorie: Narration de chômage de masse IA (réfutée par Ng) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-lifts-underperformers-to-baseline\|AI lifts underperformers to baseline]] — source: Insight Tatsyi contre-intuitif — l'IA resserre la distribution par le bas, contre-poids à la lecture "tail élite 10×+" (Cherny/Karpathy/Curran top 5%) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-note-taking-tools-(cas-d'usage)\|AI note-taking tools (cas d'usage)]] — description: Cas d'application Tension Map : promesse automatisation appréciée vs accuracy post-meeting problématique, premium toléré teams vs résenti individuels (1 occ., 1 fiches)
+- [[kb/AI-operating-system\|AI operating system]] — définition: Couche de management continue (« second cerveau ») qui maintient le contexte, raisonne entre fonctions, recommande ou exécute et apprend (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-orphan-tax\|AI orphan tax]] — définition: +5% mental fatigue chez les salariés dont le manager attend qu'ils se débrouillent seuls avec l'IA (1 occ., 1 fiches)
 - [[kb/AI-slop\|AI slop]] — définition: Contributions générées par IA sans compréhension ni effort réel (3 occ., 3 fiches)
 - [[kb/_entites-mineures#AI-solution-life-cycle\|AI solution life cycle]] — usage: Indicateur d'évolution des topologies d'équipe (1 occ., 1 fiches)
@@ -365,6 +366,7 @@
 - [[kb/_entites-mineures#Organisation-AI-First\|Organisation AI-First]] — piliers: Avantage concurrentiel, P&L remodelé, plateforme décentralisée, agents IA, talents spécialisés (1 occ., 1 fiches)
 - [[kb/Outcome-based-pricing\|Outcome-based pricing]] — définition: Modèle économique futur SaaS où revenue se déplace de fixed seats vers labor/operations economics — paid for outcomes/work delivered, not seats. Convergence avec Levie agents trillion + Sierra autonomous resolution (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Overhiring-pandémique-2020-2022\|Overhiring pandémique 2020-2022]] — catégorie: Phénomène recadré en "efficience IA" lors des layoffs (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Own-the-context,-rent-or-replace-the-technology\|Own the context, rent or replace the technology]] — définition: Règle : la connaissance institutionnelle reste portable, la technologie est interchangeable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#PLC\|PLC]] — définition: Product Life Cycle (Theodore Levitt, HBR 1965) : trajectoire commerciale introduction/croissance/maturité/déclin guidant le marketing ; à distinguer du PDLC (« le PLC observe une courbe, le PDLC organise un travail ») (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pacing-the-frontier\|Pacing the frontier]] — définition: Cadencer le progrès en capacités pour que la prévention du risque suive — ni arrêt de l'entraînement ni gel du progrès technique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Painted-Doors-Problem\|Painted Doors Problem]] — catégorie: 30% features cassées au premier essai (1 occ., 1 fiches)
@@ -652,7 +654,7 @@
 - [[kb/_entites-mineures#cost-per-outcome\|cost per outcome]] — définition: Coût par ticket résolu / tâche complétée / heure économisée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#couche-de-vérité\|couche de vérité]] — définition: Ensemble de documents décrivant ce que l'entreprise sait réellement — faits produit, positionnement, cibles et anti-cibles, règles de voix, preuves clients — tenu séparément de tout ce qui produit du contenu, chaque document ayant un propriétaire humain, une version et une date. Règle associée : rien de ce qui produit du contenu n'a le droit de contenir un fait, il doit le demander (1 occ., 1 fiches)
 - [[kb/_entites-mineures#couche-durable-d'entreprise\|couche durable d'entreprise]] — principe: Contexte, identité, politique, provenance, vérification et mémoire organisationnelle doivent survivre au modèle et à l'agent qui exécutent le travail (1 occ., 1 fiches)
-- [[kb/_entites-mineures#couche-sémantique\|couche sémantique]] — fonction: Encoder précédence et signification des données pour agents (1 occ., 1 fiches)
+- [[kb/couche-sémantique\|couche sémantique]] — fonction: Encoder précédence et signification des données pour agents (2 occ., 2 fiches)
 - [[kb/_entites-mineures#couche-technologique-agentique\|couche technologique agentique]] — définition: Couche à créer sur un socle modernisé, orchestrant humains et agents, à coûts maîtrisés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#country-of-geniuses-in-a-data-center\|country of geniuses in a data center]] — définition: Image d'une IA équivalente à une population de génies hébergée dans un data center ; qualifiée de « complete BS » par LeCun (1 occ., 1 fiches)
 - [[kb/_entites-mineures#couplage-organisationnel\|couplage organisationnel]] — définition: Degré de liaison entre unités à l'intérieur d'une organisation (1 occ., 1 fiches)

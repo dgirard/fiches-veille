@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 435 fiches | 1975-12 → 2026-10-14 | généré le 2026-10-15
+> 436 fiches | 1975-12 → 2026-10-14 | généré le 2026-10-15
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -18,6 +18,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **01** [Introducing Clef: our open-source decision models, and new RL fine-tuning platform](fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01.md) — Michelle Chen, Alex Reneau, Kevin Flansburg — équipe Workers AI / plateforme IA, blog Cloudflare. · Cloudflare Blog — Clef, Clef-flash, modèle de décision
 - **01** [Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)](fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01.md) — Daniel Meppiel — travaille avec des équipes d'ingénierie d'entreprise chez Microsoft et GitHub ; post LinkedIn. · LinkedIn — Agentic SDLC, SDLC agentique, skills
 - **01** [The Dot and the Swarm: Benefitting from the Bitter Lesson](fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01.md) — Ethan Mollick — professeur à la Wharton School (University of Pennsylvania), auteur de *One Useful Thing* (Substack). · One Useful Thing — Bitter Lesson, leçon amère, management d'agents
+- **01** [The AI operating system: A new way for CEOs to run the enterprise](fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01.md) — Asutosh Padhi, Vik Sohoni (Chicago), Brian Elliott (Carolinas), Daniel Swan (Connecticut), Kim Baroudy (Copenhague) — senior partners, McKinsey (QuantumBlack). · McKinsey (QuantumBlack) — AI operating system, AI OS, second cerveau
 
 ### 2026-09
 
@@ -717,6 +718,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Architecture & Construction
 
 - [Welcome to Gemini at Work 2026: Introducing the Gemini agent](fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08.md) — Thomas Kurian — CEO de Google Cloud ; billet du blog Google Cloud adapté de sa keynote.
+- [The AI operating system: A new way for CEOs to run the enterprise](fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01.md) — Asutosh Padhi, Vik Sohoni (Chicago), Brian Elliott (Carolinas), Daniel Swan (Connecticut), Kim Baroudy (Copenhague) — senior partners, McKinsey (QuantumBlack).
 - [Context Filter](fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26.md) — Assaf Elovic, créateur de GPT Researcher, auteur de la page (documentation officielle docs.gptr.dev, non signée).
 - [Building the Machine That Builds the Software | Eno Reyes, Co-Founder & CTO of Factory](fiches/2026-09/reyes-factory-building-machine-software-2026-09-22.md) — Eno Reyes — cofondateur et CTO de Factory ; conférence vidéo (FirstMark Capital).
 - [Introducing System One Models & Jev](fiches/2026-09/almeida-system-one-models-jev-2026-09-15.md) — Diogo Almeida — fondateur de TypeSafe AI, ancien chercheur chez OpenAI (billet du blog d'entreprise).
@@ -785,6 +787,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will completely vanish » — extrait de Fox & Friends First (Fox News, 29 mai 2025) avec Dario Amodei](fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02.md) — Yugen Matsuda — entrepreneur indépendant, compte X japonais ; post de relais d'un entretien de Dario Amodei (CEO d'Anthropic) diffusé sur Fox News.
 - [Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)](fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01.md) — Daniel Meppiel — travaille avec des équipes d'ingénierie d'entreprise chez Microsoft et GitHub ; post LinkedIn.
 - [The Dot and the Swarm: Benefitting from the Bitter Lesson](fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01.md) — Ethan Mollick — professeur à la Wharton School (University of Pennsylvania), auteur de *One Useful Thing* (Substack).
+- [The AI operating system: A new way for CEOs to run the enterprise](fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01.md) — Asutosh Padhi, Vik Sohoni (Chicago), Brian Elliott (Carolinas), Daniel Swan (Connecticut), Kim Baroudy (Copenhague) — senior partners, McKinsey (QuantumBlack).
 - [Building the Machine That Builds the Software | Eno Reyes, Co-Founder & CTO of Factory](fiches/2026-09/reyes-factory-building-machine-software-2026-09-22.md) — Eno Reyes — cofondateur et CTO de Factory ; conférence vidéo (FirstMark Capital).
 - [Philippe Corrot, fondateur de Mirakl](fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20.md) — Philippe Corrot, cofondateur et co-CEO de Mirakl, interrogé par Éric Hazan dans *Les Pirates de l'IA* (RCJ).
 - [The Evaporation of Software Engineering (and the Rise of the Agentic Builder)](fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14.md) — Donn Felker (responsable plateforme IA chez Polygon, ex-Tinder, ex-co-animateur du podcast Fragmented), sur son Substack donnfelker.substack.com.
@@ -1070,6 +1073,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Introducing Personal Agent Protocol](fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06.md) — Bret Taylor et Clay Bavor — cofondateurs de Sierra, plateforme d'agents IA pour l'expérience client ; billet du blog Sierra.
 - [Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)](fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01.md) — Daniel Meppiel — travaille avec des équipes d'ingénierie d'entreprise chez Microsoft et GitHub ; post LinkedIn.
 - [The Dot and the Swarm: Benefitting from the Bitter Lesson](fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01.md) — Ethan Mollick — professeur à la Wharton School (University of Pennsylvania), auteur de *One Useful Thing* (Substack).
+- [The AI operating system: A new way for CEOs to run the enterprise](fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01.md) — Asutosh Padhi, Vik Sohoni (Chicago), Brian Elliott (Carolinas), Daniel Swan (Connecticut), Kim Baroudy (Copenhague) — senior partners, McKinsey (QuantumBlack).
 - [We Must Pace the Frontier](fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09.md) — Dario Amodei (CEO et cofondateur d'Anthropic), sur son site personnel darioamodei.com.
 - [Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI](fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30.md) — Zach Davis (LaunchDarkly), Michelle Gill (Engineered by AI), Elisabeth Hendrickson (Curious Duck), Angie Jones (Agentic AI Foundation), Sha Ma (Topogy), Randy Shoup (CircleCI), James Wickett (DryRun Security) ; article collectif, IT Revolution.
 - [Personal AI Should Actually Be Personal](fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29.md) — Ryan Sarver (@rsarver), auteur du fil sur X ; fonction non indiquée dans le texte.
@@ -1246,16 +1250,16 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 435 fiches
-- **Par année** : 2026 (258) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 436 fiches
+- **Par année** : 2026 (259) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 163
-  - Architecture & Construction : 61
-  - Transformation & Adoption : 97
+  - Architecture & Construction : 62
+  - Transformation & Adoption : 98
   - Qualité & Sécurité : 55
   - Économie & Marché : 92
   - Philosophie & Société : 30
-  - Stratégie & Frameworks : 38
+  - Stratégie & Frameworks : 39
   - Outils & Plateformes : 63
   - Recherche & Éducation : 16
   - Produits & Services : 19

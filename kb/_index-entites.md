@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3631 entités
+> 3638 entités
 
 ## #
 
@@ -216,6 +216,7 @@
 - [[kb/AI-Mode\|AI Mode]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#AI-Native-Workflows\|AI Native Workflows]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#AI-note-taking-tools-(cas-d'usage)\|AI note-taking tools (cas d'usage)]] (CONCEPT, 1 fiches)
+- [[kb/AI-operating-system\|AI operating system]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#AI-Orchestrator\|AI Orchestrator]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#AI-orphan-tax\|AI orphan tax]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#AI-Overviews\|AI Overviews]] (TECHNOLOGIE, 1 fiches)
@@ -404,6 +405,7 @@
 - [[kb/_entites-mineures#article-Introducing-System-One-Models-&-Jev\|article Introducing System One Models & Jev]] (DOCUMENT, 1 fiches)
 - [[kb/article-Personal-AI-Should-Actually-Be-Personal\|article Personal AI Should Actually Be Personal]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#article-The-agentic-transformation-office\|article The agentic transformation office]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#article-The-AI-operating-system\|article The AI operating system]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#article-The-Dot-and-the-Swarm\|article The Dot and the Swarm]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#article-Training-AI-to-Paint-with-Code\|article Training AI to Paint with Code]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#article-What-if-the-future-does-not-need-you\|article What if the future does not need you]] (DOCUMENT, 1 fiches)
@@ -429,6 +431,7 @@
 - [[kb/_entites-mineures#Assaf-Elovic\|Assaf Elovic]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Assistant\|Assistant]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Assistant-axis\|Assistant axis]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Asutosh-Padhi\|Asutosh Padhi]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Asymétrie-entrée-sortie\|Asymétrie entrée/sortie]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Asymétrie-investissement-IA-US-2025\|Asymétrie investissement IA US 2025]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#ATDD-(Acceptance-Test-Driven-Development)\|ATDD (Acceptance Test-Driven Development)]] (METHODOLOGIE, 1 fiches)
@@ -951,7 +954,7 @@
 - [[kb/_entites-mineures#Couche-anti-corruption-(ACL)\|Couche anti-corruption (ACL)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#couche-de-vérité\|couche de vérité]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#couche-durable-d'entreprise\|couche durable d'entreprise]] (CONCEPT, 1 fiches)
-- [[kb/_entites-mineures#couche-sémantique\|couche sémantique]] (CONCEPT, 1 fiches)
+- [[kb/couche-sémantique\|couche sémantique]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#couche-technologique-agentique\|couche technologique agentique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#country-of-geniuses-in-a-data-center\|country of geniuses in a data center]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#couplage-organisationnel\|couplage organisationnel]] (CONCEPT, 1 fiches)
@@ -2067,6 +2070,7 @@
 - [[kb/Magnifica-Humanitas\|Magnifica Humanitas]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Magnificat-(Lc-1,-46-55)\|Magnificat (Lc 1, 46-55)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Make-vs-Buy\|Make vs Buy]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Management-par-intervention\|Management par intervention]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Manager-d'agents\|Manager d'agents]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#Managerbot\|Managerbot]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Manifeste-Agile\|Manifeste Agile]] (DOCUMENT, 1 fiches)
@@ -2123,7 +2127,7 @@
 - [[kb/_entites-mineures#Maybe-We-Shouldn't-Be-Reviewing-All-This-Code\|Maybe We Shouldn't Be Reviewing All This Code]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#MAZU\|MAZU]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#mChat\|mChat]] (TECHNOLOGIE, 1 fiches)
-- [[kb/McKinsey\|McKinsey]] (ORGANISATION, 2 fiches)
+- [[kb/McKinsey\|McKinsey]] (ORGANISATION, 3 fiches)
 - [[kb/McKinsey-&-Company\|McKinsey & Company]] (ORGANISATION, 1 fiches)
 - [[kb/MCP\|MCP]] (TECHNOLOGIE, 16 fiches)
 - [[kb/_entites-mineures#MCP-(OAuth)\|MCP (OAuth)]] (TECHNOLOGIE, 1 fiches)
@@ -2443,7 +2447,7 @@
 - [[kb/_entites-mineures#Orange\|Orange]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Orchestrateur\|Orchestrateur]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#orchestration-agentique\|orchestration agentique]] (TECHNOLOGIE, 1 fiches)
-- [[kb/Orchestration-d'agents\|Orchestration d'agents]] (METHODOLOGIE, 2 fiches)
+- [[kb/Orchestration-d'agents\|Orchestration d'agents]] (METHODOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#orchestration-de-bots\|orchestration de bots]] (METHODOLOGIE, 1 fiches)
 - [[kb/orchestration-multi-agents\|orchestration multi-agents]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Orchestrator\|Orchestrator]] (CONCEPT, 1 fiches)
@@ -2455,6 +2459,7 @@
 - [[kb/_entites-mineures#Outcome-based-(modèle-économique-IA)\|Outcome-based (modèle économique IA)]] (METHODOLOGIE, 1 fiches)
 - [[kb/Outcome-based-pricing\|Outcome-based pricing]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#Overhiring-pandémique-2020-2022\|Overhiring pandémique 2020-2022]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Own-the-context,-rent-or-replace-the-technology\|Own the context, rent or replace the technology]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#ownership-end-to-end\|ownership end-to-end]] (CONCEPT, 1 fiches)
 ## P
 
@@ -2708,6 +2713,7 @@
 - [[kb/_entites-mineures#QodoAI\|QodoAI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Quality-Control-Zone\|Quality Control Zone]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Quality-Gates\|Quality Gates]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#QuantumBlack\|QuantumBlack]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#quatre-lanes\|quatre lanes]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Quatre-modalités-fonctionnelles-de-l'IA\|Quatre modalités fonctionnelles de l'IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#quatre-observations\|quatre observations]] (CONCEPT, 1 fiches)
@@ -3132,6 +3138,7 @@
 - [[kb/_entites-mineures#Starlink\|Starlink]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Startups-AI-native\|Startups AI-native]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#State-Department\|State Department]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#State-of-AI-2026\|State of AI 2026]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#State-of-AI-Code-Quality-2025\|State of AI Code Quality 2025]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#StatQuest\|StatQuest]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Steeve-Morin\|Steeve Morin]] (PERSONNE, 1 fiches)

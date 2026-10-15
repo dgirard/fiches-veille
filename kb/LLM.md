@@ -1,6 +1,6 @@
 # LLM
 
-> **Type** : TECHNOLOGIE | 10 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 11 relations | 3 fiches sources
 
 ## Attributs
 
@@ -41,6 +41,7 @@
 
 - [[kb/Netflix\|Netflix]] **utilise** → LLM — 0.95
 - [[kb/_entites-mineures#non-déterminisme\|non-déterminisme]] **observé_dans** → LLM — 0.93
+- [[kb/AI-operating-system\|AI operating system]] **utilise** → LLM — 0.88
 
 ## Fiches sources
 

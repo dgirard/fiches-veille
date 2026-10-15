@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 3034 entités avec moins de 3 triples/fiches
+> 3039 entités avec moins de 3 triples/fiches
 
-## PERSONNE (403)
+## PERSONNE (404)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -451,6 +451,16 @@
 - **publie** → [[kb/page-Context-Filter\|page Context Filter]] (DOCUMENT) — 0.90
 
 **Fiches** : [[fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26\|Context Filter]]
+
+### Asutosh Padhi {#Asutosh-Padhi}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Senior partner, McKinsey (Chicago)
+
+- **travaille_chez** → [[kb/McKinsey\|McKinsey]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01\|The AI operating system: A new way for CEOs to run the enterprise]]
 
 ### Atish Patel {#Atish-Patel}
 
@@ -4054,7 +4064,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (324)
+## ORGANISATION (325)
 
 ### 10x {#10x}
 
@@ -6456,6 +6466,16 @@
 - [[kb/Itamar-Friedman\|Itamar Friedman]] **dirige** → QodoAI — 0.97
 
 **Fiches** : [[fiches/2025-11/friedman-qodo-state-ai-code-quality-hype-reality-2025-11-23\|The State of AI Code Quality: Hype vs. Reality]]
+
+### QuantumBlack {#QuantumBlack}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Branche IA de McKinsey (« QuantumBlack, AI by McKinsey »)
+
+- **fait_partie_de** → [[kb/McKinsey\|McKinsey]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01\|The AI operating system: A new way for CEOs to run the enterprise]]
 
 ### Raiffeisen Bank International (RBI) {#Raiffeisen-Bank-International-(RBI)}
 
@@ -13819,12 +13839,13 @@
 
 ### knowledge graph {#knowledge-graph}
 
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
 
 - **fonction** : Cartographier les interconnexions entre clients, produits, projets, équipes, réglementations et applications
 
 - **permet** → compréhension des relations, du contexte et du sens métier (CONCEPT) — 0.87
 
+- [[kb/couche-sémantique\|Couche sémantique]] **utilise** → knowledge graph — 0.90
 - [[kb/Enterprise-Knowledge-Fabric\|Enterprise Knowledge Fabric]] **utilise** → knowledge graph — 0.90
 
 **Fiches** : [[fiches/2026-06/singh-kdlc-knowledge-development-life-cycle-2026-06-28\|New Engineering Disciplines for the AI Era Part 3: KDLC — Knowledge Development Life Cycle]]
@@ -17774,6 +17795,16 @@
 
 **Fiches** : [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|The Batch n°352 — "There Will Be No AI Jobpocalypse" (Andrew Ng)]]
 
+### Own the context, rent or replace the technology {#Own-the-context,-rent-or-replace-the-technology}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Règle : la connaissance institutionnelle reste portable, la technologie est interchangeable
+
+- [[kb/McKinsey\|McKinsey]] **recommande** → Own the context, rent or replace the technology — 0.95
+
+**Fiches** : [[fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01\|The AI operating system: A new way for CEOs to run the enterprise]]
+
 ### PLC {#PLC}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -20495,16 +20526,6 @@
 - **utilise** → contexte, identité, politique, provenance, vérification et mémoire organisationnelle persistant à travers les modèles (CONCEPT) — 0.91
 
 **Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
-
-### couche sémantique {#couche-sémantique}
-
-**Type** : CONCEPT | 1 relations | 1 fiches
-
-- **fonction** : Encoder précédence et signification des données pour agents
-
-- **permet** → résolution de conflits entre sources (CONCEPT) — 0.85
-
-**Fiches** : [[fiches/2025-12/clouded-judgement-121225-long-live\|Clouded Judgement 12.12.25 - Long Live Systems of Record]]
 
 ### couche technologique agentique {#couche-technologique-agentique}
 
@@ -24406,7 +24427,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (398)
+## METHODOLOGIE (399)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -25673,6 +25694,16 @@
 - **réduit** → étapes d'un agent (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2025-11/finout-cpo-guide-llm-rag-agents-agentic-token-multipliers-2025-11-02\|FinOps in the Age of AI: A CPO's Guide to LLM Workflows, RAG, AI Agents, and Agentic Systems]]
+
+### Management par intervention {#Management-par-intervention}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Remplacer les revues calendaires par des signaux, seuils et exceptions déclenchant l'intervention
+
+- [[kb/AI-operating-system\|AI operating system]] **permet** → Management par intervention — 0.88
+
+**Fiches** : [[fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01\|The AI operating system: A new way for CEOs to run the enterprise]]
 
 ### Marketing Mix Modeling {#Marketing-Mix-Modeling}
 
@@ -28993,7 +29024,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (158)
+## DOCUMENT (160)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -29961,6 +29992,18 @@
 
 **Fiches** : [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
 
+### State of AI 2026 {#State-of-AI-2026}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **catégorie** : Enquête annuelle McKinsey, publiée le 25 août 2026
+
+- **mesure** → « 40 % des grandes entreprises déclarent des agents à l'échelle, 6 % attribuent à l'IA au moins 5 % de l'EBIT » (MESURE) — 0.92
+
+- [[kb/_entites-mineures#article-The-AI-operating-system\|article The AI operating system]] **référence** → State of AI 2026 — 0.95
+
+**Fiches** : [[fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01\|The AI operating system: A new way for CEOs to run the enterprise]]
+
 ### State of AI Code Quality 2025 {#State-of-AI-Code-Quality-2025}
 
 **Type** : DOCUMENT | 3 relations | 1 fiches
@@ -30326,6 +30369,18 @@
 - [[kb/_entites-mineures#Diogo-Almeida\|Diogo Almeida]] **publie** → article Introducing System One Models & Jev — 0.97
 
 **Fiches** : [[fiches/2026-09/almeida-system-one-models-jev-2026-09-15\|Introducing System One Models & Jev]]
+
+### article The AI operating system {#article-The-AI-operating-system}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **catégorie** : Article McKinsey/QuantumBlack, octobre 2026, 12 pages
+
+- **référence** → [[kb/_entites-mineures#State-of-AI-2026\|State of AI 2026]] (DOCUMENT) — 0.95
+
+- [[kb/McKinsey\|McKinsey]] **publie** → article The AI operating system — 0.97
+
+**Fiches** : [[fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01\|The AI operating system: A new way for CEOs to run the enterprise]]
 
 ### article The Dot and the Swarm {#article-The-Dot-and-the-Swarm}
 

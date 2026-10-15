@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 440 entités de type ORGANISATION
+> 441 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -242,7 +242,7 @@
 - [[kb/_entites-mineures#MIT-Sloan\|MIT Sloan]] — secteur: Recherche management et technologie (1 occ., 1 fiches)
 - [[kb/Manus-organisation\|Manus]] — spécialité: Agents IA autonomes (2 occ., 4 fiches)
 - [[kb/_entites-mineures#Maximor\|Maximor]] — catégorie: Startup finance IA (1 occ., 1 fiches)
-- [[kb/McKinsey\|McKinsey]] — secteur: Conseil en stratégie et transformation (2 occ., 2 fiches)
+- [[kb/McKinsey\|McKinsey]] — secteur: Conseil en stratégie et transformation (3 occ., 3 fiches)
 - [[kb/McKinsey-&-Company\|McKinsey & Company]] — secteur: Cabinet conseil top-tier mondial fondé 1926, 100 ans en 2026, ~60 000 people (40 000 humains + 20 000 agents IA en janvier 2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mechanical-Orchard\|Mechanical Orchard]] — secteur: Partenaire de modernisation legacy mainframe — cohérent avec capacité Reverse Engineering (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mechanize\|Mechanize]] — mission: Startup "to enable the full automation of the economy" (1 occ., 1 fiches)
@@ -315,6 +315,7 @@
 - [[kb/_entites-mineures#Pylon\|Pylon]] — catégorie: Start-up d'IA (1 occ., 1 fiches)
 - [[kb/Qodo-organisation\|Qodo]] — secteur: Plateforme IA de qualité de code (anciennement Codium) (1 occ., 2 fiches)
 - [[kb/_entites-mineures#QodoAI\|QodoAI]] — secteur: Qualité code IA (2 occ., 1 fiches)
+- [[kb/_entites-mineures#QuantumBlack\|QuantumBlack]] — rôle: Branche IA de McKinsey (« QuantumBlack, AI by McKinsey ») (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Raiffeisen-Bank-International-(RBI)\|Raiffeisen Bank International (RBI)]] — secteur: Groupe bancaire autrichien, parent de Raiffeisen Bank Ukraine (1 occ., 1 fiches)
 - [[kb/Raiffeisen-Bank-Ukraine\|Raiffeisen Bank Ukraine]] — secteur: Banque systémique régulée, filiale Raiffeisen Bank International (RBI, Autriche), ~900 ingénieurs IT, contexte ukrainien (économie de guerre depuis 2022) (1 occ., 1 fiches)
 - [[kb/Rakuten\|Rakuten]] — secteur: Commerce en ligne / Technologie (2 occ., 2 fiches)

@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 461 entités de type METHODOLOGIE
+> 462 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -149,6 +149,7 @@
 - [[kb/_entites-mineures#Leave-No-One-Behind\|Leave No One Behind]] — description: Approche AI transformation Patricia Frost : mêmes outils et formations pour tous, choix individuel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Limit-the-Loop\|Limit the Loop]] — usage: Plafonner les étapes/outils d'un agent (1 occ., 1 fiches)
 - [[kb/Loop-Engineering\|Loop Engineering]] — définition: Concevoir un système qui s'améliore à chaque run via des boucles à 5 parties (trigger, action, preuve, mémoire, stop) (3 occ., 3 fiches)
+- [[kb/_entites-mineures#Management-par-intervention\|Management par intervention]] — définition: Remplacer les revues calendaires par des signaux, seuils et exceptions déclenchant l'intervention (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Marketing-Mix-Modeling\|Marketing Mix Modeling]] — abréviation: MMM (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mode-ask-vs-mode-generation\|Mode ask vs mode generation]] — définition: Recommandation Chepurin/Turner — préférer interroger le modèle (mode pédagogique) à le laisser générer (mode délégation), pour maintenir l'engagement cognitif (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Model-routing\|Model routing]] — définition: Diriger chaque tâche vers le modèle juste-suffisant ; tout envoyer au frontier model = différence entre facture gérable et problème de board (1 occ., 1 fiches)
@@ -160,7 +161,7 @@
 - [[kb/_entites-mineures#Observation-Tension-Decision\|Observation-Tension-Decision]] — rôle: Framework de progression structurée signal → décision (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Onsite-AI-native\|Onsite AI-native]] — description: Format d'entretien en 3 phases (Plan/Build/Review) remplaçant les entretiens de codage et algorithmes classiques (1 occ., 1 fiches)
 - [[kb/Ontology-Pipeline\|Ontology Pipeline]] — définition: Framework Talisman 5 étapes (controlled vocabulary → metadata standards → taxonomy → thesaurus → ontology → knowledge graph) + Refresh 2026 ajoute Governance + AI Partnership. Validé sur 6 institutions / 10 ans. Principe : "the work cannot be skipped" (1 occ., 1 fiches)
-- [[kb/Orchestration-d'agents\|Orchestration d'agents]] — manque: Brique open source absente (registry, cycle de vie, permissions, skills) (2 occ., 2 fiches)
+- [[kb/Orchestration-d'agents\|Orchestration d'agents]] — manque: Brique open source absente (registry, cycle de vie, permissions, skills) (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Outcome-based-(modèle-économique-IA)\|Outcome-based (modèle économique IA)]] — description: Paiement sur KPIs atteints — modèle ROI fort, aligné sur la valeur métier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#PAS\|PAS]] — structure: Problem, Agitate, Solve (1 occ., 1 fiches)
 - [[kb/_entites-mineures#PDLC\|PDLC]] — définition: Product Development Life Cycle : cadre englobant de l'idéation/discovery au retrait du marché ; finalité « construire le bon produit et réussir » ; le SDLC en est le sous-ensemble logé sous la phase développement (2 occ., 2 fiches)
