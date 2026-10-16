@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 559 entités de type PERSONNE
+> 560 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -158,6 +158,7 @@
 - [[kb/_entites-mineures#Dion-Hinchcliffe\|Dion Hinchcliffe]] — rôle: Lead CIO practice, The Futurum Group (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Donald-T.-Campbell\|Donald T. Campbell]] — rôle: Psychologue social, auteur de la loi de Campbell (1 occ., 1 fiches)
 - [[kb/Donn-Felker\|Donn Felker]] — rôle: Responsable plateforme IA chez Polygon, ex-Tinder ; ex-spécialiste Android (Kotlin), ex-co-animateur du podcast Fragmented ; auteur de l'essai (1 occ., 1 fiches)
+- [[kb/Dorra-Bartaguiz\|Dorra Bartaguiz]] — rôle: CTO d'Arolla, formatrice craft et agents de codage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ebony-Louis\|Ebony Louis]] — rôle: Developer Advocate, Block/Goose (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Ed-Zitron\|Ed Zitron]] — rôle: Critique de la bulle des capex IA ; monologues vidéo sans visuels (1 occ., 1 fiches)
 - [[kb/Edgar-Kussberg\|Edgar Kussberg]] — rôle: Group Product Manager, Sonar (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # DORA
 
-> **Type** : ORGANISATION | 9 relations | 1 fiches sources
+> **Type** : ORGANISATION | 10 relations | 1 fiches sources
 
 ## Attributs
 
@@ -39,6 +39,7 @@
 ## Relations (comme objet)
 
 - [[kb/_entites-mineures#Nathen-Harvey\|Nathen Harvey]] **dirige** → DORA — 0.96
+- [[kb/_entites-mineures#talk-Quand-la-vélocité-explose-avec-l'IA\|talk Quand la vélocité explose avec l'IA]] **référence** → DORA — 0.90
 
 ## Fiches sources
 

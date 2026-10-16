@@ -1,6 +1,6 @@
 # Loop Engineering
 
-> **Type** : METHODOLOGIE | 14 relations | 3 fiches sources
+> **Type** : METHODOLOGIE | 15 relations | 3 fiches sources
 
 ## Attributs
 
@@ -63,6 +63,7 @@
 ## Relations (comme objet)
 
 - [[kb/Addy-Osmani\|Addy Osmani]] **publie** → Loop Engineering — 0.95
+- [[kb/Software-Factory\|Software Factory]] **utilise** → Loop Engineering — 0.90
 - [[kb/_entites-mineures#weekly-product-signal-loop\|weekly product signal loop]] **est_instance_de** → Loop Engineering — 0.85
 
 ## Fiches sources

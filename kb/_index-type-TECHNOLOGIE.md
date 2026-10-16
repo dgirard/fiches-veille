@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 871 entités de type TECHNOLOGIE
+> 872 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -644,6 +644,7 @@
 - [[kb/_entites-mineures#Sketch\|Sketch]] — catégorie: Logiciel de design (1 occ., 1 fiches)
 - [[kb/Skills-Claude\|Skills Claude]] — catégorie: Système de contexte dynamique activé à la demande (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Skills-Based-Plugin-Architecture\|Skills-Based Plugin Architecture]] — description: Marketplace privé Intercom de configurations Claude Code spécialisées + auto-update plugins (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Skraft\|Skraft]] — catégorie: Framework de skills craft créé par les développeurs d'AXA (talk Devoxx 2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Slack-MCP\|Slack MCP]] — catégorie: Intégration MCP pour correction de bugs depuis threads Slack (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Slash-commands-PROJ-AI\|Slash-commands PROJ-AI]] — exemples: /dr-create, /livrable-update — interface CLI/IDE pour utilisateurs tech (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Slideware\|Slideware]] — catégorie: PowerPoint, Keynote, Canva, Google Slides — interface de mise en page ubiquitaire (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # SDLC
 
-> **Type** : METHODOLOGIE | 19 relations | 11 fiches sources
+> **Type** : METHODOLOGIE | 22 relations | 11 fiches sources
 
 ## Attributs
 
@@ -24,7 +24,7 @@
 
 ### fait_partie_de
 
-- [[kb/_entites-mineures#PDLC\|PDLC]] (METHODOLOGIE) — 0.95, ATEMPOREL
+- [[kb/PDLC\|PDLC]] (METHODOLOGIE) — 0.95, ATEMPOREL
   - [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
 
 ### réduit
@@ -49,6 +49,9 @@
 - [[kb/Compound-Engineering\|Compound Engineering]] **est_instance_de** → SDLC — 0.88
 - [[kb/Software-Factory\|Software Factory]] **est_variante_de** → SDLC — 0.88
 - [[kb/Usine-Logicielle-Augmentée\|Usine Logicielle Augmentée]] **est_variante_de** → SDLC — 0.88
+- [[kb/PDLC\|PDLC]] **affine** → SDLC — 0.85
+- [[kb/_entites-mineures#ATDD-(Acceptance-Test-Driven-Development)\|ATDD (Acceptance Test-Driven Development)]] **fait_partie_de** → SDLC — 0.85
+- [[kb/_entites-mineures#Example-Mapping\|Example Mapping]] **fait_partie_de** → SDLC — 0.85
 
 ## Fiches sources
 

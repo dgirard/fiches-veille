@@ -1,6 +1,6 @@
 # Kent Beck
 
-> **Type** : PERSONNE | 17 relations | 6 fiches sources
+> **Type** : PERSONNE | 18 relations | 6 fiches sources
 
 ## Attributs
 
@@ -32,6 +32,8 @@
   - [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]]
 - « « yak shaving éliminé avec IA » » (CITATION) — 0.93, STATIQUE
   - [[fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25\|Augmented Coding: Beyond the Vibes - by Kent Beck]]
+- « "Teams that know how to test properly will adapt better to AI agents." » (CITATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15\|Quand la vélocité explose avec l'IA, place au "Harness Engineering" !]]
 
 ### publie
 

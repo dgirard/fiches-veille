@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 462 entités de type METHODOLOGIE
+> 463 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -106,6 +106,7 @@
 - [[kb/_entites-mineures#Effective-Output-score\|Effective Output score]] — catégorie: Mesure ML de la valeur réelle du code livré (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Empowerment-promise\|Empowerment promise]] — description: Déclarer ce que l'audience saura à la fin (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Entretien-de-débogage\|Entretien de débogage]] — description: Revue et amélioration d'une codebase avec PR brouillon en itérant avec des agents de codage (pilote) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Example-Mapping\|Example Mapping]] — définition: Atelier d'identification de règles et d'exemples avant l'écriture des scénarios (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FSRS\|FSRS]] — catégorie: algorithme de répétition espacée pour flashcards (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FUD-réglementaire\|FUD réglementaire]] — mécanisme: Stratégie prêtée à l'administration Trump : faire émettre par chaque agence une soft law semant le doute (ex. « backdoors » présumées) sur les modèles chinois à poids ouverts, sans « interdire l'open source », pour dissuader les entreprises régulées sans effrayer les hyperscalers (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Facilitation-des-conversations\|Facilitation des conversations]] — définition: Génération par agents des briefings et questions des comités de pilotage (1 occ., 1 fiches)
@@ -128,7 +129,7 @@
 - [[kb/_entites-mineures#Google-SRE\|Google SRE]] — domaine: gestion incidents et fiabilité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gouvernance-injectée\|Gouvernance injectée]] — définition: Couche "quasiment militaire" contraignant les agents — innovation centrale et barrière à l'entrée (1 occ., 1 fiches)
 - [[kb/HTML-(format-de-sortie-agent)\|HTML (format de sortie agent)]] — catégorie: Format préféré pour artefacts agentiques riches (specs, plans, rapports, éditeurs) (1 occ., 1 fiches)
-- [[kb/Harness-engineering\|Harness engineering]] — catégorie: Pratique d'ingénierie pour construire la confiance dans les agents de codage (6 occ., 5 fiches)
+- [[kb/Harness-engineering\|Harness engineering]] — catégorie: Pratique d'ingénierie pour construire la confiance dans les agents de codage (7 occ., 6 fiches)
 - [[kb/_entites-mineures#Hillclimbing\|Hillclimbing]] — définition: Amélioration itérative d'un prompt, d'une skill ou d'un paramètre contre une évaluation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hiring-refactoring-par-projets-adversariels\|Hiring refactoring par projets adversariels]] — exemple: Twitter clone agent vs 10 codecs red team — corroboration Sierra (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hive\|Hive]] — définition: Équipe permanente de quelques agents nommés, chacun avec un rôle et une mémoire de persona qui accumule les préférences de l'utilisateur ; la valeur est cumulative, briefer l'agent devenant plus rapide que briefer une personne. Terme forgé par Block pour ce billet (1 occ., 1 fiches)
@@ -164,7 +165,7 @@
 - [[kb/Orchestration-d'agents\|Orchestration d'agents]] — manque: Brique open source absente (registry, cycle de vie, permissions, skills) (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Outcome-based-(modèle-économique-IA)\|Outcome-based (modèle économique IA)]] — description: Paiement sur KPIs atteints — modèle ROI fort, aligné sur la valeur métier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#PAS\|PAS]] — structure: Problem, Agitate, Solve (1 occ., 1 fiches)
-- [[kb/_entites-mineures#PDLC\|PDLC]] — définition: Product Development Life Cycle : cadre englobant de l'idéation/discovery au retrait du marché ; finalité « construire le bon produit et réussir » ; le SDLC en est le sous-ensemble logé sous la phase développement (2 occ., 2 fiches)
+- [[kb/PDLC\|PDLC]] — définition: Product Development Life Cycle : stratégie produit, architecture, UX/UI, release, observabilité, maintenance, boucle de valeur (3 occ., 3 fiches)
 - [[kb/_entites-mineures#PREP\|PREP]] — structure: Point, Reason, Example, Point (1 occ., 1 fiches)
 - [[kb/PROJ-AI\|PROJ-AI]] — définition: Couche méthodologique légère pour rendre les projets collectifs transmissibles via repo+agent+doctrine ; transforme les projets en artefacts réutilisables (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Paired-Prompts-method\|Paired Prompts method]] — catégorie: Évaluation biais politique IA (1 occ., 1 fiches)
@@ -377,7 +378,7 @@
 - [[kb/_entites-mineures#modèle-Cyborg\|modèle Cyborg]] — description: Intégration profonde de l'IA dans le workflow (1 occ., 1 fiches)
 - [[kb/_entites-mineures#modèle-de-l'usine\|modèle de l'usine]] — métaphore: Le dev conçoit la chaîne de production du code, pas chaque pièce (1 occ., 1 fiches)
 - [[kb/_entites-mineures#modèle-opérationnel-agentique\|modèle opérationnel agentique]] — définition: Réorganisation des rôles et équipes autour de l'IA (sujet ≠ outil) (1 occ., 1 fiches)
-- [[kb/_entites-mineures#mutation-testing\|mutation testing]] — rôle: Mesure si les tests détectent un changement de comportement, alternative à la couverture (1 occ., 1 fiches)
+- [[kb/_entites-mineures#mutation-testing\|mutation testing]] — rôle: Mesure si les tests détectent un changement de comportement, alternative à la couverture (2 occ., 2 fiches)
 - [[kb/_entites-mineures#orchestration-de-bots\|orchestration de bots]] — description: Gérer 10 bots en parallèle, débugger, affiner les specs (1 occ., 1 fiches)
 - [[kb/orchestration-multi-agents\|orchestration multi-agents]] — fonctions: Routage tâches, gestion état, récupération erreurs, exécution parallèle (2 occ., 2 fiches)
 - [[kb/_entites-mineures#ordre-de-merge\|ordre de merge]] — séquence: Foundation → shared packages → apps (1 occ., 1 fiches)

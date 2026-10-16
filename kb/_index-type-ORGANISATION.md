@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 444 entités de type ORGANISATION
+> 445 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -44,6 +44,7 @@
 - [[kb/_entites-mineures#Anysphere\|Anysphere]] — rôle: Société propriétaire de Cursor ; tour de 2 milliards à 50 milliards de valorisation préempté par l'accord (1 occ., 1 fiches)
 - [[kb/Apollo-Academy\|Apollo Academy]] — secteur: formation recherche sûreté IA (3 occ., 1 fiches)
 - [[kb/_entites-mineures#Archie\|Archie]] — secteur: IA / agents (workforce IA) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Arolla\|Arolla]] — secteur: Conseil et formation en développement logiciel (« agentic software crafters ») (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Artemis-Security\|Artemis Security]] — apport: Se présente comme entreprise nativement IA plutôt qu'entreprise utilisant l'IA ; vitesse attribuée à l'investissement en infrastructure de test, organisation du code et systèmes de connaissance (1 occ., 1 fiches)
 - [[kb/Artificial-Analysis\|Artificial Analysis]] — rôle: Seul tiers évaluateur cité dans le billet : produit les scores GDPval-AA v2 et FrontierSWE du tableau comparatif, et fournit les débits par modèle qui servent à normaliser les budgets temps d'ExploitGym (2 occ., 2 fiches)
 - [[kb/Atlassian\|Atlassian]] — secteur: Éditeur logiciel (collaboration, ingénierie) (1 occ., 1 fiches)

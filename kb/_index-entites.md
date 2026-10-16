@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3657 entités
+> 3663 entités
 
 ## #
 
@@ -392,6 +392,7 @@
 - [[kb/_entites-mineures#Arjan-van-den-Heuvel\|Arjan van den Heuvel]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Arman-Hezarkhani\|Arman Hezarkhani]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Arnaud-Saint-Martin\|Arnaud Saint-Martin]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Arolla\|Arolla]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#ARR\|ARR]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Artem-Zhutov\|Artem Zhutov]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Artemis-Security\|Artemis Security]] (ORGANISATION, 1 fiches)
@@ -1109,6 +1110,7 @@
 - [[kb/_entites-mineures#Deux-cités-(Augustin)\|Deux cités (Augustin)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#deux-portes-humaines\|deux portes humaines]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Dev-Summit-Adeo-Decathlon-2026\|Dev Summit Adeo Decathlon 2026]] (EVENEMENT, 1 fiches)
+- [[kb/_entites-mineures#Dev-With-AI\|Dev With AI]] (EVENEMENT, 1 fiches)
 - [[kb/devboxes\|devboxes]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Developer-Experience\|Developer Experience]] (METHODOLOGIE, 1 fiches)
 - [[kb/Devin\|Devin]] (TECHNOLOGIE, 3 fiches)
@@ -1165,6 +1167,7 @@
 - [[kb/DORA\|DORA]] (ORGANISATION, 1 fiches)
 - [[kb/DORA-2025\|DORA 2025]] (DOCUMENT, 3 fiches)
 - [[kb/_entites-mineures#DORA-AI-Capabilities-Model\|DORA AI Capabilities Model]] (METHODOLOGIE, 1 fiches)
+- [[kb/Dorra-Bartaguiz\|Dorra Bartaguiz]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Dose-ID\|Dose ID]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#dots\|dots]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Dotwork\|Dotwork]] (ORGANISATION, 1 fiches)
@@ -1312,6 +1315,7 @@
 - [[kb/_entites-mineures#everyone-ships\|everyone ships]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Evil-Martians\|Evil Martians]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Exa\|Exa]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Example-Mapping\|Example Mapping]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#EXL\|EXL]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#ExploitBench\|ExploitBench]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#ExploitGym\|ExploitGym]] (TECHNOLOGIE, 2 fiches)
@@ -1654,7 +1658,7 @@
 - [[kb/_entites-mineures#harnais\|harnais]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Harnais-d'agent\|Harnais d'agent]] (CONCEPT, 1 fiches)
 - [[kb/Harness\|Harness]] (CONCEPT, 5 fiches)
-- [[kb/Harness-engineering\|Harness engineering]] (METHODOLOGIE, 5 fiches)
+- [[kb/Harness-engineering\|Harness engineering]] (METHODOLOGIE, 6 fiches)
 - [[kb/_entites-mineures#harness-export-AWS\|harness export AWS]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Harness-as-a-Service\|Harness-as-a-Service]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Harrison-Chase\|Harrison Chase]] (PERSONNE, 1 fiches)
@@ -2307,7 +2311,7 @@
 - [[kb/Muse-Code\|Muse Code]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Muse-Spark-1.1\|Muse Spark 1.1]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Muse-Spark-1.2\|Muse Spark 1.2]] (TECHNOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#mutation-testing\|mutation testing]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#mutation-testing\|mutation testing]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#MutedKeywordFilter\|MutedKeywordFilter]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Mutual-Amplification\|Mutual Amplification]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#mythe-de-Theuth-et-Thamus\|mythe de Theuth et Thamus]] (CONCEPT, 1 fiches)
@@ -2519,7 +2523,7 @@
 - [[kb/_entites-mineures#Paul-Sinaï\|Paul Sinaï]] (PERSONNE, 1 fiches)
 - [[kb/Paula-Hingel\|Paula Hingel]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Pause-Ads\|Pause Ads]] (TECHNOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#PDLC\|PDLC]] (METHODOLOGIE, 2 fiches)
+- [[kb/PDLC\|PDLC]] (METHODOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#PDM\|PDM]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Peak-productivité-3-outils-IA\|Peak productivité 3 outils IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Pecha-Kucha\|Pecha Kucha]] (CONCEPT, 1 fiches)
@@ -3059,6 +3063,7 @@
 - [[kb/_entites-mineures#Skills-Based-Plugin-Architecture\|Skills-Based Plugin Architecture]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#SKOS\|SKOS]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#SKOS-OWL-RDF-SPARQL\|SKOS OWL RDF SPARQL]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Skraft\|Skraft]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Slack-MCP\|Slack MCP]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#slash-commands\|slash commands]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Slash-commands-PROJ-AI\|Slash-commands PROJ-AI]] (TECHNOLOGIE, 1 fiches)
@@ -3249,6 +3254,7 @@
 - [[kb/_entites-mineures#Tailwind-CSS\|Tailwind CSS]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Tailwinds-AI\|Tailwinds AI]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Talent-Density\|Talent Density]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#talk-Quand-la-vélocité-explose-avec-l'IA\|talk Quand la vélocité explose avec l'IA]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Tamarin\|Tamarin]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Tanuj-Kapilashrami\|Tanuj Kapilashrami]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Target-Operating-Model\|Target Operating Model]] (METHODOLOGIE, 1 fiches)

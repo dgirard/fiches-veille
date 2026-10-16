@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 3056 entités avec moins de 3 triples/fiches
+> 3060 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (408)
 
@@ -4108,7 +4108,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (328)
+## ORGANISATION (329)
 
 ### 10x {#10x}
 
@@ -4452,6 +4452,16 @@
 - [[kb/Fred-PLAIS\|Fred PLAIS]] **dirige** → Archie — 0.90
 
 **Fiches** : [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|AI made your engineers fast. Too fast to leave room for the rest of the org to think.]]
+
+### Arolla {#Arolla}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Conseil et formation en développement logiciel (« agentic software crafters »)
+
+- [[kb/Dorra-Bartaguiz\|Dorra Bartaguiz]] **travaille_chez** → Arolla — 0.85
+
+**Fiches** : [[fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15\|Quand la vélocité explose avec l'IA, place au "Harness Engineering" !]]
 
 ### Artemis Security {#Artemis-Security}
 
@@ -7481,7 +7491,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (681)
+## TECHNOLOGIE (682)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -12662,6 +12672,18 @@
 - [[kb/Intercom\|Intercom]] **a_créé** → Skills-Based Plugin Architecture — 0.97
 
 **Fiches** : [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|2× – nine months later: We did it]]
+
+### Skraft {#Skraft}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Framework de skills craft créé par les développeurs d'AXA (talk Devoxx 2026)
+
+- **est_basé_sur** → [[kb/_entites-mineures#craft-artisanat-logiciel\|craft / artisanat logiciel]] (METHODOLOGIE) — 0.85
+
+- AXA **a_créé** → Skraft — 0.88
+
+**Fiches** : [[fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15\|Quand la vélocité explose avec l'IA, place au "Harness Engineering" !]]
 
 ### Slack MCP {#Slack-MCP}
 
@@ -20800,9 +20822,13 @@
 
 ### craft / artisanat logiciel {#craft-artisanat-logiciel}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 3 relations | 1 fiches
 
 - **description** : Mouvement post-Agile valorisant la qualité du code, les pratiques techniques (TDD, refactoring, pair programming) et la responsabilité individuelle de l'artisan. Position Eveillard et corpus FR
+
+- [[kb/Harness-engineering\|Harness engineering]] **utilise** → craft / artisanat logiciel — 0.90
+- [[kb/_entites-mineures#Skraft\|Skraft]] **est_basé_sur** → craft / artisanat logiciel — 0.85
+- [[kb/Superpowers\|Superpowers]] **est_basé_sur** → craft / artisanat logiciel — 0.85
 
 **Fiches** : [[fiches/2022-12/eveillard-tdd-is-dead-long-live-testing-reponse-dhh-2022-12-07\|TDD is dead. Long live testing. (Une contre-argumentation point à point à l'article phare de David Heinemeier Hansson,…]]
 
@@ -24805,9 +24831,11 @@
 
 ### ATDD (Acceptance Test-Driven Development) {#ATDD-(Acceptance-Test-Driven-Development)}
 
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
 
 - **catégorie** : Spécification exécutable au niveau acceptance, recommandée par Farley pour cadrer les agents IA
+
+- **fait_partie_de** → [[kb/SDLC\|SDLC]] (METHODOLOGIE) — 0.85
 
 - [[kb/Dave-Farley\|Dave Farley]] **recommande** → ATDD (Acceptance Test-Driven Development) — 0.94
 
@@ -25384,11 +25412,12 @@
 
 ### Domain-Driven Design {#Domain-Driven-Design}
 
-**Type** : METHODOLOGIE | 4 relations | 2 fiches
+**Type** : METHODOLOGIE | 5 relations | 2 fiches
 
 - **rôle** : Outil pour canaliser la génération de code par l'IA autour de la logique métier
 
 - **permet** → canaliser la génération de code par l'IA (CONCEPT) — 0.90
+- **améliore** → code généré par IA (CONCEPT) — 0.80
 
 - [[kb/_entites-mineures#Contextes-limités\|Contextes limités]] **fait_partie_de** → Domain-Driven Design — 0.95
 - [[kb/_entites-mineures#Langage-ubiquitaire\|Langage ubiquitaire]] **fait_partie_de** → Domain-Driven Design — 0.95
@@ -25477,6 +25506,16 @@
 - [[kb/Sierra\|Sierra]] **utilise** → Entretien de débogage — 0.90
 
 **Fiches** : [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|The AI-native interview]]
+
+### Example Mapping {#Example-Mapping}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Atelier d'identification de règles et d'exemples avant l'écriture des scénarios
+
+- **fait_partie_de** → [[kb/SDLC\|SDLC]] (METHODOLOGIE) — 0.85
+
+**Fiches** : [[fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15\|Quand la vélocité explose avec l'IA, place au "Harness Engineering" !]]
 
 ### FSRS {#FSRS}
 
@@ -25977,20 +26016,6 @@
 
 **Fiches** : [[fiches/2026-02/synthese-prompts-formats-talks-deep-research-2026-02\|Synthèse : Architectures Narratives & Formats de Conférence - Guide Pratique et Prompts]]
 
-### PDLC {#PDLC}
-
-**Type** : METHODOLOGIE | 3 relations | 2 fiches
-
-- **définition** : Product Development Life Cycle : cadre englobant de l'idéation/discovery au retrait du marché ; finalité « construire le bon produit et réussir » ; le SDLC en est le sous-ensemble logé sous la phase développement
-- **rôle** : Cadre vers lequel Staples voit converger le SDLC : l'intention métier entre, les agents la transforment en logiciel, vérification et gouvernance décident de la suite, la production réalimente la décision
-
-- **permet** → boucle continue de l'intention métier au logiciel vérifié, puis retour des résultats de production (CONCEPT) — 0.88
-- **s_oppose_à** → « PLC (product life cycle, Theodore Levitt 1965) : le PLC observe une courbe commerciale, le PDLC organise un travail de conception » (AFFIRMATION) — 0.85
-
-- [[kb/SDLC\|SDLC]] **fait_partie_de** → PDLC — 0.95
-
-**Fiches** : [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]], [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
-
 ### PREP {#PREP}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -26397,9 +26422,11 @@
 
 ### Shift-Left {#Shift-Left}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **application** : Intégration continue qualité + sécurité en amont, empêche la dette avant qu'elle n'existe
+
+- [[kb/Harness-engineering\|Harness engineering]] **utilise** → Shift-Left — 0.90
 
 **Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
 
@@ -27829,15 +27856,17 @@
 
 ### mutation testing {#mutation-testing}
 
-**Type** : METHODOLOGIE | 2 relations | 1 fiches
+**Type** : METHODOLOGIE | 3 relations | 2 fiches
 
 - **rôle** : Mesure si les tests détectent un changement de comportement, alternative à la couverture
+- **usage** : « Détecteur de mensonges » des tests générés par IA
 
 - **surpasse** → [[kb/_entites-mineures#couverture-en-pourcentage\|couverture en pourcentage]] (CONCEPT) — 0.90
 
 - [[kb/_entites-mineures#calibration-de-revue\|calibration de revue]] **s_inspire_de** → mutation testing — 0.90
+- [[kb/Dorra-Bartaguiz\|Dorra Bartaguiz]] **recommande** → mutation testing — 0.90
 
-**Fiches** : [[fiches/2026-06/williams-adlc-3-tests-are-the-spec-2026-06-12\|Tests Are the Spec in the Only Language the Builder Can't Argue With]]
+**Fiches** : [[fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15\|Quand la vélocité explose avec l'IA, place au "Harness Engineering" !]], [[fiches/2026-06/williams-adlc-3-tests-are-the-spec-2026-06-12\|Tests Are the Spec in the Only Language the Builder Can't Argue With]]
 
 ### orchestration de bots {#orchestration-de-bots}
 
@@ -28625,7 +28654,7 @@
 
 **Fiches** : [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Loop Engineering for Product Managers]]
 
-## EVENEMENT (52)
+## EVENEMENT (53)
 
 ### 100% code généré (Cherny) {#100%-code-généré-(Cherny)}
 
@@ -28748,6 +28777,16 @@
 - [[kb/_entites-mineures#DataGen\|DataGen]] **observé_dans** → Dev Summit Adeo Decathlon 2026 — 0.92
 
 **Fiches** : [[fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06\|« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique]]
+
+### Dev With AI {#Dev-With-AI}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **catégorie** : Conférence développeurs et IA
+
+- [[kb/_entites-mineures#talk-Quand-la-vélocité-explose-avec-l'IA\|talk Quand la vélocité explose avec l'IA]] **observé_dans** → Dev With AI — 0.95
+
+**Fiches** : [[fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15\|Quand la vélocité explose avec l'IA, place au "Harness Engineering" !]]
 
 ### EMNLP2025 {#EMNLP2025}
 
@@ -29181,7 +29220,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (162)
+## DOCUMENT (163)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -30810,6 +30849,19 @@
 - **description** : Série 5 brefs Bain & Company 2026. Volet 1 (avril 2026) : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 (mai 2026) : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor
 
 **Fiches** : [[fiches/2026-04/bain-ai-rule-of-40-headwinds-tailwinds-saas-2026-04\|AI Brings Headwinds and Tailwinds to the Rule of 40]]
+
+### talk Quand la vélocité explose avec l'IA {#talk-Quand-la-vélocité-explose-avec-l'IA}
+
+**Type** : DOCUMENT | 3 relations | 1 fiches
+
+- **catégorie** : Slides de conférence (61), Dev With AI, publiées sur LinkedIn le 15 octobre 2026
+
+- **observé_dans** → [[kb/_entites-mineures#Dev-With-AI\|Dev With AI]] (EVENEMENT) — 0.95
+- **référence** → [[kb/DORA\|DORA]] (ORGANISATION) — 0.90
+
+- [[kb/Dorra-Bartaguiz\|Dorra Bartaguiz]] **publie** → talk Quand la vélocité explose avec l'IA — 0.98
+
+**Fiches** : [[fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15\|Quand la vélocité explose avec l'IA, place au "Harness Engineering" !]]
 
 ### Étude BCG HBR mars 2026 {#Étude-BCG-HBR-mars-2026}
 

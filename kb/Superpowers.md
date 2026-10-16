@@ -1,6 +1,6 @@
 # Superpowers
 
-> **Type** : TECHNOLOGIE | 17 relations | 2 fiches sources
+> **Type** : TECHNOLOGIE | 18 relations | 2 fiches sources
 
 ## Attributs
 
@@ -14,6 +14,8 @@
 
 - YAGNI et DRY (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-04/vincent-superpowers-agentic-skills-framework-github-2026-04-02\|Superpowers: An agentic skills framework & software development methodology that works]]
+- [[kb/_entites-mineures#craft-artisanat-logiciel\|craft / artisanat logiciel]] (METHODOLOGIE) — 0.85, STATIQUE
+  - [[fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15\|Quand la vélocité explose avec l'IA, place au "Harness Engineering" !]]
 
 ### mesure
 

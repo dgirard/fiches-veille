@@ -1,15 +1,20 @@
 # Harness engineering
 
-> **Type** : METHODOLOGIE | 11 relations | 5 fiches sources
+> **Type** : METHODOLOGIE | 15 relations | 6 fiches sources
 
 ## Attributs
 
 - **catégorie** : Pratique d'ingénierie pour construire la confiance dans les agents de codage
-- **définition** : Couche déterministe de contrôle, garde-fous, structuration des informations injectées à l'IA et vérification du code produit
+- **définition** : Tout ce qu'on ajoute autour du modèle pour améliorer la génération ; agent = modèle + harness
 - **périmètre** : Environnement de développement, sandbox, skills sur lesquels les équipes construisent
 - **période_dominante** : 2026
 
 ## Relations (comme sujet)
+
+### améliore
+
+- [[kb/Agents-de-codage\|Agents de codage]] (TECHNOLOGIE) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15\|Quand la vélocité explose avec l'IA, place au "Harness Engineering" !]]
 
 ### est_basé_sur
 
@@ -43,14 +48,20 @@
   - [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering for coding agent users]]
 - [[kb/_entites-mineures#Guides-feedforward\|Guides feedforward]] (CONCEPT) — 0.98, ATEMPOREL
   - [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering for coding agent users]]
+- [[kb/_entites-mineures#craft-artisanat-logiciel\|craft / artisanat logiciel]] (METHODOLOGIE) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15\|Quand la vélocité explose avec l'IA, place au "Harness Engineering" !]]
+- [[kb/_entites-mineures#Shift-Left\|Shift-Left]] (METHODOLOGIE) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15\|Quand la vélocité explose avec l'IA, place au "Harness Engineering" !]]
 
 ## Relations (comme objet)
 
 - [[kb/_entites-mineures#Viv-Trivedy\|Viv Trivedy]] **a_créé** → Harness engineering — 0.97
 - [[kb/_entites-mineures#Cast-Software\|Cast Software]] **recommande** → Harness engineering — 0.95
+- [[kb/Software-Factory\|Software Factory]] **utilise** → Harness engineering — 0.90
 
 ## Fiches sources
 
+- [[fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15\|Quand la vélocité explose avec l'IA, place au "Harness Engineering" !]]
 - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
 - [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering for coding agent users]]
 - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering: leveraging Codex in an agent-first world]]

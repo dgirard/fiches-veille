@@ -1,6 +1,6 @@
 # Software Factory
 
-> **Type** : METHODOLOGIE | 10 relations | 4 fiches sources
+> **Type** : METHODOLOGIE | 12 relations | 4 fiches sources
 
 ## Attributs
 
@@ -40,6 +40,10 @@
 
 - [[kb/_entites-mineures#boucle-de-rétroaction\|boucle de rétroaction]] (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2026-09/reyes-factory-building-machine-software-2026-09-22\|Building the Machine That Builds the Software - Eno Reyes, Co-Founder & CTO of Factory]]
+- [[kb/Harness-engineering\|Harness engineering]] (METHODOLOGIE) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15\|Quand la vélocité explose avec l'IA, place au "Harness Engineering" !]]
+- [[kb/Loop-Engineering\|Loop Engineering]] (METHODOLOGIE) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15\|Quand la vélocité explose avec l'IA, place au "Harness Engineering" !]]
 - [[kb/skills-technologie\|skills]] (TECHNOLOGIE) — 0.80, DYNAMIQUE
   - [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)]]
 

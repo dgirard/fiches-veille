@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 188 entités de type DOCUMENT
+> 189 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -183,6 +183,7 @@
 - [[kb/_entites-mineures#spec-md\|spec.md]] — catégorie: Fichier spécification persistant (2 occ., 2 fiches)
 - [[kb/synthèse-fact-check-Delos\|synthèse fact-check Delos]] — définition: Note de vérification confrontant une veille sur Delos aux sources primaires (20VC, delos.so, registres) et à la presse ; gradue les verdicts (confirmé/partiel/spéculatif/non sourçable/auto-déclaré) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#série-5-volets-software-age-of-AI\|série 5 volets software age of AI]] — description: Série 5 brefs Bain & Company 2026. Volet 1 (avril 2026) : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 (mai 2026) : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor (1 occ., 1 fiches)
+- [[kb/_entites-mineures#talk-Quand-la-vélocité-explose-avec-l'IA\|talk Quand la vélocité explose avec l'IA]] — catégorie: Slides de conférence (61), Dev With AI, publiées sur LinkedIn le 15 octobre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Étude-BCG-HBR-mars-2026\|Étude BCG HBR mars 2026]] — méthodologie: 1 488 full-time US workers, 48% male / 51% female, 58% IC / 41% leaders, large companies, janvier 2026, design anti-priming (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Étude-Business-Horizons\|Étude Business Horizons]] — thèse: Le contournement des collègues (workforce ChatGPT) érode le partage de connaissance intra-firme (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Étude-Shaw-&-Nave\|Étude Shaw & Nave]] — description: Wharton/UPenn, 1372 participants, 3 expériences : 73% acceptent des réponses IA démontrablement fausses, confiance augmente malgré 50% taux d'erreur (1 occ., 1 fiches)

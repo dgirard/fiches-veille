@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 438 fiches | 1975-12 → 2026-10-16 | généré le 2026-10-16
+> 439 fiches | 1975-12 → 2026-10-16 | généré le 2026-10-16
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -9,6 +9,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### 2026-10
 
 - **16** [Build or surrender](fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16.md) — Arthur Mensch (@arthurmensch) — cofondateur et directeur général de Mistral AI ; article publié sur X. · X — souveraineté IA, modèles de frontière, IA de frontière
+- **15** [Quand la vélocité explose avec l'IA, place au "Harness Engineering" !](fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15.md) — Dorra Bartaguiz — CTO d'Arolla (conseil et formation, « agentic software crafters ») ; slides de son talk Dev With AI publiées sur LinkedIn. · LinkedIn (slides Dev With AI) — harness engineering, vélocité, revue de code
 - **14** [Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code, whatever tools they use](fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14.md) — Thomas Claburn — AI and software reporter, The Register. · The Register — noyau Linux, Linux kernel, tag Assisted-by
 - **14** [Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.](fiches/2026-10/osmani-agentic-verification-2026-10-14.md) — Addy Osmani — ingénieur (Anthropic, cf. fiches antérieures) ; billet sur son Substack *Elevate*. · Substack (Elevate) — vérification agentique, boucle de rétroaction, agent auto-vérifiant
 - **09** [Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)](fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09.md) — Fred Cavazza (@fredcavazza) — auteur du post sur X ; fonction non indiquée dans le texte. · X — collaborateur synthétique, chatbot, agent
@@ -553,6 +554,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Agents de codage IA & Skills
 
+- [Quand la vélocité explose avec l'IA, place au "Harness Engineering" !](fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15.md) — Dorra Bartaguiz — CTO d'Arolla (conseil et formation, « agentic software crafters ») ; slides de son talk Dev With AI publiées sur LinkedIn.
 - [Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code, whatever tools they use](fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14.md) — Thomas Claburn — AI and software reporter, The Register.
 - [Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.](fiches/2026-10/osmani-agentic-verification-2026-10-14.md) — Addy Osmani — ingénieur (Anthropic, cf. fiches antérieures) ; billet sur son Substack *Elevate*.
 - [The three joys of engineering: liberation or loss depends on which joy you lean on most](fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09.md) — Addy Osmani — Member of Technical Staff chez Anthropic (fonction affichée) ; post LinkedIn.
@@ -886,6 +888,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Qualité & Sécurité
 
+- [Quand la vélocité explose avec l'IA, place au "Harness Engineering" !](fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15.md) — Dorra Bartaguiz — CTO d'Arolla (conseil et formation, « agentic software crafters ») ; slides de son talk Dev With AI publiées sur LinkedIn.
 - [Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.](fiches/2026-10/osmani-agentic-verification-2026-10-14.md) — Addy Osmani — ingénieur (Anthropic, cf. fiches antérieures) ; billet sur son Substack *Elevate*.
 - [Welcome to Gemini at Work 2026: Introducing the Gemini agent](fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08.md) — Thomas Kurian — CEO de Google Cloud ; billet du blog Google Cloud adapté de sa keynote.
 - [Introducing Mistral Large 4](fiches/2026-10/mistral-large-4-le-chonk-2026-10-06.md) — Mistral AI — éditeur de modèles d'IA ; billet de blog de l'entreprise (« By Mistral »).
@@ -1258,13 +1261,13 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 438 fiches
-- **Par année** : 2026 (261) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 439 fiches
+- **Par année** : 2026 (262) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 164
+  - Agents de codage IA & Skills : 165
   - Architecture & Construction : 62
   - Transformation & Adoption : 98
-  - Qualité & Sécurité : 55
+  - Qualité & Sécurité : 56
   - Économie & Marché : 93
   - Philosophie & Société : 31
   - Stratégie & Frameworks : 40
