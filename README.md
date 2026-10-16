@@ -39,20 +39,20 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
 
 <!-- stats:begin -->
 
-- **Total** : 437 fiches
-- **Par année** : 2026 (260) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 438 fiches
+- **Par année** : 2026 (261) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 164
   - Architecture & Construction : 62
   - Transformation & Adoption : 98
   - Qualité & Sécurité : 55
-  - Économie & Marché : 92
+  - Économie & Marché : 93
   - Philosophie & Société : 31
-  - Stratégie & Frameworks : 39
+  - Stratégie & Frameworks : 40
   - Outils & Plateformes : 63
   - Recherche & Éducation : 16
   - Produits & Services : 19
-  - Politique & Régulation : 30
+  - Politique & Régulation : 31
 - **Auteurs (top 20)** :
   - Ethan Mollick (13)
   - SFEIR (13)
@@ -73,7 +73,7 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - Kent Beck (3)
   - Jesse Vincent (3)
   - Cobus Greyling (3)
-  - Mistral AI (2)
+  - Arthur Mensch (2)
 - **Sources (top 20)** :
   - Anthropic (16)
   - SFEIR (13)
@@ -83,9 +83,9 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - Google (7)
   - One Useful Thing (6)
   - OpenAI (6)
+  - X (4)
   - Ethan Mollick (4)
   - GitHub (4)
-  - X (3)
   - Block Engineering (3)
   - The Batch / DeepLearning.AI (3)
   - Addy Osmani (3)

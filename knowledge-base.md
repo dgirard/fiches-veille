@@ -1,20 +1,20 @@
 # Knowledge Base — Veille Technologique
 
-<!-- manifest: sha256=5dc5990ad3fba7323622c514174f58f01d773506d6249b524b0fc810e15aff3a fiches=437 -->
-> 437 fiches | 3648 entités | 7047 triples | Généré le 2026-10-15
+<!-- manifest: sha256=a0da73b330f4f7e0e98fdfed2ea6687e3b744713806bf399c4e900a7bf6b19aa fiches=438 -->
+> 438 fiches | 3657 entités | 7064 triples | Généré le 2026-10-16
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
 - [[kb/_index-type-PERSONNE\|PERSONNE]] (559)
-- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (442)
+- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (444)
 - [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (871)
-- [[kb/_index-type-CONCEPT\|CONCEPT]] (1066)
+- [[kb/_index-type-CONCEPT\|CONCEPT]] (1072)
 - [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (462)
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (56)
 - [[kb/_index-type-LIEU\|LIEU]] (5)
-- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (187)
-- [[kb/_entites-mineures\|Entités mineures]] (3047)
+- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (188)
+- [[kb/_entites-mineures\|Entités mineures]] (3056)
 
 ## Entités les plus connectées
 
@@ -27,13 +27,13 @@
 | [[kb/OpenAI\|OpenAI]] | ORGANISATION | 60 | 23 |
 | [[kb/Block\|Block]] | ORGANISATION | 51 | 11 |
 | [[kb/Google\|Google]] | ORGANISATION | 49 | 20 |
+| [[kb/Mistral-AI\|Mistral AI]] | ORGANISATION | 47 | 8 |
+| [[kb/Arthur-Mensch\|Arthur Mensch]] | PERSONNE | 47 | 4 |
 | [[kb/vibe-coding\|vibe coding]] | METHODOLOGIE | 45 | 23 |
-| [[kb/Mistral-AI\|Mistral AI]] | ORGANISATION | 45 | 7 |
 | [[kb/Addy-Osmani\|Addy Osmani]] | PERSONNE | 38 | 10 |
 | [[kb/IA\|IA]] | TECHNOLOGIE | 38 | 10 |
 | [[kb/Boris-Cherny\|Boris Cherny]] | PERSONNE | 37 | 11 |
 | [[kb/Buzz\|Buzz]] | TECHNOLOGIE | 35 | 7 |
-| [[kb/Arthur-Mensch\|Arthur Mensch]] | PERSONNE | 34 | 3 |
 | [[kb/agents-IA\|agents IA]] | TECHNOLOGIE | 33 | 5 |
 | [[kb/Léon-XIV\|Léon XIV]] | PERSONNE | 29 | 1 |
 | [[kb/McKinsey\|McKinsey]] | ORGANISATION | 28 | 3 |
@@ -45,16 +45,16 @@
 
 ### Prédicats les plus fréquents
 
-- **affirme_que** : 875
+- **affirme_que** : 881
 - **utilise** : 811
-- **permet** : 643
-- **mesure** : 553
-- **publie** : 406
+- **permet** : 644
+- **mesure** : 555
+- **publie** : 407
 - **a_créé** : 390
 - **recommande** : 334
-- **s_applique_à** : 291
+- **s_applique_à** : 292
+- **s_oppose_à** : 255
 - **réduit** : 255
-- **s_oppose_à** : 254
 - **est_basé_sur** : 247
 - **fait_partie_de** : 233
 - **est_instance_de** : 218
@@ -64,15 +64,15 @@
 ### Distribution par type
 
 - **PERSONNE** : 559 (15.3%)
-- **ORGANISATION** : 442 (12.1%)
-- **TECHNOLOGIE** : 871 (23.9%)
-- **CONCEPT** : 1066 (29.2%)
-- **METHODOLOGIE** : 462 (12.7%)
+- **ORGANISATION** : 444 (12.1%)
+- **TECHNOLOGIE** : 871 (23.8%)
+- **CONCEPT** : 1072 (29.3%)
+- **METHODOLOGIE** : 462 (12.6%)
 - **EVENEMENT** : 56 (1.5%)
 - **LIEU** : 5 (0.1%)
-- **DOCUMENT** : 187 (5.1%)
+- **DOCUMENT** : 188 (5.1%)
 
 ### Déduplication
 
-- **Triples** : 7170 → 7047 (123 doublons)
-- **Entités** : 4837 → 3648 (1189 doublons)
+- **Triples** : 7188 → 7064 (124 doublons)
+- **Entités** : 4848 → 3657 (1191 doublons)

@@ -51,7 +51,7 @@
 - [[kb/_entites-mineures#Arman-Hezarkhani\|Arman Hezarkhani]] — rôle: Co-fondateur, 10x (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Arnaud-Saint-Martin\|Arnaud Saint-Martin]] — rôle: Député LFI, circonscription Saint-Arnoult (Essonne) — accueille Campus IA, intervenant à l'audition (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Artem-Zhutov\|Artem Zhutov]] — rôle: Créateur skill /recall, animateur lab Claude Code × Obsidian (1 occ., 1 fiches)
-- [[kb/Arthur-Mensch\|Arthur Mensch]] — rôle: Cofondateur & CEO de Mistral AI ; audition Assemblée nationale (mai 2026) (3 occ., 3 fiches)
+- [[kb/Arthur-Mensch\|Arthur Mensch]] — rôle: Cofondateur et directeur général de Mistral AI (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Arun-Chandrasekaran\|Arun Chandrasekaran]] — rôle: Analyste Gartner, auteur Hype Cycle GenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Arvind-Narayanan\|Arvind Narayanan]] — affiliation: Chercheur indépendant, timelines AGI longues (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Arya-Asemanfar\|Arya Asemanfar]] — rôle: Auteur article Sierra blog (1 occ., 1 fiches)

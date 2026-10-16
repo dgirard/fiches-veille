@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1066 entités de type CONCEPT
+> 1072 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -102,6 +102,7 @@
 - [[kb/_entites-mineures#Asymétrie-investissement-IA-US-2025\|Asymétrie investissement IA US 2025]] — description: US a dépensé plus en infrastructure IA qu'en single-family homes 2025 ; 10× plus data centers qu'Allemagne (#2) ; 20×+ plus investissement IA que Chine (#2) ; pendant crise logement 10 millions d'unités manquantes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Atoms-(Lattice)\|Atoms (Lattice)]] — exemples: Clean code, architecture, DDD, secure coding, test quality, design-first approach (1 occ., 1 fiches)
 - [[kb/Augmented-Craftsman\|Augmented Craftsman]] — description: Développeur augmenté par IA, reste dans le code (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Auto-hébergement\|Auto-hébergement]] — définition: Exécution d'un modèle ouvert sur sa propre infrastructure (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Autopilot\|Autopilot]] — niveau: 4 — outcome décrit, revue du résultat final (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Avantage-de-contexte\|Avantage de contexte]] — définition: Les humains en savent plus que l'IA sur les utilisateurs/le contexte (préféré à « taste ») (1 occ., 1 fiches)
 - [[kb/_entites-mineures#BM25\|BM25]] — catégorie: Algorithme de scoring plein texte (TF-IDF pondéré) (2 occ., 2 fiches)
@@ -195,6 +196,7 @@
 - [[kb/_entites-mineures#Cross-workflow-decision-context\|Cross-workflow decision context]] — définition: Nouveau moat agentic AI Bain — capacité transversale de voir et agir à travers plusieurs systèmes intégrés. Remplace system of record ownership comme avantage concurrentiel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Customer-Lifetime-Value\|Customer Lifetime Value]] — catégorie: KPI financier marketing (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cyber-Verification-Program\|Cyber Verification Program]] — nature: Programme d'accès vérifié pour la cyberdéfense (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Cyberdéfense\|Cyberdéfense]] — définition: Domaine où les modèles jouent désormais un rôle central selon l'auteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cycle-craft-compressé\|Cycle craft compressé]] — définition: Mécanisme structurel Chepurin/Turner — *(planning → crafting → result)* compressé en *(planning → result)*. Production de sens (craft) remplacée par consommation de sens (review) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DRH\|DRH]] — rôle_2026: Pivot de la transformation IA des DSI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DSI\|DSI]] — évolution: De constructeur à gouverneur de plateforme technologique (1 occ., 2 fiches)
@@ -296,6 +298,7 @@
 - [[kb/_entites-mineures#Infodeck\|Infodeck]] — définition: Document mis en page dans une interface de slides, pour du « light reading » ; ni slideument ni support de présentation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Instant-Checkout\|Instant Checkout]] — statut: Disponible sur Etsy et Walmart aux États-Unis en 2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Interleaved-Thinking\|Interleaved Thinking]] — définition: Alternance dynamique pensée-action pour tâches long horizon (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Internet-playbook\|Internet playbook]] — définition: Stratégie consistant à laisser les plateformes aux autres et à créer la valeur dans la couche applicative (1 occ., 1 fiches)
 - [[kb/Interprétabilité\|Interprétabilité]] — analogie: « IRM » du cerveau d'un modèle ; progrès jugés possibles en 1-2 ans avec un effort concentré (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Introspection\|Introspection]] — catégorie: Pratique de conscience de soi et reconnaissance de patterns (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Investment-bias\|Investment bias]] — définition: Budgets IA orientés sales/marketing alors qu'operations/finance offrent un meilleur ROI (1 occ., 1 fiches)
@@ -339,7 +342,9 @@
 - [[kb/_entites-mineures#Model-fills-the-silence\|Model fills the silence]] — définition: Métaphore cognitive Chepurin/Turner — *« The model fills the silence before your own thinking has a chance to connect dots. »* Élimine le problem-solving passif (douches, marches) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Model-hierarchies-(gouvernance-tokens)\|Model hierarchies (gouvernance tokens)]] — définition: Contrôle d'accès par rôle appliqué aux modèles : quel utilisateur a le droit d'utiliser quel modèle (Opus/Sonnet/Haiku) — pendant gouvernance du routage. Pont vers Uber agent identity et le slot Gouvernance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Model-harness-training-loop\|Model-harness training loop]] — définition: Boucle de co-évolution : primitive harnais → produit → post-training modèle suivant → meilleur sur cette primitive. Crée du co-training et de l'overfitting. (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Modèle-de-frontière\|Modèle de frontière]] — définition: Modèle au niveau de l'état de l'art, coûtant des centaines de millions à des milliards d'euros par génération (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Modèle-de-place-de-marché\|Modèle de place de marché]] — définition: Mise en relation d'acheteurs et de vendeurs avec commission sur transaction ; l'hôte monétise ses coûts fixes et gagne offre, prix et qualité de service (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Modèle-ouvert\|Modèle ouvert]] — définition: Modèle téléchargeable, auto-hébergeable et auditable, dont le contenu et la licence restent choisis par l'éditeur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Molecules-(Lattice)\|Molecules (Lattice)]] — exemples: Design, implement, refactor, fix, review — workflows multi-étapes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Moment-kilowatt-heure\|Moment kilowatt-heure]] — categorie: Analogie transition bougie/electricite appliquee a la connaissance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mouvement-anti-data-center\|Mouvement anti-data-center]] — catégorie: Opposition citoyenne et législative US 2024-2025 (1 occ., 1 fiches)
@@ -459,6 +464,7 @@
 - [[kb/_entites-mineures#SmartBee\|SmartBee]] — définition: Tier qui tient la vue d'ensemble, tranche et absorbe les escalades ; à appairer avec un QuickBee ou un WorkerBee pour ne pas brûler de tokens frontier sur du travail d'exécution. Modèles cités : Claude Opus 5, Kimi K3, GPT-5.6 Sol. Effort recommandé : medium (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Software-3.0\|Software 3.0]] — définition: Programmation = prompting d'un LLM-interpréteur, contexte = levier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Solutions-Engineers\|Solutions Engineers]] — rôle futur: Programmer en langage naturel, orchestrer agents (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Souveraineté-IA\|Souveraineté IA]] — définition: Capacité à auditer, adapter et garantir l'accès aux modèles utilisés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Standard-Operating-Procedure\|Standard Operating Procedure]] — rôle: Formalisation du comportement attendu de l'agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Stratège\|Stratège]] — rôle: PM technique validant qualité et scoping (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Success-is-silent-failures-are-verbose\|Success is silent failures are verbose]] — définition: Principe HumanLayer : un hook ne renvoie rien si le check passe, injecte l'erreur dans la loop si ça échoue (1 occ., 1 fiches)

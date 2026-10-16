@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 3047 entités avec moins de 3 triples/fiches
+> 3056 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (408)
 
@@ -4108,7 +4108,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (326)
+## ORGANISATION (328)
 
 ### 10x {#10x}
 
@@ -4530,6 +4530,16 @@
 - **publie** → « des modèles biologiques open source sur les cellules virtuelles et les protéines aidant les scientifiques à faire de nouvelles découvertes et concevoir de nouveaux médicaments » (AFFIRMATION) — 0.90
 
 **Fiches** : [[fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10\|The Future is for Everyone: The Path to a Positive AI Future]]
+
+### Black Forest Labs {#Black-Forest-Labs}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Entreprise européenne de modèles génératifs d'image ; « meilleurs de leur catégorie » selon l'auteur
+
+- [[kb/Arthur-Mensch\|Arthur Mensch]] **référence** → Black Forest Labs — 0.90
+
+**Fiches** : [[fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16\|Build or surrender]]
 
 ### Blaxel AI {#Blaxel-AI}
 
@@ -5134,6 +5144,16 @@
 - [[kb/Guillaume-Geudin\|Guillaume Geudin]] **travaille_chez** → Elee — 0.95
 
 **Fiches** : [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud : l'ère des prédateurs pour vos budgets IT]]
+
+### ElevenLabs {#ElevenLabs}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Entreprise européenne de modèles de voix ; « meilleurs de leur catégorie » selon l'auteur
+
+- [[kb/Arthur-Mensch\|Arthur Mensch]] **référence** → ElevenLabs — 0.90
+
+**Fiches** : [[fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16\|Build or surrender]]
 
 ### Embabel {#Embabel}
 
@@ -14602,7 +14622,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1015)
+## CONCEPT (1021)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -15427,6 +15447,16 @@
 - [[kb/_entites-mineures#Refiners-(Lattice)\|Refiners (Lattice)]] **affine** → Atoms (Lattice) — 0.95
 
 **Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Lattice — Composable AI skills that teach assistants structured thinking (design-first, context-aware,…]]
+
+### Auto-hébergement {#Auto-hébergement}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Exécution d'un modèle ouvert sur sa propre infrastructure
+
+- [[kb/_entites-mineures#Modèle-ouvert\|Modèle ouvert]] **permet** → Auto-hébergement — 0.85
+
+**Fiches** : [[fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16\|Build or surrender]]
 
 ### Autopilot {#Autopilot}
 
@@ -16255,6 +16285,16 @@
 - [[kb/Claude-Mythos-5.1\|Claude Mythos 5.1]] **fait_partie_de** → Cyber Verification Program — 0.88
 
 **Fiches** : [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
+
+### Cyberdéfense {#Cyberdéfense}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Domaine où les modèles jouent désormais un rôle central selon l'auteur
+
+- [[kb/_entites-mineures#Modèle-de-frontière\|Modèle de frontière]] **s_applique_à** → Cyberdéfense — 0.82
+
+**Fiches** : [[fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16\|Build or surrender]]
 
 ### Cycle craft compressé {#Cycle-craft-compressé}
 
@@ -17186,6 +17226,16 @@
 
 **Fiches** : [[fiches/2025-11/song-minimax-m2-model-2025-11-23\|MiniMax M2: NextGen Experiences for Code Generation]]
 
+### Internet playbook {#Internet-playbook}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Stratégie consistant à laisser les plateformes aux autres et à créer la valeur dans la couche applicative
+
+- [[kb/Arthur-Mensch\|Arthur Mensch]] **s_oppose_à** → Internet playbook — 0.92
+
+**Fiches** : [[fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16\|Build or surrender]]
+
 ### Introspection {#Introspection}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17593,6 +17643,16 @@
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
 
+### Modèle de frontière {#Modèle-de-frontière}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Modèle au niveau de l'état de l'art, coûtant des centaines de millions à des milliards d'euros par génération
+
+- **s_applique_à** → [[kb/_entites-mineures#Cyberdéfense\|Cyberdéfense]] (CONCEPT) — 0.82
+
+**Fiches** : [[fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16\|Build or surrender]]
+
 ### Modèle de place de marché {#Modèle-de-place-de-marché}
 
 **Type** : CONCEPT | 3 relations | 1 fiches
@@ -17605,6 +17665,16 @@
 - [[kb/Amazon\|Amazon]] **utilise** → Modèle de place de marché — 0.95
 
 **Fiches** : [[fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20\|Philippe Corrot, fondateur de Mirakl]]
+
+### Modèle ouvert {#Modèle-ouvert}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Modèle téléchargeable, auto-hébergeable et auditable, dont le contenu et la licence restent choisis par l'éditeur
+
+- **permet** → [[kb/_entites-mineures#Auto-hébergement\|Auto-hébergement]] (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16\|Build or surrender]]
 
 ### Molecules (Lattice) {#Molecules-(Lattice)}
 
@@ -18677,6 +18747,16 @@
 - **utilise** → agents conversationnels (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2025-11/caseau-evolution-developpeur-ia-generative-2025-11-05\|L'IA dévore le logiciel : évolution du métier de développeur]]
+
+### Souveraineté IA {#Souveraineté-IA}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Capacité à auditer, adapter et garantir l'accès aux modèles utilisés
+
+- [[kb/Arthur-Mensch\|Arthur Mensch]] **soutient** → Souveraineté IA — 0.93
+
+**Fiches** : [[fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16\|Build or surrender]]
 
 ### Standard Operating Procedure {#Standard-Operating-Procedure}
 
@@ -29101,7 +29181,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (161)
+## DOCUMENT (162)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -30436,6 +30516,16 @@
 - [[kb/Anthropic\|Anthropic]] **publie** → article Automating eval design and hillclimbing — 0.95
 
 **Fiches** : [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
+
+### article Build or surrender {#article-Build-or-surrender}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **nature** : Article X d'Arthur Mensch, 16 octobre 2026, plaidoyer pour l'IA de frontière européenne
+
+- [[kb/Arthur-Mensch\|Arthur Mensch]] **publie** → article Build or surrender — 0.98
+
+**Fiches** : [[fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16\|Build or surrender]]
 
 ### article Introducing System One Models & Jev {#article-Introducing-System-One-Models-&-Jev}
 

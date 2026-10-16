@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 442 entités de type ORGANISATION
+> 444 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -57,6 +57,7 @@
 - [[kb/Bain-&-Company\|Bain & Company]] — secteur: Cabinet conseil top-tier mondial, série 5 volets software industry age of AI 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Benchmark\|Benchmark]] — secteur: Capital-risque (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Biohub\|Biohub]] — rôle: Institut de recherche cité par Zuckerberg comme ayant déjà publié des modèles biologiques open source sur les cellules virtuelles et les protéines ; rattaché à l'objectif de prévenir ou guérir toutes les maladies dans le siècle (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Black-Forest-Labs\|Black Forest Labs]] — secteur: Entreprise européenne de modèles génératifs d'image ; « meilleurs de leur catégorie » selon l'auteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Blaxel-AI\|Blaxel AI]] — secteur: Start-up IA Silicon Valley (1 occ., 1 fiches)
 - [[kb/Block\|Block]] — secteur: Paiement ; 3 500 ingénieurs (11 occ., 11 fiches)
 - [[kb/Bloomberg\|Bloomberg]] — secteur: Finance / Données de marché (2 occ., 1 fiches)
@@ -135,6 +136,7 @@
 - [[kb/_entites-mineures#EXL\|EXL]] — valorisation: 6 milliards de dollars (1 occ., 1 fiches)
 - [[kb/_entites-mineures#EcoDataCenter\|EcoDataCenter]] — rôle: Partenaire suédois de Mistral AI pour un site de 23 MW en énergie renouvelable et refroidissement avancé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Elee\|Elee]] — secteur: Conseil achats IT (1 occ., 1 fiches)
+- [[kb/_entites-mineures#ElevenLabs\|ElevenLabs]] — secteur: Entreprise européenne de modèles de voix ; « meilleurs de leur catégorie » selon l'auteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Embabel\|Embabel]] — secteur: Plateforme IA agentic basée sur JVM, démontre l'approche DICE (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Emergent\|Emergent]] — apport: Amorçage de l'environnement de développement au premier jour par un fichier markdown que l'agent met à jour lui-même ; dépôt de skills partagé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Epita\|Epita]] — secteur: École d'ingénieurs informatique française (2 occ., 1 fiches)
@@ -263,7 +265,7 @@
 - [[kb/_entites-mineures#MiniMax\|MiniMax]] — secteur: IA / Modèles de langage (1 occ., 1 fiches)
 - [[kb/Mirakl\|Mirakl]] — situation 2026: 750 collaborateurs, 180-200 M$ d'ARR, 20 Md$ attendus en transit sur les plateformes, près de 100 000 vendeurs ; première équipe IA créée en 2017 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mistral\|Mistral]] — secteur: IA / modèles de langage (Europe) (1 occ., 1 fiches)
-- [[kb/Mistral-AI\|Mistral AI]] — secteur: Modèles d'IA, souveraineté, datacenters européens (7 occ., 7 fiches)
+- [[kb/Mistral-AI\|Mistral AI]] — secteur: Modèles d'IA, souveraineté, datacenters européens (8 occ., 8 fiches)
 - [[kb/_entites-mineures#Modern-Data-101\|Modern Data 101]] — description: Plateforme Substack data community ~20 000 membres, publie expert contributions data engineering / architecture (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Modern-Software-Engineering\|Modern Software Engineering]] — secteur: Chaîne YouTube + coaching ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/Moderna\|Moderna]] — secteur: Biotechnologie / mRNA medicines (2 occ., 1 fiches)

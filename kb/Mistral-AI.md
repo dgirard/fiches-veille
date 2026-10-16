@@ -1,6 +1,6 @@
 # Mistral AI
 
-> **Type** : ORGANISATION | 45 relations | 7 fiches sources
+> **Type** : ORGANISATION | 47 relations | 8 fiches sources
 
 ## Attributs
 
@@ -49,6 +49,8 @@
 
 - [[kb/AWS\|AWS]] (ORGANISATION) — 0.85, DYNAMIQUE
   - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
+- laboratoires d'IA américains (ORGANISATION) — 0.80, DYNAMIQUE
+  - [[fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16\|Build or surrender]]
 
 ### converge_avec
 
@@ -80,6 +82,8 @@
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 - « moins de 200 mégawatts de capacité exploitée à août 2026, dont trois sites détaillés totalisant 77 mégawatts : 44 MW près de Paris, 23 MW en Suède, 10 MW aux Ulis » (MESURE) — 0.90, DYNAMIQUE
   - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
+- « capacité de calcul multipliée par six sur l'année à venir » (MESURE) — 0.88, DYNAMIQUE
+  - [[fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16\|Build or surrender]]
 - « environ 4 milliards de dollars levés à ce jour selon PitchBook, une fraction des montants réunis par OpenAI et Anthropic » (MESURE) — 0.87, DYNAMIQUE
   - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
 
@@ -132,6 +136,7 @@
 ## Fiches sources
 
 - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
+- [[fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16\|Build or surrender]]
 - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 - [[fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01\|Annonce : une alternative européenne à Claude Code (200 M$ de revenus). Voici Mistral AI CLI.]]
 - [[fiches/2026-10/mistral-large-4-le-chonk-2026-10-06\|Introducing Mistral Large 4]]

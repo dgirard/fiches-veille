@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 187 entités de type DOCUMENT
+> 188 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -149,6 +149,7 @@
 - [[kb/article-Agentic-AI-and-Code-Reviews\|article Agentic AI and Code Reviews]] — forme: Article collectif en neuf patrons, trois études de cas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-Agentic-Verification\|article Agentic Verification]] — catégorie: Billet Substack (Elevate), 14 octobre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-Automating-eval-design-and-hillclimbing\|article Automating eval design and hillclimbing]] — nature: Playbook du blog claude.dev, 28 septembre 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#article-Build-or-surrender\|article Build or surrender]] — nature: Article X d'Arthur Mensch, 16 octobre 2026, plaidoyer pour l'IA de frontière européenne (1 occ., 1 fiches)
 - [[kb/article-GLM-5.3-and-the-spread-of-advanced-cyber-capabilities\|article GLM-5.3 and the spread of advanced cyber capabilities]] — forme: Billet de recherche du 29 septembre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-Introducing-System-One-Models-&-Jev\|article Introducing System One Models & Jev]] — date: 2026-09-15 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-Linux-kernel-devs-drop-obligatory-confession\|article Linux kernel devs drop obligatory confession]] — catégorie: Article The Register, 14 octobre 2026 (1 occ., 1 fiches)
