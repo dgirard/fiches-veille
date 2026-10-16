@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 439 fiches | 1975-12 → 2026-10-16 | généré le 2026-10-16
+> 440 fiches | 1975-12 → 2026-10-16 | généré le 2026-10-16
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -10,6 +10,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - **16** [Build or surrender](fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16.md) — Arthur Mensch (@arthurmensch) — cofondateur et directeur général de Mistral AI ; article publié sur X. · X — souveraineté IA, modèles de frontière, IA de frontière
 - **15** [Quand la vélocité explose avec l'IA, place au "Harness Engineering" !](fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15.md) — Dorra Bartaguiz — CTO d'Arolla (conseil et formation, « agentic software crafters ») ; slides de son talk Dev With AI publiées sur LinkedIn. · LinkedIn (slides Dev With AI) — harness engineering, vélocité, revue de code
+- **15** [How the Claude Code team does code review](fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15.md) — Addy Osmani, Morgan Westlee Lunt, Qing Wang — équipe Claude Code (Anthropic) ; blog *claude.dev*, catégorie Engineering. · claude.dev Blog — revue de code, code review, revue de code agentique
 - **14** [Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code, whatever tools they use](fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14.md) — Thomas Claburn — AI and software reporter, The Register. · The Register — noyau Linux, Linux kernel, tag Assisted-by
 - **14** [Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.](fiches/2026-10/osmani-agentic-verification-2026-10-14.md) — Addy Osmani — ingénieur (Anthropic, cf. fiches antérieures) ; billet sur son Substack *Elevate*. · Substack (Elevate) — vérification agentique, boucle de rétroaction, agent auto-vérifiant
 - **09** [Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)](fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09.md) — Fred Cavazza (@fredcavazza) — auteur du post sur X ; fonction non indiquée dans le texte. · X — collaborateur synthétique, chatbot, agent
@@ -555,6 +556,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Agents de codage IA & Skills
 
 - [Quand la vélocité explose avec l'IA, place au "Harness Engineering" !](fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15.md) — Dorra Bartaguiz — CTO d'Arolla (conseil et formation, « agentic software crafters ») ; slides de son talk Dev With AI publiées sur LinkedIn.
+- [How the Claude Code team does code review](fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15.md) — Addy Osmani, Morgan Westlee Lunt, Qing Wang — équipe Claude Code (Anthropic) ; blog *claude.dev*, catégorie Engineering.
 - [Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code, whatever tools they use](fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14.md) — Thomas Claburn — AI and software reporter, The Register.
 - [Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.](fiches/2026-10/osmani-agentic-verification-2026-10-14.md) — Addy Osmani — ingénieur (Anthropic, cf. fiches antérieures) ; billet sur son Substack *Elevate*.
 - [The three joys of engineering: liberation or loss depends on which joy you lean on most](fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09.md) — Addy Osmani — Member of Technical Staff chez Anthropic (fonction affichée) ; post LinkedIn.
@@ -889,6 +891,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Qualité & Sécurité
 
 - [Quand la vélocité explose avec l'IA, place au "Harness Engineering" !](fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15.md) — Dorra Bartaguiz — CTO d'Arolla (conseil et formation, « agentic software crafters ») ; slides de son talk Dev With AI publiées sur LinkedIn.
+- [How the Claude Code team does code review](fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15.md) — Addy Osmani, Morgan Westlee Lunt, Qing Wang — équipe Claude Code (Anthropic) ; blog *claude.dev*, catégorie Engineering.
 - [Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.](fiches/2026-10/osmani-agentic-verification-2026-10-14.md) — Addy Osmani — ingénieur (Anthropic, cf. fiches antérieures) ; billet sur son Substack *Elevate*.
 - [Welcome to Gemini at Work 2026: Introducing the Gemini agent](fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08.md) — Thomas Kurian — CEO de Google Cloud ; billet du blog Google Cloud adapté de sa keynote.
 - [Introducing Mistral Large 4](fiches/2026-10/mistral-large-4-le-chonk-2026-10-06.md) — Mistral AI — éditeur de modèles d'IA ; billet de blog de l'entreprise (« By Mistral »).
@@ -1261,13 +1264,13 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 439 fiches
-- **Par année** : 2026 (262) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 440 fiches
+- **Par année** : 2026 (263) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 165
+  - Agents de codage IA & Skills : 166
   - Architecture & Construction : 62
   - Transformation & Adoption : 98
-  - Qualité & Sécurité : 56
+  - Qualité & Sécurité : 57
   - Économie & Marché : 93
   - Philosophie & Société : 31
   - Stratégie & Frameworks : 40
@@ -1279,8 +1282,8 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Ethan Mollick (13)
   - SFEIR (13)
   - Anthropic (10)
+  - Addy Osmani (9)
   - Deep Research Veille Interne (9)
-  - Addy Osmani (8)
   - Chris Williams (7)
   - Philippe Ensarguet (6)
   - Boris Cherny (5)

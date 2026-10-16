@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 156 relations | 52 fiches sources
+> **Type** : ORGANISATION | 160 relations | 52 fiches sources
 
 ## Attributs
 
@@ -76,6 +76,8 @@
   - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 - « les incidents d'alignement récents viennent en partie d'un filtrage imparfait d'environnements de RL cassés » (AFFIRMATION) — 0.93, STATIQUE
   - [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]]
+- « « un humain a-t-il lu le code ? » est un proxy imprécis de « quel contrôle doit attraper ce qui peut mal tourner ? » » (AFFIRMATION) — 0.93, ATEMPOREL
+  - [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 - « Mythos 5.1 reste sous le palier de risque suivant de la Responsible Scaling Policy » (AFFIRMATION) — 0.92, STATIQUE
   - [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
 - « interdiction d'utiliser les outputs pour entraîner des modèles concurrents (ToS) » (AFFIRMATION) — 0.90, STATIQUE
@@ -136,6 +138,8 @@
   - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
 - « 95% des requêtes analytics métier automatisées via Claude » (MESURE) — 0.95, DYNAMIQUE
   - [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|How Anthropic enables self-service data analytics with Claude]]
+- « changements quotidiens du monorepo : ~2 500 en mai → plus de 30 000 en septembre 2026 » (MESURE) — 0.95, STATIQUE
+  - [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 - « Claude écrit ~80% du code mergé dans le codebase » (MESURE) — 0.95, DYNAMIQUE
   - [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 - « crédits Agent SDK mensuels de 20 $ (Pro), 100 $ (Max 5x) et 200 $ (Max 20x) » (MESURE) — 0.95, STATIQUE
@@ -261,8 +265,12 @@
   - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 - automatisation SOC et défense IA (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
+- « ne jamais laisser l'approbation d'un bot remplacer celle d'un humain requis » (AFFIRMATION) — 0.93, ATEMPOREL
+  - [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 - [[kb/_entites-mineures#architecture-security-first\|architecture security-first]] (METHODOLOGIE) — 0.92, ATEMPOREL
   - [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|2026 Agentic Coding Trends Report — How coding agents are reshaping software development]]
+- « mesurer le temps humain avec taux de revert et d'incident comme garde-fou » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 - [[kb/_entites-mineures#classe-Mythos\|classe Mythos]] (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
 - standards industrie biais politique (CONCEPT) — 0.85, DYNAMIQUE

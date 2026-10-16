@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1072 entités de type CONCEPT
+> 1073 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -533,6 +533,7 @@
 - [[kb/_entites-mineures#Workflows\|Workflows]] — niveau: 5 — harnesses, agentic engineering (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Writing-muscle-atrophy\|Writing muscle atrophy]] — définition: Métaphore corporelle Frizzo : le code manuel devient effortful après usage prolongé d'agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#X3-X4-(gains-réalistes)\|X3-X4 (gains réalistes)]] — définition: Productivité réellement observée vs fantasme X10 — projet d'industrialisation, ROI non immédiat (1 occ., 1 fiches)
+- [[kb/_entites-mineures#You-land-it,-you-own-it\|You land it, you own it]] — définition: Norme d'équipe : l'auteur d'un changement petit ou moyen corrige ce qui casse, sans blâme (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zeno's-paradox-of-AI\|Zeno's paradox of AI]] — définition: Métaphore Shipper — Achille (IA) court vers la tortue (humain) mais la tortue *« is alive to a specific moment »*, elle bouge en permanence vers de nouveaux problèmes, Achille ne la rattrape jamais (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zero-Trust\|Zero Trust]] — définition: Aucun artefact ni contributeur n'est de confiance par défaut (1 occ., 1 fiches)
 - [[kb/_entites-mineures#`panic!(-Not-implemented-to_thrift-for-...-)`-stubs\|`panic!("Not implemented: to_thrift for ...")` stubs]] — définition: Marqueurs présents dans candidate_features.rs et user_features.rs — confirment que le release public ne tourne pas end-to-end contre les services internes X (1 occ., 1 fiches)

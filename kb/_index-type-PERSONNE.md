@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 560 entités de type PERSONNE
+> 562 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -11,7 +11,7 @@
 - [[kb/_entites-mineures#Aaron-Wanjala\|Aaron Wanjala]] — rôle: Cloud developer advocate Google Cloud, Spring Boot/Angular, app modernization + AI code assistance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Abhishek-Kankani\|Abhishek Kankani]] — rôle: Auteur de l'article Cloudflare Blog (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Adam-Cohen\|Adam Cohen]] — rôle: Co-fondateur & CEO (1 occ., 1 fiches)
-- [[kb/Addy-Osmani\|Addy Osmani]] — rôle: Member of Technical Staff chez Anthropic (fonction affichée) (11 occ., 10 fiches)
+- [[kb/Addy-Osmani\|Addy Osmani]] — rôle: Member of Technical Staff chez Anthropic (fonction affichée) (12 occ., 11 fiches)
 - [[kb/_entites-mineures#Adrian-Kinnersley\|Adrian Kinnersley]] — rôle: Dirigeant d'une société de recrutement ; alerte sur la non-conformité légale du 996 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Adrien-Nussenbaum\|Adrien Nussenbaum]] — rôle: Cofondateur de Splitgames puis de Mirakl ; parti ouvrir l'activité commerciale à Boston en 2015 (1 occ., 1 fiches)
 - [[kb/Ahmad-Osman\|Ahmad Osman]] — rôle: Auteur du thread ; ancien power user de Claude Code (2024-2026) devenu critique (1 occ., 1 fiches)
@@ -372,6 +372,7 @@
 - [[kb/Mitch-Ashley\|Mitch Ashley]] — rôle: VP et responsable des pratiques CIO & Technology Buyers et Software Lifecycle Engineering chez The Futurum Group, ancien CIO et CTO (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Molly-Kinder\|Molly Kinder]] — rôle: Senior fellow Brookings, parallèle white-collar / blue-collar narratives (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Montaigne\|Montaigne]] — période: 1533-1592 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Morgan-Westlee-Lunt\|Morgan Westlee Lunt]] — rôle: Co-auteur, équipe Claude Code (Anthropic) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NLW\|NLW]] — rôle: Animateur AI Daily Brief (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nagi-Letaifa\|Nagi Letaifa]] — rôle: Premier développeur recruté chez Mirakl, aujourd'hui directeur technique ; contributeur de la méthode de transformation par les livrables (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nancy-Duarte\|Nancy Duarte]] — spécialité: Design présentations, Slidology (1 occ., 1 fiches)
@@ -419,6 +420,7 @@
 - [[kb/_entites-mineures#Prasad-Borole\|Prasad Borole]] — rôle: Staff Software Engineer chez Uber, co-auteur (1 occ., 1 fiches)
 - [[kb/Prasanna-Sankar\|Prasanna Sankar]] — rôle: Co-fondateur et ex-CTO de Rippling ($16B+), fondateur et CEO de Vorflux AI, #1 coder en Inde (revendiqué) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Prithvi-Rajasekaran\|Prithvi Rajasekaran]] — rôle: Équipe Applied AI, Anthropic (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Qing-Wang\|Qing Wang]] — rôle: Co-auteur, équipe Claude Code (Anthropic) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Qizheng-Zhang\|Qizheng Zhang]] — affiliation: Stanford University (1 occ., 1 fiches)
 - [[kb/Rachel-Laycock\|Rachel Laycock]] — rôle: CTO de Thoughtworks, autrice de la section *Rachel's Ramblings* sur martinfowler.com (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rafael-Marques\|Rafael Marques]] — rôle: Product Manager, Google Cloud (1 occ., 1 fiches)

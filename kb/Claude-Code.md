@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 125 relations | 56 fiches sources
+> **Type** : TECHNOLOGIE | 129 relations | 57 fiches sources
 
 ## Attributs
 
@@ -9,6 +9,7 @@
 - **auto-écriture** : ~90% du code écrit par lui-même
 - **categorie** : CLI agent de codage
 - **catégorie** : Agent de codage CLI hébergeant la skill claude-api
+- **contexte** : Agent de codage dont Claude écrit ~90 % du code ; dépôts CLI, desktop, web et mobile
 - **date_création** : Septembre 2024
 - **fenêtre_contexte** : 1 million de tokens
 - **interface** : agent CLI terminal-first
@@ -115,6 +116,8 @@
   - [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Maîtriser Claude Code — Détail complet des 12 modules et ~60 leçons]]
 - « 500M$ de revenus annuels » (MESURE) — 0.95, DYNAMIQUE
   - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
+- « PR fusionnées ×2+ et part revertée −40 %+ de juin à septembre 2026 » (MESURE) — 0.95, STATIQUE
+  - [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 - « 4% des commits publics mondiaux » (MESURE) — 0.85, DYNAMIQUE
   - [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]]
 - « 1 milliard USD ARR » (MESURE) — 0.80, DYNAMIQUE
@@ -227,6 +230,10 @@
   - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Building Powerful Agentic Systems with Claude]]
 - [[kb/Opus-4.8\|Opus 4.8]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-06/lushbinary-loop-engineering-ai-coding-agents-guide-2026-06-09\|Loop Engineering: The Guide for AI Agents]]
+- feature flags (TECHNOLOGIE) — 0.88, DYNAMIQUE
+  - [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
+- merge queue (TECHNOLOGIE) — 0.88, DYNAMIQUE
+  - [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 - [[kb/_entites-mineures#Provenance-du-code\|Provenance du code]] (CONCEPT) — 0.80, DYNAMIQUE
   - [[fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14\|Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code,…]]
 
@@ -277,6 +284,7 @@
 - [[kb/fichiers-de-règles-partagés\|fichiers de règles partagés]] **s_applique_à** → Claude Code — 0.90
 - [[kb/_entites-mineures#Midnight-Blizzard\|Midnight Blizzard]] **utilise** → Claude Code — 0.90
 - [[kb/_entites-mineures#Amplifier-framework\|Amplifier framework]] **est_basé_sur** → Claude Code — 0.88
+- [[kb/_entites-mineures#You-land-it,-you-own-it\|You land it, you own it]] **s_applique_à** → Claude Code — 0.88
 - [[kb/Omarchy\|Omarchy]] **utilise** → Claude Code — 0.88
 - [[kb/_entites-mineures#role-playing\|role-playing]] **améliore** → Claude Code — 0.85
 - [[kb/mode-Minimal\|mode Minimal]] **concurrence** → Claude Code — 0.82
@@ -326,6 +334,7 @@
 - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 - [[fiches/2025-11/osmani-conductors-orchestrators-agentic-coding-2025-11-01\|Conductors to Orchestrators: The Future of Agentic Coding]]
 - [[fiches/2026-01/osmani-how-write-good-spec-ai-agents-2026-01-13\|How to write a good spec for AI agents]]
+- [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 - [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|From RAG to Rigor Mortis: Why Retrieval-Augmented Generation looks like dying]]
 - [[fiches/2026-01/rauch-coding-agents-cli-abstraction-2026-01-02\|The fundamental coding agent abstraction is the CLI]]
 - [[fiches/2026-05/salesforce-tallapragada-how-engineering-became-agentic-2026-05-27\|How Salesforce Engineering Became Truly Agentic]]

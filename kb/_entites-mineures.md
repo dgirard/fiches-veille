@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 3060 entités avec moins de 3 triples/fiches
+> 3067 entités avec moins de 3 triples/fiches
 
-## PERSONNE (408)
+## PERSONNE (410)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -2691,6 +2691,16 @@
 
 **Fiches** : [[fiches/2026-03/ralmuto-rebuttal-andreessen-introspection-history-2026-03-17\|Rebuttal to Marc Andreessen on Introspection]]
 
+### Morgan Westlee Lunt {#Morgan-Westlee-Lunt}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Co-auteur, équipe Claude Code (Anthropic)
+
+- **publie** → [[kb/_entites-mineures#article-How-the-Claude-Code-team-does-code-review\|article How the Claude Code team does code review]] (DOCUMENT) — 0.98
+
+**Fiches** : [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
+
 ### NLW {#NLW}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -3044,6 +3054,16 @@
 - **travaille_chez** → [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.97
 
 **Fiches** : [[fiches/2025-11/rajasekaran-anthropic-frontend-design-skills-2025-11-12\|Improving frontend design through Skills]]
+
+### Qing Wang {#Qing-Wang}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Co-auteur, équipe Claude Code (Anthropic)
+
+- **publie** → [[kb/_entites-mineures#article-How-the-Claude-Code-team-does-code-review\|article How the Claude Code team does code review]] (DOCUMENT) — 0.98
+
+**Fiches** : [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 
 ### Qizheng Zhang {#Qizheng-Zhang}
 
@@ -7491,7 +7511,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (682)
+## TECHNOLOGIE (683)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7558,9 +7578,11 @@
 
 ### /security-review {#security-review}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **rôle** : Commande scannant input attaquable, liens suspects, findings validés
+
+- [[kb/revue-de-code-agentique\|revue de code agentique]] **utilise** → /security-review — 0.88
 
 **Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 
@@ -8821,6 +8843,19 @@
 - [[kb/Kiro\|Kiro]] **est_basé_sur** → Code OSS — 0.99
 
 **Fiches** : [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Launches Kiro, A Specification-Driven Agentic IDE]]
+
+### Code Review for Claude Code {#Code-Review-for-Claude-Code}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **catégorie** : Revue de PR multi-agents avec vote de vérificateurs, niveaux Quick/Standard/Deep, disponible sur Team et Enterprise
+
+- **mesure** → « PR internes avec commentaires substantiels : 16 % → 54 % » (MESURE) — 0.93
+
+- [[kb/revue-de-code-agentique\|revue de code agentique]] **utilise** → Code Review for Claude Code — 0.92
+- [[kb/_entites-mineures#eval-d'incidents\|eval d'incidents]] **améliore** → Code Review for Claude Code — 0.88
+
+**Fiches** : [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 
 ### Codex CLI {#Codex-CLI}
 
@@ -14644,7 +14679,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1021)
+## CONCEPT (1022)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -19449,6 +19484,16 @@
 - **définition** : Productivité réellement observée vs fantasme X10 — projet d'industrialisation, ROI non immédiat
 
 **Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
+
+### You land it, you own it {#You-land-it,-you-own-it}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Norme d'équipe : l'auteur d'un changement petit ou moyen corrige ce qui casse, sans blâme
+
+- **s_applique_à** → [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 
 ### Zeno's paradox of AI {#Zeno's-paradox-of-AI}
 
@@ -24600,7 +24645,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (399)
+## METHODOLOGIE (401)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -26992,6 +27037,18 @@
 
 **Fiches** : [[fiches/2025-10/youtube-educational-content-ai-tutorials-explosion-2025-10-01\|YouTube's AI Tutorial Explosion: Democratizing Technical Education at Scale]]
 
+### approbation graduée par le risque {#approbation-graduée-par-le-risque}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Nombre d'approbateurs humains (0, 1 ou 2) fixé par un classifieur selon le changement, pas selon l'auteur
+
+- **utilise** → classifieur de risque (TECHNOLOGIE) — 0.90
+
+- [[kb/revue-de-code-agentique\|revue de code agentique]] **utilise** → approbation graduée par le risque — 0.92
+
+**Fiches** : [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
+
 ### approche AI-native {#approche-AI-native}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -27467,6 +27524,16 @@
 - **réduit** → « le coût de supervision d'un Swarm au fil du temps, le coordinateur écrivant les réponses humaines en mémoire » (AFFIRMATION) — 0.93
 
 **Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
+
+### eval d'incidents {#eval-d'incidents}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Jeu de PR passées ayant causé incidents ou reverts, confirmées par des experts, rejoué chaque jour contre le relecteur
+
+- **améliore** → [[kb/_entites-mineures#Code-Review-for-Claude-Code\|Code Review for Claude Code]] (TECHNOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 
 ### evals continues {#evals-continues}
 
@@ -27984,6 +28051,17 @@
 
 **Fiches** : [[fiches/2026-06/williams-adlc-2-two-human-gates-2026-06-12\|Two Human Gates and Everything Between Is Machine-Checked]]
 
+### plafond de rondes de revue {#plafond-de-rondes-de-revue}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Trois rondes maximum, puis re-revue limitée au nouveau diff, sans répétition des findings
+
+- **mesure** → « rondes moyennes avant passage : 2,08 → 1,32 ; cinq rondes ou plus : 8,9 % → 1,5 % » (MESURE) — 0.93
+- **réduit** → itérations revue-correction (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
+
 ### planification multi-scénarios {#planification-multi-scénarios}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
@@ -28161,16 +28239,6 @@
 - **améliore** → qualité du code (CONCEPT) — 0.94
 
 **Fiches** : [[fiches/2025-06/qodo-state-ai-code-quality-2025-report-2025-06-11\|State of AI code quality in 2025 - Qodo]]
-
-### revue de code agentique {#revue-de-code-agentique}
-
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
-
-- **catégorie** : Revue conduite par des agents, opposée terme à terme à la revue humaine
-
-- **s_applique_à** → métriques DORA (lead time, deployment frequency, MTTR) (CONCEPT) — 0.82
-
-**Fiches** : [[fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11\|The End of Code Review: Coding Agents Supersede Human Inspection]]
 
 ### revue de code humaine {#revue-de-code-humaine}
 
@@ -29220,7 +29288,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (163)
+## DOCUMENT (164)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -30028,13 +30096,16 @@
 
 ### REVIEW.md {#REVIEW-md}
 
-**Type** : DOCUMENT | 1 relations | 1 fiches
+**Type** : DOCUMENT | 2 relations | 2 fiches
 
+- **définition** : Fichier écrit par les code owners qui dit au relecteur IA ce qui compte dans leur partie du code
 - **rôle** : Doctrine de revue : passes bugs/sécurité/conformité, définition de « Important », plafond de nits
 
 - **s_applique_à** → passes de revue bugs, sécurité et conformité au spec et au plan (CONCEPT) — 0.89
 
-**Fiches** : [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
+- [[kb/revue-de-code-agentique\|revue de code agentique]] **utilise** → REVIEW.md — 0.92
+
+**Fiches** : [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]], [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 
 ### Rapport international sur la sécurité de l'IA {#Rapport-international-sur-la-sécurité-de-l'IA}
 
@@ -30565,6 +30636,20 @@
 - [[kb/Arthur-Mensch\|Arthur Mensch]] **publie** → article Build or surrender — 0.98
 
 **Fiches** : [[fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16\|Build or surrender]]
+
+### article How the Claude Code team does code review {#article-How-the-Claude-Code-team-does-code-review}
+
+**Type** : DOCUMENT | 4 relations | 1 fiches
+
+- **catégorie** : Billet Engineering du blog claude.dev, 15 octobre 2026
+
+- **référence** → [[kb/Boris-Cherny\|Boris Cherny]] (PERSONNE) — 0.92
+
+- [[kb/Addy-Osmani\|Addy Osmani]] **publie** → article How the Claude Code team does code review — 0.98
+- [[kb/_entites-mineures#Morgan-Westlee-Lunt\|Morgan Westlee Lunt]] **publie** → article How the Claude Code team does code review — 0.98
+- [[kb/_entites-mineures#Qing-Wang\|Qing Wang]] **publie** → article How the Claude Code team does code review — 0.98
+
+**Fiches** : [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 
 ### article Introducing System One Models & Jev {#article-Introducing-System-One-Models-&-Jev}
 

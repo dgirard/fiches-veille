@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 872 entités de type TECHNOLOGIE
+> 873 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -141,7 +141,7 @@
 - [[kb/_entites-mineures#Claude-4-Opus\|Claude 4 Opus]] — prix: 15 $/75 $ par M tokens (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-4.5-Sonnet\|Claude 4.5 Sonnet]] — point fort: Qualité d'écriture créative (1 occ., 1 fiches)
 - [[kb/Claude-Agent-SDK\|Claude Agent SDK]] — catégorie: SDK d'agents d'Anthropic (3 occ., 3 fiches)
-- [[kb/Claude-Code\|Claude Code]] — atout: Suivi d'instructions, génération de code, utilisation d'outils (62 occ., 56 fiches)
+- [[kb/Claude-Code\|Claude Code]] — atout: Suivi d'instructions, génération de code, utilisation d'outils (63 occ., 57 fiches)
 - [[kb/Claude-Cowork\|Claude Cowork]] — categorie: Agent knowledge work (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Claude-Design\|Claude Design]] — mécanisme: Lit le code sous-jacent d'un composant/site référencé, pas seulement le rendu (1 occ., 1 fiches)
 - [[kb/Claude-Desktop\|Claude Desktop]] — définition: Client de bureau d'Anthropic (Mac et Windows depuis le 31 octobre 2024, beta Linux le 30 juin 2026) : Quick Entry sur macOS, Desktop Extensions pour installer un serveur MCP local en un clic, accès aux fichiers locaux, onglets Chat / Cowork / Code. Construction Electron plus couches natives (1 occ., 1 fiches)
@@ -180,6 +180,7 @@
 - [[kb/_entites-mineures#Code-Execution-Tool\|Code Execution Tool]] — statut: Beta, requis pour Skills via API (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Code-Interpreter\|Code Interpreter]] — catégorie: Environnement d'exécution Python intégré à Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Code-OSS\|Code OSS]] — rôle: Base open-source de Visual Studio Code, fondation technique de Kiro (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Code-Review-for-Claude-Code\|Code Review for Claude Code]] — catégorie: Revue de PR multi-agents avec vote de vérificateurs, niveaux Quick/Standard/Deep, disponible sur Team et Enterprise (1 occ., 1 fiches)
 - [[kb/Code-Wiki\|Code Wiki]] — statut: Public preview (novembre 2025) (3 occ., 1 fiches)
 - [[kb/CodeRabbit\|CodeRabbit]] — catégorie: Agent de revue de code IA (3 occ., 3 fiches)
 - [[kb/Codex\|Codex]] — catégorie: Agent de codage OpenAI (fusionné dans ChatGPT desktop, +ChatGPT Work) ; ~1 M à ~8 M utilisateurs actifs en 5 mois ; concurrent frontal de Claude Code (9 occ., 9 fiches)

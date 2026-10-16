@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 189 entités de type DOCUMENT
+> 190 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -89,7 +89,7 @@
 - [[kb/_entites-mineures#Powered-by-Claude\|Powered by Claude]] — nature: Vitrine partenaires de l'écosystème (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Quinnipiac-IA-optimisme-par-revenu\|Quinnipiac IA optimisme par revenu]] — description: Polling Quinnipiac récent — seul bracket revenus >200k$/an a vue optimiste IA pour vie quotidienne. Donnée canonique inégalité de perception (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Quo-vadis,-humanitas\|Quo vadis, humanitas ?]] — catégorie: Document de la Commission théologique internationale (9 février 2026) sur l'anthropologie chrétienne face aux scénarios futurs de l'humanité — référence-clé dans Magnifica Humanitas (1 occ., 1 fiches)
-- [[kb/_entites-mineures#REVIEW-md\|REVIEW.md]] — rôle: Doctrine de revue : passes bugs/sécurité/conformité, définition de « Important », plafond de nits (1 occ., 1 fiches)
+- [[kb/_entites-mineures#REVIEW-md\|REVIEW.md]] — rôle: Doctrine de revue : passes bugs/sécurité/conformité, définition de « Important », plafond de nits (2 occ., 2 fiches)
 - [[kb/Rapport-DORA-2025\|Rapport DORA 2025]] — date: 2025-09-23 (3 occ., 2 fiches)
 - [[kb/_entites-mineures#Rapport-international-sur-la-sécurité-de-l'IA\|Rapport international sur la sécurité de l'IA]] — usage: Opposé par l'autrice aux "prophéties à pourcentage" comme base de discussion du risque (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Reactionary-Modernism\|Reactionary Modernism]] — auteur et date: Jeffrey Herf, 1984 ; étudie la combinaison fascination technique / rejet des Lumières dans l'Allemagne de l'entre-deux-guerres (1 occ., 1 fiches)
@@ -151,6 +151,7 @@
 - [[kb/_entites-mineures#article-Automating-eval-design-and-hillclimbing\|article Automating eval design and hillclimbing]] — nature: Playbook du blog claude.dev, 28 septembre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-Build-or-surrender\|article Build or surrender]] — nature: Article X d'Arthur Mensch, 16 octobre 2026, plaidoyer pour l'IA de frontière européenne (1 occ., 1 fiches)
 - [[kb/article-GLM-5.3-and-the-spread-of-advanced-cyber-capabilities\|article GLM-5.3 and the spread of advanced cyber capabilities]] — forme: Billet de recherche du 29 septembre 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#article-How-the-Claude-Code-team-does-code-review\|article How the Claude Code team does code review]] — catégorie: Billet Engineering du blog claude.dev, 15 octobre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-Introducing-System-One-Models-&-Jev\|article Introducing System One Models & Jev]] — date: 2026-09-15 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-Linux-kernel-devs-drop-obligatory-confession\|article Linux kernel devs drop obligatory confession]] — catégorie: Article The Register, 14 octobre 2026 (1 occ., 1 fiches)
 - [[kb/article-Personal-AI-Should-Actually-Be-Personal\|article Personal AI Should Actually Be Personal]] — forme: Fil X du 29 septembre 2026 (1 occ., 1 fiches)

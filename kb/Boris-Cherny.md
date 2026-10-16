@@ -1,6 +1,6 @@
 # Boris Cherny
 
-> **Type** : PERSONNE | 37 relations | 11 fiches sources
+> **Type** : PERSONNE | 39 relations | 11 fiches sources
 
 ## Attributs
 
@@ -50,6 +50,8 @@
   - [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
 - « "mon focus est passé à écrire des boucles plutôt qu'à prompter directement" » (AFFIRMATION) — 0.90, STATIQUE
   - [[fiches/2026-06/lushbinary-loop-engineering-ai-coding-agents-guide-2026-06-09\|Loop Engineering: The Guide for AI Agents]]
+- « donner à Claude un moyen de vérifier son travail rend le résultat 2 à 3 fois meilleur » (AFFIRMATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 - « il n'écrit plus de prompts mais des boucles qui prompt pour lui » (CITATION) — 0.88, STATIQUE
   - [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Loop Engineering for Product Managers]]
 - « l'observation des usages imprévus révèle la demande latente » (AFFIRMATION) — 0.88, ATEMPOREL
@@ -124,6 +126,7 @@
 ## Relations (comme objet)
 
 - [[kb/Anthropic\|Anthropic]] **emploie** → Boris Cherny — 0.97
+- [[kb/_entites-mineures#article-How-the-Claude-Code-team-does-code-review\|article How the Claude Code team does code review]] **référence** → Boris Cherny — 0.92
 
 ## Fiches sources
 

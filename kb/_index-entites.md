@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3663 entités
+> 3671 entités
 
 ## #
 
@@ -102,7 +102,7 @@
 - [[kb/_entites-mineures#ACV-ADEME-Mistral\|ACV ADEME Mistral]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Adam-Cohen\|Adam Cohen]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Adaptive-organization\|Adaptive organization]] (CONCEPT, 1 fiches)
-- [[kb/Addy-Osmani\|Addy Osmani]] (PERSONNE, 10 fiches)
+- [[kb/Addy-Osmani\|Addy Osmani]] (PERSONNE, 11 fiches)
 - [[kb/_entites-mineures#ADEME\|ADEME]] (ORGANISATION, 1 fiches)
 - [[kb/Adeo\|Adeo]] (ORGANISATION, 2 fiches)
 - [[kb/ADHD\|ADHD]] (TECHNOLOGIE, 1 fiches)
@@ -358,6 +358,7 @@
 - [[kb/_entites-mineures#apprentissage-continu\|apprentissage continu]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#apprentissage-par-renforcement\|apprentissage par renforcement]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#apprentissage-statistique\|apprentissage statistique]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#approbation-graduée-par-le-risque\|approbation graduée par le risque]] (METHODOLOGIE, 1 fiches)
 - [[kb/approbation-humaine-par-transaction\|approbation humaine par transaction]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#approche-AI-native\|approche AI-native]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#approche-Crawl-Walk-Run\|approche Crawl Walk Run]] (METHODOLOGIE, 1 fiches)
@@ -404,6 +405,7 @@
 - [[kb/_entites-mineures#article-de-Paul-Sawers-(16-juin-2026)\|article de Paul Sawers (16 juin 2026)]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Article-DHH-2014-TDD-is-dead\|Article DHH 2014 "TDD is dead"]] (DOCUMENT, 1 fiches)
 - [[kb/article-GLM-5.3-and-the-spread-of-advanced-cyber-capabilities\|article GLM-5.3 and the spread of advanced cyber capabilities]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#article-How-the-Claude-Code-team-does-code-review\|article How the Claude Code team does code review]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#article-Introducing-System-One-Models-&-Jev\|article Introducing System One Models & Jev]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#article-Linux-kernel-devs-drop-obligatory-confession\|article Linux kernel devs drop obligatory confession]] (DOCUMENT, 1 fiches)
 - [[kb/article-Personal-AI-Should-Actually-Be-Personal\|article Personal AI Should Actually Be Personal]] (DOCUMENT, 1 fiches)
@@ -730,7 +732,7 @@
 - [[kb/_entites-mineures#Claude-4-Opus\|Claude 4 Opus]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-4.5-Sonnet\|Claude 4.5 Sonnet]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Claude-Agent-SDK\|Claude Agent SDK]] (TECHNOLOGIE, 3 fiches)
-- [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE, 56 fiches)
+- [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE, 57 fiches)
 - [[kb/_entites-mineures#Claude-Code-Plan-Mode\|Claude Code Plan Mode]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-Code-skills\|Claude Code skills]] (CONCEPT, 1 fiches)
 - [[kb/Claude-Cowork\|Claude Cowork]] (TECHNOLOGIE, 3 fiches)
@@ -813,6 +815,7 @@
 - [[kb/_entites-mineures#code-output\|code output]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Code-Philosopher\|Code Philosopher]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Code-Remix\|Code Remix]] (EVENEMENT, 1 fiches)
+- [[kb/_entites-mineures#Code-Review-for-Claude-Code\|Code Review for Claude Code]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#code-rot-(pourriture-du-code)\|code rot (pourriture du code)]] (CONCEPT, 1 fiches)
 - [[kb/Code-Wiki\|Code Wiki]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#code-writer\|code-writer]] (TECHNOLOGIE, 1 fiches)
@@ -1305,6 +1308,7 @@
 - [[kb/_entites-mineures#EU-AI-Act\|EU AI Act]] (DOCUMENT, 2 fiches)
 - [[kb/_entites-mineures#European-Compute-Unit\|European Compute Unit]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Eva-Dong\|Eva Dong]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#eval-d'incidents\|eval d'incidents]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Evals\|Evals]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#evals-continues\|evals continues]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#evals-offline\|evals offline]] (METHODOLOGIE, 1 fiches)
@@ -2298,6 +2302,7 @@
 - [[kb/_entites-mineures#monétisation-par-les-coûts\|monétisation par les coûts]] (CONCEPT, 1 fiches)
 - [[kb/Moonshot-AI\|Moonshot AI]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#Morgan-Stanley\|Morgan Stanley]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Morgan-Westlee-Lunt\|Morgan Westlee Lunt]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#moteur-analytique-embarqué\|moteur analytique embarqué]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Mouvement-anti-data-center\|Mouvement anti-data-center]] (CONCEPT, 1 fiches)
 - [[kb/Mozilla\|Mozilla]] (ORGANISATION, 1 fiches)
@@ -2585,6 +2590,7 @@
 - [[kb/_entites-mineures#Pipeline-Lattice\|Pipeline Lattice]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Pivot-conceptuel-cluster-outcome-based-2025-2026\|Pivot conceptuel cluster outcome-based 2025-2026]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Pizza-team\|Pizza team]] (METHODOLOGIE, 2 fiches)
+- [[kb/_entites-mineures#plafond-de-rondes-de-revue\|plafond de rondes de revue]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#plafond-productivité\|plafond productivité]] (CONCEPT, 1 fiches)
 - [[kb/Plakar-organisation\|Plakar]] (ORGANISATION, 2 fiches)
 - [[kb/Plakar-technologie\|Plakar]] (TECHNOLOGIE, 2 fiches)
@@ -2722,6 +2728,7 @@
 - [[kb/_entites-mineures#pénurie-GPU\|pénurie GPU]] (CONCEPT, 1 fiches)
 ## Q
 
+- [[kb/_entites-mineures#Qing-Wang\|Qing Wang]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Qizheng-Zhang\|Qizheng Zhang]] (PERSONNE, 1 fiches)
 - [[kb/QMD\|QMD]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Qodo-organisation\|Qodo]] (ORGANISATION, 2 fiches)
@@ -2819,13 +2826,13 @@
 - [[kb/_entites-mineures#Retry-tails\|Retry tails]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Reverse-Engineering-with-AI-works\|Reverse Engineering with AI/works™]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Review-quality-at-scale\|Review quality at scale]] (CONCEPT, 1 fiches)
-- [[kb/_entites-mineures#REVIEW-md\|REVIEW.md]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#REVIEW-md\|REVIEW.md]] (DOCUMENT, 2 fiches)
 - [[kb/_entites-mineures#reviewers-mono-lentille\|reviewers mono-lentille]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#revue-adversariale\|revue adversariale]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#revue-adverse-LLM\|revue adverse LLM]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#revue-adverse-locale-avant-push\|revue adverse locale avant push]] (METHODOLOGIE, 1 fiches)
 - [[kb/revue-de-code\|revue de code]] (METHODOLOGIE, 2 fiches)
-- [[kb/_entites-mineures#revue-de-code-agentique\|revue de code agentique]] (METHODOLOGIE, 1 fiches)
+- [[kb/revue-de-code-agentique\|revue de code agentique]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#revue-de-code-humaine\|revue de code humaine]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#revue-de-code-IA\|revue de code IA]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#revue-de-code-rigoureuse\|revue de code rigoureuse]] (METHODOLOGIE, 1 fiches)
@@ -3646,6 +3653,7 @@
 - [[kb/_entites-mineures#Yegor-Denisov-Blanch\|Yegor Denisov-Blanch]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Yoga\|Yoga]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Yoko-Li\|Yoko Li]] (PERSONNE, 2 fiches)
+- [[kb/_entites-mineures#You-land-it,-you-own-it\|You land it, you own it]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Your-Browser-Does-Math-Differently-on-Every-OS\|Your Browser Does Math Differently on Every OS]] (DOCUMENT, 1 fiches)
 - [[kb/YouTube-organisation\|YouTube]] (ORGANISATION, 3 fiches)
 - [[kb/YouTube-technologie\|YouTube]] (TECHNOLOGIE, 3 fiches)

@@ -1,27 +1,27 @@
 # Knowledge Base — Veille Technologique
 
-<!-- manifest: sha256=1bd3917c47c062be36b47ee8bc0a282d1011bcac0da4e4aeaf77392566483005 fiches=439 -->
-> 439 fiches | 3663 entités | 7088 triples | Généré le 2026-10-16
+<!-- manifest: sha256=58269794f027e687651e58f930990fc196046f68e1b2cc2659777dc76992efef fiches=440 -->
+> 440 fiches | 3671 entités | 7112 triples | Généré le 2026-10-16
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
-- [[kb/_index-type-PERSONNE\|PERSONNE]] (560)
+- [[kb/_index-type-PERSONNE\|PERSONNE]] (562)
 - [[kb/_index-type-ORGANISATION\|ORGANISATION]] (445)
-- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (872)
-- [[kb/_index-type-CONCEPT\|CONCEPT]] (1072)
-- [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (463)
+- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (873)
+- [[kb/_index-type-CONCEPT\|CONCEPT]] (1073)
+- [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (466)
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (57)
 - [[kb/_index-type-LIEU\|LIEU]] (5)
-- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (189)
-- [[kb/_entites-mineures\|Entités mineures]] (3060)
+- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (190)
+- [[kb/_entites-mineures\|Entités mineures]] (3067)
 
 ## Entités les plus connectées
 
 | Entité | Type | Relations | Fiches |
 |--------|------|-----------|--------|
-| [[kb/Anthropic\|Anthropic]] | ORGANISATION | 156 | 52 |
-| [[kb/Claude-Code\|Claude Code]] | TECHNOLOGIE | 125 | 56 |
+| [[kb/Anthropic\|Anthropic]] | ORGANISATION | 160 | 52 |
+| [[kb/Claude-Code\|Claude Code]] | TECHNOLOGIE | 129 | 57 |
 | [[kb/Ethan-Mollick\|Ethan Mollick]] | PERSONNE | 70 | 16 |
 | [[kb/SFEIR\|SFEIR]] | ORGANISATION | 68 | 11 |
 | [[kb/OpenAI\|OpenAI]] | ORGANISATION | 60 | 23 |
@@ -30,9 +30,9 @@
 | [[kb/Mistral-AI\|Mistral AI]] | ORGANISATION | 47 | 8 |
 | [[kb/Arthur-Mensch\|Arthur Mensch]] | PERSONNE | 47 | 4 |
 | [[kb/vibe-coding\|vibe coding]] | METHODOLOGIE | 45 | 23 |
-| [[kb/Addy-Osmani\|Addy Osmani]] | PERSONNE | 38 | 10 |
+| [[kb/Addy-Osmani\|Addy Osmani]] | PERSONNE | 39 | 11 |
+| [[kb/Boris-Cherny\|Boris Cherny]] | PERSONNE | 39 | 11 |
 | [[kb/IA\|IA]] | TECHNOLOGIE | 38 | 10 |
-| [[kb/Boris-Cherny\|Boris Cherny]] | PERSONNE | 37 | 11 |
 | [[kb/Buzz\|Buzz]] | TECHNOLOGIE | 35 | 7 |
 | [[kb/agents-IA\|agents IA]] | TECHNOLOGIE | 33 | 5 |
 | [[kb/Léon-XIV\|Léon XIV]] | PERSONNE | 29 | 1 |
@@ -45,34 +45,34 @@
 
 ### Prédicats les plus fréquents
 
-- **affirme_que** : 885
-- **utilise** : 815
+- **affirme_que** : 887
+- **utilise** : 823
 - **permet** : 644
-- **mesure** : 557
-- **publie** : 408
+- **mesure** : 561
+- **publie** : 411
 - **a_créé** : 391
-- **recommande** : 336
-- **s_applique_à** : 292
+- **recommande** : 338
+- **s_applique_à** : 293
+- **réduit** : 257
 - **s_oppose_à** : 255
-- **réduit** : 255
 - **est_basé_sur** : 249
 - **fait_partie_de** : 235
-- **améliore** : 220
+- **améliore** : 221
 - **est_instance_de** : 218
 - **remplace** : 157
 
 ### Distribution par type
 
-- **PERSONNE** : 560 (15.3%)
+- **PERSONNE** : 562 (15.3%)
 - **ORGANISATION** : 445 (12.1%)
-- **TECHNOLOGIE** : 872 (23.8%)
-- **CONCEPT** : 1072 (29.3%)
-- **METHODOLOGIE** : 463 (12.6%)
+- **TECHNOLOGIE** : 873 (23.8%)
+- **CONCEPT** : 1073 (29.2%)
+- **METHODOLOGIE** : 466 (12.7%)
 - **EVENEMENT** : 57 (1.6%)
 - **LIEU** : 5 (0.1%)
-- **DOCUMENT** : 189 (5.2%)
+- **DOCUMENT** : 190 (5.2%)
 
 ### Déduplication
 
-- **Triples** : 7212 → 7088 (124 doublons)
-- **Entités** : 4857 → 3663 (1194 doublons)
+- **Triples** : 7236 → 7112 (124 doublons)
+- **Entités** : 4869 → 3671 (1198 doublons)

@@ -1,6 +1,6 @@
 # Addy Osmani
 
-> **Type** : PERSONNE | 38 relations | 10 fiches sources
+> **Type** : PERSONNE | 39 relations | 11 fiches sources
 
 ## Attributs
 
@@ -62,6 +62,8 @@
   - [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
 - [[kb/_entites-mineures#article-Agentic-Verification\|article Agentic Verification]] (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
+- [[kb/_entites-mineures#article-How-the-Claude-Code-team-does-code-review\|article How the Claude Code team does code review]] (DOCUMENT) — 0.98, STATIQUE
+  - [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 - guide specs agents IA (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-01/osmani-how-write-good-spec-ai-agents-2026-01-13\|How to write a good spec for AI agents]]
 - [[kb/Loop-Engineering\|Loop Engineering]] (METHODOLOGIE) — 0.95, STATIQUE
@@ -121,6 +123,7 @@
 - [[fiches/2025-11/osmani-conductors-orchestrators-agentic-coding-2025-11-01\|Conductors to Orchestrators: The Future of Agentic Coding]]
 - [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|The New SDLC With Vibe Coding — From ad-hoc prompting to Agentic Engineering]]
 - [[fiches/2026-01/osmani-how-write-good-spec-ai-agents-2026-01-13\|How to write a good spec for AI agents]]
+- [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 - [[fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09\|The three joys of engineering: liberation or loss depends on which joy you lean on most]]
 - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
 - [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]

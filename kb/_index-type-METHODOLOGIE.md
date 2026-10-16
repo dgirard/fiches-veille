@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 463 entités de type METHODOLOGIE
+> 466 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -278,6 +278,7 @@
 - [[kb/_entites-mineures#analyse_d_erreurs\|analyse_d_erreurs]] — domaine: Développement systèmes IA agentiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#antfooding\|antfooding]] — définition: Dogfooding interne chez Anthropic ("ants" = employés) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#apprentissage-autodidacte\|apprentissage autodidacte]] — avantage: rythme libre, accessibilité mondiale, gratuité (1 occ., 1 fiches)
+- [[kb/_entites-mineures#approbation-graduée-par-le-risque\|approbation graduée par le risque]] — définition: Nombre d'approbateurs humains (0, 1 ou 2) fixé par un classifieur selon le changement, pas selon l'auteur (1 occ., 1 fiches)
 - [[kb/approbation-humaine-par-transaction\|approbation humaine par transaction]] — définition: Règle de fonctionnement du portefeuille Link pour agents au lancement : chaque demande de dépense est revue et approuvée par la personne avant que le justificatif ne soit transmis à l'agent, sur le web ou dans l'application Link (2 occ., 1 fiches)
 - [[kb/_entites-mineures#approche-AI-native\|approche AI-native]] — description: IA intégrée aux workflows cœur, non ajoutée superficiellement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#approche-Crawl-Walk-Run\|approche Crawl Walk Run]] — catégorie: Déploiement incrémental entreprise (1 occ., 1 fiches)
@@ -330,6 +331,7 @@
 - [[kb/_entites-mineures#environnements-de-RL-privés\|environnements de RL privés]] — rôle: Renforcer les modèles sur les traces réelles de l'organisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#escalade-Ask-for-Help\|escalade Ask for Help]] — mécanisme: Outil ask_for_help(reason, failed_attempts, context) donné au worker ; escalade sur ambiguïté, action irréversible ou deux échecs consécutifs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#escalade-agent-vers-agent\|escalade agent-vers-agent]] — définition: Topologie où les workers escaladent leurs questions vers un coordinateur qui en résout la majorité et n'expose à l'humain que les cas véritablement nouveaux, en écrivant les réponses humaines en mémoire ; l'humain cesse d'être un intermédiaire et redevient le dernier relecteur (1 occ., 1 fiches)
+- [[kb/_entites-mineures#eval-d'incidents\|eval d'incidents]] — définition: Jeu de PR passées ayant causé incidents ou reverts, confirmées par des experts, rejoué chaque jour contre le relecteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#evals-continues\|evals continues]] — déclenchement: Suite de 20 à 50 tâches réelles rejouée à chaque changement de configuration d'agent, plus incidents convertis en régressions (1 occ., 1 fiches)
 - [[kb/_entites-mineures#evals-offline\|evals offline]] — seuil: ~90% requis pour autoriser un agent, cible ~100%, ground truth figé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#everyone-ships\|everyone ships]] — portée: Ouverture du seul passage de 0 à 1 à toute l'organisation, la division du travail restant en place au-delà du prototype (1 occ., 1 fiches)
@@ -393,6 +395,7 @@
 - [[kb/_entites-mineures#phase-Interrogate\|phase Interrogate]] — rôle: Phase à plus fort levier : interroger les parties prenantes après lecture du codebase (1 occ., 1 fiches)
 - [[kb/_entites-mineures#phase-Rail\|phase Rail]] — rôle: Geler tests/stubs/contrats depuis la spec avant le build (1 occ., 1 fiches)
 - [[kb/pipeline-de-vérification-adversariale-multi-agents\|pipeline de vérification adversariale multi-agents]] — définition: Agent générateur + reviewers indépendants + vérification (tests/formel) + consensus par vote (1 occ., 1 fiches)
+- [[kb/_entites-mineures#plafond-de-rondes-de-revue\|plafond de rondes de revue]] — définition: Trois rondes maximum, puis re-revue limitée au nouveau diff, sans répétition des findings (1 occ., 1 fiches)
 - [[kb/_entites-mineures#planification-multi-scénarios\|planification multi-scénarios]] — application: Plateau, croissance linéaire, exponentielle, AGI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#preuve-d'exécution\|preuve d'exécution]] — rôle: Capter les sorties réelles des agents plutôt que faire confiance à leurs déclarations (1 occ., 1 fiches)
 - [[kb/_entites-mineures#private-evals\|private evals]] — rôle: Mesurer l'amélioration d'un modèle sur les résultats métier internes (1 occ., 1 fiches)
@@ -414,7 +417,7 @@
 - [[kb/_entites-mineures#revue-adverse-locale-avant-push\|revue adverse locale avant push]] — définition: Agent adverse invoqué localement avant le push (1 occ., 1 fiches)
 - [[kb/revue-de-code\|revue de code]] — objectifs: Trouver les défauts, qualité, conformité, partage de connaissance (2 occ., 2 fiches)
 - [[kb/_entites-mineures#revue-de-code-IA\|revue de code IA]] — description: Revue automatisée de pull requests par agent IA (1 occ., 1 fiches)
-- [[kb/_entites-mineures#revue-de-code-agentique\|revue de code agentique]] — catégorie: Revue conduite par des agents, opposée terme à terme à la revue humaine (1 occ., 1 fiches)
+- [[kb/revue-de-code-agentique\|revue de code agentique]] — catégorie: Revue conduite par des agents, opposée terme à terme à la revue humaine (2 occ., 2 fiches)
 - [[kb/_entites-mineures#revue-de-code-humaine\|revue de code humaine]] — catégorie: Inspection par un pair, dont l'article conteste la tenue face au débit agentique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#revue-de-code-rigoureuse\|revue de code rigoureuse]] — objectif: Garantir qualité et sécurité du code généré par IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#revue-par-exception\|revue par exception]] — définition: Réserver la revue humaine aux classes de changement où le jugement humain apporte, au lieu d'inspecter systématiquement chaque changement (1 occ., 1 fiches)

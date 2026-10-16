@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-> **Type** : TECHNOLOGIE | 12 relations | 13 fiches sources
+> **Type** : TECHNOLOGIE | 13 relations | 13 fiches sources
 
 > **Même entité, autre type** : [[kb/CLAUDE-md-document\|CLAUDE.md (DOCUMENT)]]
 
@@ -66,6 +66,7 @@
 ## Relations (comme objet)
 
 - [[kb/andrej-karpathy-skills\|andrej-karpathy-skills]] **utilise** → CLAUDE.md — 0.98
+- [[kb/revue-de-code-agentique\|revue de code agentique]] **utilise** → CLAUDE.md — 0.90
 
 ## Fiches sources
 
