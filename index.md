@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 440 fiches | 1975-12 → 2026-10-16 | généré le 2026-10-16
+> 441 fiches | 1975-12 → 2026-10-16 | généré le 2026-10-19
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -13,6 +13,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **15** [How the Claude Code team does code review](fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15.md) — Addy Osmani, Morgan Westlee Lunt, Qing Wang — équipe Claude Code (Anthropic) ; blog *claude.dev*, catégorie Engineering. · claude.dev Blog — revue de code, code review, revue de code agentique
 - **14** [Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code, whatever tools they use](fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14.md) — Thomas Claburn — AI and software reporter, The Register. · The Register — noyau Linux, Linux kernel, tag Assisted-by
 - **14** [Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.](fiches/2026-10/osmani-agentic-verification-2026-10-14.md) — Addy Osmani — ingénieur (Anthropic, cf. fiches antérieures) ; billet sur son Substack *Elevate*. · Substack (Elevate) — vérification agentique, boucle de rétroaction, agent auto-vérifiant
+- **13** [How to be more ambitious: A tutorial for humans with models](fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13.md) — Felix Rieseberg — EM chez Anthropic (fonction affichée), co-mainteneur d'Electron ; blog personnel felixrieseberg.com. · felixrieseberg.com — ambition, usage des modèles, Speed
 - **09** [Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)](fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09.md) — Fred Cavazza (@fredcavazza) — auteur du post sur X ; fonction non indiquée dans le texte. · X — collaborateur synthétique, chatbot, agent
 - **09** [The three joys of engineering: liberation or loss depends on which joy you lean on most](fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09.md) — Addy Osmani — Member of Technical Staff chez Anthropic (fonction affichée) ; post LinkedIn. · LinkedIn — joie de faire, joie de savoir, joie de compter
 - **08** [Welcome to Gemini at Work 2026: Introducing the Gemini agent](fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08.md) — Thomas Kurian — CEO de Google Cloud ; billet du blog Google Cloud adapté de sa keynote. · Google Cloud — Gemini agent, Gemini Enterprise, Google Cloud
@@ -789,6 +790,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Transformation & Adoption
 
+- [How to be more ambitious: A tutorial for humans with models](fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13.md) — Felix Rieseberg — EM chez Anthropic (fonction affichée), co-mainteneur d'Electron ; blog personnel felixrieseberg.com.
 - [Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)](fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09.md) — Fred Cavazza (@fredcavazza) — auteur du post sur X ; fonction non indiquée dans le texte.
 - [The three joys of engineering: liberation or loss depends on which joy you lean on most](fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09.md) — Addy Osmani — Member of Technical Staff chez Anthropic (fonction affichée) ; post LinkedIn.
 - [Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will completely vanish » — extrait de Fox & Friends First (Fox News, 29 mai 2025) avec Dario Amodei](fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02.md) — Yugen Matsuda — entrepreneur indépendant, compte X japonais ; post de relais d'un entretien de Dario Amodei (CEO d'Anthropic) diffusé sur Fox News.
@@ -1047,6 +1049,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Philosophie & Société
 
 - [Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code, whatever tools they use](fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14.md) — Thomas Claburn — AI and software reporter, The Register.
+- [How to be more ambitious: A tutorial for humans with models](fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13.md) — Felix Rieseberg — EM chez Anthropic (fonction affichée), co-mainteneur d'Electron ; blog personnel felixrieseberg.com.
 - [The three joys of engineering: liberation or loss depends on which joy you lean on most](fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09.md) — Addy Osmani — Member of Technical Staff chez Anthropic (fonction affichée) ; post LinkedIn.
 - [The End of Hand-Written Code: A Conversation with David Heinemeier Hansson (DHH) on AI, Omarchy and the Future of Programming](fiches/2026-09/heinemeier-hansson-end-of-hand-written-code-2026-09-28.md) — David Heinemeier Hansson, créateur de Ruby on Rails et copropriétaire de 37signals, interrogé par Vikas Shah dans *Thought Economics*.
 - [Nope. It's still true. (post X en réponse à Noah Smith)](fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25.md) — Yann LeCun — fondateur et président d'AMI Labs, professeur à NYU, ex-Chief AI Scientist de Meta, prix Turing. Post X.
@@ -1081,6 +1084,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Stratégie & Frameworks
 
 - [Build or surrender](fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16.md) — Arthur Mensch (@arthurmensch) — cofondateur et directeur général de Mistral AI ; article publié sur X.
+- [How to be more ambitious: A tutorial for humans with models](fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13.md) — Felix Rieseberg — EM chez Anthropic (fonction affichée), co-mainteneur d'Electron ; blog personnel felixrieseberg.com.
 - [Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)](fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09.md) — Fred Cavazza (@fredcavazza) — auteur du post sur X ; fonction non indiquée dans le texte.
 - [Introducing Personal Agent Protocol](fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06.md) — Bret Taylor et Clay Bavor — cofondateurs de Sierra, plateforme d'agents IA pour l'expérience client ; billet du blog Sierra.
 - [Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)](fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01.md) — Daniel Meppiel — travaille avec des équipes d'ingénierie d'entreprise chez Microsoft et GitHub ; post LinkedIn.
@@ -1264,16 +1268,16 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 440 fiches
-- **Par année** : 2026 (263) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 441 fiches
+- **Par année** : 2026 (264) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 166
   - Architecture & Construction : 62
-  - Transformation & Adoption : 98
+  - Transformation & Adoption : 99
   - Qualité & Sécurité : 57
   - Économie & Marché : 93
-  - Philosophie & Société : 31
-  - Stratégie & Frameworks : 40
+  - Philosophie & Société : 32
+  - Stratégie & Frameworks : 41
   - Outils & Plateformes : 63
   - Recherche & Éducation : 16
   - Produits & Services : 19

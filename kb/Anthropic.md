@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 160 relations | 52 fiches sources
+> **Type** : ORGANISATION | 161 relations | 53 fiches sources
 
 ## Attributs
 
@@ -347,6 +347,7 @@
 - [[kb/_entites-mineures#Frontier-Red-Team\|Frontier Red Team]] **fait_partie_de** → Anthropic — 0.95
 - [[kb/_entites-mineures#@trq212\|@trq212]] **travaille_chez** → Anthropic — 0.95
 - [[kb/Cat-Wu\|Cat Wu]] **travaille_chez** → Anthropic — 0.95
+- [[kb/Felix-Rieseberg\|Felix Rieseberg]] **travaille_chez** → Anthropic — 0.95
 - [[kb/Jarred-Sumner\|Jarred Sumner]] **travaille_chez** → Anthropic — 0.95
 - [[kb/Sachin-Malhotra\|Sachin Malhotra]] **travaille_chez** → Anthropic — 0.95
 - [[kb/Gates-Foundation\|Gates Foundation]] **collabore_avec** → Anthropic — 0.90
@@ -410,6 +411,7 @@
 - [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Powered by Claude]]
 - [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|From RAG to Rigor Mortis: Why Retrieval-Augmented Generation looks like dying]]
 - [[fiches/2025-11/rajasekaran-anthropic-frontend-design-skills-2025-11-12\|Improving frontend design through Skills]]
+- [[fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13\|How to be more ambitious: A tutorial for humans with models]]
 - [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 - [[fiches/2025-04/stanford-hai-ai-index-report-2025-trends-2025-04-07\|Stanford HAI: AI Index Report 2025 - Global AI Trends and Metrics]]
 - [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]

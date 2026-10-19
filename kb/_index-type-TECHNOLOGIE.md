@@ -136,7 +136,7 @@
 - [[kb/_entites-mineures#ChatGPT-Instant-Checkout\|ChatGPT Instant Checkout]] — catégorie: Checkout agentique sans visite site marchand (2 occ., 1 fiches)
 - [[kb/_entites-mineures#ChatGPT-Work\|ChatGPT Work]] — catégorie: Offre décrite par l'auteur comme limitée à l'orchestration (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Chunk\|Chunk]] — catégorie: Agent CircleCI qui valide ses propres correctifs avant tout regard humain — taux de conversion des tâches d'agent en PR abouties doublé (1 occ., 1 fiches)
-- [[kb/Claude-entite\|Claude]] — catégorie: Modèles d'Anthropic orchestrables par le Gemini agent (13 occ., 13 fiches)
+- [[kb/Claude-entite\|Claude]] — catégorie: Modèle et assistant d'Anthropic (14 occ., 14 fiches)
 - [[kb/_entites-mineures#Claude-3.5\|Claude 3.5]] — version_clé: Révision octobre 2024 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-4-Opus\|Claude 4 Opus]] — prix: 15 $/75 $ par M tokens (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-4.5-Sonnet\|Claude 4.5 Sonnet]] — point fort: Qualité d'écriture créative (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1073 entités de type CONCEPT
+> 1080 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -77,6 +77,7 @@
 - [[kb/_entites-mineures#Alignement-des-incitations\|Alignement des incitations]] — définition: Principe central : le fournisseur n'est payé qu'au résultat (« we get paid only when we complete a task ») — skin in the game structurel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Alive-to-a-specific-moment\|Alive to a specific moment]] — définition: Propriété humaine selon Shipper — vivre *« running wants, running concerns »* du présent. Les modèles peuvent inhabit cette perspective une fois prompted, mais pas avant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Allocation-layer\|Allocation layer]] — définition: Couche qui fait les allocation calls (quels workflows ont plus de compute, lesquels cappés, modèles cheaper, restent humains, remplacent le BPO) — contrôle où va la dépense IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Altitude\|Altitude]] — définition: Monter en abstraction : confier le résultat visé plutôt que la tâche (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ambient-affordances\|Ambient affordances]] — définition: Propriétés structurelles rendant un environnement lisible et navigable par les agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Amplificateur-d'intelligence\|Amplificateur d'intelligence]] — définition: Nouveau rôle : fournir modèles mentaux, contexte et outils de décision pour exploiter l'IA en gardant la cohérence système (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Analogie-Gutenberg-Software\|Analogie Gutenberg / Software]] — description: 1400s 10% littéracie → 70% en quelques siècles, livre 100× moins cher en 50 ans. Software suivra le même pattern, plus rapide que 50 ans (1 occ., 1 fiches)
@@ -102,6 +103,7 @@
 - [[kb/_entites-mineures#Asymétrie-investissement-IA-US-2025\|Asymétrie investissement IA US 2025]] — description: US a dépensé plus en infrastructure IA qu'en single-family homes 2025 ; 10× plus data centers qu'Allemagne (#2) ; 20×+ plus investissement IA que Chine (#2) ; pendant crise logement 10 millions d'unités manquantes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Atoms-(Lattice)\|Atoms (Lattice)]] — exemples: Clean code, architecture, DDD, secure coding, test quality, design-first approach (1 occ., 1 fiches)
 - [[kb/Augmented-Craftsman\|Augmented Craftsman]] — description: Développeur augmenté par IA, reste dans le code (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Auto-efficacité\|Auto-efficacité]] — définition: Croyance en ses capacités, corrélée à l'accomplissement (self-efficacy) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Auto-hébergement\|Auto-hébergement]] — définition: Exécution d'un modèle ouvert sur sa propre infrastructure (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Autopilot\|Autopilot]] — niveau: 4 — outcome décrit, revue du résultat final (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Avantage-de-contexte\|Avantage de contexte]] — définition: Les humains en savent plus que l'IA sur les utilisateurs/le contexte (préféré à « taste ») (1 occ., 1 fiches)
@@ -203,6 +205,7 @@
 - [[kb/_entites-mineures#Data-products-certifiés\|Data products certifiés]] — usage: Réponse d'Adeo aux 150 000 dashboards du self-service BI, avec data contracts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Decision-Layer\|Decision Layer]] — catégorie: couche raisonnement séparée de l'orchestration LLM (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Decision-rationale\|Decision rationale]] — attribut: Un des actifs les plus périssables de l'entreprise : vit dans Slack, emails, escalation calls et la tête des gens qui partent (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Depth\|Depth]] — définition: Exécuter la tâche avec les instruments et méthodes du meilleur expert du domaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Design-drift\|Design drift]] — catégorie: Phénomène de dérive de cohérence design entre prompts successifs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Design-memory\|Design memory]] — catégorie: Mémoire design transférable entre plateformes via design.md (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dette-cognitive\|Dette cognitive]] — catégorie: Risque lié à l'utilisation des LLM en développement (1 occ., 1 fiches)
@@ -413,6 +416,7 @@
 - [[kb/_entites-mineures#Pyramide-de-tests\|Pyramide de tests]] — définition: Modèle Mike Cohn — tests unitaires (base, nombreux, rapides) > intégration > acceptance > e2e (sommet, peu nombreux, lents). Eveillard mobilise pour réfuter "rebalance from unit to system" (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Quality-Control-Zone\|Quality Control Zone]] — caractéristiques: coût d'erreur élevé + connaissance explicite (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Quatre-modalités-fonctionnelles-de-l'IA\|Quatre modalités fonctionnelles de l'IA]] — définition: Typologie de l'auteur : chatbot, agent, orchestrateur, collaborateur synthétique (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Quatre-types-d'ambition\|Quatre types d'ambition]] — définition: Taxonomie de l'usage ambitieux des modèles : Speed, Altitude, Depth, Range (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Question-forte-vs-faible\|Question forte vs faible]] — exemple: Faible : "What are the trends?" / Forte : "Where does pricing feel tolerated rather than embraced?" (1 occ., 1 fiches)
 - [[kb/_entites-mineures#QuickBee\|QuickBee]] — définition: Tier d'agent rapide et bon marché, réservé au travail documenté : builds, captures d'écran, exécution de la suite de tests, tri de première passe. Modèles cités : GPT-5.6 Luna, DeepSeek V4 Flash, modèles locaux. Effort recommandé : max, xhigh ou high (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Quiet-career-change\|Quiet career change]] — définition: Concept-pivot Chepurin/Turner — les devs choisis pour coder font désormais un travail différent sans transition de carrière consciente. 4 voies possibles (1 occ., 1 fiches)
@@ -420,6 +424,7 @@
 - [[kb/_entites-mineures#ROI-de-l'IA-(heures-ingénieur)\|ROI de l'IA (heures-ingénieur)]] — principe: Mesurer le retour par les heures-ingénieur manuelles évitées, pas par l'usage brut (qui ne mesure que l'activité) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ROI-des-tokens\|ROI des tokens]] — formule: Temps humain économisé + fonctionnalités livrées + incidents évités − coût des tokens − coût de montée en compétence (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Race-to-the-bottom\|Race to the bottom]] — définition: Métaphore Williams — la dynamique billable hours conduit à une course descendante zero-sum entre agence (rewarded for more hours) et client (incentivized to minimize) (1 occ., 1 fiches)
+- [[kb/Range\|Range]] — définition: Mobiliser plusieurs disciplines au-delà de celle que la tâche appelle en surface (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ratchet-principle\|Ratchet principle]] — définition: Chaque erreur d'agent devient une règle permanente. Toute ligne d'AGENTS.md traçable à un échec passé. (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Raw-signals\|Raw signals]] — définition: Sources non polies (avis utilisateurs, documentation, transcripts) priorisées sur les rapports synthétisés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Redéfinition-headcount-services-intellectuels\|Redéfinition headcount services intellectuels]] — description: Question RH/finance majeure 2026 : comment compter l'effectif quand 1/3 sont des agents ? Comparable à la comptabilisation des contractors/consultants dans l'effectif. McKinsey premier top-tier à publier le chiffre (1 occ., 1 fiches)
@@ -465,6 +470,7 @@
 - [[kb/_entites-mineures#Software-3.0\|Software 3.0]] — définition: Programmation = prompting d'un LLM-interpréteur, contexte = levier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Solutions-Engineers\|Solutions Engineers]] — rôle futur: Programmer en langage naturel, orchestrer agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Souveraineté-IA\|Souveraineté IA]] — définition: Capacité à auditer, adapter et garantir l'accès aux modèles utilisés (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Speed\|Speed]] — définition: Le même travail en moins de temps ; valeur économique établie de l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Standard-Operating-Procedure\|Standard Operating Procedure]] — rôle: Formalisation du comportement attendu de l'agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Stratège\|Stratège]] — rôle: PM technique validant qualité et scoping (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Success-is-silent-failures-are-verbose\|Success is silent failures are verbose]] — définition: Principe HumanLayer : un hook ne renvoie rien si le check passe, injecte l'erreur dans la loop si ça échoue (1 occ., 1 fiches)
@@ -808,6 +814,7 @@
 - [[kb/_entites-mineures#investissements-sans-regrets\|investissements sans regrets]] — catégorie: Stratégie DevX bénéficiant humains et agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#jagged-frontier\|jagged frontier]] — définition: Carte irrégulière des forces/faiblesses des IA par domaine (2 occ., 2 fiches)
 - [[kb/_entites-mineures#journal-d'événements-d'agent\|journal d'événements d'agent]] — définition: Trace locale append-only de chaque appel de modèle, exécution d'outil, approbation et édition, servant de source unique de vérité pour rejouer et reprendre une session interrompue (1 occ., 1 fiches)
+- [[kb/_entites-mineures#juge-extérieur\|juge extérieur]] — définition: Validation du résultat par un tiers ou un outil, jamais par le modèle lui-même (1 occ., 1 fiches)
 - [[kb/_entites-mineures#jugement-professionnel\|jugement professionnel]] — rôle: Savoir s'arrêter pour refactoriser — ce qui distingue le pro (2 occ., 2 fiches)
 - [[kb/_entites-mineures#justificatif-de-paiement-scopé\|justificatif de paiement scopé]] — définition: Credential remis à l'agent après approbation — carte à usage unique ou Shared Payment Token — borné en montant, devise et marchand, de sorte que la perte maximale d'une transaction est fixée à l'émission (1 occ., 1 fiches)
 - [[kb/_entites-mineures#kill-switch\|kill switch]] — définition: Capacité technique de bridage ou d'extinction d'un système d'IA, activable sur ordre gouvernemental (2 occ., 2 fiches)

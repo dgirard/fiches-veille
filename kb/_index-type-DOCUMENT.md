@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 190 entités de type DOCUMENT
+> 192 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -114,6 +114,7 @@
 - [[kb/_entites-mineures#The-AI-Era-Software-Assembly-Line\|The AI-Era Software Assembly Line]] — rôle: Rapport complet portant les données sous-jacentes, non reproduites dans le billet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-AI-Native-SDLC-playbook\|The AI-Native SDLC playbook]] — format: Guide de six étapes découpées en plays, ~40 min de lecture, publié le 21 août 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-American-Experiment\|The American Experiment]] — catégorie: Titre Netflix (US) utilisant la GenAI (1 occ., 1 fiches)
+- [[kb/_entites-mineures#The-Art-of-Innovation\|The Art of Innovation]] — auteur: Tom Kelley et Jonathan Littman ; technique « remplacer les noms par des verbes » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Art-of-Not-Being-Governed\|The Art of Not Being Governed]] — rôle: Ouvrage de James Scott (peuples des collines « qui refusent d'être gouvernés ») ; analogie de Ball pour le « voile d'ingouvernabilité » de l'open-weights (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Async-First-Playbook\|The Async-First Playbook]] — auteur: Livre de Sumeet Gayathri Moghe ; sa bibliothèque de diagrammes a été faite sous Keynote (1 occ., 1 fiches)
 - [[kb/The-Batch\|The Batch]] — type: Newsletter hebdomadaire IA, numéro 350 (3 occ., 3 fiches)
@@ -162,6 +163,7 @@
 - [[kb/_entites-mineures#article-What-if-the-future-does-not-need-you\|article What if the future does not need you]] — forme: Essai en cinq parties titrées en anglais, publié sur Substack le 20 septembre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-de-Paul-Sawers-(16-juin-2026)\|article de Paul Sawers (16 juin 2026)]] — catégorie: Article The New Stack (Paul Sawers, 16 juin 2026) sur la suspension de la scission de facturation de l'Agent SDK, replacée dans son contexte sectoriel et réglementaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#bands.yaml\|bands.yaml]] — rôle: Config versionnée des bandes de contrôle production et des paliers d'autonomie associés (1 occ., 1 fiches)
+- [[kb/_entites-mineures#billet-How-to-be-more-ambitious\|billet How to be more ambitious]] — catégorie: Billet de blog, felixrieseberg.com, 13 octobre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#billet-Zed-sur-la-facturation-Claude\|billet Zed sur la facturation Claude]] — catégorie: Billet Zed du 14 mai 2026 (Franciska Dethlefsen) sur la scission de facturation Claude, augmenté d'un addendum du 16 juin 2026 annonçant sa suspension (1 occ., 1 fiches)
 - [[kb/_entites-mineures#blog-Generative-AI-(Thoughtworks)\|blog Generative AI (Thoughtworks)]] — description: Section dédiée du blog Thoughtworks publiant des articles conceptuels et techniques sur l'IA générative. Article Kamelman SaS publié dans cette section le 3 décembre 2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#carte-altimétrique-de-Vénus\|carte altimétrique de Vénus]] — statut: Publiée en Creative Commons, résolution 2-3 km sur un tiers de la planète (1 occ., 1 fiches)

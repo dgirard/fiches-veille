@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 562 entités de type PERSONNE
+> 563 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -179,6 +179,7 @@
 - [[kb/_entites-mineures#Fabrice-Heyries\|Fabrice Heyries]] — rôle: PDG AG2R LA MONDIALE (fin 2025) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Fan-Jiang\|Fan Jiang]] — rôle: Principal Data Scientist, Atlassian (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Fareed-Khan\|Fareed Khan]] — rôle: Auteur du breakdown architecture Claude Code en 7 couches (1 occ., 1 fiches)
+- [[kb/Felix-Rieseberg\|Felix Rieseberg]] — rôle: EM chez Anthropic (Claude.ai, Cowork, Claude Code Desktop), co-mainteneur d'Electron (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Fergus-Hurley\|Fergus Hurley]] — rôle: Director, Product Management, Google Cloud (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Florian-Dèbes\|Florian Dèbes]] — rôle: Journaliste Les Echos, rubrique Travailler mieux / Vie au travail (1 occ., 1 fiches)
 - [[kb/Fran-Soto\|Fran Soto]] — rôle: Ingénieur logiciel chez Amazon, auteur newsletter Strategize Your Career (2 occ., 1 fiches)

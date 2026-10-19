@@ -1,26 +1,26 @@
 # Knowledge Base — Veille Technologique
 
-<!-- manifest: sha256=58269794f027e687651e58f930990fc196046f68e1b2cc2659777dc76992efef fiches=440 -->
-> 440 fiches | 3671 entités | 7112 triples | Généré le 2026-10-16
+<!-- manifest: sha256=78cbaf6a9fc3b16b879d6537ae3362770174116bb99fb74482e76604e5eda852 fiches=441 -->
+> 441 fiches | 3681 entités | 7130 triples | Généré le 2026-10-19
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
-- [[kb/_index-type-PERSONNE\|PERSONNE]] (562)
+- [[kb/_index-type-PERSONNE\|PERSONNE]] (563)
 - [[kb/_index-type-ORGANISATION\|ORGANISATION]] (445)
 - [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (873)
-- [[kb/_index-type-CONCEPT\|CONCEPT]] (1073)
+- [[kb/_index-type-CONCEPT\|CONCEPT]] (1080)
 - [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (466)
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (57)
 - [[kb/_index-type-LIEU\|LIEU]] (5)
-- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (190)
-- [[kb/_entites-mineures\|Entités mineures]] (3067)
+- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (192)
+- [[kb/_entites-mineures\|Entités mineures]] (3075)
 
 ## Entités les plus connectées
 
 | Entité | Type | Relations | Fiches |
 |--------|------|-----------|--------|
-| [[kb/Anthropic\|Anthropic]] | ORGANISATION | 160 | 52 |
+| [[kb/Anthropic\|Anthropic]] | ORGANISATION | 161 | 53 |
 | [[kb/Claude-Code\|Claude Code]] | TECHNOLOGIE | 129 | 57 |
 | [[kb/Ethan-Mollick\|Ethan Mollick]] | PERSONNE | 70 | 16 |
 | [[kb/SFEIR\|SFEIR]] | ORGANISATION | 68 | 11 |
@@ -36,8 +36,8 @@
 | [[kb/Buzz\|Buzz]] | TECHNOLOGIE | 35 | 7 |
 | [[kb/agents-IA\|agents IA]] | TECHNOLOGIE | 33 | 5 |
 | [[kb/Léon-XIV\|Léon XIV]] | PERSONNE | 29 | 1 |
+| [[kb/Claude-entite\|Claude]] | TECHNOLOGIE | 28 | 14 |
 | [[kb/McKinsey\|McKinsey]] | ORGANISATION | 28 | 3 |
-| [[kb/Claude-entite\|Claude]] | TECHNOLOGIE | 27 | 13 |
 | [[kb/Sierra\|Sierra]] | ORGANISATION | 27 | 4 |
 | [[kb/Agent-Client-Protocol\|Agent Client Protocol]] | TECHNOLOGIE | 26 | 4 |
 
@@ -45,34 +45,34 @@
 
 ### Prédicats les plus fréquents
 
-- **affirme_que** : 887
-- **utilise** : 823
+- **affirme_que** : 890
+- **utilise** : 826
 - **permet** : 644
 - **mesure** : 561
 - **publie** : 411
-- **a_créé** : 391
-- **recommande** : 338
+- **a_créé** : 392
+- **recommande** : 341
 - **s_applique_à** : 293
 - **réduit** : 257
 - **s_oppose_à** : 255
-- **est_basé_sur** : 249
-- **fait_partie_de** : 235
+- **est_basé_sur** : 250
+- **fait_partie_de** : 239
 - **améliore** : 221
 - **est_instance_de** : 218
 - **remplace** : 157
 
 ### Distribution par type
 
-- **PERSONNE** : 562 (15.3%)
+- **PERSONNE** : 563 (15.3%)
 - **ORGANISATION** : 445 (12.1%)
-- **TECHNOLOGIE** : 873 (23.8%)
-- **CONCEPT** : 1073 (29.2%)
+- **TECHNOLOGIE** : 873 (23.7%)
+- **CONCEPT** : 1080 (29.3%)
 - **METHODOLOGIE** : 466 (12.7%)
-- **EVENEMENT** : 57 (1.6%)
+- **EVENEMENT** : 57 (1.5%)
 - **LIEU** : 5 (0.1%)
-- **DOCUMENT** : 190 (5.2%)
+- **DOCUMENT** : 192 (5.2%)
 
 ### Déduplication
 
-- **Triples** : 7236 → 7112 (124 doublons)
-- **Entités** : 4869 → 3671 (1198 doublons)
+- **Triples** : 7254 → 7130 (124 doublons)
+- **Entités** : 4881 → 3681 (1200 doublons)

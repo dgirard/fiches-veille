@@ -1,11 +1,11 @@
 # Claude
 
-> **Type** : TECHNOLOGIE | 27 relations | 13 fiches sources
+> **Type** : TECHNOLOGIE | 28 relations | 14 fiches sources
 
 ## Attributs
 
 - **categorie** : IA generative enterprise
-- **catégorie** : Modèles d'Anthropic orchestrables par le Gemini agent
+- **catégorie** : Modèle et assistant d'Anthropic
 - **famille de produits** : Claude.ai, Claude Code, API
 - **limitation** : Pas de génération d'images ou vidéos
 - **usage** : Agent de codage utilisé sur un projet d'animation graphique
@@ -55,6 +55,7 @@
 - [[kb/Anthropic-Interviewer\|Anthropic Interviewer]] **utilise** → Claude — 0.95
 - [[kb/David-Thomas\|David Thomas]] **utilise** → Claude — 0.95
 - Entreprises regulees **utilise** → Claude — 0.95
+- [[kb/Felix-Rieseberg\|Felix Rieseberg]] **utilise** → Claude — 0.95
 - [[kb/Gemini-agent\|Gemini agent]] **utilise** → Claude — 0.95
 - [[kb/_entites-mineures#Marketing-AI-OS\|Marketing AI OS]] **utilise** → Claude — 0.93
 - temps de raisonnement **améliore** → Claude — 0.92
@@ -77,4 +78,5 @@
 - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
 - [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Powered by Claude]]
 - [[fiches/2025-11/rajasekaran-anthropic-frontend-design-skills-2025-11-12\|Improving frontend design through Skills]]
+- [[fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13\|How to be more ambitious: A tutorial for humans with models]]
 - [[fiches/2026-06/thomas-pragdave-failing-faster-code-rot-ai-velocity-2026-06-06\|Failing Faster]]

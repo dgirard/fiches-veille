@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 3067 entités avec moins de 3 triples/fiches
+> 3075 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (410)
 
@@ -14679,7 +14679,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1022)
+## CONCEPT (1028)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -15286,6 +15286,16 @@
 
 **Fiches** : [[fiches/2026-05/gupta-token-budget-wars-marginal-token-utility-2026-05-28\|Token Budget Wars]]
 
+### Altitude {#Altitude}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Monter en abstraction : confier le résultat visé plutôt que la tâche
+
+- **fait_partie_de** → [[kb/_entites-mineures#Quatre-types-d'ambition\|Quatre types d'ambition]] (CONCEPT) — 0.97
+
+**Fiches** : [[fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13\|How to be more ambitious: A tutorial for humans with models]]
+
 ### Ambient affordances {#Ambient-affordances}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -15504,6 +15514,16 @@
 - [[kb/_entites-mineures#Refiners-(Lattice)\|Refiners (Lattice)]] **affine** → Atoms (Lattice) — 0.95
 
 **Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Lattice — Composable AI skills that teach assistants structured thinking (design-first, context-aware,…]]
+
+### Auto-efficacité {#Auto-efficacité}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Croyance en ses capacités, corrélée à l'accomplissement (self-efficacy)
+
+- [[kb/_entites-mineures#Quatre-types-d'ambition\|Quatre types d'ambition]] **est_basé_sur** → Auto-efficacité — 0.78
+
+**Fiches** : [[fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13\|How to be more ambitious: A tutorial for humans with models]]
 
 ### Auto-hébergement {#Auto-hébergement}
 
@@ -16408,6 +16428,17 @@
 - **attribut** : Un des actifs les plus périssables de l'entreprise : vit dans Slack, emails, escalation calls et la tête des gens qui partent
 
 **Fiches** : [[fiches/2026-05/gupta-token-budget-wars-marginal-token-utility-2026-05-28\|Token Budget Wars]]
+
+### Depth {#Depth}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Exécuter la tâche avec les instruments et méthodes du meilleur expert du domaine
+
+- **fait_partie_de** → [[kb/_entites-mineures#Quatre-types-d'ambition\|Quatre types d'ambition]] (CONCEPT) — 0.97
+- **utilise** → [[kb/_entites-mineures#juge-extérieur\|juge extérieur]] (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13\|How to be more ambitious: A tutorial for humans with models]]
 
 ### Design drift {#Design-drift}
 
@@ -18356,6 +18387,22 @@
 
 **Fiches** : [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)]]
 
+### Quatre types d'ambition {#Quatre-types-d'ambition}
+
+**Type** : CONCEPT | 6 relations | 1 fiches
+
+- **définition** : Taxonomie de l'usage ambitieux des modèles : Speed, Altitude, Depth, Range
+
+- **est_basé_sur** → [[kb/_entites-mineures#Auto-efficacité\|Auto-efficacité]] (CONCEPT) — 0.78
+
+- [[kb/_entites-mineures#Altitude\|Altitude]] **fait_partie_de** → Quatre types d'ambition — 0.97
+- [[kb/_entites-mineures#Depth\|Depth]] **fait_partie_de** → Quatre types d'ambition — 0.97
+- [[kb/Range\|Range]] **fait_partie_de** → Quatre types d'ambition — 0.97
+- [[kb/_entites-mineures#Speed\|Speed]] **fait_partie_de** → Quatre types d'ambition — 0.95
+- [[kb/Felix-Rieseberg\|Felix Rieseberg]] **a_créé** → Quatre types d'ambition — 0.90
+
+**Fiches** : [[fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13\|How to be more ambitious: A tutorial for humans with models]]
+
 ### Question forte vs faible {#Question-forte-vs-faible}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -18814,6 +18861,16 @@
 - [[kb/Arthur-Mensch\|Arthur Mensch]] **soutient** → Souveraineté IA — 0.93
 
 **Fiches** : [[fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16\|Build or surrender]]
+
+### Speed {#Speed}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Le même travail en moins de temps ; valeur économique établie de l'IA
+
+- **fait_partie_de** → [[kb/_entites-mineures#Quatre-types-d'ambition\|Quatre types d'ambition]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13\|How to be more ambitious: A tutorial for humans with models]]
 
 ### Standard Operating Procedure {#Standard-Operating-Procedure}
 
@@ -22145,6 +22202,16 @@
 - **définition** : Trace locale append-only de chaque appel de modèle, exécution d'outil, approbation et édition, servant de source unique de vérité pour rejouer et reprendre une session interrompue
 
 **Fiches** : [[fiches/2026-08/meta-muse-code-muse-spark-1-2-2026-08-05\|Introducing Muse Code and Muse Spark 1.2]]
+
+### juge extérieur {#juge-extérieur}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Validation du résultat par un tiers ou un outil, jamais par le modèle lui-même
+
+- [[kb/_entites-mineures#Depth\|Depth]] **utilise** → juge extérieur — 0.85
+
+**Fiches** : [[fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13\|How to be more ambitious: A tutorial for humans with models]]
 
 ### jugement professionnel {#jugement-professionnel}
 
@@ -29288,7 +29355,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (164)
+## DOCUMENT (166)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -30345,6 +30412,16 @@
 
 **Fiches** : [[fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16\|Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)]]
 
+### The Art of Innovation {#The-Art-of-Innovation}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **auteur** : Tom Kelley et Jonathan Littman ; technique « remplacer les noms par des verbes »
+
+- [[kb/Range\|Range]] **s_inspire_de** → The Art of Innovation — 0.85
+
+**Fiches** : [[fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13\|How to be more ambitious: A tutorial for humans with models]]
+
 ### The Art of Not Being Governed {#The-Art-of-Not-Being-Governed}
 
 **Type** : DOCUMENT | 1 relations | 1 fiches
@@ -30745,6 +30822,14 @@
 - **permet** → paliers d'autonomie 1σ, 2σ, 3σ (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
+
+### billet How to be more ambitious {#billet-How-to-be-more-ambitious}
+
+**Type** : DOCUMENT | 0 relations | 1 fiches
+
+- **catégorie** : Billet de blog, felixrieseberg.com, 13 octobre 2026
+
+**Fiches** : [[fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13\|How to be more ambitious: A tutorial for humans with models]]
 
 ### billet Zed sur la facturation Claude {#billet-Zed-sur-la-facturation-Claude}
 
