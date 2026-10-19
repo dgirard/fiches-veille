@@ -64,26 +64,26 @@ Sur la méthode, Mistral décrit une bibliothèque d'apprentissage par renforcem
 
 ### Triples
 
-| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
-|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Mistral AI | ORGANISATION | publie | Mistral Large 4 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Mistral Large 4 | TECHNOLOGIE | mesure | 1 000 milliards de paramètres dont 49 milliards actifs | MESURE | 0.97 | STATIQUE | déclaré_article |
-| Mistral Large 4 | TECHNOLOGIE | utilise | GPU NVIDIA Grace Blackwell | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Mistral AI | ORGANISATION | recommande | déployer ML4 en privé ou sur site pour les opérations de sécurité | AFFIRMATION | 0.85 | ATEMPOREL | déclaré_article |
-| Mistral Large 4 | TECHNOLOGIE | mesure | 82 % sur reproduction puis correction de vulnérabilité (AA Cyber Index) | MESURE | 0.95 | STATIQUE | déclaré_article |
-| Mistral Large 4 | TECHNOLOGIE | mesure | 93 % sur Cybench | MESURE | 0.95 | STATIQUE | déclaré_article |
-| Mistral Large 4 | TECHNOLOGIE | surpasse | Claude Opus 5.5 | TECHNOLOGIE | 0.85 | STATIQUE | déclaré_article |
-| Mistral Large 4 | TECHNOLOGIE | surpasse | GPT-6 Astra | TECHNOLOGIE | 0.85 | STATIQUE | déclaré_article |
-| Mistral Large 4 | TECHNOLOGIE | surpasse | DeepSeek V4 Pro | TECHNOLOGIE | 0.88 | STATIQUE | déclaré_article |
-| Claude Opus 5 | TECHNOLOGIE | surpasse | Mistral Large 4 | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
-| Mistral Large 4 | TECHNOLOGIE | mesure | 61,7 % sur DeepSWE v1.1 | MESURE | 0.95 | STATIQUE | déclaré_article |
-| Mistral Large 4 | TECHNOLOGIE | mesure | 3,74 sur 5 à l'évaluation humaine Surge AI | MESURE | 0.93 | STATIQUE | déclaré_article |
-| Mistral Large 4 | TECHNOLOGIE | mesure | 93,3 % d'attaques repoussées sur Lakera B3 | MESURE | 0.93 | STATIQUE | déclaré_article |
-| Mistral AI | ORGANISATION | affirme_que | les refus des modèles fermés bloquent la recherche de vulnérabilités et la réponse à incident | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
-| Mistral Large 4 | TECHNOLOGIE | utilise | Mistral Forge | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
-| Mistral Large 4 | TECHNOLOGIE | utilise | apprentissage par renforcement | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| série D de 3 Md€ | EVENEMENT | permet | la feuille de route de développement du modèle | AFFIRMATION | 0.88 | STATIQUE | déclaré_article |
-| Mistral Large 4 | TECHNOLOGIE | permet | souveraineté de l'IA | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Sujet            | Type Sujet   | Prédicat    | Objet                                                                                         | Type Objet  | Confiance | Temporalité | Source          |
+| ---------------- | ------------ | ----------- | --------------------------------------------------------------------------------------------- | ----------- | --------- | ----------- | --------------- |
+| Mistral AI       | ORGANISATION | publie      | Mistral Large 4                                                                               | TECHNOLOGIE | 0.98      | STATIQUE    | déclaré_article |
+| Mistral Large 4  | TECHNOLOGIE  | mesure      | 1 000 milliards de paramètres dont 49 milliards actifs                                        | MESURE      | 0.97      | STATIQUE    | déclaré_article |
+| Mistral Large 4  | TECHNOLOGIE  | utilise     | GPU NVIDIA Grace Blackwell                                                                    | TECHNOLOGIE | 0.95      | STATIQUE    | déclaré_article |
+| Mistral AI       | ORGANISATION | recommande  | déployer ML4 en privé ou sur site pour les opérations de sécurité                             | AFFIRMATION | 0.85      | ATEMPOREL   | déclaré_article |
+| Mistral Large 4  | TECHNOLOGIE  | mesure      | 82 % sur reproduction puis correction de vulnérabilité (AA Cyber Index)                       | MESURE      | 0.95      | STATIQUE    | déclaré_article |
+| Mistral Large 4  | TECHNOLOGIE  | mesure      | 93 % sur Cybench                                                                              | MESURE      | 0.95      | STATIQUE    | déclaré_article |
+| Mistral Large 4  | TECHNOLOGIE  | surpasse    | Claude Opus 5.5                                                                               | TECHNOLOGIE | 0.85      | STATIQUE    | déclaré_article |
+| Mistral Large 4  | TECHNOLOGIE  | surpasse    | GPT-6 Astra                                                                                   | TECHNOLOGIE | 0.85      | STATIQUE    | déclaré_article |
+| Mistral Large 4  | TECHNOLOGIE  | surpasse    | DeepSeek V4 Pro                                                                               | TECHNOLOGIE | 0.88      | STATIQUE    | déclaré_article |
+| Claude Opus 5    | TECHNOLOGIE  | surpasse    | Mistral Large 4                                                                               | TECHNOLOGIE | 0.90      | STATIQUE    | déclaré_article |
+| Mistral Large 4  | TECHNOLOGIE  | mesure      | 61,7 % sur DeepSWE v1.1                                                                       | MESURE      | 0.95      | STATIQUE    | déclaré_article |
+| Mistral Large 4  | TECHNOLOGIE  | mesure      | 3,74 sur 5 à l'évaluation humaine Surge AI                                                    | MESURE      | 0.93      | STATIQUE    | déclaré_article |
+| Mistral Large 4  | TECHNOLOGIE  | mesure      | 93,3 % d'attaques repoussées sur Lakera B3                                                    | MESURE      | 0.93      | STATIQUE    | déclaré_article |
+| Mistral AI       | ORGANISATION | affirme_que | les refus des modèles fermés bloquent la recherche de vulnérabilités et la réponse à incident | AFFIRMATION | 0.90      | ATEMPOREL   | déclaré_article |
+| Mistral Large 4  | TECHNOLOGIE  | utilise     | Mistral Forge                                                                                 | TECHNOLOGIE | 0.90      | STATIQUE    | déclaré_article |
+| Mistral Large 4  | TECHNOLOGIE  | utilise     | apprentissage par renforcement                                                                | CONCEPT     | 0.95      | STATIQUE    | déclaré_article |
+| série D de 3 Md€ | EVENEMENT    | permet      | la feuille de route de développement du modèle                                                | AFFIRMATION | 0.88      | STATIQUE    | déclaré_article |
+| Mistral Large 4  | TECHNOLOGIE  | permet      | souveraineté de l'IA                                                                          | CONCEPT     | 0.85      | DYNAMIQUE   | déclaré_article |
 
 ### Entités
 
