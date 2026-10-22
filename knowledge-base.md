@@ -1,20 +1,20 @@
 # Knowledge Base — Veille Technologique
 
-<!-- manifest: sha256=78cbaf6a9fc3b16b879d6537ae3362770174116bb99fb74482e76604e5eda852 fiches=441 -->
-> 441 fiches | 3681 entités | 7130 triples | Généré le 2026-10-19
+<!-- manifest: sha256=07a3e2505f5bdd7e87cbd7702d33bb29f671b05a2ca48994e846dd505213179e fiches=442 -->
+> 442 fiches | 3687 entités | 7152 triples | Généré le 2026-10-22
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
-- [[kb/_index-type-PERSONNE\|PERSONNE]] (563)
-- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (445)
-- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (873)
-- [[kb/_index-type-CONCEPT\|CONCEPT]] (1080)
+- [[kb/_index-type-PERSONNE\|PERSONNE]] (565)
+- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (446)
+- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (874)
+- [[kb/_index-type-CONCEPT\|CONCEPT]] (1081)
 - [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (466)
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (57)
 - [[kb/_index-type-LIEU\|LIEU]] (5)
-- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (192)
-- [[kb/_entites-mineures\|Entités mineures]] (3075)
+- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (193)
+- [[kb/_entites-mineures\|Entités mineures]] (3080)
 
 ## Entités les plus connectées
 
@@ -26,15 +26,15 @@
 | [[kb/SFEIR\|SFEIR]] | ORGANISATION | 68 | 11 |
 | [[kb/OpenAI\|OpenAI]] | ORGANISATION | 60 | 23 |
 | [[kb/Block\|Block]] | ORGANISATION | 51 | 11 |
-| [[kb/Google\|Google]] | ORGANISATION | 49 | 20 |
-| [[kb/Mistral-AI\|Mistral AI]] | ORGANISATION | 47 | 8 |
+| [[kb/Google\|Google]] | ORGANISATION | 50 | 20 |
+| [[kb/Mistral-AI\|Mistral AI]] | ORGANISATION | 48 | 8 |
 | [[kb/Arthur-Mensch\|Arthur Mensch]] | PERSONNE | 47 | 4 |
 | [[kb/vibe-coding\|vibe coding]] | METHODOLOGIE | 45 | 23 |
 | [[kb/Addy-Osmani\|Addy Osmani]] | PERSONNE | 39 | 11 |
 | [[kb/Boris-Cherny\|Boris Cherny]] | PERSONNE | 39 | 11 |
 | [[kb/IA\|IA]] | TECHNOLOGIE | 38 | 10 |
 | [[kb/Buzz\|Buzz]] | TECHNOLOGIE | 35 | 7 |
-| [[kb/agents-IA\|agents IA]] | TECHNOLOGIE | 33 | 5 |
+| [[kb/agents-IA\|agents IA]] | TECHNOLOGIE | 34 | 5 |
 | [[kb/Léon-XIV\|Léon XIV]] | PERSONNE | 29 | 1 |
 | [[kb/Claude-entite\|Claude]] | TECHNOLOGIE | 28 | 14 |
 | [[kb/McKinsey\|McKinsey]] | ORGANISATION | 28 | 3 |
@@ -45,14 +45,14 @@
 
 ### Prédicats les plus fréquents
 
-- **affirme_que** : 890
-- **utilise** : 826
-- **permet** : 644
-- **mesure** : 561
-- **publie** : 411
+- **affirme_que** : 897
+- **utilise** : 827
+- **permet** : 646
+- **mesure** : 562
+- **publie** : 412
 - **a_créé** : 392
-- **recommande** : 341
-- **s_applique_à** : 293
+- **recommande** : 343
+- **s_applique_à** : 294
 - **réduit** : 257
 - **s_oppose_à** : 255
 - **est_basé_sur** : 250
@@ -63,16 +63,16 @@
 
 ### Distribution par type
 
-- **PERSONNE** : 563 (15.3%)
-- **ORGANISATION** : 445 (12.1%)
-- **TECHNOLOGIE** : 873 (23.7%)
-- **CONCEPT** : 1080 (29.3%)
-- **METHODOLOGIE** : 466 (12.7%)
+- **PERSONNE** : 565 (15.3%)
+- **ORGANISATION** : 446 (12.1%)
+- **TECHNOLOGIE** : 874 (23.7%)
+- **CONCEPT** : 1081 (29.3%)
+- **METHODOLOGIE** : 466 (12.6%)
 - **EVENEMENT** : 57 (1.5%)
 - **LIEU** : 5 (0.1%)
-- **DOCUMENT** : 192 (5.2%)
+- **DOCUMENT** : 193 (5.2%)
 
 ### Déduplication
 
-- **Triples** : 7254 → 7130 (124 doublons)
-- **Entités** : 4881 → 3681 (1200 doublons)
+- **Triples** : 7276 → 7152 (124 doublons)
+- **Entités** : 4889 → 3687 (1202 doublons)

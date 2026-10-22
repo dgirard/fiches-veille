@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 873 entités de type TECHNOLOGIE
+> 874 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -165,7 +165,7 @@
 - [[kb/_entites-mineures#Claude-Sonnet\|Claude Sonnet]] — versions: 4.0 et 3.7 intégrés comme moteurs IA primaires de Kiro (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Claude-Sonnet-4\|Claude Sonnet 4]] — éditeur: Anthropic (3 occ., 2 fiches)
 - [[kb/Claude-Sonnet-4.5\|Claude Sonnet 4.5]] — catégorie: LLM Anthropic (2 occ., 2 fiches)
-- [[kb/Claude-Tag\|Claude Tag]] — statut: Bêta publique sur Slack ; Claude membre du canal sous sa propre identité (3 occ., 3 fiches)
+- [[kb/Claude-Tag\|Claude Tag]] — statut: Bêta publique sur Slack ; Claude membre du canal sous sa propre identité (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Claude.ai\|Claude.ai]] — catégorie: Interface utilisateur Claude (1 occ., 1 fiches)
 - [[kb/Clef\|Clef]] — catégorie: Modèle de décision open source (Apache 2.0), contexte 64k, encodeur de vision (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Clef-flash\|Clef-flash]] — catégorie: Variante rapide de Clef pour décisions critiques en latence (1 occ., 1 fiches)
@@ -808,6 +808,7 @@
 - [[kb/_entites-mineures#mode-Code\|mode Code]] — définition: Mode d'exécution de DeepSeek Harness reprenant toutes les capacités du mode Standard, mais exposant les outils via le Code Mode SDK afin que le modèle combine des opérations multi-étapes dans un unique programme TypeScript plutôt qu'en tours d'appels d'outils successifs (1 occ., 1 fiches)
 - [[kb/mode-Minimal\|mode Minimal]] — définition: Mode d'exécution de DeepSeek Harness réduit à deux outils — un bash persistant et `str_replace_editor` — livré explicitement pour évaluer des modèles dans un environnement minimal. Enjeu de marché : reprendre la définition du harnais de mesure, alors que Claude Code s'est imposé en 2026 comme harnais d'évaluation de référence y compris chez les laboratoires concurrents. Aucun score publié au 13 août 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#modelcontextprotocol-servers\|modelcontextprotocol/servers]] — métrique: 86 440 étoiles, 10 000+ serveurs actifs (1 occ., 1 fiches)
+- [[kb/_entites-mineures#modèles-chinois\|modèles chinois]] — statut: Six mois de retard selon Schmidt, stratégie de gratuité et de poids ouverts (1 occ., 1 fiches)
 - [[kb/modèles-de-langage-par-diffusion\|modèles de langage par diffusion]] — catégorie: Paradigme de génération par raffinement itératif d'une séquence masquée/bruitée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mpp\|mpp]] — description: Protocole micropaiement par Tempo + Stripe (1 occ., 1 fiches)
 - [[kb/_entites-mineures#multimodal_post_embedder_v5\|multimodal_post_embedder_v5]] — définition: Embedder Grox qui encode text + images + (optional) ASR transcript du video en vecteur 1024-dim normalisé — utilisé pour two-tower retrieval (1 occ., 1 fiches)

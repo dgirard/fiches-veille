@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 441 fiches | 1975-12 → 2026-10-16 | généré le 2026-10-19
+> 442 fiches | 1975-12 → 2026-10-21 | généré le 2026-10-22
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-10
 
+- **21** [Eric Schmidt: Are We Ready for Superintelligence? | Podcast | In Good Company](fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21.md) — Eric Schmidt (invité), ancien PDG de Google ; Nicolai Tangen (hôte), directeur général de Norges Bank Investment Management. · In Good Company (NBIM) — superintelligence, AGI, découverte scientifique
 - **16** [Build or surrender](fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16.md) — Arthur Mensch (@arthurmensch) — cofondateur et directeur général de Mistral AI ; article publié sur X. · X — souveraineté IA, modèles de frontière, IA de frontière
 - **15** [Quand la vélocité explose avec l'IA, place au "Harness Engineering" !](fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15.md) — Dorra Bartaguiz — CTO d'Arolla (conseil et formation, « agentic software crafters ») ; slides de son talk Dev With AI publiées sur LinkedIn. · LinkedIn (slides Dev With AI) — harness engineering, vélocité, revue de code
 - **15** [How the Claude Code team does code review](fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15.md) — Addy Osmani, Morgan Westlee Lunt, Qing Wang — équipe Claude Code (Anthropic) ; blog *claude.dev*, catégorie Engineering. · claude.dev Blog — revue de code, code review, revue de code agentique
@@ -790,6 +791,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Transformation & Adoption
 
+- [Eric Schmidt: Are We Ready for Superintelligence? | Podcast | In Good Company](fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21.md) — Eric Schmidt (invité), ancien PDG de Google ; Nicolai Tangen (hôte), directeur général de Norges Bank Investment Management.
 - [How to be more ambitious: A tutorial for humans with models](fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13.md) — Felix Rieseberg — EM chez Anthropic (fonction affichée), co-mainteneur d'Electron ; blog personnel felixrieseberg.com.
 - [Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)](fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09.md) — Fred Cavazza (@fredcavazza) — auteur du post sur X ; fonction non indiquée dans le texte.
 - [The three joys of engineering: liberation or loss depends on which joy you lean on most](fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09.md) — Addy Osmani — Member of Technical Staff chez Anthropic (fonction affichée) ; post LinkedIn.
@@ -952,6 +954,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Économie & Marché
 
+- [Eric Schmidt: Are We Ready for Superintelligence? | Podcast | In Good Company](fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21.md) — Eric Schmidt (invité), ancien PDG de Google ; Nicolai Tangen (hôte), directeur général de Norges Bank Investment Management.
 - [Build or surrender](fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16.md) — Arthur Mensch (@arthurmensch) — cofondateur et directeur général de Mistral AI ; article publié sur X.
 - [Introducing Mistral Large 4](fiches/2026-10/mistral-large-4-le-chonk-2026-10-06.md) — Mistral AI — éditeur de modèles d'IA ; billet de blog de l'entreprise (« By Mistral »).
 - [Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will completely vanish » — extrait de Fox & Friends First (Fox News, 29 mai 2025) avec Dario Amodei](fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02.md) — Yugen Matsuda — entrepreneur indépendant, compte X japonais ; post de relais d'un entretien de Dario Amodei (CEO d'Anthropic) diffusé sur Fox News.
@@ -1083,6 +1086,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Stratégie & Frameworks
 
+- [Eric Schmidt: Are We Ready for Superintelligence? | Podcast | In Good Company](fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21.md) — Eric Schmidt (invité), ancien PDG de Google ; Nicolai Tangen (hôte), directeur général de Norges Bank Investment Management.
 - [Build or surrender](fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16.md) — Arthur Mensch (@arthurmensch) — cofondateur et directeur général de Mistral AI ; article publié sur X.
 - [How to be more ambitious: A tutorial for humans with models](fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13.md) — Felix Rieseberg — EM chez Anthropic (fonction affichée), co-mainteneur d'Electron ; blog personnel felixrieseberg.com.
 - [Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)](fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09.md) — Fred Cavazza (@fredcavazza) — auteur du post sur X ; fonction non indiquée dans le texte.
@@ -1234,6 +1238,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Politique & Régulation
 
+- [Eric Schmidt: Are We Ready for Superintelligence? | Podcast | In Good Company](fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21.md) — Eric Schmidt (invité), ancien PDG de Google ; Nicolai Tangen (hôte), directeur général de Norges Bank Investment Management.
 - [Build or surrender](fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16.md) — Arthur Mensch (@arthurmensch) — cofondateur et directeur général de Mistral AI ; article publié sur X.
 - [Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code, whatever tools they use](fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14.md) — Thomas Claburn — AI and software reporter, The Register.
 - [Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will completely vanish » — extrait de Fox & Friends First (Fox News, 29 mai 2025) avec Dario Amodei](fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02.md) — Yugen Matsuda — entrepreneur indépendant, compte X japonais ; post de relais d'un entretien de Dario Amodei (CEO d'Anthropic) diffusé sur Fox News.
@@ -1268,20 +1273,20 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 441 fiches
-- **Par année** : 2026 (264) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 442 fiches
+- **Par année** : 2026 (265) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 166
   - Architecture & Construction : 62
-  - Transformation & Adoption : 99
+  - Transformation & Adoption : 100
   - Qualité & Sécurité : 57
-  - Économie & Marché : 93
+  - Économie & Marché : 94
   - Philosophie & Société : 32
-  - Stratégie & Frameworks : 41
+  - Stratégie & Frameworks : 42
   - Outils & Plateformes : 63
   - Recherche & Éducation : 16
   - Produits & Services : 19
-  - Politique & Régulation : 31
+  - Politique & Régulation : 32
 - **Auteurs (top 20)** :
   - Ethan Mollick (13)
   - SFEIR (13)

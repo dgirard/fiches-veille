@@ -1,6 +1,6 @@
 # agents IA
 
-> **Type** : TECHNOLOGIE | 33 relations | 5 fiches sources
+> **Type** : TECHNOLOGIE | 34 relations | 5 fiches sources
 
 ## Attributs
 
@@ -84,6 +84,8 @@
 
 - parcours achat e-commerce (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
+- workflows métier (CONCEPT) — 0.85, DYNAMIQUE
+  - [[fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21\|Eric Schmidt: Are We Ready for Superintelligence? - Podcast - In Good Company]]
 
 ### utilise
 

@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 3075 entités avec moins de 3 triples/fiches
+> 3080 entités avec moins de 3 triples/fiches
 
-## PERSONNE (410)
+## PERSONNE (411)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -2782,6 +2782,16 @@
 
 **Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering for coding agent users]]
 
+### Nicolai Tangen {#Nicolai-Tangen}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Directeur général de Norges Bank Investment Management, hôte d'In Good Company
+
+- **dirige** → [[kb/_entites-mineures#Norges-Bank-Investment-Management\|Norges Bank Investment Management]] (ORGANISATION) — 0.98
+
+**Fiches** : [[fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21\|Eric Schmidt: Are We Ready for Superintelligence? - Podcast - In Good Company]]
+
 ### Nicolas Bustamante {#Nicolas-Bustamante}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -4128,7 +4138,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (329)
+## ORGANISATION (330)
 
 ### 10x {#10x}
 
@@ -6286,6 +6296,18 @@
 
 **Fiches** : [[fiches/2025-11/vogels-tech-predictions-2026-allthingsdistributed-2025-11-25\|Tech predictions for 2026 and beyond]]
 
+### Norges Bank Investment Management {#Norges-Bank-Investment-Management}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **secteur** : Gestionnaire du fonds souverain norvégien
+
+- **publie** → [[kb/_entites-mineures#podcast-In-Good-Company\|podcast In Good Company]] (DOCUMENT) — 0.97
+
+- [[kb/_entites-mineures#Nicolai-Tangen\|Nicolai Tangen]] **dirige** → Norges Bank Investment Management — 0.98
+
+**Fiches** : [[fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21\|Eric Schmidt: Are We Ready for Superintelligence? - Podcast - In Good Company]]
+
 ### Northwestern Mutual {#Northwestern-Mutual}
 
 **Type** : ORGANISATION | 2 relations | 1 fiches
@@ -7511,7 +7533,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (683)
+## TECHNOLOGIE (684)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -14062,6 +14084,16 @@
 
 **Fiches** : [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate]]
 
+### modèles chinois {#modèles-chinois}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **statut** : Six mois de retard selon Schmidt, stratégie de gratuité et de poids ouverts
+
+- **utilise** → [[kb/_entites-mineures#Distillation\|Distillation]] (CONCEPT) — 0.78
+
+**Fiches** : [[fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21\|Eric Schmidt: Are We Ready for Superintelligence? - Podcast - In Good Company]]
+
 ### mpp {#mpp}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -14679,7 +14711,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1028)
+## CONCEPT (1029)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -16526,11 +16558,14 @@
 
 ### Distillation {#Distillation}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 2 fiches
 
+- **définition** : Apprendre à « penser comme » un grand modèle en l'interrogeant en série ; utilisée par des modèles chinois selon Schmidt
 - **position auteur** : Légitime en soi ; le cadrage « vol » servirait un moat / « enclosure »
 
-**Fiches** : [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
+- [[kb/_entites-mineures#modèles-chinois\|modèles chinois]] **utilise** → Distillation — 0.78
+
+**Fiches** : [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]], [[fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21\|Eric Schmidt: Are We Ready for Superintelligence? - Podcast - In Good Company]]
 
 ### Distribution {#Distribution}
 
@@ -19761,6 +19796,16 @@
 - [[kb/Wardley-Mapping\|Wardley Mapping]] **permet** → anticipation stratégique — 0.94
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
+
+### aplatissement organisationnel {#aplatissement-organisationnel}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Suppression des couches de coordination (« glue people ») grâce aux assistants et agents IA
+
+- [[kb/Claude-Tag\|Claude Tag]] **permet** → aplatissement organisationnel — 0.80
+
+**Fiches** : [[fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21\|Eric Schmidt: Are We Ready for Superintelligence? - Podcast - In Good Company]]
 
 ### apparence de savoir {#apparence-de-savoir}
 
@@ -29355,7 +29400,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (166)
+## DOCUMENT (167)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -30959,6 +31004,16 @@
 - **est_basé_sur** → [[kb/_entites-mineures#spec-md\|spec.md]] (DOCUMENT) — 0.90
 
 **Fiches** : [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
+
+### podcast In Good Company {#podcast-In-Good-Company}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **nature** : Podcast hebdomadaire de NBIM ; épisode Eric Schmidt du 21 octobre 2026
+
+- [[kb/_entites-mineures#Norges-Bank-Investment-Management\|Norges Bank Investment Management]] **publie** → podcast In Good Company — 0.97
+
+**Fiches** : [[fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21\|Eric Schmidt: Are We Ready for Superintelligence? - Podcast - In Good Company]]
 
 ### post Three joys of engineering {#post-Three-joys-of-engineering}
 

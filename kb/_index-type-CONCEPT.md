@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1080 entités de type CONCEPT
+> 1081 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -215,7 +215,7 @@
 - [[kb/_entites-mineures#Diagnostic-Lattice\|Diagnostic Lattice]] — citation: "AI coding assistants jump straight to code, silently make design decisions, forget constraints mid-conversation, and produce output nobody reviewed against real standards." (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Diff-HTML-bruyant\|Diff HTML bruyant]] — catégorie: Downside assumé du basculement Markdown → HTML (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Diffusion-marathon\|Diffusion marathon]] — source: Concept Jeffrey Ding (politologue) mobilisé par Wallace-Wells — l'IA comme general-purpose technology où la diffusion compte plus que l'état de l'art, vs winner-take-all race (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Distillation\|Distillation]] — position auteur: Légitime en soi ; le cadrage « vol » servirait un moat / « enclosure » (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Distillation\|Distillation]] — position auteur: Légitime en soi ; le cadrage « vol » servirait un moat / « enclosure » (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Distribution\|Distribution]] — rôle: Facteur clé de succès dans l'industrie tech (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Distribution-productivité-IA\|Distribution productivité IA]] — description: Hypothèse féconde : la distribution se resserre par le bas (Tatsyi : underperformers→baseline) ET s'élargit par le haut (Cherny 150 PRs/jour, Curran top 5% à 6× median, Karpathy "peaks much higher than 10×") — les deux phénomènes coexistent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Doctrine-volatile-de-souveraineté\|Doctrine volatile de souveraineté]] — définition: Souveraineté qui change d'état au contact de l'urgence : on proclame l'autonomie, on achète faute de capacités, on redécouvre la dépendance (1 occ., 1 fiches)
@@ -560,6 +560,7 @@
 - [[kb/_entites-mineures#anneau-de-contraintes\|anneau de contraintes]] — définition: Ensemble des sept dimensions de contrainte mécanisées autour d'un agent (correction, sécurité, performance, accessibilité, maintenabilité, efficience économique, compréhensibilité), reliées par la règle de back-pressure ; ne sort que la production qui franchit chaque porte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#annuaire-d'outils-tenu-par-un-éditeur\|annuaire d'outils tenu par un éditeur]] — définition: Position où le fournisseur d'un outil édite le comparateur de sa propre catégorie, occupant la requête d'évaluation tout en y figurant comme option (1 occ., 1 fiches)
 - [[kb/_entites-mineures#anticipation-stratégique\|anticipation stratégique]] — mécanisme: Observer la marchandisation d'aujourd'hui pour prédire les innovations de demain (1 occ., 1 fiches)
+- [[kb/_entites-mineures#aplatissement-organisationnel\|aplatissement organisationnel]] — définition: Suppression des couches de coordination (« glue people ») grâce aux assistants et agents IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#apparence-de-savoir\|apparence de savoir]] — définition: Impression de savoir sans compréhension véritable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#apprentissage-continu\|apprentissage continu]] — rôle: Socle non numéroté que Ng place sous les quatre compétences. Sa formulation opérationnelle est plus utile que le slogan : tenir des routines d'essai de nouveaux outils et faire évoluer ses workflows à mesure que les bonnes pratiques changent — soit un temps à budgéter, pas une disposition d'esprit à souhaiter (1 occ., 1 fiches)
 - [[kb/_entites-mineures#apprentissage-par-renforcement\|apprentissage par renforcement]] — définition: Post-entraînement sur les résultats des tentatives du modèle, à difficulté croissante (1 occ., 1 fiches)

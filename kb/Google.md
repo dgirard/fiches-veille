@@ -1,6 +1,6 @@
 # Google
 
-> **Type** : ORGANISATION | 49 relations | 20 fiches sources
+> **Type** : ORGANISATION | 50 relations | 20 fiches sources
 
 ## Attributs
 
@@ -136,6 +136,7 @@
 - [[kb/Addy-Osmani\|Addy Osmani]] **travaille_chez** → Google — 0.98
 - [[kb/_entites-mineures#Joseph-Valente\|Joseph Valente]] **travaille_chez** → Google — 0.97
 - [[kb/_entites-mineures#Michal-Zalewski\|Michal Zalewski]] **travaille_chez** → Google — 0.97
+- [[kb/Eric-Schmidt\|Eric Schmidt]] **dirige** → Google — 0.95
 - [[kb/Windsurf-organisation\|Windsurf]] **fait_partie_de** → Google — 0.93
 - [[kb/Block\|Block]] **collabore_avec** → Google — 0.90
 - [[kb/_entites-mineures#Contrôle-antitrust\|contrôle antitrust]] **s_applique_à** → Google — 0.90

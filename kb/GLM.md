@@ -1,10 +1,17 @@
 # GLM
 
-> **Type** : TECHNOLOGIE | 4 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 5 relations | 3 fiches sources
 
 ## Attributs
 
 - **définition** : Famille de modèles de langage à poids ouverts du laboratoire chinois Z.ai (ex-Zhipu AI). Entité parente des releases GLM-5.1, GLM-5.2 et GLM-5.3, qui en sont les variantes datées ; les caractéristiques propres à chaque release restent portées par sa propre entité
+
+## Relations (comme sujet)
+
+### concurrence
+
+- Claude Mythos (TECHNOLOGIE) — 0.72, DYNAMIQUE
+  - [[fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21\|Eric Schmidt: Are We Ready for Superintelligence? - Podcast - In Good Company]]
 
 ## Relations (comme objet)
 

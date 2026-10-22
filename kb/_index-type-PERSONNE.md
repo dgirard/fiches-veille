@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 563 entités de type PERSONNE
+> 565 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -171,6 +171,7 @@
 - [[kb/_entites-mineures#Eric-Meijer\|Eric Meijer]] — rôle: Chercheur informatique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Eric-Pantera\|Eric Pantera]] — rôle: CTO de Swile (Montpellier) (1 occ., 1 fiches)
 - [[kb/Eric-S.-Raymond\|Eric S. Raymond]] — rôle: Développeur et essayiste, figure historique de l'open source (auteur de *The Cathedral and the Bazaar*, co-fondateur de l'OSI, Fetchmail, *The Art of Unix Programming*) ; ~50 ans d'expérience ; témoin pro-LLM du débat sur les agents de codage (1 occ., 1 fiches)
+- [[kb/Eric-Schmidt\|Eric Schmidt]] — rôle: Ancien PDG de Google (2001-2011), investisseur de Mistral AI, dirige quatre entreprises (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Erik-Brynjolfsson\|Erik Brynjolfsson]] — rôle: Économiste cité pour la thèse des « canaris dans la mine de charbon » — recul de la demande de jeunes informaticiens aux États-Unis (2 occ., 2 fiches)
 - [[kb/Erwan-Simon\|Erwan Simon]] — rôle: CEO GENIAL (1 occ., 1 fiches)
 - [[kb/Ethan-Mollick\|Ethan Mollick]] — affiliation: Wharton School / One Useful Thing (20 occ., 16 fiches)
@@ -383,6 +384,7 @@
 - [[kb/_entites-mineures#Navan-Chauhan\|Navan Chauhan]] — rôle: Co-fondateur StrongDM AI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ned-Letcher\|Ned Letcher]] — rôle: Collègue de Böckeler chez Thoughtworks (1 occ., 1 fiches)
 - [[kb/Nicholas-Carlini\|Nicholas Carlini]] — rôle: Chercheur équipe Safeguards, Anthropic (2 occ., 1 fiches)
+- [[kb/_entites-mineures#Nicolai-Tangen\|Nicolai Tangen]] — rôle: Directeur général de Norges Bank Investment Management, hôte d'In Good Company (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nicolas-Bustamante\|Nicolas Bustamante]] — rôle: Fondateur de Fintool, auteur de The RAG Obituary (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nicolas-Marette\|Nicolas Marette]] — rôle: Auteur guide Agentic Commerce Optimization (1 occ., 1 fiches)
 - [[kb/Nicolas-Martignole\|Nicolas Martignole]] — rôle: Auteur du blog Le Touilleur Express (2 occ., 2 fiches)

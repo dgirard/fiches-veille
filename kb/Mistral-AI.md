@@ -1,6 +1,6 @@
 # Mistral AI
 
-> **Type** : ORGANISATION | 47 relations | 8 fiches sources
+> **Type** : ORGANISATION | 48 relations | 8 fiches sources
 
 ## Attributs
 
@@ -132,6 +132,7 @@
 - Amadeus **soutient** → Mistral AI — 0.88
 - [[kb/Capgemini\|Capgemini]] **soutient** → Mistral AI — 0.88
 - CMA CGM **soutient** → Mistral AI — 0.88
+- [[kb/Eric-Schmidt\|Eric Schmidt]] **collabore_avec** → Mistral AI — 0.85
 
 ## Fiches sources
 

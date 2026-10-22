@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 445 entités de type ORGANISATION
+> 446 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -282,6 +282,7 @@
 - [[kb/Netflix\|Netflix]] — secteur: Streaming / divertissement (3 occ., 2 fiches)
 - [[kb/_entites-mineures#Neuralink\|Neuralink]] — secteur: Interface cerveau-ordinateur (BCI) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NextGenU\|NextGenU]] — catégorie: Organisation éducative IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Norges-Bank-Investment-Management\|Norges Bank Investment Management]] — secteur: Gestionnaire du fonds souverain norvégien (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Northwestern-Mutual\|Northwestern Mutual]] — secteur: Services financiers / Assurance (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Notion\|Notion]] — secteur: Productivité / IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#NuMind\|NuMind]] — secteur: NLP / extraction structurée (1 occ., 1 fiches)

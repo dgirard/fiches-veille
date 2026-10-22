@@ -1,6 +1,6 @@
 # auto-amélioration récursive
 
-> **Type** : CONCEPT | 3 relations | 2 fiches sources
+> **Type** : CONCEPT | 4 relations | 2 fiches sources
 
 ## Attributs
 
@@ -13,6 +13,11 @@
 
 - « l'industrie du frontier depuis l'été 2026, Anthropic comprise » (AFFIRMATION) — 0.93, DYNAMIQUE
   - [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]]
+
+### permet
+
+- découverte scientifique (CONCEPT) — 0.72, DYNAMIQUE
+  - [[fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21\|Eric Schmidt: Are We Ready for Superintelligence? - Podcast - In Good Company]]
 
 ### s_applique_à
 

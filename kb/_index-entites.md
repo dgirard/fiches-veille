@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3681 entités
+> 3687 entités
 
 ## #
 
@@ -349,6 +349,7 @@
 - [[kb/_entites-mineures#Apache-Iceberg\|Apache Iceberg]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#API-Anthropic\|API Anthropic]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#API-Claude-messages\|API Claude messages]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#aplatissement-organisationnel\|aplatissement organisationnel]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#APM\|APM]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Apollo-Academy\|Apollo Academy]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#App-d'apprentissage-du-clavier\|App d'apprentissage du clavier]] (TECHNOLOGIE, 1 fiches)
@@ -761,7 +762,7 @@
 - [[kb/_entites-mineures#Claude-Sonnet\|Claude Sonnet]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Claude-Sonnet-4\|Claude Sonnet 4]] (TECHNOLOGIE, 2 fiches)
 - [[kb/Claude-Sonnet-4.5\|Claude Sonnet 4.5]] (TECHNOLOGIE, 2 fiches)
-- [[kb/Claude-Tag\|Claude Tag]] (TECHNOLOGIE, 3 fiches)
+- [[kb/Claude-Tag\|Claude Tag]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#Claude's-Constitution\|Claude's Constitution]] (DOCUMENT, 2 fiches)
 - [[kb/claude-api\|claude-api]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#claude-api-build-eval\|claude-api build-eval]] (METHODOLOGIE, 1 fiches)
@@ -1147,7 +1148,7 @@
 - [[kb/_entites-mineures#Diogo-Almeida\|Diogo Almeida]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Dion-Hinchcliffe\|Dion Hinchcliffe]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Discovery-Mode\|Discovery Mode]] (METHODOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#Distillation\|Distillation]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Distillation\|Distillation]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#distillation-(Mensch)\|distillation (Mensch)]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#distillation-de-compétences\|distillation de compétences]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Distillation-de-modèles\|Distillation de modèles]] (TECHNOLOGIE, 1 fiches)
@@ -1298,6 +1299,7 @@
 - [[kb/_entites-mineures#Eric-Meijer\|Eric Meijer]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Eric-Pantera\|Eric Pantera]] (PERSONNE, 1 fiches)
 - [[kb/Eric-S.-Raymond\|Eric S. Raymond]] (PERSONNE, 1 fiches)
+- [[kb/Eric-Schmidt\|Eric Schmidt]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Erik-Brynjolfsson\|Erik Brynjolfsson]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#Erreur-de-type-I-et-II-(contexte-medical)\|Erreur de type I et II (contexte medical)]] (CONCEPT, 1 fiches)
 - [[kb/Erwan-Simon\|Erwan Simon]] (PERSONNE, 1 fiches)
@@ -2287,6 +2289,7 @@
 - [[kb/_entites-mineures#modèle-opérationnel-agentique\|modèle opérationnel agentique]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Modèle-ouvert\|Modèle ouvert]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#modèle-System-One\|modèle System One]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#modèles-chinois\|modèles chinois]] (TECHNOLOGIE, 1 fiches)
 - [[kb/modèles-de-langage-par-diffusion\|modèles de langage par diffusion]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#modèles-de-monde-interactifs\|modèles de monde interactifs]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Modèles-open-chinois\|Modèles open chinois]] (TECHNOLOGIE, 1 fiches)
@@ -2370,6 +2373,7 @@
 - [[kb/_entites-mineures#Next.js-16\|Next.js 16]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#NextGenU\|NextGenU]] (ORGANISATION, 1 fiches)
 - [[kb/Nicholas-Carlini\|Nicholas Carlini]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Nicolai-Tangen\|Nicolai Tangen]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Nicolas-Bustamante\|Nicolas Bustamante]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Nicolas-Marette\|Nicolas Marette]] (PERSONNE, 1 fiches)
 - [[kb/Nicolas-Martignole\|Nicolas Martignole]] (PERSONNE, 2 fiches)
@@ -2381,6 +2385,7 @@
 - [[kb/_entites-mineures#Noah-Smith\|Noah Smith]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#NomenAK\|NomenAK]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#non-déterminisme\|non-déterminisme]] (CONCEPT, 2 fiches)
+- [[kb/_entites-mineures#Norges-Bank-Investment-Management\|Norges Bank Investment Management]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Northwestern-Mutual\|Northwestern Mutual]] (ORGANISATION, 1 fiches)
 - [[kb/Nostr\|Nostr]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#note-rescued\|note rescued]] (CONCEPT, 1 fiches)
@@ -2628,6 +2633,7 @@
 - [[kb/plugin-Compound-Engineering\|plugin Compound Engineering]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#Plugin-marketplace-Intercom\|Plugin marketplace Intercom]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Plus-qu'humain-(selon-Léon-XIV)\|Plus qu'humain (selon Léon XIV)]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#podcast-In-Good-Company\|podcast In Good Company]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Policy-Bot\|Policy Bot]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#political-neutrality-eval\|political-neutrality-eval]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#politique-FinOps-token\|politique FinOps token]] (CONCEPT, 1 fiches)
