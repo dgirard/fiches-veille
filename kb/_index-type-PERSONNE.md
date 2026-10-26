@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 578 entités de type PERSONNE
+> 579 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -439,6 +439,7 @@
 - [[kb/_entites-mineures#Rafael-Marques\|Rafael Marques]] — rôle: Product Manager, Google Cloud (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Raffi-Krikorian\|Raffi Krikorian]] — rôle: Chief Technology Officer de Mozilla, auteur de la lettre d'ouverture du rapport (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rahul-Sengottuvelu\|Rahul Sengottuvelu]] — rôle: CTO de Ramp (1 occ., 1 fiches)
+- [[kb/Rakesh-Gohel\|Rakesh Gohel]] — rôle: Builder chez JUTEQ, gouvernance et infrastructure de preuve pour agents IA ; newsletter Substack (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Randy-Shoup\|Randy Shoup]] — rôle: SVP Engineering, CircleCI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ranganathan-&-Ye\|Ranganathan & Ye]] — rôle: Chercheurs publiés dans HBR (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ray-Dalio\|Ray Dalio]] — attribut: Promoteur de la conscience de soi radicale (1 occ., 1 fiches)

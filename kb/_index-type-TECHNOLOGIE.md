@@ -803,7 +803,7 @@
 - [[kb/_entites-mineures#hooks-conditionnels\|hooks conditionnels]] — usage: Activés seulement le temps de la skill (ex. blocage commandes destructrices) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#html-effectiveness-gallery\|html-effectiveness gallery]] — catégorie: Site exemples de Shihipar (thariqs.github.io/html-effectiveness) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#interface-cerveau-ordinateur\|interface cerveau-ordinateur]] — stade: Technologie en phase précoce (1 occ., 1 fiches)
-- [[kb/_entites-mineures#knowledge-graph\|knowledge graph]] — fonction: Cartographier les interconnexions entre clients, produits, projets, équipes, réglementations et applications (1 occ., 1 fiches)
+- [[kb/_entites-mineures#knowledge-graph\|knowledge graph]] — fonction: Cartographier les interconnexions entre clients, produits, projets, équipes, réglementations et applications (2 occ., 2 fiches)
 - [[kb/_entites-mineures#l'écriture\|l'écriture]] — catégorie: Support externe de la mémoire, objet du mythe (1 occ., 1 fiches)
 - [[kb/_entites-mineures#legacy-systems\|legacy systems]] — caractéristique: Impact sous-estimé dans la transition agentique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#llama.cpp\|llama.cpp]] — positionnement: Roi de l'inférence locale mono-utilisateur (1 occ., 1 fiches)

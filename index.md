@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 447 fiches | 1975-12 → 2026-10-22 | généré le 2026-10-26
+> 448 fiches | 1975-12 → 2026-10-25 | généré le 2026-10-26
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-10
 
+- **25** [Knowledge Graph. Context Graph. Procedural Graph. — What's true → What matters now → What do I do next](fiches/2026-10/gohel-knowledge-context-procedural-graph-2026-10-25.md) — Rakesh Gohel — builder chez JUTEQ (gouvernance et infrastructure de preuve pour agents IA) ; LinkedIn, newsletter rakeshgohel.substack.com. · LinkedIn (Rakesh Gohel) — knowledge graph, graphe de connaissances, context graph
 - **22** [La fin de Valeur × Faisabilité : pourquoi la matrice produit ne sait plus prioriser l'IA](fiches/2026-10/suchaud-wenvision-fin-valeur-faisabilite-prioriser-ia-2026-10-22.md) — Nicolas Suchaud — WEnvision (cabinet de conseil) ; hub Insights, rubrique Intelligence Artificielle. · WEnvision (Nicolas Suchaud) — priorisation IA, matrice Valeur × Faisabilité, quick wins
 - **21** [Eric Schmidt: Are We Ready for Superintelligence? | Podcast | In Good Company](fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21.md) — Eric Schmidt (invité), ancien PDG de Google ; Nicolai Tangen (hôte), directeur général de Norges Bank Investment Management. · In Good Company (NBIM) — superintelligence, AGI, découverte scientifique
 - **16** [Build or surrender](fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16.md) — Arthur Mensch (@arthurmensch) — cofondateur et directeur général de Mistral AI ; article publié sur X. · X — souveraineté IA, modèles de frontière, IA de frontière
@@ -562,6 +563,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Agents de codage IA & Skills
 
+- [Knowledge Graph. Context Graph. Procedural Graph. — What's true → What matters now → What do I do next](fiches/2026-10/gohel-knowledge-context-procedural-graph-2026-10-25.md) — Rakesh Gohel — builder chez JUTEQ (gouvernance et infrastructure de preuve pour agents IA) ; LinkedIn, newsletter rakeshgohel.substack.com.
 - [Quand la vélocité explose avec l'IA, place au "Harness Engineering" !](fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15.md) — Dorra Bartaguiz — CTO d'Arolla (conseil et formation, « agentic software crafters ») ; slides de son talk Dev With AI publiées sur LinkedIn.
 - [How the Claude Code team does code review](fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15.md) — Addy Osmani, Morgan Westlee Lunt, Qing Wang — équipe Claude Code (Anthropic) ; blog *claude.dev*, catégorie Engineering.
 - [Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code, whatever tools they use](fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14.md) — Thomas Claburn — AI and software reporter, The Register.
@@ -732,6 +734,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Architecture & Construction
 
+- [Knowledge Graph. Context Graph. Procedural Graph. — What's true → What matters now → What do I do next](fiches/2026-10/gohel-knowledge-context-procedural-graph-2026-10-25.md) — Rakesh Gohel — builder chez JUTEQ (gouvernance et infrastructure de preuve pour agents IA) ; LinkedIn, newsletter rakeshgohel.substack.com.
 - [Welcome to Gemini at Work 2026: Introducing the Gemini agent](fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08.md) — Thomas Kurian — CEO de Google Cloud ; billet du blog Google Cloud adapté de sa keynote.
 - [The AI operating system: A new way for CEOs to run the enterprise](fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01.md) — Asutosh Padhi, Vik Sohoni (Chicago), Brian Elliott (Carolinas), Daniel Swan (Connecticut), Kim Baroudy (Copenhague) — senior partners, McKinsey (QuantumBlack).
 - [Context Filter](fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26.md) — Assaf Elovic, créateur de GPT Researcher, auteur de la page (documentation officielle docs.gptr.dev, non signée).
@@ -1289,11 +1292,11 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 447 fiches
-- **Par année** : 2026 (270) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 448 fiches
+- **Par année** : 2026 (271) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 167
-  - Architecture & Construction : 62
+  - Agents de codage IA & Skills : 168
+  - Architecture & Construction : 63
   - Transformation & Adoption : 103
   - Qualité & Sécurité : 57
   - Économie & Marché : 95

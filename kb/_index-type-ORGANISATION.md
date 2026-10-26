@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 454 entités de type ORGANISATION
+> 455 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -213,6 +213,7 @@
 - [[kb/_entites-mineures#Investir\|Investir]] — type: Publication financière du groupe Les Echos ; numéro « spécial patrons » IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Inworld\|Inworld]] — secteur: IA vocale / TTS (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Irregular\|Irregular]] — secteur: Cybersecurite (1 occ., 1 fiches)
+- [[kb/_entites-mineures#JUTEQ\|JUTEQ]] — secteur: Gouvernance d'agents IA et infrastructure de preuve (1 occ., 1 fiches)
 - [[kb/_entites-mineures#KPMG\|KPMG]] — secteur: Conseil / Audit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Keyrus\|Keyrus]] — rôle: Agence web créée par Corrot en 1997, revendue en 2000 à Progiware, groupe qui a ensuite pris le nom de Keyrus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Kima-Ventures\|Kima Ventures]] — rôle: Fonds de Xavier Niel, coïnvestisseur de l'amorçage Delos (avec Inovia Capital et Plug and Play) (1 occ., 1 fiches)

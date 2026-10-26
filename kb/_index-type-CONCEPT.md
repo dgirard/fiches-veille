@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1088 entités de type CONCEPT
+> 1091 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -452,6 +452,7 @@
 - [[kb/SecNumCloud\|SecNumCloud]] — définition: Qualification haut niveau sécurité cloud (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Secret-Cyborgs\|Secret Cyborgs]] — définition: Travailleurs cachant leur usage de l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Semantic-Agent\|Semantic Agent]] — définition: Agent combinant (modèle + harnais) et (ontologie + données) pour passer de la génération à la compréhension (1 occ., 1 fiches)
+- [[kb/Semantic-Spine\|Semantic Spine]] — définition: Chaîne ontologie → knowledge graph → context graph → procedural graph → agent, qui réécrit ses traces (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Senior-architects-return-to-active-development\|Senior architects return to active development]] — source: Observation Tatsyi — convergence avec Cherny "best accountant writes accounting software" et Karpathy reduction friction to creation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Service-as-Software\|Service-as-Software]] — définition: Nouveau modèle économique succédant au SaaS. SaaS = software vendant des tools pour permettre aux humains de résoudre des problèmes ; SaS = software automatisant le raisonnement et vendant des outcomes. Pricing basé sur "demonstrated alignment and impact" plutôt que seats/features. Concept canonique 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Service-as-Software-(version-pricing)\|Service-as-Software (version pricing)]] — catégorie: Glissement tarifaire — ancrage salaires plutôt que SaaS (1 occ., 1 fiches)
@@ -654,7 +655,7 @@
 - [[kb/_entites-mineures#consumer-welfare\|consumer welfare]] — métrique: Somme valuations internes - prix final agrégé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#content-gap-paid-organic\|content gap paid-organic]] — cas: 2 742 termes gaspillés / 351 opportunités en 90 s (1 occ., 1 fiches)
 - [[kb/_entites-mineures#context-collapse\|context collapse]] — définition: dégradation du contexte sur itérations (1 occ., 1 fiches)
-- [[kb/_entites-mineures#context-graph\|context graph]] — définition: Enregistrement structuré des traces de décision reliées entre entités (1 occ., 1 fiches)
+- [[kb/context-graph\|context graph]] — définition: Sous-graphe scopé à une décision : état vivant, contexte organisationnel, historique de décisions similaires (2 occ., 2 fiches)
 - [[kb/_entites-mineures#contexte\|contexte]] — description: Connaissance du dépôt, des conventions et de l'architecture par l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#contexte-de-transaction-fourni-par-l'agent\|contexte de transaction fourni par l'agent]] — définition: Obligation faite à l'agent de joindre la raison de la dépense à sa demande, afin que l'approbation humaine soit informée — pattern transposable à toute autorisation d'action irréversible (1 occ., 1 fiches)
 - [[kb/_entites-mineures#contexte-passif\|contexte passif]] — définition: Information injectée dans le prompt système sans décision d'invocation (1 occ., 1 fiches)
@@ -916,6 +917,7 @@
 - [[kb/_entites-mineures#principes-de-persuasion-Cialdini\|principes de persuasion Cialdini]] — source: Robert Cialdini, ouvrage Influence (1 occ., 1 fiches)
 - [[kb/_entites-mineures#problème-des-80-%\|problème des 80 %]] — définition: L'IA génère ~80 % du code ; les 20 % restants exigent un contexte profond (1 occ., 1 fiches)
 - [[kb/_entites-mineures#problème-principal-agent\|problème principal-agent]] — définition: Divergence entre les buts de l'organisation et ceux de ses agents (1 occ., 1 fiches)
+- [[kb/_entites-mineures#procedural-graph\|procedural graph]] — définition: Procédures stockées en triplets (procédure, relation, procédure) qui guident l'étape suivante d'un agent sans la dicter (1 occ., 1 fiches)
 - [[kb/_entites-mineures#product-overhang\|product overhang]] — définition: Concept Anthropic Labs : "the model can do all the stuff that no product has yet captured" — moteur de la stratégie Claude Code (2 occ., 2 fiches)
 - [[kb/_entites-mineures#productive-struggle\|productive struggle]] — définition: Effort cognitif qui construit la compréhension, à préserver dans les outils éducatifs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#productivité-10x-1000x\|productivité 10x-1000x]] — nature: Multiplication capacité individuelle par levier IA (1 occ., 1 fiches)
@@ -1027,6 +1029,7 @@
 - [[kb/_entites-mineures#topologie-du-garde-fou\|topologie du garde-fou]] — définition: Choix d'architecture désignant l'endroit où réside la sûreté d'un système d'IA : dans les poids du modèle (l'éditeur définit la politique et arbitre les exemptions) ou dans un composant séparé et auto-hébergeable (le déployeur définit la politique et en porte la responsabilité) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tout-est-plugin\|tout est plugin]] — définition: Principe d'architecture revendiqué par DeepSeek Harness : aucun cœur privilégié à patcher, toute capacité est un plugin monté à côté des autres et remplaçable depuis la configuration — y compris l'adaptateur de modèle, le registre d'outils, le journal de session et la boucle d'agent elle-même. Vérifiable en une commande : `dsh --profile web --dump-config` imprime l'arbre réellement démarré, dont toute ligne peut être remplacée par un patch (1 occ., 1 fiches)
 - [[kb/_entites-mineures#traces\|traces]] — définition: Enregistrement séquence étapes agents au runtime (1 occ., 1 fiches)
+- [[kb/_entites-mineures#traces-de-décision\|traces de décision]] — rôle: Traces de succès et d'échec réécrites pour mettre à jour connaissance, contexte et procédure (1 occ., 1 fiches)
 - [[kb/_entites-mineures#track-record-de-Musk\|track record de Musk]] — définition: Taux historique de promesses tenues (~19 % sur >600 engagements), en déclin (1 occ., 1 fiches)
 - [[kb/_entites-mineures#transparence\|transparence]] — catégorie: Principe général dont la transparence des sauvegardes est un cas d'application (1 occ., 1 fiches)
 - [[kb/_entites-mineures#transparence-des-sauvegardes\|transparence des sauvegardes]] — description: Rendre les sauvegardes vérifiables et dignes de confiance (1 occ., 1 fiches)

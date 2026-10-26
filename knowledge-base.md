@@ -1,20 +1,20 @@
 # Knowledge Base — Veille Technologique
 
-<!-- manifest: sha256=0b815e8f784da37ff3eb568b88baf8efe47789736952d294a3c2aa187ff3c1c1 fiches=447 -->
-> 447 fiches | 3739 entités | 7264 triples | Généré le 2026-10-26
+<!-- manifest: sha256=a184d94e15e2c4c4ba25fdda3facb181fd7b22727eff2f0e3dc7ed0fa19cde1e fiches=448 -->
+> 448 fiches | 3744 entités | 7280 triples | Généré le 2026-10-26
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
-- [[kb/_index-type-PERSONNE\|PERSONNE]] (578)
-- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (454)
+- [[kb/_index-type-PERSONNE\|PERSONNE]] (579)
+- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (455)
 - [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (879)
-- [[kb/_index-type-CONCEPT\|CONCEPT]] (1088)
+- [[kb/_index-type-CONCEPT\|CONCEPT]] (1091)
 - [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (474)
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (57)
 - [[kb/_index-type-LIEU\|LIEU]] (5)
 - [[kb/_index-type-DOCUMENT\|DOCUMENT]] (204)
-- [[kb/_entites-mineures\|Entités mineures]] (3119)
+- [[kb/_entites-mineures\|Entités mineures]] (3121)
 
 ## Entités les plus connectées
 
@@ -33,7 +33,7 @@
 | [[kb/Addy-Osmani\|Addy Osmani]] | PERSONNE | 39 | 11 |
 | [[kb/Boris-Cherny\|Boris Cherny]] | PERSONNE | 39 | 11 |
 | [[kb/IA\|IA]] | TECHNOLOGIE | 38 | 10 |
-| [[kb/agents-IA\|agents IA]] | TECHNOLOGIE | 36 | 5 |
+| [[kb/agents-IA\|agents IA]] | TECHNOLOGIE | 37 | 5 |
 | [[kb/Buzz\|Buzz]] | TECHNOLOGIE | 35 | 7 |
 | [[kb/Léon-XIV\|Léon XIV]] | PERSONNE | 29 | 1 |
 | [[kb/Claude-entite\|Claude]] | TECHNOLOGIE | 28 | 14 |
@@ -45,34 +45,34 @@
 
 ### Prédicats les plus fréquents
 
-- **affirme_que** : 910
-- **utilise** : 839
-- **permet** : 650
+- **affirme_que** : 912
+- **utilise** : 844
+- **permet** : 652
 - **mesure** : 585
 - **publie** : 421
-- **a_créé** : 400
-- **recommande** : 352
+- **a_créé** : 401
+- **recommande** : 354
 - **s_applique_à** : 296
-- **est_basé_sur** : 257
+- **est_basé_sur** : 258
 - **réduit** : 257
 - **s_oppose_à** : 256
 - **fait_partie_de** : 242
-- **améliore** : 221
+- **améliore** : 222
 - **est_instance_de** : 219
-- **remplace** : 159
+- **remplace** : 160
 
 ### Distribution par type
 
-- **PERSONNE** : 578 (15.5%)
-- **ORGANISATION** : 454 (12.1%)
+- **PERSONNE** : 579 (15.5%)
+- **ORGANISATION** : 455 (12.2%)
 - **TECHNOLOGIE** : 879 (23.5%)
-- **CONCEPT** : 1088 (29.1%)
+- **CONCEPT** : 1091 (29.1%)
 - **METHODOLOGIE** : 474 (12.7%)
 - **EVENEMENT** : 57 (1.5%)
 - **LIEU** : 5 (0.1%)
-- **DOCUMENT** : 204 (5.5%)
+- **DOCUMENT** : 204 (5.4%)
 
 ### Déduplication
 
-- **Triples** : 7390 → 7264 (126 doublons)
-- **Entités** : 4950 → 3739 (1211 doublons)
+- **Triples** : 7407 → 7280 (127 doublons)
+- **Entités** : 4957 → 3744 (1213 doublons)

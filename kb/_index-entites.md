@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3739 entités
+> 3744 entités
 
 ## #
 
@@ -916,7 +916,7 @@
 - [[kb/_entites-mineures#Context-Engine\|Context Engine]] (TECHNOLOGIE, 1 fiches)
 - [[kb/context-engineering\|context engineering]] (METHODOLOGIE, 7 fiches)
 - [[kb/Context-Flywheel\|Context Flywheel]] (CONCEPT, 1 fiches)
-- [[kb/_entites-mineures#context-graph\|context graph]] (CONCEPT, 1 fiches)
+- [[kb/context-graph\|context graph]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#Context-inflation\|Context inflation]] (CONCEPT, 1 fiches)
 - [[kb/Context-Rot\|Context Rot]] (CONCEPT, 3 fiches)
 - [[kb/_entites-mineures#CONTEXT-MAP-md\|CONTEXT-MAP.md]] (DOCUMENT, 1 fiches)
@@ -1944,6 +1944,7 @@
 - [[kb/_entites-mineures#Justin-Bangay\|Justin Bangay]] (PERSONNE, 1 fiches)
 - [[kb/Justin-McCarthy\|Justin McCarthy]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Justin-Reock\|Justin Reock]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#JUTEQ\|JUTEQ]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Jérémy-Chapeau\|Jérémy Chapeau]] (PERSONNE, 1 fiches)
 ## K
 
@@ -1972,7 +1973,7 @@
 - [[kb/Kishōtenketsu\|Kishōtenketsu]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Kloset\|Kloset]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Knowledge-Catalog\|Knowledge Catalog]] (TECHNOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#knowledge-graph\|knowledge graph]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#knowledge-graph\|knowledge graph]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Knowledge-skill\|Knowledge skill]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Kodak\|Kodak]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Kore.ai\|Kore.ai]] (ORGANISATION, 2 fiches)
@@ -2712,6 +2713,7 @@
 - [[kb/_entites-mineures#problème-des-80-%\|problème des 80 %]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Problème-hayékien\|Problème hayékien]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#problème-principal-agent\|problème principal-agent]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#procedural-graph\|procedural graph]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Procter-&-Gamble\|Procter & Gamble]] (ORGANISATION, 1 fiches)
 - [[kb/procédure-infographique\|procédure infographique]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Product-Engineer\|Product Engineer]] (CONCEPT, 1 fiches)
@@ -2820,6 +2822,7 @@
 - [[kb/_entites-mineures#rail-discipline\|rail discipline]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#RAISE\|RAISE]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Raisonnement-automatisé\|Raisonnement automatisé]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Rakesh-Gohel\|Rakesh Gohel]] (PERSONNE, 1 fiches)
 - [[kb/Rakuten\|Rakuten]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#Ralph-Loop\|Ralph Loop]] (METHODOLOGIE, 2 fiches)
 - [[kb/Ramp\|Ramp]] (ORGANISATION, 1 fiches)
@@ -3037,6 +3040,7 @@
 - [[kb/_entites-mineures#Semantic-Data-Products\|Semantic Data Products]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Semantic-Kernel\|Semantic Kernel]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#semantic-layer\|semantic layer]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Semantic-Spine\|Semantic Spine]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#SemiAnalysis\|SemiAnalysis]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Senior-architects-return-to-active-development\|Senior architects return to active development]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Senior-Engineer-benchmark\|Senior Engineer benchmark]] (METHODOLOGIE, 1 fiches)
@@ -3490,6 +3494,7 @@
 - [[kb/_entites-mineures#TPU\|TPU]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#TPU-8i\|TPU 8i]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#traces\|traces]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#traces-de-décision\|traces de décision]] (CONCEPT, 1 fiches)
 - [[kb/Tracey-Franklin\|Tracey Franklin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#track-record-de-Musk\|track record de Musk]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Transformation-par-les-livrables\|Transformation par les livrables]] (METHODOLOGIE, 1 fiches)

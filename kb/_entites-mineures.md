@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 3119 entités avec moins de 3 triples/fiches
+> 3121 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (423)
 
@@ -4255,7 +4255,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (333)
+## ORGANISATION (334)
 
 ### 10x {#10x}
 
@@ -5881,6 +5881,16 @@
 - **collabore_avec** → [[kb/AISI-UK\|AISI UK]] (ORGANISATION) — 0.88
 
 **Fiches** : [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Our evaluation of OpenAI's GPT-5.5 cyber capabilities]]
+
+### JUTEQ {#JUTEQ}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Gouvernance d'agents IA et infrastructure de preuve
+
+- [[kb/Rakesh-Gohel\|Rakesh Gohel]] **travaille_chez** → JUTEQ — 0.90
+
+**Fiches** : [[fiches/2026-10/gohel-knowledge-context-procedural-graph-2026-10-25\|Knowledge Graph. Context Graph. Procedural Graph. — What's true → What matters now → What do I do next]]
 
 ### KPMG {#KPMG}
 
@@ -14170,16 +14180,19 @@
 
 ### knowledge graph {#knowledge-graph}
 
-**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+**Type** : TECHNOLOGIE | 5 relations | 2 fiches
 
 - **fonction** : Cartographier les interconnexions entre clients, produits, projets, équipes, réglementations et applications
+- **rôle** : Mémoire d'entreprise des faits stables et gouvernés (ce qui est vrai)
 
 - **permet** → compréhension des relations, du contexte et du sens métier (CONCEPT) — 0.87
 
+- [[kb/Semantic-Spine\|Semantic Spine]] **utilise** → knowledge graph — 0.92
+- [[kb/context-graph\|context graph]] **est_basé_sur** → knowledge graph — 0.90
 - [[kb/couche-sémantique\|Couche sémantique]] **utilise** → knowledge graph — 0.90
 - [[kb/Enterprise-Knowledge-Fabric\|Enterprise Knowledge Fabric]] **utilise** → knowledge graph — 0.90
 
-**Fiches** : [[fiches/2026-06/singh-kdlc-knowledge-development-life-cycle-2026-06-28\|New Engineering Disciplines for the AI Era Part 3: KDLC — Knowledge Development Life Cycle]]
+**Fiches** : [[fiches/2026-10/gohel-knowledge-context-procedural-graph-2026-10-25\|Knowledge Graph. Context Graph. Procedural Graph. — What's true → What matters now → What do I do next]], [[fiches/2026-06/singh-kdlc-knowledge-development-life-cycle-2026-06-28\|New Engineering Disciplines for the AI Era Part 3: KDLC — Knowledge Development Life Cycle]]
 
 ### l'écriture {#l'écriture}
 
@@ -14888,7 +14901,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1036)
+## CONCEPT (1037)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -20870,17 +20883,6 @@
 
 **Fiches** : [[fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10-07\|Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models]]
 
-### context graph {#context-graph}
-
-**Type** : CONCEPT | 2 relations | 1 fiches
-
-- **définition** : Enregistrement structuré des traces de décision reliées entre entités
-
-- **est_basé_sur** → traces de décision (CONCEPT) — 0.95
-- **remplace** → systèmes de record traditionnels (CONCEPT) — 0.85
-
-**Fiches** : [[fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22\|AI's trillion-dollar opportunity: Context graphs]]
-
 ### contexte {#contexte}
 
 **Type** : CONCEPT | 3 relations | 1 fiches
@@ -23388,6 +23390,21 @@
 
 **Fiches** : [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
 
+### procedural graph {#procedural-graph}
+
+**Type** : CONCEPT | 5 relations | 1 fiches
+
+- **définition** : Procédures stockées en triplets (procédure, relation, procédure) qui guident l'étape suivante d'un agent sans la dicter
+
+- **permet** → escalade humaine (CONCEPT) — 0.85
+- **remplace** → procédure en prompt (CONCEPT) — 0.85
+
+- [[kb/Semantic-Spine\|Semantic Spine]] **utilise** → procedural graph — 0.92
+- [[kb/agents-IA\|agents IA]] **utilise** → procedural graph — 0.88
+- [[kb/_entites-mineures#traces-de-décision\|traces de décision]] **améliore** → procedural graph — 0.88
+
+**Fiches** : [[fiches/2026-10/gohel-knowledge-context-procedural-graph-2026-10-25\|Knowledge Graph. Context Graph. Procedural Graph. — What's true → What matters now → What do I do next]]
+
 ### product overhang {#product-overhang}
 
 **Type** : CONCEPT | 1 relations | 2 fiches
@@ -24415,6 +24432,20 @@
 - debugging agents **est_basé_sur** → traces — 0.93
 
 **Fiches** : [[fiches/2026-01/chase-langchain-traces-document-ai-agents-2026-01-10\|In software, the code documents the app. In AI, the traces do.]]
+
+### traces de décision {#traces-de-décision}
+
+**Type** : CONCEPT | 4 relations | 1 fiches
+
+- **rôle** : Traces de succès et d'échec réécrites pour mettre à jour connaissance, contexte et procédure
+
+- **permet** → piste d'audit (CONCEPT) — 0.90
+- **améliore** → [[kb/_entites-mineures#procedural-graph\|procedural graph]] (CONCEPT) — 0.88
+
+- [[kb/context-graph\|context graph]] **est_basé_sur** → traces de décision — 0.95
+- exceptions, précédents, contexte cross-système **fait_partie_de** → traces de décision — 0.90
+
+**Fiches** : [[fiches/2026-10/gohel-knowledge-context-procedural-graph-2026-10-25\|Knowledge Graph. Context Graph. Procedural Graph. — What's true → What matters now → What do I do next]]
 
 ### track record de Musk {#track-record-de-Musk}
 

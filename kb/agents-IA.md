@@ -1,6 +1,6 @@
 # agents IA
 
-> **Type** : TECHNOLOGIE | 36 relations | 5 fiches sources
+> **Type** : TECHNOLOGIE | 37 relations | 5 fiches sources
 
 ## Attributs
 
@@ -99,6 +99,8 @@
   - [[fiches/2025-12/clouded-judgement-121225-long-live\|Clouded Judgement 12.12.25 - Long Live Systems of Record]]
 - environnement sain (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2025-11/kanat-alexander-capital-one-devex-ai-agents-2025-11-23\|Developer Experience in the Age of AI Coding Agents]]
+- [[kb/_entites-mineures#procedural-graph\|procedural graph]] (CONCEPT) — 0.88, DYNAMIQUE
+  - [[fiches/2026-10/gohel-knowledge-context-procedural-graph-2026-10-25\|Knowledge Graph. Context Graph. Procedural Graph. — What's true → What matters now → What do I do next]]
 
 ## Relations (comme objet)
 
