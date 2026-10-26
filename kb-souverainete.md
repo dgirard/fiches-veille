@@ -1,6 +1,6 @@
 # Knowledge Base — Souveraineté numérique (cloud, données, IA)
 
-> 19 fiches | Période : Janvier 2026 — Août 2026 | Mis à jour le 2026-08-25
+> 24 fiches | Période : Janvier 2026 — Octobre 2026 | Mis à jour le 2026-10-26
 
 ## Vue d'ensemble
 
@@ -56,6 +56,18 @@ lance l'**European Compute Unit** — engagements pluriannuels de cinq ans,
 fin 2030. La souveraineté vendue **change de nature** : du poids ouvert
 réversible au contrat sans porte de sortie. Le champion de la réversibilité
 construit son propre verrou.
+
+**L'automne 2026 oppose deux doctrines.** Le 15 octobre, l'**Oliver Wyman
+Forum** propose l'**interdépendance contrôlée** : aucun pays ni aucune
+entreprise ne maîtrise toute la pile, il faut donc posséder la **couche de
+contrôle** (données, contexte, mémoire, permissions) et garder le modèle
+**remplaçable** ; seuls **4 %** des CEO attendent un avantage durable d'un accès
+privilégié à un modèle. Le lendemain, **Arthur Mensch** répond à la thèse qui
+laisserait la frontière aux Américains et aux Chinois : un modèle fermé a un
+propriétaire qui *« sets the terms »*, et *« Dependence on others, even on
+their openness, is still dependence »*. Entre les deux, Mistral publie
+**Mistral Large 4**, entraîné de zéro dans ses datacenters européens, poids
+ouverts annoncés.
 
 ## Chronologie
 
@@ -160,6 +172,42 @@ construit son propre verrou.
   pondérer : le produit vit sous l'onglet **Experiments** et se qualifie six
   fois de préliminaire.
 
+### Automne 2026 — Construire la frontière, ou contrôler l'interdépendance
+
+- **29 sept. 2026** — **Ryan Sarver** : Amazon bloque **Muse** (Meta) et les
+  utilisateurs perdent leur agent d'achat, *« a side effect of a dispute I had
+  no say in »*. La continuité se pose au niveau de l'**agent personnel** ;
+  réponse proposée : une IA possédée (open source, données en stockage
+  contrôlé, portabilité) qui tourne où l'on choisit.
+- **6 oct. 2026** — **Mistral Large 4** (préversion) : **1 000 Md** de
+  paramètres dont **49 Md** actifs, entraîné de zéro sur **3 800 GPU NVIDIA
+  Grace Blackwell** dans les datacenters européens de Mistral, financé par la
+  série D de **3 Md€** ; poids ouverts annoncés pour la fin du mois. Les GPU
+  restent américains, comme pour l'ECU.
+- **15 oct. 2026** — **Oliver Wyman Forum, « The AI Agenda 2026 »**, chapitre
+  souveraineté : **55 %** des salariés anticipent une perturbation au moins
+  modérée si le fournisseur principal tombe, seuls **35 %** disent que leur
+  entreprise peut en changer ; changer de modèle principal coûte **21 à 60
+  jours-ingénieur**, hors mémoire et orchestration. Pile en six couches
+  (énergie, puces, modèles, données, orchestration et mémoire, applications) et
+  quatre postures : *buy/switch*, *set terms/monitor*, *diversify/test the
+  exit*, *build/ally*. **Sovereign AI Index** : **17** économies sur 100 tiennent
+  une position difficile à remplacer, **7** un vrai *chokepoint* ; les
+  États-Unis hébergent **91 %** du calcul vérifié ; la France est **3e** en
+  leadership de modèles.
+- **16 oct. 2026** — **Arthur Mensch, « Build or surrender »** : l'Europe paie
+  plus de **260 Md€ par an** aux fournisseurs américains de cloud et de
+  logiciel ; il cite, sans le nommer, la suspension en juin de l'accès aux
+  modèles les plus avancés d'un laboratoire américain (cf. le précédent
+  Anthropic de l'été) ; trois conditions pour un État (auditer, adapter,
+  garantir l'accès futur) ; capacité de calcul de Mistral **multipliée par
+  six** sur l'année à venir. Texte signé par le dirigeant d'un acteur
+  directement concerné.
+- **21 oct. 2026** — **Eric Schmidt** au podcast de **Norges Bank Investment
+  Management** : l'Europe régule avant d'innover et n'a pas son modèle de
+  fondation, mais peut dominer son propre marché ; il se déclare investisseur
+  de Mistral AI. La Chine aurait **six mois** de retard.
+
 ## Fiches sources
 
 ### Cloud souverain & données (immunité extraterritoriale, réversibilité)
@@ -178,6 +226,9 @@ construit son propre verrou.
 - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres (le garde-fou sort des poids)]]
 - [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ? (souveraineté du silicium à l'inférence)]]
 - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (Mistral AI) devant la commission d'enquête sur les vulnérabilités numériques]]
+- [[fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16\|Build or surrender (Mensch) : 260 Md€ par an aux fournisseurs américains, la dépendance à l'ouverture d'autrui reste une dépendance]]
+- [[fiches/2026-10/mistral-large-4-le-chonk-2026-10-06\|Introducing Mistral Large 4 : 1 000 Md de paramètres, entraîné de zéro en Europe, poids ouverts annoncés]]
+- [[fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21\|Eric Schmidt (In Good Company, NBIM) : l'Europe sans modèle de fondation, mais maîtresse possible de son marché]]
 - [[fiches/2026-01/simon-sogpt-copilot-faux-debat-souverainete-ia-2026-01-15\|SoGPT vs Copilot : le faux débat qui nous fait perdre la vraie bataille (capital IA, souveraineté européenne)]]
 
 ### Open-weights : réversibilité, géopolitique et contre-thèses
@@ -192,6 +243,8 @@ construit son propre verrou.
 - [[fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24\|« AI Kill Switch Act » : seuils cumulatifs, mécanique d'élargissement et « so what » pour les entreprises européennes]]
 - [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Les trois hyperscalers convergent sur la même architecture d'agents — et aucun contrat de portabilité n'existe]]
 - [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz : forge Git sur son propre relais, identité npub portable, preuve ex post plutôt qu'autorisation ex ante]]
+- [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal (Sarver) : Amazon bloque Muse, l'agent personnel possédé et portable]]
+- [[fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15\|The AI Agenda 2026 (Oliver Wyman Forum) : interdépendance contrôlée, pile en six couches, Sovereign AI Index, 21 à 60 jours-ingénieur pour changer de modèle]]
 
 ## Entités clés
 
@@ -363,6 +416,23 @@ et se qualifie **dépendance par dépendance**.
   un régulé européen consomme un modèle chinois qu'il ne pourrait jamais appeler
   directement.
 
+### Interdépendance contrôlée ou frontière européenne (automne 2026)
+
+- **Interdépendance contrôlée** (Oliver Wyman Forum) : contrôle suffisant des
+  dépendances IA pour maintenir le travail critique, avec un moyen crédible de
+  remplacer chacune. La prime de souveraineté ne se paie que là où l'enjeu le
+  justifie ; l'avantage durable vient des processus refondus (**74 %** des CEO)
+  et des données propriétaires (**64 %**), pas du modèle (**4 %**). Le coût de
+  sortie se mesure : 21 à 60 jours-ingénieur pour changer de modèle, sans
+  compter mémoire et orchestration.
+- **Frontière européenne** (Mensch) : la thèse applicative reproduit le
+  *« internet playbook »* ; un modèle fermé fixe prix, usages et retrait de
+  version, et un modèle ouvert produit ailleurs reste une dépendance. Opposer
+  recherche de frontière et déploiement industriel serait *« a trap »*.
+- **Point de contact** : les deux textes placent la mémoire, l'orchestration
+  et l'accès futur au cœur de la souveraineté ; ils divergent sur la place du
+  modèle, remplaçable pour l'un, condition de l'accès futur pour l'autre.
+
 ### Souveraineté & open source (débat ouvert)
 
 - **Ouverture comme levier** : Plakar (sauvegarde), CNCF/Linux Foundation,
@@ -396,6 +466,15 @@ et se qualifie **dépendance par dépendance**.
   (Stanford HAI 2026).
 - **Mistral, août 2026** : 77 MW documentés → **200 MW fin 2027** → **1 GW fin
   2030**, financés par des engagements clients de **cinq ans**.
+- **Oliver Wyman Forum (oct. 2026)** : **46 %** des CEO ont inscrit le risque
+  de concentration au registre des risques, **10 %** des dirigeants tech ont
+  une déclaration signée sur les actifs conservés ; **0,1 %** des clients cloud
+  changent de fournisseur chaque année (CMA).
+- **Mistral, octobre 2026** : Large 4 entraîné de zéro en Europe (3 800 GPU
+  NVIDIA), capacité de calcul **×6** annoncée sur l'année à venir.
+- **Amazon bloque Muse** (sept. 2026) : le « qui peut m'éteindre » s'applique
+  aussi à l'agent personnel, coupé par un tiers dans un différend entre
+  plateformes.
 - Métrique cardinale transverse : **réversibilité** > contrat signé. Mais l'été
   2026 montre qu'elle se **négocie à contre-courant** — le verrou décisif s'est
   déplacé de l'infrastructure vers le **modèle, l'agent et la durée

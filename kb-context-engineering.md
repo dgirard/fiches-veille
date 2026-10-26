@@ -1,6 +1,6 @@
 # Knowledge Base — Context Engineering
 
-> 97 fiches | Période : Mai 2025 — Septembre 2026 | Mis à jour le 2026-09-12
+> 113 fiches | Période : Mai 2025 — Octobre 2026 | Mis à jour le 2026-10-26
 
 ## Vue d'ensemble
 
@@ -70,6 +70,24 @@ des hooks bloquants — application directe du durcissement en exécutable du po
 Decathlon, *« un agent n'a pas de bon sens »* fait de la **sémantique métier**
 — une définition unique par concept, écrite parce qu'un agent ne compense pas —
 un chantier d'entreprise au même rang que le harnais.
+
+**Octobre 2026 fait de la vérification une boucle que l'agent exécute seul.**
+Osmani pose la consigne : *« build loops the agent can run itself »*, avec tests
+E2E, tests de propriétés et tests différentiels comme oracles, et une préférence
+déclarée pour *« a much better feedback loop »* sur *« a slightly better
+model »*. L'équipe Claude Code en publie la version mesurée : sept couches de
+contrôle, un objectif formulé comme *« the minimum amount of human review time
+that doesn't raise reverts or incidents »*, une approbation humaine **graduée
+par le risque** (zéro, une ou deux personnes) et un relecteur IA réévalué
+chaque jour sur les incidents passés. IT Revolution en tire un langage de neuf
+patrons, dont l'ingénierie de contexte, sous trois conditions (validation
+déterministe maximale, revue graduée, trace durable). Bartaguiz (Arolla) donne
+le contre-exemple chiffré : **100 %** de couverture annoncée par l'agent,
+**33 %** mesurés, **13,82 %** de score de mutation. En parallèle, le contexte
+se **filtre** et se **structure** : chez GPT Researcher, *« le seuil compte plus
+que le classement »* (73 % de passages pertinents contre 46 % aux embeddings) ;
+chez Gohel, la procédure se stocke *« as a graph instead of a prompt »*, à côté
+d'un knowledge graph et d'un context graph scopé par décision.
 
 ## Chronologie
 
@@ -275,6 +293,71 @@ un chantier d'entreprise au même rang que le harnais.
   (environnement, sandbox, skills) et de la sécurité par zones. Taillade :
   organiser la connaissance était jusqu'ici une activité qui *« n'existait qu'à
   la peine »*.
+- **14 sept. 2026** — **Test impact analysis chez Anthropic** (Malhotra) :
+  **8×** plus de code livré par ingénieur, **80 %** écrit par Claude, **25×** de
+  jobs CI en six mois. Trois rustines dont la durée de vie tombe de **70 jours**
+  à **29 jours** puis à **moins d'un jour**, avant une refonte en workers
+  *listener* sans état : trois semaines pour un ingénieur.
+- **14 sept. 2026** — **Fable 5.1 et Gemini 3.8 Flash dans la même équipe**
+  (Blount, Google Cloud) : le modèle rapide en coordinateur de première ligne,
+  le planificateur profond aux points de contrôle, un outil `ask_for_help` pour
+  l'escalade, et la consigne *« Keep it boring »* contre les routeurs dynamiques.
+  Même routage par frontière de tâche que `shunt`.
+- **14-28 sept. 2026** — **Le rôle de l'ingénieur.** Felker propose l'*agentic
+  builder* (codifier son savoir en skills, penser en système) ; DHH annonce que
+  37signals passe *« pencils down »* sur le code écrit à la main et tient que
+  *« il n'y a plus de valeur dans le code, seulement dans les intuitions de
+  process »*.
+- **22 sept. 2026** — **Factory** (Eno Reyes) : la *software factory* comme
+  boucle de signaux ; le goulot n'est plus le modèle mais le **harnais**, puis
+  l'**agent readiness** de l'organisation (**150+ signaux** suivis).
+- **26 sept. 2026** — **Context Filter de GPT Researcher** (Elovic) : blocs de
+  1 000 caractères notés de 0 à 3 par **Jev**, seuil à 1,5, dix blocs au plus ;
+  **73 %** de passages pertinents contre **46 %** aux embeddings, au même coût.
+  Sans seuil, le filtre retombe à 50 %.
+- **28 sept. 2026** — **`/claude-api build-eval` et `hillclimb`** (Lance Martin,
+  Anthropic) : quatre propriétés d'une bonne évaluation, une modification par
+  tour, jeu train/test séparé ; la skill claude-api passe de **66 %** à ~**88 %**
+  sur sa propre évaluation.
+- **30 sept. 2026** — **« Toward a Pattern Language for Code Reviews in the Age
+  of Agentic AI »** (IT Revolution, sept auteurs) : neuf patrons composables,
+  *« no human in the loop »* présenté comme un choix de configuration ; cas
+  Cloudflare à **131 246** revues sur 48 095 PR en un mois.
+
+### 2026 — Octobre : la preuve plutôt que la relecture
+
+- **1er oct. 2026** — **Meppiel** (Microsoft/GitHub) : quatre points d'entrée
+  pour un SDLC agentique d'entreprise, dont traiter les skills comme du logiciel
+  avec **APM** (sources contrôlées, versions épinglées, audit des dépendances) ;
+  *« Keep what works. Add what you can maintain. »*
+- **1er oct. 2026** — **Mollick, « The Dot and the Swarm »** : la Leçon amère
+  appliquée à l'organisation des agents ; les chaînes de prompts et systèmes
+  d'alimentation en contexte élaborés ont été dépassés par des modèles qui
+  cherchent et planifient seuls ; essaim OpenAI de **88 heures** et ~**2,7 M**
+  de messages à coordination *« remarkably thin »*.
+- **9 oct. 2026** — **Osmani, les trois joies** (*making*, *knowing*,
+  *mattering*) : la compréhension du code est la plus exposée — *« si vous ne
+  comprenez pas votre propre base de code, c'est l'agent qui vous dirige »*.
+- **14 oct. 2026** — **Linux abandonne le tag `Assisted-by`** (The Register) :
+  consensus du Maintainers Summit ; Torvalds rejette les règles *« you can't use
+  tools for X »*, seule compte la compréhension du code.
+- **14 oct. 2026** — **Osmani, « Agentic Verification »** : le travail humain
+  passe de *« review every line »* à *« build loops the agent can run
+  itself »* ; une boucle lente ou non déterministe apprend à l'agent à relancer
+  plutôt qu'à corriger ; écrire le contrôle avant le code.
+- **15 oct. 2026** — **La revue de code de l'équipe Claude Code** (Osmani, Lunt,
+  Wang) : ~**90 %** du code écrit par Claude, PR fusionnées plus que doublées de
+  juin à septembre et part revertée en baisse de plus de **40 %** ; monorepo
+  Anthropic passé de ~**2 500** à plus de **30 000** changements quotidiens ;
+  plafond de trois rondes de revue.
+- **15 oct. 2026** — **Bartaguiz (Arolla), Dev With AI** : *« Mutation Testing :
+  détecteur de mensonges des tests générés par IA »* ; le cas refait en SDLC
+  craft (Example Mapping, TDD, DDD, hexagonal) ; *« Software factories = Loop
+  Engineering + Harness Engineering + Supervision humaine »*.
+- **25 oct. 2026** — **Gohel, trois graphes** : knowledge graph (*what is
+  true*), context graph scopé par décision (*what matters now*), procedural
+  graph en triplets procédure-relation-procédure (*what to do next*) ; les
+  traces de succès et d'échec réécrivent les trois.
 
 ## Fiches sources
 
@@ -299,6 +382,13 @@ un chantier d'entreprise au même rang que le harnais.
 - [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook (Claxton) : six étapes en boucle, un artefact committé par gate, skill consultative vs hook déterministe]]
 - [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for? (Houck, DX) : +106 % de lignes par diff chez Meta, les défauts ne pèsent que 14 % des commentaires, stratification par risque]]
 - [[fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02\|Maybe We Shouldn't Be Reviewing All This Code (Laycock) : réponse à Houck, fonctions réaffectées en amont, revue par exception]]
+- [[fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14\|Agentic coding is straining CI (Malhotra, Anthropic) : 25× de jobs CI en six mois, rustines à 70, 29 puis moins d'un jour, listeners sans état]]
+- [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Toward a Pattern Language for Code Reviews (IT Revolution) : neuf patrons, revue graduée par le risque, trace durable des décisions d'agent]]
+- [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (Meppiel) : quatre points d'entrée, skills versionnées avec APM, catalogue gouverné]]
+- [[fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14\|Linux kernel devs drop the Assisted-by tag (The Register) : consensus des mainteneurs, Torvalds contre les règles « you can't use tools for X »]]
+- [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification (Osmani) : boucles auto-vérifiantes, tests E2E, de propriétés et différentiels, le contrôle écrit avant le code]]
+- [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review : sept couches, approbation graduée par le risque, relecteur évalué sur les incidents passés]]
+- [[fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15\|Quand la vélocité explose, place au Harness Engineering (Bartaguiz) : 100 % de couverture annoncée, 33 % mesurés, mutation testing à 13,82 %]]
 
 ### Usines logicielles & boucles
 
@@ -309,6 +399,8 @@ un chantier d'entreprise au même rang que le harnais.
 - [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz : aucune équipe ne bat le solo à horizon court, taxonomie QuickBee/WorkerBee/SmartBee]]
 - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz! — workspace humains+agents à canaux, chaque participant est une paire de clés Nostr]]
 - [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz (Petersen) : forge Git sur son propre relais, chaque push/revue/fusion est un événement Nostr signé]]
+- [[fiches/2026-09/reyes-factory-building-machine-software-2026-09-22\|Building the Machine That Builds the Software (Reyes, Factory) : boucle de signaux, goulot du harnais puis de l'agent readiness]]
+- [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm (Mollick) : la Leçon amère appliquée à l'organisation des agents, essaims à coordination mince]]
 
 ### Adoption, rôles & économie des tokens
 
@@ -316,6 +408,10 @@ un chantier d'entreprise au même rang que le harnais.
 - [[fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17\|Reflecting on a year of Claude Code : produit et ingénierie fusionnent — parce que livrer devient bon marché]]
 - [[fiches/2026-07/martignole-token-manifesto-2026-07-17\|The Token Manifesto : « You don't have a prompt problem. You have a context-window problem. »]]
 - [[fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03\|shunt (Spotify) : hooks PreToolUse à 350 lignes, I/O routée vers un modèle secondaire, ~90 % d'économie sur la lecture en masse]]
+- [[fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14\|Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team (Blount) : coordination asymétrique, escalade ask_for_help, « Keep it boring »]]
+- [[fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14\|The Evaporation of Software Engineering (Felker) : pendule de levier produit-ingénierie, rôle d'agentic builder]]
+- [[fiches/2026-09/heinemeier-hansson-end-of-hand-written-code-2026-09-28\|The End of Hand-Written Code (DHH) : 37signals « pencils down », plus de valeur dans le code que dans les intuitions de process]]
+- [[fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09\|The three joys of engineering (Osmani) : making, knowing, mattering ; la compréhension du code comme joie la plus exposée]]
 
 ### Protocoles & empaquetage (ACP, Agent Plugins)
 
@@ -331,6 +427,7 @@ un chantier d'entreprise au même rang que le harnais.
 - [[fiches/2026-08/graphify-net-annuaire-ia-coding-2026-08-06\|graphify.net : vitrine et annuaire — et un site officiel factuellement décalé de son propre dépôt]]
 - [[fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20\|ADHD — idéation divergente parallèle : correctif architectural à la convergence prématurée]]
 - [[fiches/2026-06/skill-pocock-grill-with-docs-2026-06\|grill-with-docs : interview adversariale du plan contre le modèle de domaine, CONTEXT.md + ADR inline]]
+- [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing (Lance Martin) : build-eval et hillclimb dans la skill claude-api, de 66 % à ~88 %]]
 
 ### Contexte, inconnues & jugement du modèle
 
@@ -348,6 +445,7 @@ un chantier d'entreprise au même rang que le harnais.
 - [[fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10-07\|Ingénierie de contexte agentique - Auto-amélioration LLM - Architecture réflexive - Stanford]]
 - [[fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06\|« Un agent n'a pas de bon sens » (Adeo × Decathlon) : la sémantique data comme chantier d'entreprise, une définition unique par concept métier]]
 - [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering - Domain Understanding - DICE - Rod Johnson]]
+- [[fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26\|Context Filter (GPT Researcher) : blocs notés par Jev, seuil à 1,5, 73 % de passages pertinents contre 46 % aux embeddings]]
 
 ### Harness Engineering
 
@@ -434,6 +532,7 @@ un chantier d'entreprise au même rang que le harnais.
 - [[fiches/2025-06/netflix-uda-unified-data-architecture-knowledge-graph-2025-06-12\|Architecture données unifiée Netflix, knowledge graph RDF/SHACL, modélisation domaine]]
 - [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique (Seale) : symétrie (modèle + harnais) ↔ (ontologie + données), l'ontologie seul actif non-commodité]]
 - [[fiches/2026-05/talisman-modern-data-101-ontology-pipeline-refresh-2026-05-04\|Ontology Pipeline rafraîchi (Talisman) : gouvernance continue, partenariat IA augment vs replace, SKOS/OWL/RDF]]
+- [[fiches/2026-10/gohel-knowledge-context-procedural-graph-2026-10-25\|Knowledge Graph. Context Graph. Procedural Graph. (Gohel) : trois graphes pour décider, procédure en triplets, Semantic Spine]]
 
 ## Entités clés
 
@@ -625,3 +724,8 @@ Deux corollaires d'architecture de cycle :
 28. **On n'indexe jamais un sigle seul** — l'entité est le nom complet, le sigle n'est qu'un alias, et trois entités peuvent le porter (Girard)
 29. **La skill conseille, le hook contraint** — un contrôle consultatif rend la violation rare, un contrôle déterministe la rend quasi impossible ; une politique sans exception a besoin des deux, jamais de la seule skill (Claxton/Anthropic)
 30. **La confiance peut se prouver après coup plutôt que s'autoriser avant** — signer chaque geste (quel agent a produit le patch, quel humain l'a autorisé) est une alternative aux garde-fous imposés en amont (Petersen/Block)
+31. **Une bien meilleure boucle de feedback vaut mieux qu'un modèle un peu meilleur** — écrire le contrôle avant le code, et le garder rapide et déterministe, sinon l'agent apprend à relancer plutôt qu'à corriger (Osmani)
+32. **La revue humaine se dose, elle ne se généralise pas** — viser le minimum de temps humain qui n'augmente ni les reverts ni les incidents, avec une approbation graduée par le risque (équipe Claude Code ; IT Revolution)
+33. **La couverture annoncée par un agent n'est pas une mesure** — le mutation testing départage les tests qui vérifient de ceux qui exécutent (Bartaguiz : 100 % annoncés, 33 % mesurés, 13,82 % de mutants tués)
+34. **Pour filtrer le contexte, le seuil compte plus que le classement** — le gain vient de moins de bruit, pas de plus de contenu (Elovic/GPT Researcher)
+35. **Stocker la procédure comme un graphe plutôt que comme un prompt** — et scoper le graphe à chaque décision au lieu de tout récupérer (Gohel)

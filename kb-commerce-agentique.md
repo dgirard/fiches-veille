@@ -1,6 +1,6 @@
 # Knowledge Base — Commerce Agentique (UCP/ACP)
 
-> 15 fiches | Période : Février 2025 — Septembre 2026 | Mis à jour le 2026-09-12
+> 19 fiches | Période : Février 2025 — Octobre 2026 | Mis à jour le 2026-10-26
 
 ## Vue d'ensemble
 
@@ -25,6 +25,17 @@ Trois faits, dans cet ordre :
    responsable de 10 $, vous vous inquiétez moins que s'il l'est de 1 000 $ »* :
    la limite n'est pas ce qui bride l'autonomie, c'est ce qui la rend
    **consentable**.
+
+**L'automne 2026 pose la question de l'accès.** Le 29 septembre, Ryan Sarver
+part d'un fait : **Amazon a bloqué Muse** (Meta), et les utilisateurs ont perdu
+leur agent d'achat sur le site, *« a side effect of a dispute I had no say
+in »*. Une semaine plus tard, **Meta et Sierra** annoncent avec Shopify, Stripe
+et Walmart le **Personal Agent Protocol**, qui fixe la règle inverse : le
+consommateur décide de l'accès accordé à son agent, l'entreprise fixe ce que
+l'agent peut faire, par une session fondée sur OAuth. L'**Oliver Wyman Forum**
+chiffre le terrain (l'IA est le point de départ de **33,3 %** des achats, **79 %**
+des parcours simulés butent après la recommandation) et nomme la discipline
+attendue des marques : la **shopping agent optimization**.
 
 **Avertissement de nommage, valable pour toute lecture de ce corpus** : le sigle
 **ACP** désigne **trois protocoles sans intersection technique** — *Agentic
@@ -107,6 +118,34 @@ lui-même (cf. fiche Girard, août 2026) : **on n'indexe jamais un sigle seul**.
   c'est plus facile d'avoir des réponses sur le bricolage chez ChatGPT ou sur
   YouTube que chez moi, le problème il est chez moi »*.
 
+### Septembre-octobre 2026 — l'agent personnel et la porte du marchand
+
+- **20 sept. 2026** — **Philippe Corrot** (Mirakl) : la place de marché
+  prélève un pourcentage **sur les transactions**, *« que ce soit une IA qui
+  achète ou un client physique, pour nous ça ne change rien »* ; près de
+  **100 000 vendeurs** connectés. En interne, l'agent **OneHelp** double la
+  satisfaction client et multiplie par dix les utilisateurs du support à
+  effectif constant.
+- **29 sept. 2026** — **Ryan Sarver, « Personal AI Should Actually Be
+  Personal »** : après le blocage de **Muse** par Amazon, une définition de
+  l'IA personnelle (possédée, un seul mandant, contrat lisible, exécution où
+  l'on choisit) et une pile en cinq couches ; **Instinct** est cité pour sa
+  licence *« perpétuelle et irrévocable »*.
+- **6 oct. 2026** — **Personal Agent Protocol** (Bret Taylor et Clay Bavor,
+  Sierra) : standard ouvert porté par **Meta** et **Sierra** avec Genesys,
+  Instinct, Rocket, **Shopify**, **Stripe** et **Walmart**. Découverte depuis le
+  site, session invitée puis authentifiée (lecture ou écriture) fondée sur
+  **OAuth**, trois voies d'accès (site, API dont MCP et OpenAPI, agent de
+  l'entreprise). Spécification **v0.1 prévue en octobre** ; paiements sans
+  partage de carte au rang des extensions envisagées. Ni format de message ni
+  gouvernance détaillés.
+- **15 oct. 2026** — **Oliver Wyman Forum, « The AI Agenda 2026 »**, chapitre
+  commerce : point de départ des achats moteur de recherche **43,6 %**, IA
+  **33,3 %** ; **88 %** des sources citées en simulation sont indépendantes des
+  marques ; **79 %** des 62 parcours simulés rencontrent un obstacle ; **49 %**
+  laisseraient un agent dépenser sans validation préalable (épicerie 28 %, prêt
+  7 %) ; côté vendeur, vérifier l'agent, le client et le **mandat**.
+
 ## Fiches sources
 
 ### Portefeuilles et autorisation de paiement agentique
@@ -114,6 +153,11 @@ lui-même (cf. fiche Girard, août 2026) : **on n'indexe jamais un sigle seul**.
 - [[fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29\|Giving agents the ability to pay (Stripe) : portefeuille Link pour agents, Issuing for agents, approbation transaction par transaction]]
 - [[fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04\|Cloudflare Wallets : Virtual Wallets pour agents, rail x402/stablecoin et espace de noms cloudflare.pay]]
 - [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI : la monétisation par les coûts avant le prix, Moneybot/Managerbot, Square dans Google Maps]]
+
+### Agents personnels et accès aux marchands
+
+- [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal (Sarver) : Amazon bloque Muse, IA possédée à un seul mandant, pile en cinq couches]]
+- [[fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06\|Introducing Personal Agent Protocol (Sierra, Meta) : accès décidé par le consommateur, périmètre fixé par l'entreprise, session OAuth]]
 
 ### Protocoles et guides ACP / UCP
 
@@ -130,6 +174,8 @@ lui-même (cf. fiche Girard, août 2026) : **on n'indexe jamais un sigle seul**.
 - [[fiches/2025-10/novik-ai-online-shopping-consumers-2025-10-26\|73% consommateurs utilisent IA pour achats en ligne, confiance équivalente vendeurs humains]]
 - [[fiches/2025-11/barron-ernst-rise-of-commerce-chatgpt-2025-11-08\|L'essor du commerce sur ChatGPT]]
 - [[fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22\|Web conversationnel, ChatGPT Atlas, e-commerce conversationnel]]
+- [[fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20\|Philippe Corrot (Mirakl), Les Pirates de l'IA : commission sur transaction indifférente à l'acheteur, ~100 000 vendeurs, agent OneHelp]]
+- [[fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15\|The AI Agenda 2026 (Oliver Wyman Forum) : IA à 33,3 % comme point de départ des achats, 79 % de parcours bloqués, shopping agent optimization]]
 - [[fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06\|Adeo × Decathlon : l'agent du client comme nouvel interlocuteur, « disparaître de la conversation », parcours hybrides sur les achats engageants]]
 
 ### Visibilité et découverte IA
@@ -296,4 +342,8 @@ La couche disputée n'est plus le **checkout** (ACP/UCP) mais le **portefeuille*
 - **Cloudflare Wallets, jour de l'annonce** : seule la **réservation d'un handle** est en service — une prise de position sur un espace de noms plus qu'une mise en service
 - **L'AEO reformulé côté marchand** : la requête qui cite la marque garde le vendeur dans la conversation, la même sans la marque l'en sort — et c'est la seconde qui gagne, parce que le client fait toujours moins d'effort (Decathlon, sept. 2026)
 - **Le parcours n'est plus imposé par le vendeur** : avec un agent en face, l'ordre de la discussion appartient au client — contrainte de **socle technique** (appels par seconde) autant que de conception
+- **Amazon bloque Muse** (Meta) comme *« unauthorized AI agent »* (sept. 2026) — premier cas documenté dans le corpus d'un marchand qui ferme sa porte à un agent d'achat grand public
+- **Personal Agent Protocol** : l'accès est décidé par le consommateur, le périmètre par l'entreprise — réponse protocolaire au blocage, v0.1 annoncée pour octobre 2026
+- **Oliver Wyman Forum (oct. 2026)** : **48 %** de la génération Z commence ses achats par l'IA ; **70 %** des fiches produit auditées sont incomplètes pour un agent ; **54 %** considéreraient une marque inconnue si l'IA la juge la plus adaptée ; **68 %** feraient moins confiance à un assistant affichant des placements payés ; aucun fournisseur d'agent n'atteint **30 %** de confiance
+- **Commission sur transaction** : un modèle indifférent à la nature de l'acheteur, humain ou agent (Mirakl)
 - **Les parcours restent hybrides sur l'engageant** : le client délègue le simple et peu risqué, pas l'achat cher ou durable ; la moitié des dépenses chez Leroy Merlin relève de projets construits en semaines
