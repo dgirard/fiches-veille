@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 3088 entités avec moins de 3 triples/fiches
+> 3109 entités avec moins de 3 triples/fiches
 
-## PERSONNE (415)
+## PERSONNE (421)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -580,6 +580,16 @@
 - **utilise** → suivi systématique de 13 vertus (METHODOLOGIE) — 0.93
 
 **Fiches** : [[fiches/2026-03/ralmuto-rebuttal-andreessen-introspection-history-2026-03-17\|Rebuttal to Marc Andreessen on Introspection]]
+
+### Beth Stackpole {#Beth-Stackpole}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Rédactrice, MIT Sloan Ideas Made to Matter
+
+- **publie** → [[kb/_entites-mineures#article-A-framework-for-determining-when-AI-can-make-decisions\|article A framework for determining when AI can make decisions]] (DOCUMENT) — 0.98
+
+**Fiches** : [[fiches/2026-09/stackpole-mit-sloan-ai-decision-matrix-2026-09-22\|A framework for determining when AI can make decisions]]
 
 ### Bharat N. Anand {#Bharat-N.-Anand}
 
@@ -1635,6 +1645,17 @@
 
 **Fiches** : [[fiches/2025-08/block-goose-mcp-ui-future-agentic-interfaces-2025-08-25\|Block's Goose and the Future of Agentic Interfaces via Model Context Protocol]], [[fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25\|MCP-UI: The Future of Agentic Interfaces]]
 
+### Ina Sebastian {#Ina-Sebastian}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Research scientist, MIT CISR
+
+- **a_créé** → [[kb/AI-Decision-Matrix\|AI Decision Matrix]] (METHODOLOGIE) — 0.96
+- **affirme_que** → « la même capacité IA peut être sûre dans un contexte et risquée dans un autre » (AFFIRMATION) — 0.95
+
+**Fiches** : [[fiches/2026-09/stackpole-mit-sloan-ai-decision-matrix-2026-09-22\|A framework for determining when AI can make decisions]]
+
 ### Ivan Klaric {#Ivan-Klaric}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1692,6 +1713,14 @@
 - **dirige** → [[kb/_entites-mineures#DryRun-Security\|DryRun Security]] (ORGANISATION) — 0.95
 
 **Fiches** : [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
+
+### Jan vom Brocke {#Jan-vom-Brocke}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Academic research fellow MIT CISR, professeur Université de Münster, directeur ERCIS
+
+**Fiches** : [[fiches/2026-09/stackpole-mit-sloan-ai-decision-matrix-2026-09-22\|A framework for determining when AI can make decisions]]
 
 ### Janice Manningham {#Janice-Manningham}
 
@@ -1815,6 +1844,17 @@
 - **publie** → [[kb/_entites-mineures#Reactionary-Modernism\|Reactionary Modernism]] (DOCUMENT) — 0.95
 
 **Fiches** : [[fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20\|WHAT IF THE FUTURE DOES NOT NEED YOU ?]]
+
+### Jens Kengelbach {#Jens-Kengelbach}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Co-auteur, BCG (M&A)
+
+- **publie** → [[kb/_entites-mineures#article-How-Non-AI-Companies-Win-at-AI-Dealmaking\|article How Non-AI Companies Win at AI Dealmaking]] (DOCUMENT) — 0.97
+- **travaille_chez** → [[kb/Boston-Consulting-Group\|Boston Consulting Group]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-09/kengelbach-bcg-non-ai-companies-ai-dealmaking-2026-09-21\|How Non-AI Companies Win at AI Dealmaking]]
 
 ### Jensen Huang {#Jensen-Huang}
 
@@ -3007,6 +3047,17 @@
 
 **Fiches** : [[fiches/2026-06/lushbinary-loop-engineering-ai-coding-agents-guide-2026-06-09\|Loop Engineering: The Guide for AI Agents]], [[fiches/2026-06/ng-thebatch-359-3-product-development-loops-2026-06-26\|3 Key Product Development Loops (The Batch, Issue 359 — « Dear friends » letter)]]
 
+### Peter Weill {#Peter-Weill}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Senior research scientist MIT Sloan, chairman du MIT CISR
+
+- **a_créé** → [[kb/AI-Decision-Matrix\|AI Decision Matrix]] (METHODOLOGIE) — 0.96
+- **dirige** → [[kb/MIT-CISR\|MIT CISR]] (ORGANISATION) — 0.92
+
+**Fiches** : [[fiches/2026-09/stackpole-mit-sloan-ai-decision-matrix-2026-09-22\|A framework for determining when AI can make decisions]]
+
 ### Phil Williammee {#Phil-Williammee}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -3789,6 +3840,14 @@
 
 **Fiches** : [[fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14\|Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code,…]]
 
+### Thomas Haskamp {#Thomas-Haskamp}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Academic research fellow MIT CISR, professeur assistant Université de Münster
+
+**Fiches** : [[fiches/2026-09/stackpole-mit-sloan-ai-decision-matrix-2026-09-22\|A framework for determining when AI can make decisions]]
+
 ### Thomas Kurian {#Thomas-Kurian}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -4178,7 +4237,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (330)
+## ORGANISATION (332)
 
 ### 10x {#10x}
 
@@ -4640,18 +4699,6 @@
 - [[kb/Project-Prometheus\|Project Prometheus]] **collabore_avec** → Blue Origin — 0.88
 
 **Fiches** : [[fiches/2025-11/lichtenberg-fortune-bezos-project-prometheus-ai-startup-2025-11-17\|Jeff Bezos is reportedly becoming a CEO again—and it's for a $6.2 billion AI startup called 'Project Prometheus']]
-
-### Boston Consulting Group {#Boston-Consulting-Group}
-
-**Type** : ORGANISATION | 2 relations | 1 fiches
-
-- **secteur** : Conseil en stratégie
-
-- **a_créé** → étude 1488 salariés US sur AI brain fry (DOCUMENT) — 0.98
-
-- [[kb/Ethan-Mollick\|Ethan Mollick]] **collabore_avec** → Boston Consulting Group — 0.95
-
-**Fiches** : [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
 
 ### Breakthrough Energy {#Breakthrough-Energy}
 
@@ -5867,6 +5914,16 @@
 
 **Fiches** : [[fiches/2026-03/greyling-cli-vs-ide-development-environment-collapse-2026-03-09\|CLI vs IDE — The Development Environment Is The Next Layer To Collapse]], [[fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04\|The Next Collapsing Tech Cost Is Software Itself]]
 
+### L'Oréal {#L'Oréal}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Cosmétique, partenariat Nvidia (2025, étendu à la R&D en 2026)
+
+- **collabore_avec** → [[kb/Nvidia\|Nvidia]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-09/kengelbach-bcg-non-ai-companies-ai-dealmaking-2026-09-21\|How Non-AI Companies Win at AI Dealmaking]]
+
 ### LaunchDarkly {#LaunchDarkly}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -6767,6 +6824,16 @@
 
 **Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]]
 
+### Schneider Electric {#Schneider-Electric}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Industrie (énergie, automatismes), intègre Cognite dans AVEVA
+
+- **utilise** → [[kb/_entites-mineures#Cognite\|Cognite]] (TECHNOLOGIE) — 0.85
+
+**Fiches** : [[fiches/2026-09/kengelbach-bcg-non-ai-companies-ai-dealmaking-2026-09-21\|How Non-AI Companies Win at AI Dealmaking]]
+
 ### Seagate {#Seagate}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -6796,6 +6863,16 @@
 - **emploie** → [[kb/_entites-mineures#Wei-Zhou\|Wei Zhou]] (PERSONNE) — 0.99
 
 **Fiches** : [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|L'ère des assistants de codage IA bon marché pourrait être révolue]]
+
+### Shell {#Shell}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Énergie, alliance SparkCognition (2023) pour l'exploration
+
+- **collabore_avec** → SparkCognition (ORGANISATION) — 0.94
+
+**Fiches** : [[fiches/2026-09/kengelbach-bcg-non-ai-companies-ai-dealmaking-2026-09-21\|How Non-AI Companies Win at AI Dealmaking]]
 
 ### ShinyHunters {#ShinyHunters}
 
@@ -7573,7 +7650,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (686)
+## TECHNOLOGIE (687)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -8940,6 +9017,16 @@
 - **fait_partie_de** → [[kb/_entites-mineures#Harness-as-a-Service\|Harness-as-a-Service]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
+
+### Cognite {#Cognite}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Plateforme cloud de données industrielles avec IA agentique, rachat annoncé par Schneider Electric en 2026
+
+- [[kb/_entites-mineures#Schneider-Electric\|Schneider Electric]] **utilise** → Cognite — 0.85
+
+**Fiches** : [[fiches/2026-09/kengelbach-bcg-non-ai-companies-ai-dealmaking-2026-09-21\|How Non-AI Companies Win at AI Dealmaking]]
 
 ### Colossus {#Colossus}
 
@@ -14773,7 +14860,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1030)
+## CONCEPT (1033)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -20325,6 +20412,16 @@
 
 **Fiches** : [[fiches/2026-04/law-ahrefs-content-engineering-claude-code-2026-04-28\|How I Do Content Engineering With Claude Code]]
 
+### centre d'excellence IA {#centre-d'excellence-IA}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Entité qui porte fondations data, architecture, orchestration des agents et politique d'IA responsable
+
+- **permet** → [[kb/_entites-mineures#droits-de-décision\|droits de décision]] (CONCEPT) — 0.80
+
+**Fiches** : [[fiches/2026-09/stackpole-mit-sloan-ai-decision-matrix-2026-09-22\|A framework for determining when AI can make decisions]]
+
 ### challenges et containments {#challenges-et-containments}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -21320,6 +21417,17 @@
 - **définition** : Capacité de quitter un fournisseur sans réécrire son système ; argument central en faveur des poids ouverts, adossé au coût constaté des sorties de cloud
 
 **Fiches** : [[fiches/2026-07/mozilla-state-of-open-source-ai-2026-07\|The state of open source AI (v1.0.1, juillet 2026)]]
+
+### droits de décision {#droits-de-décision}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Attribution, par composante de décision, de qui cadre, agit et apprend entre humains et IA
+
+- [[kb/AI-Decision-Matrix\|AI Decision Matrix]] **utilise** → droits de décision — 0.92
+- [[kb/_entites-mineures#centre-d'excellence-IA\|centre d'excellence IA]] **permet** → droits de décision — 0.80
+
+**Fiches** : [[fiches/2026-09/stackpole-mit-sloan-ai-decision-matrix-2026-09-22\|A framework for determining when AI can make decisions]]
 
 ### dual-level retrieval {#dual-level-retrieval}
 
@@ -23387,6 +23495,18 @@
 
 **Fiches** : [[fiches/2026-06/williams-adlc-5-three-dials-parallel-agents-2026-06-12\|Three Dials: Parallel Agents Without Merge Hell]]
 
+### quatre modes de travail avec l'IA {#quatre-modes-de-travail-avec-l'IA}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Délégation, collaboration, question rapide, exploration ; intensité humaine × intensité agent ; placement qualitatif
+
+- **fait_partie_de** → [[kb/_entites-mineures#Work-Trend-Index-2026\|Work Trend Index 2026]] (DOCUMENT) — 0.94
+
+- [[kb/priorisation-par-portefeuille-de-décisions\|priorisation par portefeuille de décisions]] **utilise** → quatre modes de travail avec l'IA — 0.90
+
+**Fiches** : [[fiches/2026-10/suchaud-wenvision-fin-valeur-faisabilite-prioriser-ia-2026-10-22\|La fin de Valeur × Faisabilité : pourquoi la matrice produit ne sait plus prioriser l'IA]]
+
 ### quatre observations {#quatre-observations}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -24829,7 +24949,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (401)
+## METHODOLOGIE (404)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -27864,6 +27984,20 @@
 
 **Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
 
+### grille Adopt Partner Build Buy {#grille-Adopt-Partner-Build-Buy}
+
+**Type** : METHODOLOGIE | 4 relations | 2 fiches
+
+- **définition** : Grille BCG différenciation × disponibilité sur le marché pour sécuriser une capacité IA
+
+- **utilise** → [[kb/_entites-mineures#six-signaux-de-sécurisation-d'une-capacité-IA\|six signaux de sécurisation d'une capacité IA]] (METHODOLOGIE) — 0.94
+- **affine** → deploy-reshape-invent (CONCEPT) — 0.82
+
+- [[kb/Boston-Consulting-Group\|Boston Consulting Group]] **a_créé** → grille Adopt Partner Build Buy — 0.96
+- [[kb/priorisation-par-portefeuille-de-décisions\|priorisation par portefeuille de décisions]] **utilise** → grille Adopt Partner Build Buy — 0.92
+
+**Fiches** : [[fiches/2026-09/kengelbach-bcg-non-ai-companies-ai-dealmaking-2026-09-21\|How Non-AI Companies Win at AI Dealmaking]], [[fiches/2026-10/suchaud-wenvision-fin-valeur-faisabilite-prioriser-ia-2026-10-22\|La fin de Valeur × Faisabilité : pourquoi la matrice produit ne sait plus prioriser l'IA]]
+
 ### idéation divergente parallèle {#idéation-divergente-parallèle}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -28003,6 +28137,17 @@
 - **mécanique** : sandbox Slack → traction → promotion par PR
 
 **Fiches** : [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
+
+### matrice Valeur × Faisabilité {#matrice-Valeur-×-Faisabilité}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : 2×2 de priorisation produit (valeur en ordonnée, faisabilité en abscisse), famille RICE / MoSCoW / Valeur-Effort
+
+- [[kb/Nicolas-Suchaud\|Nicolas Suchaud]] **s_oppose_à** → matrice Valeur × Faisabilité — 0.90
+- [[kb/priorisation-par-portefeuille-de-décisions\|priorisation par portefeuille de décisions]] **remplace** → matrice Valeur × Faisabilité — 0.88
+
+**Fiches** : [[fiches/2026-10/suchaud-wenvision-fin-valeur-faisabilite-prioriser-ia-2026-10-22\|La fin de Valeur × Faisabilité : pourquoi la matrice produit ne sait plus prioriser l'IA]]
 
 ### merge-forecast {#merge-forecast}
 
@@ -28587,6 +28732,16 @@
 - **définition** : Doctrine canonique Uber : *« Every JWT minted by the STS is intended for a single hop, with a specific Audience claim and a short time-to-live in the order of minutes »* — blast radius minimal en cas de vol
 
 **Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
+
+### six signaux de sécurisation d'une capacité IA {#six-signaux-de-sécurisation-d'une-capacité-IA}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Différenciation ; urgence et banalisation ; capacité du marché ; intégration, gouvernance, contrôle ; économie de la cible ; optionalité et lock-in
+
+- [[kb/_entites-mineures#grille-Adopt-Partner-Build-Buy\|grille Adopt Partner Build Buy]] **utilise** → six signaux de sécurisation d'une capacité IA — 0.94
+
+**Fiches** : [[fiches/2026-09/kengelbach-bcg-non-ai-companies-ai-dealmaking-2026-09-21\|How Non-AI Companies Win at AI Dealmaking]]
 
 ### skills (analytics) {#skills-(analytics)}
 
@@ -29472,7 +29627,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (168)
+## DOCUMENT (174)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -29493,6 +29648,16 @@
 - [[kb/Anthropic\|Anthropic]] **publie** → 2026 Agentic Coding Trends Report — 0.99
 
 **Fiches** : [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|2026 Agentic Coding Trends Report — How coding agents are reshaping software development]]
+
+### 2026 M&A Report {#2026-M&A-Report}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **catégorie** : Série de rapports M&A annuels de BCG
+
+- [[kb/_entites-mineures#article-How-Non-AI-Companies-Win-at-AI-Dealmaking\|article How Non-AI Companies Win at AI Dealmaking]] **fait_partie_de** → 2026 M&A Report — 0.95
+
+**Fiches** : [[fiches/2026-09/kengelbach-bcg-non-ai-companies-ai-dealmaking-2026-09-21\|How Non-AI Companies Win at AI Dealmaking]]
 
 ### A Programming Paradigm for Spatiotemporal Composability {#A-Programming-Paradigm-for-Spatiotemporal-Composability}
 
@@ -29803,6 +29968,17 @@
 - **référence** : Classement public de harnais de deep research ; la position de tête revendiquée par hyperresearch est une projection prospective auto-administrée, validation tierce en attente
 
 **Fiches** : [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
+
+### Designing Decision Rights for AI {#Designing-Decision-Rights-for-AI}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **catégorie** : Research briefing MIT CISR, 2026
+
+- [[kb/_entites-mineures#article-A-framework-for-determining-when-AI-can-make-decisions\|article A framework for determining when AI can make decisions]] **est_basé_sur** → Designing Decision Rights for AI — 0.96
+- [[kb/MIT-CISR\|MIT CISR]] **publie** → Designing Decision Rights for AI — 0.95
+
+**Fiches** : [[fiches/2026-09/stackpole-mit-sloan-ai-decision-matrix-2026-09-22\|A framework for determining when AI can make decisions]]
 
 ### EU AI Act {#EU-AI-Act}
 
@@ -30781,6 +30957,21 @@
 
 **Fiches** : [[fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20\|WHAT IF THE FUTURE DOES NOT NEED YOU ?]]
 
+### Work Trend Index 2026 {#Work-Trend-Index-2026}
+
+**Type** : DOCUMENT | 5 relations | 1 fiches
+
+- **catégorie** : Rapport annuel Microsoft, mai 2026, enquête Edelman Data & Intelligence auprès de 20 000 utilisateurs d'IA
+
+- **mesure** → « facteurs organisationnels 67 % vs individuels 32 % de l'impact déclaré de l'IA (20 000 salariés, 10 pays) » (MESURE) — 0.93
+- **mesure** → « 26 % voient leur direction alignée durablement sur l'IA ; 19 % des utilisateurs en zone Frontier » (MESURE) — 0.92
+
+- [[kb/Microsoft\|Microsoft]] **publie** → Work Trend Index 2026 — 0.97
+- [[kb/_entites-mineures#quatre-modes-de-travail-avec-l'IA\|quatre modes de travail avec l'IA]] **fait_partie_de** → Work Trend Index 2026 — 0.94
+- [[kb/_entites-mineures#article-La-fin-de-Valeur-×-Faisabilité\|article La fin de Valeur × Faisabilité]] **est_basé_sur** → Work Trend Index 2026 — 0.92
+
+**Fiches** : [[fiches/2026-10/suchaud-wenvision-fin-valeur-faisabilite-prioriser-ia-2026-10-22\|La fin de Valeur × Faisabilité : pourquoi la matrice produit ne sait plus prioriser l'IA]]
+
 ### Your Browser Does Math Differently on Every OS {#Your-Browser-Does-Math-Differently-on-Every-OS}
 
 **Type** : DOCUMENT | 1 relations | 1 fiches
@@ -30800,6 +30991,18 @@
 - [[kb/_entites-mineures#sécurité-du-SDLC-AI-native\|sécurité du SDLC AI-native]] **est_basé_sur** → Zero Trust for Agents — 0.90
 
 **Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
+
+### article A framework for determining when AI can make decisions {#article-A-framework-for-determining-when-AI-can-make-decisions}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **catégorie** : Article MIT Sloan Ideas Made to Matter, 22 septembre 2026
+
+- **est_basé_sur** → [[kb/_entites-mineures#Designing-Decision-Rights-for-AI\|Designing Decision Rights for AI]] (DOCUMENT) — 0.96
+
+- [[kb/_entites-mineures#Beth-Stackpole\|Beth Stackpole]] **publie** → article A framework for determining when AI can make decisions — 0.98
+
+**Fiches** : [[fiches/2026-09/stackpole-mit-sloan-ai-decision-matrix-2026-09-22\|A framework for determining when AI can make decisions]]
 
 ### article Agentic Verification {#article-Agentic-Verification}
 
@@ -30831,6 +31034,19 @@
 
 **Fiches** : [[fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16\|Build or surrender]]
 
+### article How Non-AI Companies Win at AI Dealmaking {#article-How-Non-AI-Companies-Win-at-AI-Dealmaking}
+
+**Type** : DOCUMENT | 3 relations | 1 fiches
+
+- **catégorie** : Article BCG du 21 septembre 2026 ; titre de page « How Non-Tech Companies Should Buy AI in 2026 »
+
+- **affirme_que** → « make ownership the exception and adaptability the rule » (CITATION) — 0.95
+- **fait_partie_de** → [[kb/_entites-mineures#2026-M&A-Report\|2026 M&A Report]] (DOCUMENT) — 0.95
+
+- [[kb/_entites-mineures#Jens-Kengelbach\|Jens Kengelbach]] **publie** → article How Non-AI Companies Win at AI Dealmaking — 0.97
+
+**Fiches** : [[fiches/2026-09/kengelbach-bcg-non-ai-companies-ai-dealmaking-2026-09-21\|How Non-AI Companies Win at AI Dealmaking]]
+
 ### article How the Claude Code team does code review {#article-How-the-Claude-Code-team-does-code-review}
 
 **Type** : DOCUMENT | 4 relations | 1 fiches
@@ -30854,6 +31070,19 @@
 - [[kb/_entites-mineures#Diogo-Almeida\|Diogo Almeida]] **publie** → article Introducing System One Models & Jev — 0.97
 
 **Fiches** : [[fiches/2026-09/almeida-system-one-models-jev-2026-09-15\|Introducing System One Models & Jev]]
+
+### article La fin de Valeur × Faisabilité {#article-La-fin-de-Valeur-×-Faisabilité}
+
+**Type** : DOCUMENT | 3 relations | 1 fiches
+
+- **catégorie** : Article WEnvision du 22 octobre 2026 avec carrousel de cinq planches
+
+- **est_basé_sur** → [[kb/_entites-mineures#Work-Trend-Index-2026\|Work Trend Index 2026]] (DOCUMENT) — 0.92
+- **référence** → [[kb/One-New-Zealand\|One New Zealand]] (ORGANISATION) — 0.88
+
+- [[kb/Nicolas-Suchaud\|Nicolas Suchaud]] **publie** → article La fin de Valeur × Faisabilité — 0.98
+
+**Fiches** : [[fiches/2026-10/suchaud-wenvision-fin-valeur-faisabilite-prioriser-ia-2026-10-22\|La fin de Valeur × Faisabilité : pourquoi la matrice produit ne sait plus prioriser l'IA]]
 
 ### article Linux kernel devs drop obligatory confession {#article-Linux-kernel-devs-drop-obligatory-confession}
 

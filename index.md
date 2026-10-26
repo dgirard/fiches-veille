@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 443 fiches | 1975-12 → 2026-10-21 | généré le 2026-10-26
+> 446 fiches | 1975-12 → 2026-10-22 | généré le 2026-10-26
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-10
 
+- **22** [La fin de Valeur × Faisabilité : pourquoi la matrice produit ne sait plus prioriser l'IA](fiches/2026-10/suchaud-wenvision-fin-valeur-faisabilite-prioriser-ia-2026-10-22.md) — Nicolas Suchaud — WEnvision (cabinet de conseil) ; hub Insights, rubrique Intelligence Artificielle. · WEnvision (Nicolas Suchaud) — priorisation IA, matrice Valeur × Faisabilité, quick wins
 - **21** [Eric Schmidt: Are We Ready for Superintelligence? | Podcast | In Good Company](fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21.md) — Eric Schmidt (invité), ancien PDG de Google ; Nicolai Tangen (hôte), directeur général de Norges Bank Investment Management. · In Good Company (NBIM) — superintelligence, AGI, découverte scientifique
 - **16** [Build or surrender](fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16.md) — Arthur Mensch (@arthurmensch) — cofondateur et directeur général de Mistral AI ; article publié sur X. · X — souveraineté IA, modèles de frontière, IA de frontière
 - **15** [Quand la vélocité explose avec l'IA, place au "Harness Engineering" !](fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15.md) — Dorra Bartaguiz — CTO d'Arolla (conseil et formation, « agentic software crafters ») ; slides de son talk Dev With AI publiées sur LinkedIn. · LinkedIn (slides Dev With AI) — harness engineering, vélocité, revue de code
@@ -37,6 +38,8 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **26** [Context Filter](fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26.md) — Assaf Elovic, créateur de GPT Researcher, auteur de la page (documentation officielle docs.gptr.dev, non signée). · GPT Researcher Docs — filtre de contexte, context filter, sélection de passages
 - **25** [Nope. It's still true. (post X en réponse à Noah Smith)](fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25.md) — Yann LeCun — fondateur et président d'AMI Labs, professeur à NYU, ex-Chief AI Scientist de Meta, prix Turing. Post X. · Yann LeCun (X) — Yann LeCun, AMI Labs, NYU
 - **22** [Building the Machine That Builds the Software | Eno Reyes, Co-Founder & CTO of Factory](fiches/2026-09/reyes-factory-building-machine-software-2026-09-22.md) — Eno Reyes — cofondateur et CTO de Factory ; conférence vidéo (FirstMark Capital). · YouTube — software factory, usine logicielle, Factory
+- **22** [A framework for determining when AI can make decisions](fiches/2026-09/stackpole-mit-sloan-ai-decision-matrix-2026-09-22.md) — Beth Stackpole — rédactrice, *MIT Sloan Ideas Made to Matter* ; recherche de Ina Sebastian, Peter Weill, Thomas Haskamp, Jan vom Brocke (MIT CISR). · MIT Sloan Ideas Made to Matter — droits de décision, decision rights, AI Decision Matrix
+- **21** [How Non-AI Companies Win at AI Dealmaking](fiches/2026-09/kengelbach-bcg-non-ai-companies-ai-dealmaking-2026-09-21.md) — Jens Kengelbach, Daniel Friedman, Lianne Pot, Georg Keienburg, Tobias Söllner — Boston Consulting Group ; série *The 2026 M&A Report*. · BCG — fusions-acquisitions IA, M&A, AI dealmaking
 - **20** [Philippe Corrot, fondateur de Mirakl](fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20.md) — Philippe Corrot, cofondateur et co-CEO de Mirakl, interrogé par Éric Hazan dans *Les Pirates de l'IA* (RCJ). · Les Pirates de l'IA (RCJ) — place de marché, marketplace, modèle de plateforme
 - **20** [WHAT IF THE FUTURE DOES NOT NEED YOU ?](fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20.md) — Asma Mhalla, politiste, autrice de *Technopolitique* ; newsletter *Dangerous Ideas* (Substack). · Dangerous Ideas — peur de devenir superflu, remplacement, compatibilité narrative
 - **15** [Introducing System One Models & Jev](fiches/2026-09/almeida-system-one-models-jev-2026-09-15.md) — Diogo Almeida — fondateur de TypeSafe AI, ancien chercheur chez OpenAI (billet du blog d'entreprise). · TypeSafe AI — System One, modèle de décision, Jev
@@ -793,6 +796,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Transformation & Adoption
 
+- [La fin de Valeur × Faisabilité : pourquoi la matrice produit ne sait plus prioriser l'IA](fiches/2026-10/suchaud-wenvision-fin-valeur-faisabilite-prioriser-ia-2026-10-22.md) — Nicolas Suchaud — WEnvision (cabinet de conseil) ; hub Insights, rubrique Intelligence Artificielle.
 - [Eric Schmidt: Are We Ready for Superintelligence? | Podcast | In Good Company](fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21.md) — Eric Schmidt (invité), ancien PDG de Google ; Nicolai Tangen (hôte), directeur général de Norges Bank Investment Management.
 - [How to be more ambitious: A tutorial for humans with models](fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13.md) — Felix Rieseberg — EM chez Anthropic (fonction affichée), co-mainteneur d'Electron ; blog personnel felixrieseberg.com.
 - [Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)](fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09.md) — Fred Cavazza (@fredcavazza) — auteur du post sur X ; fonction non indiquée dans le texte.
@@ -802,6 +806,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [The Dot and the Swarm: Benefitting from the Bitter Lesson](fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01.md) — Ethan Mollick — professeur à la Wharton School (University of Pennsylvania), auteur de *One Useful Thing* (Substack).
 - [The AI operating system: A new way for CEOs to run the enterprise](fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01.md) — Asutosh Padhi, Vik Sohoni (Chicago), Brian Elliott (Carolinas), Daniel Swan (Connecticut), Kim Baroudy (Copenhague) — senior partners, McKinsey (QuantumBlack).
 - [Building the Machine That Builds the Software | Eno Reyes, Co-Founder & CTO of Factory](fiches/2026-09/reyes-factory-building-machine-software-2026-09-22.md) — Eno Reyes — cofondateur et CTO de Factory ; conférence vidéo (FirstMark Capital).
+- [A framework for determining when AI can make decisions](fiches/2026-09/stackpole-mit-sloan-ai-decision-matrix-2026-09-22.md) — Beth Stackpole — rédactrice, *MIT Sloan Ideas Made to Matter* ; recherche de Ina Sebastian, Peter Weill, Thomas Haskamp, Jan vom Brocke (MIT CISR).
 - [Philippe Corrot, fondateur de Mirakl](fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20.md) — Philippe Corrot, cofondateur et co-CEO de Mirakl, interrogé par Éric Hazan dans *Les Pirates de l'IA* (RCJ).
 - [The Evaporation of Software Engineering (and the Rise of the Agentic Builder)](fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14.md) — Donn Felker (responsable plateforme IA chez Polygon, ex-Tinder, ex-co-animateur du podcast Fragmented), sur son Substack donnfelker.substack.com.
 - [Do you even need a presentation?](fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08.md) — Sumeet Gayathri Moghe (global head of culture and organisational design, Thoughtworks), publié sur martinfowler.com ; relecture éditoriale de Martin Fowler.
@@ -962,6 +967,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will completely vanish » — extrait de Fox & Friends First (Fox News, 29 mai 2025) avec Dario Amodei](fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02.md) — Yugen Matsuda — entrepreneur indépendant, compte X japonais ; post de relais d'un entretien de Dario Amodei (CEO d'Anthropic) diffusé sur Fox News.
 - [Personal AI Should Actually Be Personal](fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29.md) — Ryan Sarver (@rsarver), auteur du fil sur X ; fonction non indiquée dans le texte.
 - [The End of Hand-Written Code: A Conversation with David Heinemeier Hansson (DHH) on AI, Omarchy and the Future of Programming](fiches/2026-09/heinemeier-hansson-end-of-hand-written-code-2026-09-28.md) — David Heinemeier Hansson, créateur de Ruby on Rails et copropriétaire de 37signals, interrogé par Vikas Shah dans *Thought Economics*.
+- [How Non-AI Companies Win at AI Dealmaking](fiches/2026-09/kengelbach-bcg-non-ai-companies-ai-dealmaking-2026-09-21.md) — Jens Kengelbach, Daniel Friedman, Lianne Pot, Georg Keienburg, Tobias Söllner — Boston Consulting Group ; série *The 2026 M&A Report*.
 - [Philippe Corrot, fondateur de Mirakl](fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20.md) — Philippe Corrot, cofondateur et co-CEO de Mirakl, interrogé par Éric Hazan dans *Les Pirates de l'IA* (RCJ).
 - [WHAT IF THE FUTURE DOES NOT NEED YOU ?](fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20.md) — Asma Mhalla, politiste, autrice de *Technopolitique* ; newsletter *Dangerous Ideas* (Substack).
 - [Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team](fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14.md) — Alan Blount (Technical Solutions Consultant, Google Cloud, @zeroasterisk), publié sur le compte X @GoogleCloudTech.
@@ -1088,6 +1094,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Stratégie & Frameworks
 
+- [La fin de Valeur × Faisabilité : pourquoi la matrice produit ne sait plus prioriser l'IA](fiches/2026-10/suchaud-wenvision-fin-valeur-faisabilite-prioriser-ia-2026-10-22.md) — Nicolas Suchaud — WEnvision (cabinet de conseil) ; hub Insights, rubrique Intelligence Artificielle.
 - [Eric Schmidt: Are We Ready for Superintelligence? | Podcast | In Good Company](fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21.md) — Eric Schmidt (invité), ancien PDG de Google ; Nicolai Tangen (hôte), directeur général de Norges Bank Investment Management.
 - [Build or surrender](fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16.md) — Arthur Mensch (@arthurmensch) — cofondateur et directeur général de Mistral AI ; article publié sur X.
 - [How to be more ambitious: A tutorial for humans with models](fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13.md) — Felix Rieseberg — EM chez Anthropic (fonction affichée), co-mainteneur d'Electron ; blog personnel felixrieseberg.com.
@@ -1100,6 +1107,8 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI](fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30.md) — Zach Davis (LaunchDarkly), Michelle Gill (Engineered by AI), Elisabeth Hendrickson (Curious Duck), Angie Jones (Agentic AI Foundation), Sha Ma (Topogy), Randy Shoup (CircleCI), James Wickett (DryRun Security) ; article collectif, IT Revolution.
 - [Personal AI Should Actually Be Personal](fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29.md) — Ryan Sarver (@rsarver), auteur du fil sur X ; fonction non indiquée dans le texte.
 - [Building the Machine That Builds the Software | Eno Reyes, Co-Founder & CTO of Factory](fiches/2026-09/reyes-factory-building-machine-software-2026-09-22.md) — Eno Reyes — cofondateur et CTO de Factory ; conférence vidéo (FirstMark Capital).
+- [A framework for determining when AI can make decisions](fiches/2026-09/stackpole-mit-sloan-ai-decision-matrix-2026-09-22.md) — Beth Stackpole — rédactrice, *MIT Sloan Ideas Made to Matter* ; recherche de Ina Sebastian, Peter Weill, Thomas Haskamp, Jan vom Brocke (MIT CISR).
+- [How Non-AI Companies Win at AI Dealmaking](fiches/2026-09/kengelbach-bcg-non-ai-companies-ai-dealmaking-2026-09-21.md) — Jens Kengelbach, Daniel Friedman, Lianne Pot, Georg Keienburg, Tobias Söllner — Boston Consulting Group ; série *The 2026 M&A Report*.
 - [The agentic transformation office: Redefining the economics of change](fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01.md) — Chase Covington et Tomer Slaney (partners, McKinsey, New York), David Pralong (senior partner, McKinsey, Charlotte).
 - [Agency and Agents: From the Hugging Face Incident to Twilight Factories](fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31.md) — Ethan Mollick — professeur à la Wharton School (University of Pennsylvania), auteur du blog *One Useful Thing* sur Substack.
 - [When code is abundant](fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24.md) — Bill Staples, directeur général de GitLab (fonction non affichée par la page), sur le blog about.gitlab.com.
@@ -1276,16 +1285,16 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 443 fiches
-- **Par année** : 2026 (266) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 446 fiches
+- **Par année** : 2026 (269) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 167
   - Architecture & Construction : 62
-  - Transformation & Adoption : 100
+  - Transformation & Adoption : 102
   - Qualité & Sécurité : 57
-  - Économie & Marché : 94
+  - Économie & Marché : 95
   - Philosophie & Société : 32
-  - Stratégie & Frameworks : 42
+  - Stratégie & Frameworks : 45
   - Outils & Plateformes : 64
   - Recherche & Éducation : 16
   - Produits & Services : 19

@@ -1,6 +1,6 @@
 # Microsoft
 
-> **Type** : ORGANISATION | 24 relations | 11 fiches sources
+> **Type** : ORGANISATION | 25 relations | 12 fiches sources
 
 ## Attributs
 
@@ -8,7 +8,7 @@
 - **participation** : 27% capital OpenAI Group PBC
 - **position** : Aurait examiné l'acquisition de Cursor sans déposer d'offre ; doit désormais défendre GitHub Copilot face à un concurrent mieux capitalisé
 - **produit partenaire** : Copilot
-- **rôle** : Locataire d'ancrage des datacenters européens de Mistral AI depuis juillet 2026 : loue de la capacité pour sa propre demande cloud et IA, dé-risquant la construction. Deux tiers des clients de Mistral travaillent déjà avec Microsoft (Arthur Mensch, WSJ)
+- **rôle** : Éditeur du Work Trend Index
 - **secteur** : Logiciel / IA
 - **trésorerie** : 80 milliards de dollars
 
@@ -56,6 +56,8 @@
 
 - [[kb/_entites-mineures#Magentic-Marketplace\|Magentic Marketplace]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft researchers tried to manipulate AI agents - and only one resisted all attempts]]
+- [[kb/_entites-mineures#Work-Trend-Index-2026\|Work Trend Index 2026]] (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/suchaud-wenvision-fin-valeur-faisabilite-prioriser-ia-2026-10-22\|La fin de Valeur × Faisabilité : pourquoi la matrice produit ne sait plus prioriser l'IA]]
 - [[kb/_entites-mineures#APM\|APM]] (TECHNOLOGIE) — 0.92, STATIQUE
   - [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)]]
 - [[kb/_entites-mineures#HVE-Core\|HVE Core]] (TECHNOLOGIE) — 0.92, STATIQUE
@@ -99,4 +101,5 @@
 - [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|HOW TECH COMPANIES MEASURE THE IMPACT OF AI ON SOFTWARE DEVELOPMENT]]
 - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 - [[fiches/2025-11/shopify-ai-traffic-orders-growth-techcrunch-2025-11-04\|Shopify says AI traffic is up 7x since January, AI-driven orders are up 11x]]
+- [[fiches/2026-10/suchaud-wenvision-fin-valeur-faisabilite-prioriser-ia-2026-10-22\|La fin de Valeur × Faisabilité : pourquoi la matrice produit ne sait plus prioriser l'IA]]
 - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft researchers tried to manipulate AI agents - and only one resisted all attempts]]

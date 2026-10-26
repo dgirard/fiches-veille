@@ -1,9 +1,10 @@
 # Index — DOCUMENT
 
-> 194 entités de type DOCUMENT
+> 200 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#2026-M&A-Report\|2026 M&A Report]] — catégorie: Série de rapports M&A annuels de BCG (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A-Programming-Paradigm-for-Spatiotemporal-Composability\|A Programming Paradigm for Spatiotemporal Composability]] — rôle: Papier décrivant la conception de Cordis, publié par le projet cordiverse et mis en lien de navigation principal sur la page de lancement de DeepSeek Harness, au même rang que le dépôt GitHub et la documentation développeur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AA-Briefcase\|AA-Briefcase]] — rôle: Éval agentique de travail de connaissance d'Artificial Analysis (GLM-5.2 #3, top open weights) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ADR\|ADR]] — nature: Architecture Decision Record (docs/adr/), créé sous 3 critères (1 occ., 1 fiches)
@@ -41,6 +42,7 @@
 - [[kb/DORA-2025\|DORA 2025]] — apport: L'IA comme « amplificateur » des forces et dysfonctionnements (3 occ., 3 fiches)
 - [[kb/_entites-mineures#DataGen\|DataGen]] — catégorie: Podcast francophone tech/data animé par Robin Conquet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DeepResearch-Bench\|DeepResearch-Bench]] — référence: Classement public de harnais de deep research ; la position de tête revendiquée par hyperresearch est une projection prospective auto-administrée, validation tierce en attente (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Designing-Decision-Rights-for-AI\|Designing Decision Rights for AI]] — catégorie: Research briefing MIT CISR, 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#EU-AI-Act\|EU AI Act]] — catégorie: Réglementation européenne sur l'IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Economic-Index\|Economic Index]] — définition: Suivi par Anthropic des effets économiques de l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Enterprise-Integration-Patterns\|Enterprise Integration Patterns]] — catégorie: Livre de référence de Hohpe (patterns d'intégration) (1 occ., 1 fiches)
@@ -144,16 +146,20 @@
 - [[kb/_entites-mineures#When-code-is-abundant\|When code is abundant]] — format: Essai stratégique de ~39 000 caractères, 31 min de lecture annoncées, publié le 24 août 2026 en réponse au playbook d'Anthropic (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Why-SpaceX-Cursor-Works-for-Both\|Why SpaceX-Cursor Works for Both]] — format: Note d'analyste Market Coverage News d'environ 9 500 caractères, publiée le 29 avril 2026, structurée en synthèse, faits, Analyst Take et cinq signaux de veille (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Why-the-Future-Doesn't-Need-Us\|Why the Future Doesn't Need Us]] — auteur et date: Bill Joy, *Wired*, 2000 ; antécédent direct du titre et de l'angoisse de l'essai (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Work-Trend-Index-2026\|Work Trend Index 2026]] — catégorie: Rapport annuel Microsoft, mai 2026, enquête Edelman Data & Intelligence auprès de 20 000 utilisateurs d'IA (1 occ., 1 fiches)
 - [[kb/Work-at-the-Frontier\|Work at the Frontier]] — référence: OpenAI Economic Research, « How AI is Expanding What People Do at Work », 1er rapport de la série, 27 juillet 2026 — plus de 800 000 messages d'utilisateurs américains de ChatGPT (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Your-Browser-Does-Math-Differently-on-Every-OS\|Your Browser Does Math Differently on Every OS]] — référence: Article Scrapfly Engineering du 12 juillet 2026 cartographiant les fuites d'OS via Math.tanh, la trigonométrie CSS et Web Audio, et détaillant la reproduction bit à bit comme seule contre-mesure (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zero-Trust-for-Agents\|Zero Trust for Agents]] — rôle: Framework Anthropic dont ce billet est le compagnon d'implémentation (1 occ., 1 fiches)
+- [[kb/_entites-mineures#article-A-framework-for-determining-when-AI-can-make-decisions\|article A framework for determining when AI can make decisions]] — catégorie: Article MIT Sloan Ideas Made to Matter, 22 septembre 2026 (1 occ., 1 fiches)
 - [[kb/article-Agentic-AI-and-Code-Reviews\|article Agentic AI and Code Reviews]] — forme: Article collectif en neuf patrons, trois études de cas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-Agentic-Verification\|article Agentic Verification]] — catégorie: Billet Substack (Elevate), 14 octobre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-Automating-eval-design-and-hillclimbing\|article Automating eval design and hillclimbing]] — nature: Playbook du blog claude.dev, 28 septembre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-Build-or-surrender\|article Build or surrender]] — nature: Article X d'Arthur Mensch, 16 octobre 2026, plaidoyer pour l'IA de frontière européenne (1 occ., 1 fiches)
 - [[kb/article-GLM-5.3-and-the-spread-of-advanced-cyber-capabilities\|article GLM-5.3 and the spread of advanced cyber capabilities]] — forme: Billet de recherche du 29 septembre 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#article-How-Non-AI-Companies-Win-at-AI-Dealmaking\|article How Non-AI Companies Win at AI Dealmaking]] — catégorie: Article BCG du 21 septembre 2026 ; titre de page « How Non-Tech Companies Should Buy AI in 2026 » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-How-the-Claude-Code-team-does-code-review\|article How the Claude Code team does code review]] — catégorie: Billet Engineering du blog claude.dev, 15 octobre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-Introducing-System-One-Models-&-Jev\|article Introducing System One Models & Jev]] — date: 2026-09-15 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#article-La-fin-de-Valeur-×-Faisabilité\|article La fin de Valeur × Faisabilité]] — catégorie: Article WEnvision du 22 octobre 2026 avec carrousel de cinq planches (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-Linux-kernel-devs-drop-obligatory-confession\|article Linux kernel devs drop obligatory confession]] — catégorie: Article The Register, 14 octobre 2026 (1 occ., 1 fiches)
 - [[kb/article-Personal-AI-Should-Actually-Be-Personal\|article Personal AI Should Actually Be Personal]] — forme: Fil X du 29 septembre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-The-AI-operating-system\|article The AI operating system]] — catégorie: Article McKinsey/QuantumBlack, octobre 2026, 12 pages (1 occ., 1 fiches)

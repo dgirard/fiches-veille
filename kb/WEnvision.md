@@ -1,13 +1,13 @@
 # WEnvision
 
-> **Type** : ORGANISATION | 15 relations | 8 fiches sources
+> **Type** : ORGANISATION | 16 relations | 9 fiches sources
 
 ## Attributs
 
 - **catégorie** : Plateforme enterprise de déploiement agents IA
 - **positionnement** : Comble le fossé expérimentation-production
 - **rôle** : Cabinet conseil stratégie IA
-- **secteur** : Cabinet de conseil FR (Paris, Lille, Strasbourg, Bordeaux, Nantes, Toulouse, Belgique, Luxembourg)
+- **secteur** : Cabinet de conseil (transformation, IA)
 - **type** : Cabinet de conseil en transformation digitale
 
 ## Relations (comme sujet)
@@ -72,6 +72,7 @@
 ## Relations (comme objet)
 
 - [[kb/Antoine-Habert\|Antoine Habert]] **travaille_chez** → WEnvision — 0.97
+- [[kb/Nicolas-Suchaud\|Nicolas Suchaud]] **travaille_chez** → WEnvision — 0.95
 - [[kb/Olivier-Rafal\|Olivier Rafal]] **travaille_chez** → WEnvision — 0.95
 
 ## Fiches sources
@@ -83,4 +84,5 @@
 - [[fiches/2024-02/rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23\|L'IA générative est plus une affaire de produit technologique qu'un projet d'IA]]
 - [[fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01\|L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change]]
 - [[fiches/2026-06/rafal-wenvision-tokenomics-foundation-finops-ia-2026-06-04\|Tokenomics foundation : l'ère du FinOps appliqué à l'IA est officiellement ouverte]]
+- [[fiches/2026-10/suchaud-wenvision-fin-valeur-faisabilite-prioriser-ia-2026-10-22\|La fin de Valeur × Faisabilité : pourquoi la matrice produit ne sait plus prioriser l'IA]]
 - [[fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01\|Wenvision: Enterprise AI Agent Deployment Platform]]

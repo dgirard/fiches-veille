@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 569 entités de type PERSONNE
+> 576 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -75,6 +75,7 @@
 - [[kb/_entites-mineures#Bayard-Walsh\|Bayard Walsh]] — rôle: Software Engineer I chez Uber, co-auteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ben-Simpson\|Ben Simpson]] — rôle: Senior Software Engineer chez Grafana Labs (commentateur) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Benjamin-Franklin\|Benjamin Franklin]] — rôle: Père fondateur américain, praticien de l'auto-examen (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Beth-Stackpole\|Beth Stackpole]] — rôle: Rédactrice, MIT Sloan Ideas Made to Matter (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bharat-N.-Anand\|Bharat N. Anand]] — rôle: Doyen, NYU Stern School of Business (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bharat-Ramamurti\|Bharat Ramamurti]] — rôle: Ex-deputy director NEC Biden, "China shock could happen over two years" (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bill-Chen\|Bill Chen]] — rôle: Product Manager, OpenAI (1 occ., 1 fiches)
@@ -226,6 +227,7 @@
 - [[kb/Hryhorii-Tatsyi\|Hryhorii Tatsyi]] — rôle: CTO Raiffeisen Bank Ukraine, auteur Medium @milhibisidek, témoin organisationnel banque européenne régulée 12 mois (1 occ., 1 fiches)
 - [[kb/Hugo-Lassiège\|Hugo Lassiège]] — rôle: Développeur devenu entrepreneur, basé à Lyon ; auteur d'eventuallycoding.com et créateur de Bloggrify, Hakanai et Writizzy (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ido-Salomon\|Ido Salomon]] — rôle: Co-créateur MCP-UI, Monday.com (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Ina-Sebastian\|Ina Sebastian]] — rôle: Research scientist, MIT CISR (1 occ., 1 fiches)
 - [[kb/Itamar-Friedman\|Itamar Friedman]] — rôle: CEO, QodoAI (2 occ., 2 fiches)
 - [[kb/Ivan-Chepurin\|Ivan Chepurin]] — rôle: Auteur Evil Martians, co-rédacteur Chronicles AI-assisted engineers burning out (mai 2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ivan-Klaric\|Ivan Klaric]] — rôle: Co-auteur du deepdive, The Pragmatic Engineer (1 occ., 1 fiches)
@@ -237,6 +239,7 @@
 - [[kb/_entites-mineures#Jacqui-Canney\|Jacqui Canney]] — rôle: Chief People and AI Transformation Officer ServiceNow (1 occ., 1 fiches)
 - [[kb/_entites-mineures#James-Wickett\|James Wickett]] — rôle: CEO et cofondateur de DryRun Security (1 occ., 1 fiches)
 - [[kb/Jamin-Ball\|Jamin Ball]] — rôle: Analyste / auteur newsletter Clouded Judgement (2 occ., 1 fiches)
+- [[kb/_entites-mineures#Jan-vom-Brocke\|Jan vom Brocke]] — rôle: Academic research fellow MIT CISR, professeur Université de Münster, directeur ERCIS (1 occ., 1 fiches)
 - [[kb/Janakiram-MSV\|Janakiram MSV]] — rôle: Architecte praticien, analyste et conseil de startups Silicon Valley ; auteur The New Stack (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Janice-Manningham\|Janice Manningham]] — rôle: Strategic Group Product Manager, Stack Overflow, co-auteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jared-Friedman\|Jared Friedman]] — rôle: Partner YC associé à Weave (2 occ., 2 fiches)
@@ -256,6 +259,7 @@
 - [[kb/_entites-mineures#Jeff-Otto\|Jeff Otto]] — rôle: CMO, Riskified (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jeffrey-Ding\|Jeffrey Ding]] — rôle: Politologue, propose le concept "diffusion marathon" (vs winner-take-all race) pour cadrer la course IA comme general-purpose technology (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jeffrey-Herf\|Jeffrey Herf]] — rôle: Historien, auteur de *Reactionary Modernism* (1984) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Jens-Kengelbach\|Jens Kengelbach]] — rôle: Co-auteur, BCG (M&A) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jensen-Huang\|Jensen Huang]] — affirmation_rapportée: Le développeur devient un « RH d'agent » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jeremy-Norman\|Jeremy Norman]] — rôle: Historien et éditeur de HistoryofInformation.com (1 occ., 1 fiches)
 - [[kb/Jesse-Vincent\|Jesse Vincent]] — rôle: Praticien ayant transmis le conseil de délégation multi-modèles (6 occ., 5 fiches)
@@ -390,6 +394,7 @@
 - [[kb/_entites-mineures#Nicolas-Bustamante\|Nicolas Bustamante]] — rôle: Fondateur de Fintool, auteur de The RAG Obituary (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nicolas-Marette\|Nicolas Marette]] — rôle: Auteur guide Agentic Commerce Optimization (1 occ., 1 fiches)
 - [[kb/Nicolas-Martignole\|Nicolas Martignole]] — rôle: Auteur du blog Le Touilleur Express (2 occ., 2 fiches)
+- [[kb/Nicolas-Suchaud\|Nicolas Suchaud]] — rôle: Consultant, WEnvision (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Noah-Smith\|Noah Smith]] — rôle: Économiste et blogueur (Noahpinion) ; interlocuteur de LeCun dans l'échange du 25/09/2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NomenAK\|NomenAK]] — rôle: Sponsor et mainteneur principal (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Noy-and-Zhang\|Noy and Zhang]] — catégorie: Chercheurs en économie du travail et IA (1 occ., 1 fiches)
@@ -414,6 +419,7 @@
 - [[kb/Peter-Aideloje\|Peter Aideloje]] — rôle: développeur et rédacteur technique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Peter-McCrory\|Peter McCrory]] — rôle: co-auteur rapport Anthropic Economic Index (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Peter-Steinberger\|Peter Steinberger]] — contribution: Observation fondatrice (« design loops that prompt your agents »), checklist de boucle (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Peter-Weill\|Peter Weill]] — rôle: Senior research scientist MIT Sloan, chairman du MIT CISR (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Phil-Williammee\|Phil Williammee]] — rôle: Co-tech lead du projet, Cornell AI Innovation Hub (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Philipp-Schmid\|Philipp Schmid]] — rôle: Co-auteur article (1 occ., 1 fiches)
 - [[kb/Philippe-Corrot\|Philippe Corrot]] — rôle: Cofondateur et co-CEO de Mirakl ; entrepreneur autodidacte, parcours Keyrus (1997) → Mayrev → Splitgames → Fnac → Mirakl (1 occ., 1 fiches)
@@ -519,6 +525,7 @@
 - [[kb/_entites-mineures#Thierry-Derouet\|Thierry Derouet]] — rôle: Journaliste IT for Business (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thomas-Bouret\|Thomas Bouret]] — rôle: Patron de Mathieu Grymonprez (a suivi 6 h de cours IA) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thomas-Claburn\|Thomas Claburn]] — rôle: AI and software reporter, The Register (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Thomas-Haskamp\|Thomas Haskamp]] — rôle: Academic research fellow MIT CISR, professeur assistant Université de Münster (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thomas-Kurian\|Thomas Kurian]] — rôle: CEO de Google Cloud (1 occ., 1 fiches)
 - [[kb/Thomas-Petersen\|Thomas Petersen]] — rôle: Principal Designer & Builder chez Block ; première fiche du corpus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thomas-d'Aquin\|Thomas d'Aquin]] — époque: Théologien scolastique (XIIIe siècle) (1 occ., 1 fiches)

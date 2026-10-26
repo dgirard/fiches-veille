@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 878 entités de type TECHNOLOGIE
+> 879 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -186,6 +186,7 @@
 - [[kb/Codex\|Codex]] — catégorie: Agent de codage OpenAI (fusionné dans ChatGPT desktop, +ChatGPT Work) ; ~1 M à ~8 M utilisateurs actifs en 5 mois ; concurrent frontal de Claude Code (9 occ., 9 fiches)
 - [[kb/_entites-mineures#Codex-CLI\|Codex CLI]] — catégorie: Outil agent de codage compatible Skills (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Codex-SDK\|Codex SDK]] — catégorie: Harness-as-a-Service OpenAI (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Cognite\|Cognite]] — catégorie: Plateforme cloud de données industrielles avec IA agentique, rachat annoncé par Schneider Electric en 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Colossus\|Colossus]] — capacité: Cluster d'entraînement de xAI à Memphis, décrit par SpaceX comme équivalent à 1 million de GPU H100 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Composer\|Composer]] — rôle: Gamme de modèles de Cursor présentée comme la voie pour combler l'écart de capacité avec Anthropic et OpenAI ; Composer 2 décrit comme de niveau frontière (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Computer-Use\|Computer Use]] — rôle: Capacité de pilotage de la machine par le modèle, en public beta depuis le 22 octobre 2024 ; exige les permissions système d'Accessibilité et d'enregistrement d'écran, ce qui en fait un point de décision de gouvernance (1 occ., 1 fiches)

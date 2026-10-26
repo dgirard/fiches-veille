@@ -72,7 +72,7 @@
 
 - [[kb/_entites-mineures#Robert-Cialdini\|Robert Cialdini]] (PERSONNE) — 0.98, STATIQUE
   - [[fiches/2025-07/persuading-ai-cialdini-wharton-2025-07-18\|Call Me A Jerk: Persuading AI to Comply with Objectionable Requests]]
-- [[kb/_entites-mineures#Boston-Consulting-Group\|Boston Consulting Group]] (ORGANISATION) — 0.95, STATIQUE
+- [[kb/Boston-Consulting-Group\|Boston Consulting Group]] (ORGANISATION) — 0.95, STATIQUE
   - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
 
 ### mesure

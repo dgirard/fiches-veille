@@ -1,6 +1,6 @@
 # Nvidia
 
-> **Type** : ORGANISATION | 14 relations | 4 fiches sources
+> **Type** : ORGANISATION | 15 relations | 4 fiches sources
 
 ## Attributs
 
@@ -47,6 +47,7 @@
 
 ## Relations (comme objet)
 
+- [[kb/_entites-mineures#L'Oréal\|L'Oréal]] **collabore_avec** → Nvidia — 0.95
 - [[kb/OpenAI\|OpenAI]] **collabore_avec** → Nvidia — 0.95
 - [[kb/OpenAI\|OpenAI]] **utilise** → Nvidia — 0.95
 - [[kb/économie-circulaire-IA\|économie circulaire IA]] **s_applique_à** → Nvidia — 0.92

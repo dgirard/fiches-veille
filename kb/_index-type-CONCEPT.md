@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1082 entités de type CONCEPT
+> 1085 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -608,6 +608,7 @@
 - [[kb/_entites-mineures#carte-à-usage-unique\|carte à usage unique]] — rôle: Cale de compatibilité entre agents et rails de cartes existants : le marchand ne voit qu'une carte ordinaire, ce qui dispense d'attendre l'adoption d'un protocole de paiement machine-natif mais le prive de toute politique agent-aware (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cascade-hiérarchique\|cascade hiérarchique]] — direction: VP → Directors → Managers, chaque niveau amplifiant les problèmes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#caveats\|caveats]] — contenu: experience matters ; SEO informationnel ; pas de scale massif (1 occ., 1 fiches)
+- [[kb/_entites-mineures#centre-d'excellence-IA\|centre d'excellence IA]] — définition: Entité qui porte fondations data, architecture, orchestration des agents et politique d'IA responsable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#challenges-et-containments\|challenges et containments]] — définition: Challenges = frictions réversibles et granulaires (justification, clé de sécurité, approbation, selfie) ; containments = révocations durables, parfois levées seulement après entretien du salarié et de son manager (1 occ., 1 fiches)
 - [[kb/_entites-mineures#champ-description\|champ description]] — finalité: Déclencheur de routage pour le modèle, pas résumé humain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#champions-IA\|champions IA]] — rôle: Ambassadeurs internes de l'adoption IA (2 occ., 2 fiches)
@@ -713,6 +714,7 @@
 - [[kb/_entites-mineures#double-pizza-teams-→-sandwich-teams\|double pizza teams → sandwich teams]] — signification: Recomposition des équipes à l'ère agentique (signal US) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#draft-prêt-à-publier\|draft prêt à publier]] — métrique: 6 à 12 minutes par article (1 occ., 1 fiches)
 - [[kb/_entites-mineures#droit-de-sortie\|droit de sortie]] — définition: Capacité de quitter un fournisseur sans réécrire son système ; argument central en faveur des poids ouverts, adossé au coût constaté des sorties de cloud (1 occ., 1 fiches)
+- [[kb/_entites-mineures#droits-de-décision\|droits de décision]] — définition: Attribution, par composante de décision, de qui cadre, agit et apprend entre humains et IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#dual-level-retrieval\|dual-level retrieval]] — description: Hybridation knowledge graphs + bases vectorielles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#dwell_time-continuous\|dwell_time continuous]] — définition: Signal dwell mesuré en durée continue (index 18) en 2026, vs binaire dwelled/not-dwelled en 2023 — récompense les threads et long-form (1 occ., 1 fiches)
 - [[kb/_entites-mineures#déclaration-de-couverture\|déclaration de couverture]] — définition: Contrainte de format imposée à un vérificateur automatique : interdiction de renvoyer un « pass » nu, obligation de clore chaque rapport par le nombre d'affirmations contrôlées, le nombre réellement apparié à ses sources, celles hors de sa juridiction et celles possédées par aucune source du système. « Je ne peux pas vérifier ceci » devient un résultat de première classe (1 occ., 1 fiches)
@@ -929,6 +931,7 @@
 - [[kb/_entites-mineures#puppy-dog-junior-developer\|puppy-dog junior developer]] — définition: Métaphore de l'IA : empressée, productive, brouillonne, sur-suggestive (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pénurie-GPU\|pénurie GPU]] — impact: Maintien des prix des assistants IA à un niveau élevé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#quatre-lanes\|quatre lanes]] — composition: Contract Desk (frontier), Builder Pool (single-writer), Prosecution Pool (frais), Integrator (séquentiel) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#quatre-modes-de-travail-avec-l'IA\|quatre modes de travail avec l'IA]] — définition: Délégation, collaboration, question rapide, exploration ; intensité humaine × intensité agent ; placement qualitatif (1 occ., 1 fiches)
 - [[kb/_entites-mineures#quatre-observations\|quatre observations]] — contenu: ouverture / IA contrôlable / inclusivité / solidarité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#qui-dit-non\|qui dit non]] — définition: Contrepoint gouvernance (Ron H., Paul Breuler) : quand tout le monde peut construire, la fonction rare devient l'autorité d'approuver, bloquer et assumer la responsabilité avant la mise en production (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ratio-60-40-marque-performance\|ratio 60/40 marque-performance]] — source: Recherche Google sur l'optimisation long terme (1 occ., 1 fiches)

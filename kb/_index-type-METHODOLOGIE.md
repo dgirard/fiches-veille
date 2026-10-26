@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 466 entités de type METHODOLOGIE
+> 471 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -19,6 +19,7 @@
 - [[kb/ADLC\|ADLC]] — rôle: Cadre convergent (8 phases, 2 gates) cité comme découverte indépendante (4 occ., 3 fiches)
 - [[kb/_entites-mineures#AI-Champions\|AI Champions]] — définition: Programme SFEIR d'outillage des équipes pour amplifier l'IA (former des ingénieurs augmentés) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-DLC\|AI DLC]] — définition: AI Development Lifecycle (AWS) : sprints remplacés par des Bolts pluri-quotidiens (1 occ., 1 fiches)
+- [[kb/AI-Decision-Matrix\|AI Decision Matrix]] — définition: Grille MIT CISR ambiguïté × risque, rôles humain/IA pour cadrer, agir, apprendre (2 occ., 2 fiches)
 - [[kb/_entites-mineures#AI-Measurement-Framework\|AI Measurement Framework]] — origine: DX, basé sur données 400+ entreprises (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Native-Workflows\|AI Native Workflows]] — catégorie: Processus de développement logiciel augmenté par IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-engineering\|AI engineering]] — usage: Construction, gouvernance et personnalisation d'applications GenAI (1 occ., 1 fiches)
@@ -353,6 +354,7 @@
 - [[kb/_entites-mineures#governed-golden-paths\|governed golden paths]] — définition: Standardisation des pratiques dev IA via parcours gouvernés (paradigme Platform Engineering / IDP) (1 occ., 1 fiches)
 - [[kb/graphify\|graphify]] — catégorie: Skill open source présentée par le site, distincte du site lui-même (3 occ., 2 fiches)
 - [[kb/grill-with-docs\|grill-with-docs]] — catégorie: Skill d'ingénierie — conception en amont, DDD-flavored (2 occ., 1 fiches)
+- [[kb/_entites-mineures#grille-Adopt-Partner-Build-Buy\|grille Adopt Partner Build Buy]] — définition: Grille BCG différenciation × disponibilité sur le marché pour sécuriser une capacité IA (2 occ., 2 fiches)
 - [[kb/hyperresearch\|hyperresearch]] — définition: Harnais de deep research pour Claude Code : 20 skills, CLI Python, serveur MCP et UI locale, orchestrant un pipeline de 16 étapes adaptatif par paliers vers un rapport audité de façon adverse avec provenance complète (2 occ., 1 fiches)
 - [[kb/_entites-mineures#idéation-divergente-parallèle\|idéation divergente parallèle]] — définition: Diverger (N agents isolés sous frames cognitifs, interdiction d'évaluer) puis focaliser (critique séparé : score, clusters, pièges, approfondissement du top-K) (1 occ., 1 fiches)
 - [[kb/infrastructure-contexte-codifié\|infrastructure contexte codifié]] — catégorie: Architecture 3 tiers pour mémoire persistante agents IA (2 occ., 1 fiches)
@@ -370,6 +372,7 @@
 - [[kb/_entites-mineures#loop-until-dry\|loop-until-dry]] — critère d'arrêt: Deux passes consécutives à zéro finding vérifié, contextes frais (1 occ., 1 fiches)
 - [[kb/_entites-mineures#marketing-demand-led\|marketing demand-led]] — principe: Budget aligné sur les signaux réels de demande client (1 occ., 1 fiches)
 - [[kb/_entites-mineures#marketplace-interne-Anthropic\|marketplace interne Anthropic]] — mécanique: sandbox Slack → traction → promotion par PR (1 occ., 1 fiches)
+- [[kb/_entites-mineures#matrice-Valeur-×-Faisabilité\|matrice Valeur × Faisabilité]] — définition: 2×2 de priorisation produit (valeur en ordonnée, faisabilité en abscisse), famille RICE / MoSCoW / Valeur-Effort (1 occ., 1 fiches)
 - [[kb/_entites-mineures#merge-forecast\|merge-forecast]] — signaux: Scope de fichiers, rayon d'imports, co-changement historique, collisions de namespace (2 occ., 1 fiches)
 - [[kb/_entites-mineures#mob-programming\|mob programming]] — rôle: Dispositif de propriété collective, avec les sessions de design d'équipe au tableau, en amont de l'écriture ou de l'instruction donnée à l'agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mode-headless\|mode headless]] — flag: -p (non-interactif, CI/CD) (1 occ., 1 fiches)
@@ -398,6 +401,7 @@
 - [[kb/_entites-mineures#plafond-de-rondes-de-revue\|plafond de rondes de revue]] — définition: Trois rondes maximum, puis re-revue limitée au nouveau diff, sans répétition des findings (1 occ., 1 fiches)
 - [[kb/_entites-mineures#planification-multi-scénarios\|planification multi-scénarios]] — application: Plateau, croissance linéaire, exponentielle, AGI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#preuve-d'exécution\|preuve d'exécution]] — rôle: Capter les sorties réelles des agents plutôt que faire confiance à leurs déclarations (1 occ., 1 fiches)
+- [[kb/priorisation-par-portefeuille-de-décisions\|priorisation par portefeuille de décisions]] — définition: Arbitrer des niveaux de délégation par décision métier (type, qui cadre, qui agit, qui apprend) plutôt que des démos de use cases (1 occ., 1 fiches)
 - [[kb/_entites-mineures#private-evals\|private evals]] — rôle: Mesurer l'amélioration d'un modèle sur les résultats métier internes (1 occ., 1 fiches)
 - [[kb/procédure-infographique\|procédure infographique]] — inspiration: Steve Jobs, obsession de la perfection (1 occ., 1 fiches)
 - [[kb/_entites-mineures#progressive-disclosure\|progressive disclosure]] — principe: Orienter vers le bon fichier de référence selon la situation (1 occ., 1 fiches)
@@ -434,6 +438,7 @@
 - [[kb/_entites-mineures#shift-feedback-left\|shift feedback left]] — objectif: Appliquer les règles de lint au plus tôt (IDE, git hooks, CI) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#simplification-post-merge\|simplification post-merge]] — principe: Dédupliquer après que le code existe, sur des patterns observables, tests garantissant le comportement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#single-hop-short-lived-tokens\|single-hop short-lived tokens]] — définition: Doctrine canonique Uber : *« Every JWT minted by the STS is intended for a single hop, with a specific Audience claim and a short time-to-live in the order of minutes »* — blast radius minimal en cas de vol (1 occ., 1 fiches)
+- [[kb/_entites-mineures#six-signaux-de-sécurisation-d'une-capacité-IA\|six signaux de sécurisation d'une capacité IA]] — définition: Différenciation ; urgence et banalisation ; capacité du marché ; intégration, gouvernance, contrôle ; économie de la cible ; optionalité et lock-in (1 occ., 1 fiches)
 - [[kb/_entites-mineures#skills-(analytics)\|skills (analytics)]] — impact: Précision 21% → 95%+ (≈99% sur certains domaines) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté-comme-levier\|souveraineté comme levier]] — définition: Doctrine Mensch : ne pas penser souveraineté comme isolationnisme mais comme capacité d'avoir des cartes à jouer dans la négociation commerciale et géopolitique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#spec-coding\|spec coding]] — définition: Méthodologie transformant prompts en spécifications structurées, designs techniques et plans d'implémentation (1 occ., 1 fiches)
