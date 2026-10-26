@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 576 entités de type PERSONNE
+> 578 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -29,6 +29,7 @@
 - [[kb/_entites-mineures#Alistair-Gray\|Alistair Gray]] — rôle: Ingénieur Stripe, auteur article Minions Part 2 (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Allie-Nawrat\|Allie Nawrat]] — rôle: Chief Reporter UNLEASH (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Amjad-Masad\|Amjad Masad]] — rôle: CEO de Replit (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Ana-Kreacic\|Ana Kreacic]] — rôle: COO de l'Oliver Wyman Forum, co-autrice des chapitres ROI et main-d'œuvre (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Andre-Ellis-Jr.\|Andre Ellis Jr.]] — rôle: Cloud Financial Operations Lead Google Cloud, Morehouse College + Wharton MBA, co-auteur DORA ROI 2026 (1 occ., 1 fiches)
 - [[kb/Andrej-Karpathy\|Andrej Karpathy]] — rôle: Auteur du LLM wiki (7 occ., 7 fiches)
 - [[kb/_entites-mineures#Andrew-Carton\|Andrew Carton]] — rôle: Collègue chercheur de Mollick (1 occ., 1 fiches)
@@ -273,6 +274,7 @@
 - [[kb/_entites-mineures#Joff-Redfern\|Joff Redfern]] — rôle: Co-auteur rapport, Menlo Ventures (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Johann-Schopplich\|Johann Schopplich]] — rôle: Développeur indépendant, créateur de TOON (1 occ., 1 fiches)
 - [[kb/John-Cutler\|John Cutler]] — rôle: Auteur produit ayant popularisé la notion de « feature factory » (output vs outcome) (2 occ., 2 fiches)
+- [[kb/_entites-mineures#John-Romeo\|John Romeo]] — rôle: CEO de l'Oliver Wyman Forum (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Johnny-Carrot\|Johnny Carrot]] — rôle: Auteur académique cité (Deepnote) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jon-Brodkin\|Jon Brodkin]] — rôle: Senior IT Reporter, Ars Technica (couverture régulation tech) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jordan-Gibbs\|Jordan Gibbs]] — rôle: Auteur et mainteneur de hyperresearch (1 occ., 1 fiches)

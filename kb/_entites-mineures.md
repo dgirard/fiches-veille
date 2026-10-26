@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 3109 entités avec moins de 3 triples/fiches
+> 3119 entités avec moins de 3 triples/fiches
 
-## PERSONNE (421)
+## PERSONNE (423)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -187,6 +187,14 @@
 - **utilise** → [[kb/_entites-mineures#séparation-dev-prod\|séparation dev/prod]] (METHODOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18\|AI CODING PLATFORM GOES ROGUE DURING CODE FREEZE AND DELETES ENTIRE COMPANY DATABASE]]
+
+### Ana Kreacic {#Ana-Kreacic}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : COO de l'Oliver Wyman Forum, co-autrice des chapitres ROI et main-d'œuvre
+
+**Fiches** : [[fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15\|The AI Agenda 2026 — The reality check]]
 
 ### Andre Ellis Jr. {#Andre-Ellis-Jr.}
 
@@ -1933,6 +1941,16 @@
 - **publie** → [[kb/_entites-mineures#toon-format-toon\|toon-format/toon]] (TECHNOLOGIE) — 0.99
 
 **Fiches** : [[fiches/2025-10/schopplich-toon-json-llm-token-optimization-2025-10-22\|TOON - Token-Oriented Object Notation: JSON for LLMs at half the token cost]]
+
+### John Romeo {#John-Romeo}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : CEO de l'Oliver Wyman Forum
+
+- **dirige** → [[kb/Oliver-Wyman-Forum\|Oliver Wyman Forum]] (ORGANISATION) — 0.96
+
+**Fiches** : [[fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15\|The AI Agenda 2026 — The reality check]]
 
 ### Johnny Carrot {#Johnny-Carrot}
 
@@ -4237,7 +4255,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (332)
+## ORGANISATION (333)
 
 ### 10x {#10x}
 
@@ -6498,6 +6516,16 @@
 - **secteur** : Publication indienne tech/startup news, source de l'article rapportant Sternfels janvier 2026
 
 **Fiches** : [[fiches/2026-01/sternfels-mckinsey-60000-people-20000-agents-officechai-2026-01-14\|McKinsey Now Has 60,000 People, But 20,000 Of Them Are AI Agents: McKinsey's Bob Sternfels]]
+
+### Oliver Wyman {#Oliver-Wyman}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Cabinet de conseil en management, filiale de Marsh ; offre IA Quotient
+
+- [[kb/Oliver-Wyman-Forum\|Oliver Wyman Forum]] **fait_partie_de** → Oliver Wyman — 0.95
+
+**Fiches** : [[fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15\|The AI Agenda 2026 — The reality check]]
 
 ### Omni {#Omni}
 
@@ -14860,7 +14888,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1033)
+## CONCEPT (1036)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -17197,6 +17225,16 @@
 
 **Fiches** : [[fiches/2026-05/talisman-modern-data-101-ontology-pipeline-refresh-2026-05-04\|The Ontology Pipeline™, Refresh: Where We Were, Where We Are, and Where We're Headed]]
 
+### Great Leadership Misalignment {#Great-Leadership-Misalignment}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Absence de décision explicite et partagée au sommet sur la finalité de l'IA, qui se propage dans la hiérarchie
+
+- **observé_dans** → [[kb/Global-Voices-Survey\|Global Voices Survey]] (DOCUMENT) — 0.88
+
+**Fiches** : [[fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15\|The AI Agenda 2026 — The reality check]]
+
 ### GuacaDrone {#GuacaDrone}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -18643,6 +18681,16 @@
 
 **Fiches** : [[fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14\|Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team]]
 
+### ROI harvester {#ROI-harvester}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Dirigeant responsable de bout en bout de la conversion de la capacité créée par l'IA en résultat économique
+
+- **résout** → capture de la valeur de l'IA (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15\|The AI Agenda 2026 — The reality check]]
+
 ### Race to the bottom {#Race-to-the-bottom}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -19038,11 +19086,12 @@
 
 ### Souveraineté IA {#Souveraineté-IA}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **définition** : Capacité à auditer, adapter et garantir l'accès aux modèles utilisés
 
 - [[kb/Arthur-Mensch\|Arthur Mensch]] **soutient** → Souveraineté IA — 0.93
+- [[kb/_entites-mineures#interdépendance-contrôlée\|interdépendance contrôlée]] **affine** → Souveraineté IA — 0.88
 
 **Fiches** : [[fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16\|Build or surrender]]
 
@@ -19142,11 +19191,13 @@
 
 ### Superworker {#Superworker}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 2 fiches
 
-- **définition** : Concept Bersin : employé augmenté par l'IA, mode bottom-up
+- **définition** : Utilisateur déclarant que l'IA double au moins sa production ; segment analytique du rapport
 
-**Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|The Pivotal Role Of Chief HR Officer in AI Transformation]]
+- **mesure** → « 27 % des utilisateurs ; 38 % avec cinq ou six conditions d'employeur contre 17 % avec deux ou moins » (MESURE) — 0.90
+
+**Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|The Pivotal Role Of Chief HR Officer in AI Transformation]], [[fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15\|The AI Agenda 2026 — The reality check]]
 
 ### Surapprentissage de l'évaluation {#Surapprentissage-de-l'évaluation}
 
@@ -22387,6 +22438,16 @@
 
 **Fiches** : [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie: Interactive World Models with Genie 3]]
 
+### interdépendance contrôlée {#interdépendance-contrôlée}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Contrôle suffisant des dépendances IA pour maintenir le travail critique, avec un moyen crédible de remplacer chacune
+
+- **affine** → [[kb/_entites-mineures#Souveraineté-IA\|souveraineté IA]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15\|The AI Agenda 2026 — The reality check]]
+
 ### investissements sans regrets {#investissements-sans-regrets}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -24949,7 +25010,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (404)
+## METHODOLOGIE (407)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -26184,11 +26245,13 @@
 
 ### LLM-as-a-Judge {#LLM-as-a-Judge}
 
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
 
 - **définition** : Second agent review style/architecture
 
 - **permet** → vérification de l'adhérence style et architecture (CONCEPT) — 0.88
+
+- [[kb/_entites-mineures#gouvernance-vivante\|gouvernance vivante]] **utilise** → LLM-as-a-Judge — 0.85
 
 **Fiches** : [[fiches/2026-01/osmani-how-write-good-spec-ai-agents-2026-01-13\|How to write a good spec for AI agents]]
 
@@ -27976,6 +28039,19 @@
 
 **Fiches** : [[fiches/2026-06/dembo-byo-agent-m5stack-tinkering-opus-cloudflare-2026-06-07\|BYO Agent with M5Stack Stick 3]]
 
+### gouvernance vivante {#gouvernance-vivante}
+
+**Type** : METHODOLOGIE | 3 relations | 1 fiches
+
+- **définition** : Cycle permission → observation → évaluation → ajustement → renouvellement, rouvert par tout changement de modèle, données, outil, échelle, autonomie, conséquence ou usage
+
+- **utilise** → [[kb/_entites-mineures#LLM-as-a-Judge\|LLM-as-a-judge]] (METHODOLOGIE) — 0.85
+- **remplace** → human in the loop (METHODOLOGIE) — 0.82
+
+- [[kb/_entites-mineures#laboratoire-de-risque\|laboratoire de risque]] **permet** → gouvernance vivante — 0.80
+
+**Fiches** : [[fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15\|The AI Agenda 2026 — The reality check]]
+
 ### governed golden paths {#governed-golden-paths}
 
 **Type** : METHODOLOGIE | 0 relations | 1 fiches
@@ -28070,6 +28146,16 @@
 - [[kb/Groupe-étatique-chinois\|Groupe étatique chinois]] **utilise** → jailbreaking — 0.97
 
 **Fiches** : [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
+
+### laboratoire de risque {#laboratoire-de-risque}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Environnement borné et réversible pour tester un usage IA risqué : propriétaire, limites, journalisation, conditions de sortie
+
+- **permet** → [[kb/_entites-mineures#gouvernance-vivante\|gouvernance vivante]] (METHODOLOGIE) — 0.80
+
+**Fiches** : [[fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15\|The AI Agenda 2026 — The reality check]]
 
 ### learnings-researcher {#learnings-researcher}
 
@@ -28714,6 +28800,18 @@
 - [[kb/Stripe\|Stripe]] **utilise** → shift feedback left — 0.93
 
 **Fiches** : [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]
+
+### shopping agent optimization {#shopping-agent-optimization}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Rendre informations produit, preuves et parcours de transaction lisibles et actionnables par des agents d'achat autorisés
+
+- **s_applique_à** → [[kb/commerce-agentique\|commerce agentique]] (CONCEPT) — 0.92
+
+- [[kb/Oliver-Wyman-Forum\|Oliver Wyman Forum]] **a_créé** → shopping agent optimization — 0.90
+
+**Fiches** : [[fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15\|The AI Agenda 2026 — The reality check]]
 
 ### simplification post-merge {#simplification-post-merge}
 
@@ -29627,7 +29725,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (174)
+## DOCUMENT (175)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -30618,6 +30716,18 @@
 - **statut** : Essai d'Addy Osmani (addyosmani.com, juillet 2026) — source des trois concepts structurants repris par SFEIR ; absent du corpus de veille, candidat d'ajout prioritaire
 
 **Fiches** : [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
+
+### Sovereign AI Index {#Sovereign-AI-Index}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **méthodologie** : Classement des 100 premières économies sur six dimensions (modèles, chercheurs, calcul, chokepoints, capital privé, préparation gouvernementale), Q3 2026
+
+- **mesure** → « 17 des 100 premières économies tiennent une position difficile à remplacer, 7 un vrai chokepoint ; 91 % du calcul vérifié aux États-Unis » (MESURE) — 0.92
+
+- [[kb/Oliver-Wyman-Forum\|Oliver Wyman Forum]] **a_créé** → Sovereign AI Index — 0.95
+
+**Fiches** : [[fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15\|The AI Agenda 2026 — The reality check]]
 
 ### State of AI 2026 {#State-of-AI-2026}
 

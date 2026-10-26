@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 446 fiches | 1975-12 → 2026-10-22 | généré le 2026-10-26
+> 447 fiches | 1975-12 → 2026-10-22 | généré le 2026-10-26
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -12,6 +12,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **21** [Eric Schmidt: Are We Ready for Superintelligence? | Podcast | In Good Company](fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21.md) — Eric Schmidt (invité), ancien PDG de Google ; Nicolai Tangen (hôte), directeur général de Norges Bank Investment Management. · In Good Company (NBIM) — superintelligence, AGI, découverte scientifique
 - **16** [Build or surrender](fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16.md) — Arthur Mensch (@arthurmensch) — cofondateur et directeur général de Mistral AI ; article publié sur X. · X — souveraineté IA, modèles de frontière, IA de frontière
 - **15** [Quand la vélocité explose avec l'IA, place au "Harness Engineering" !](fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15.md) — Dorra Bartaguiz — CTO d'Arolla (conseil et formation, « agentic software crafters ») ; slides de son talk Dev With AI publiées sur LinkedIn. · LinkedIn (slides Dev With AI) — harness engineering, vélocité, revue de code
+- **15** [The AI Agenda 2026 — The reality check](fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15.md) — Oliver Wyman Forum — préface de John Romeo (CEO) et Ana Kreacic (COO) ; cinq équipes d'auteurs par chapitre (Aaron Fine, Helen Leis, Adrian Oest, Daniel Cope, Abhishek Sharma et al.). · Oliver Wyman Forum — ROI de l'IA, return on intelligence, ROI harvester
 - **15** [How the Claude Code team does code review](fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15.md) — Addy Osmani, Morgan Westlee Lunt, Qing Wang — équipe Claude Code (Anthropic) ; blog *claude.dev*, catégorie Engineering. · claude.dev Blog — revue de code, code review, revue de code agentique
 - **14** [Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code, whatever tools they use](fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14.md) — Thomas Claburn — AI and software reporter, The Register. · The Register — noyau Linux, Linux kernel, tag Assisted-by
 - **14** [Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.](fiches/2026-10/osmani-agentic-verification-2026-10-14.md) — Addy Osmani — ingénieur (Anthropic, cf. fiches antérieures) ; billet sur son Substack *Elevate*. · Substack (Elevate) — vérification agentique, boucle de rétroaction, agent auto-vérifiant
@@ -798,6 +799,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - [La fin de Valeur × Faisabilité : pourquoi la matrice produit ne sait plus prioriser l'IA](fiches/2026-10/suchaud-wenvision-fin-valeur-faisabilite-prioriser-ia-2026-10-22.md) — Nicolas Suchaud — WEnvision (cabinet de conseil) ; hub Insights, rubrique Intelligence Artificielle.
 - [Eric Schmidt: Are We Ready for Superintelligence? | Podcast | In Good Company](fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21.md) — Eric Schmidt (invité), ancien PDG de Google ; Nicolai Tangen (hôte), directeur général de Norges Bank Investment Management.
+- [The AI Agenda 2026 — The reality check](fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15.md) — Oliver Wyman Forum — préface de John Romeo (CEO) et Ana Kreacic (COO) ; cinq équipes d'auteurs par chapitre (Aaron Fine, Helen Leis, Adrian Oest, Daniel Cope, Abhishek Sharma et al.).
 - [How to be more ambitious: A tutorial for humans with models](fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13.md) — Felix Rieseberg — EM chez Anthropic (fonction affichée), co-mainteneur d'Electron ; blog personnel felixrieseberg.com.
 - [Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)](fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09.md) — Fred Cavazza (@fredcavazza) — auteur du post sur X ; fonction non indiquée dans le texte.
 - [The three joys of engineering: liberation or loss depends on which joy you lean on most](fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09.md) — Addy Osmani — Member of Technical Staff chez Anthropic (fonction affichée) ; post LinkedIn.
@@ -1097,6 +1099,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [La fin de Valeur × Faisabilité : pourquoi la matrice produit ne sait plus prioriser l'IA](fiches/2026-10/suchaud-wenvision-fin-valeur-faisabilite-prioriser-ia-2026-10-22.md) — Nicolas Suchaud — WEnvision (cabinet de conseil) ; hub Insights, rubrique Intelligence Artificielle.
 - [Eric Schmidt: Are We Ready for Superintelligence? | Podcast | In Good Company](fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21.md) — Eric Schmidt (invité), ancien PDG de Google ; Nicolai Tangen (hôte), directeur général de Norges Bank Investment Management.
 - [Build or surrender](fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16.md) — Arthur Mensch (@arthurmensch) — cofondateur et directeur général de Mistral AI ; article publié sur X.
+- [The AI Agenda 2026 — The reality check](fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15.md) — Oliver Wyman Forum — préface de John Romeo (CEO) et Ana Kreacic (COO) ; cinq équipes d'auteurs par chapitre (Aaron Fine, Helen Leis, Adrian Oest, Daniel Cope, Abhishek Sharma et al.).
 - [How to be more ambitious: A tutorial for humans with models](fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13.md) — Felix Rieseberg — EM chez Anthropic (fonction affichée), co-mainteneur d'Electron ; blog personnel felixrieseberg.com.
 - [Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)](fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09.md) — Fred Cavazza (@fredcavazza) — auteur du post sur X ; fonction non indiquée dans le texte.
 - [Introducing Personal Agent Protocol](fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06.md) — Bret Taylor et Clay Bavor — cofondateurs de Sierra, plateforme d'agents IA pour l'expérience client ; billet du blog Sierra.
@@ -1252,6 +1255,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - [Eric Schmidt: Are We Ready for Superintelligence? | Podcast | In Good Company](fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21.md) — Eric Schmidt (invité), ancien PDG de Google ; Nicolai Tangen (hôte), directeur général de Norges Bank Investment Management.
 - [Build or surrender](fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16.md) — Arthur Mensch (@arthurmensch) — cofondateur et directeur général de Mistral AI ; article publié sur X.
+- [The AI Agenda 2026 — The reality check](fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15.md) — Oliver Wyman Forum — préface de John Romeo (CEO) et Ana Kreacic (COO) ; cinq équipes d'auteurs par chapitre (Aaron Fine, Helen Leis, Adrian Oest, Daniel Cope, Abhishek Sharma et al.).
 - [Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code, whatever tools they use](fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14.md) — Thomas Claburn — AI and software reporter, The Register.
 - [Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will completely vanish » — extrait de Fox & Friends First (Fox News, 29 mai 2025) avec Dario Amodei](fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02.md) — Yugen Matsuda — entrepreneur indépendant, compte X japonais ; post de relais d'un entretien de Dario Amodei (CEO d'Anthropic) diffusé sur Fox News.
 - [We Must Pace the Frontier](fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09.md) — Dario Amodei (CEO et cofondateur d'Anthropic), sur son site personnel darioamodei.com.
@@ -1285,20 +1289,20 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 446 fiches
-- **Par année** : 2026 (269) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 447 fiches
+- **Par année** : 2026 (270) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 167
   - Architecture & Construction : 62
-  - Transformation & Adoption : 102
+  - Transformation & Adoption : 103
   - Qualité & Sécurité : 57
   - Économie & Marché : 95
   - Philosophie & Société : 32
-  - Stratégie & Frameworks : 45
+  - Stratégie & Frameworks : 46
   - Outils & Plateformes : 64
   - Recherche & Éducation : 16
   - Produits & Services : 19
-  - Politique & Régulation : 32
+  - Politique & Régulation : 33
 - **Auteurs (top 20)** :
   - Ethan Mollick (13)
   - SFEIR (13)

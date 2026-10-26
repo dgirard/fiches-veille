@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1085 entités de type CONCEPT
+> 1088 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -269,6 +269,7 @@
 - [[kb/_entites-mineures#Google-metric\|Google metric]] — définition: Lien entre une métrique d'ingénierie et un résultat d'affaires mesurable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Governance-ontology\|Governance ontology]] — définition: "The engineering practice that keeps an ontology coherent across change" — ongoing engineering, pas post-project documentation. Ajout 2026 au framework initial (1 occ., 1 fiches)
 - [[kb/Goût-développeur\|Goût développeur]] — description: Jugement de savoir à quoi ressemble la bonne solution avant de coder et discipline de la poursuivre (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Great-Leadership-Misalignment\|Great Leadership Misalignment]] — définition: Absence de décision explicite et partagée au sommet sur la finalité de l'IA, qui se propage dans la hiérarchie (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GuacaDrone\|GuacaDrone]] — rôle: Cas test révélateur de biais d'évaluation des modèles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Guides-feedforward\|Guides feedforward]] — définition: Contrôles anticipatifs qui dirigent l'agent avant qu'il n'agisse (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Généalogie-tarification-logicielle\|Généalogie tarification logicielle]] — définition: 4 âges : shrink-wrapped (1980-90s, Fry's) → SaaS/seat-based (Salesforce) → consumption-based (AWS, Snowflake) → outcome-based (agents IA, Sierra) (1 occ., 1 fiches)
@@ -423,6 +424,7 @@
 - [[kb/_entites-mineures#RGPD\|RGPD]] — catégorie: Règlement européen protection données (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ROI-de-l'IA-(heures-ingénieur)\|ROI de l'IA (heures-ingénieur)]] — principe: Mesurer le retour par les heures-ingénieur manuelles évitées, pas par l'usage brut (qui ne mesure que l'activité) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ROI-des-tokens\|ROI des tokens]] — formule: Temps humain économisé + fonctionnalités livrées + incidents évités − coût des tokens − coût de montée en compétence (1 occ., 1 fiches)
+- [[kb/_entites-mineures#ROI-harvester\|ROI harvester]] — définition: Dirigeant responsable de bout en bout de la conversion de la capacité créée par l'IA en résultat économique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Race-to-the-bottom\|Race to the bottom]] — définition: Métaphore Williams — la dynamique billable hours conduit à une course descendante zero-sum entre agence (rewarded for more hours) et client (incentivized to minimize) (1 occ., 1 fiches)
 - [[kb/Range\|Range]] — définition: Mobiliser plusieurs disciplines au-delà de celle que la tâche appelle en surface (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ratchet-principle\|Ratchet principle]] — définition: Chaque erreur d'agent devient une règle permanente. Toute ligne d'AGENTS.md traçable à un échec passé. (1 occ., 1 fiches)
@@ -479,7 +481,7 @@
 - [[kb/_entites-mineures#Supermanager\|Supermanager]] — définition: Concept Bersin : nouveau modèle de leadership pour l'ère IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Superviseur-d'agents\|Superviseur d'agents]] — description: Evolution du role developpeur vers orchestration d'agents IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Supervision-adaptative\|Supervision adaptative]] — pilier: Pilier 4 de l'agentique adaptative (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Superworker\|Superworker]] — définition: Concept Bersin : employé augmenté par l'IA, mode bottom-up (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Superworker\|Superworker]] — définition: Utilisateur déclarant que l'IA double au moins sa production ; segment analytique du rapport (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Surapprentissage-de-l'évaluation\|Surapprentissage de l'évaluation]] — symptôme: Train en hausse, test plat ; ajouts au harnais sans effet en production (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Surcharge-cognitive\|Surcharge cognitive]] — risque: Burn-out à l'ère agentique ; un client réduit volontairement sa cadence de bolts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#System-One-Models\|System One Models]] — définition: Modèles produisant des décisions typées et probabilistes, sans génération de texte (1 occ., 1 fiches)
@@ -814,6 +816,7 @@
 - [[kb/_entites-mineures#ingénieurs-augmentés\|ingénieurs augmentés]] — définition: Équipes montées d'un cran (de l'exécution vers jugement/spécification/validation) via l'outillage IA — logique AI Champions (1 occ., 1 fiches)
 - [[kb/_entites-mineures#intellect-séparé\|intellect séparé]] — origine: Concept averroïste, intellect agent et intellect possible (1 occ., 1 fiches)
 - [[kb/_entites-mineures#intelligence-incarnée\|intelligence incarnée]] — description: IA opérant dans environnements physiques ou simulés (1 occ., 1 fiches)
+- [[kb/_entites-mineures#interdépendance-contrôlée\|interdépendance contrôlée]] — définition: Contrôle suffisant des dépendances IA pour maintenir le travail critique, avec un moyen crédible de remplacer chacune (1 occ., 1 fiches)
 - [[kb/_entites-mineures#investissements-sans-regrets\|investissements sans regrets]] — catégorie: Stratégie DevX bénéficiant humains et agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#jagged-frontier\|jagged frontier]] — définition: Carte irrégulière des forces/faiblesses des IA par domaine (2 occ., 2 fiches)
 - [[kb/_entites-mineures#journal-d'événements-d'agent\|journal d'événements d'agent]] — définition: Trace locale append-only de chaque appel de modèle, exécution d'outil, approbation et édition, servant de source unique de vérité pour rejouer et reprendre une session interrompue (1 occ., 1 fiches)

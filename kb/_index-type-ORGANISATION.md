@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 452 entités de type ORGANISATION
+> 454 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -295,6 +295,8 @@
 - [[kb/_entites-mineures#Octopus-Deploy\|Octopus Deploy]] — secteur: Outil de déploiement CD multi-cloud / on-prem / Kubernetes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Office-of-Science-and-Technology-Policy\|Office of Science and Technology Policy]] — secteur: Science et technologie — exécutif américain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OfficeChai\|OfficeChai]] — secteur: Publication indienne tech/startup news, source de l'article rapportant Sternfels janvier 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Oliver-Wyman\|Oliver Wyman]] — secteur: Cabinet de conseil en management, filiale de Marsh ; offre IA Quotient (1 occ., 1 fiches)
+- [[kb/Oliver-Wyman-Forum\|Oliver Wyman Forum]] — secteur: Think tank d'Oliver Wyman (groupe Marsh) réunissant dirigeants d'entreprise, d'État et de la société civile (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Omni\|Omni]] — apport: Canal Slack dédié aux prototypes, corollaire « tout le monde parle aux clients », inspiration de l'approche fichier plutôt qu'embedding (1 occ., 1 fiches)
 - [[kb/One-New-Zealand\|One New Zealand]] — secteur: Opérateur télécom néo-zélandais, cas d'illustration (1 occ., 1 fiches)
 - [[kb/One-Useful-Thing-organisation\|One Useful Thing]] — catégorie: Newsletter Substack (1 occ., 3 fiches)

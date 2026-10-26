@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 471 entités de type METHODOLOGIE
+> 474 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -351,6 +351,7 @@
 - [[kb/_entites-mineures#gel-au-niveau-de-l'outil\|gel au niveau de l'outil]] — principe: Contrainte dans le prompt = requête ; contrainte dans l'outil = fait (1 occ., 1 fiches)
 - [[kb/git-worktrees-methodologie\|git worktrees]] — usage: Isolation de tâches parallèles sur une même base de code (1 occ., 5 fiches)
 - [[kb/_entites-mineures#gouvernance-d'outils-MCP\|gouvernance d'outils MCP]] — définition: Always allow / Ask for approval / Disable, classifieur LLM, défaut deny (1 occ., 1 fiches)
+- [[kb/_entites-mineures#gouvernance-vivante\|gouvernance vivante]] — définition: Cycle permission → observation → évaluation → ajustement → renouvellement, rouvert par tout changement de modèle, données, outil, échelle, autonomie, conséquence ou usage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#governed-golden-paths\|governed golden paths]] — définition: Standardisation des pratiques dev IA via parcours gouvernés (paradigme Platform Engineering / IDP) (1 occ., 1 fiches)
 - [[kb/graphify\|graphify]] — catégorie: Skill open source présentée par le site, distincte du site lui-même (3 occ., 2 fiches)
 - [[kb/grill-with-docs\|grill-with-docs]] — catégorie: Skill d'ingénierie — conception en amont, DDD-flavored (2 occ., 1 fiches)
@@ -365,6 +366,7 @@
 - [[kb/_entites-mineures#islands-architecture\|islands architecture]] — rôle: Composition d'îles UI dans un contexte unique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#jailbreaking\|jailbreaking]] — technique: Fragmentation de tâches + fausse identité cybersécurité (1 occ., 1 fiches)
 - [[kb/jugement-par-paires\|jugement par paires]] — définition: Récompense = fraction de comparaisons gagnées contre des références (1 occ., 1 fiches)
+- [[kb/_entites-mineures#laboratoire-de-risque\|laboratoire de risque]] — définition: Environnement borné et réversible pour tester un usage IA risqué : propriétaire, limites, journalisation, conditions de sortie (1 occ., 1 fiches)
 - [[kb/_entites-mineures#learnings-researcher\|learnings-researcher]] — rôle: Protocole de récupération grep-first partagé par 5 skills (1 occ., 1 fiches)
 - [[kb/_entites-mineures#les-3-gates\|les 3 gates]] — définition: Spécification, planification, revue de livraison (contrôle humain) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#lesson-foundry\|lesson foundry]] — sorties: Règles de lint (déterministe), skills (contextuel), nouvelles questions d'interrogation (specs) (1 occ., 1 fiches)
@@ -436,6 +438,7 @@
 - [[kb/_entites-mineures#self-supervised-learning\|self-supervised learning]] — applications: Conduite autonome, diagnostic médical (1 occ., 1 fiches)
 - [[kb/_entites-mineures#shadow-mode\|shadow mode]] — définition: Relecteurs IA en commentaire-seul, red teamés, jusqu'à gain de confiance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#shift-feedback-left\|shift feedback left]] — objectif: Appliquer les règles de lint au plus tôt (IDE, git hooks, CI) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#shopping-agent-optimization\|shopping agent optimization]] — définition: Rendre informations produit, preuves et parcours de transaction lisibles et actionnables par des agents d'achat autorisés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#simplification-post-merge\|simplification post-merge]] — principe: Dédupliquer après que le code existe, sur des patterns observables, tests garantissant le comportement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#single-hop-short-lived-tokens\|single-hop short-lived tokens]] — définition: Doctrine canonique Uber : *« Every JWT minted by the STS is intended for a single hop, with a specific Audience claim and a short time-to-live in the order of minutes »* — blast radius minimal en cas de vol (1 occ., 1 fiches)
 - [[kb/_entites-mineures#six-signaux-de-sécurisation-d'une-capacité-IA\|six signaux de sécurisation d'une capacité IA]] — définition: Différenciation ; urgence et banalisation ; capacité du marché ; intégration, gouvernance, contrôle ; économie de la cible ; optionalité et lock-in (1 occ., 1 fiches)

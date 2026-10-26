@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 200 entités de type DOCUMENT
+> 204 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -30,6 +30,7 @@
 - [[kb/_entites-mineures#Blueprint\|Blueprint]] — rôle: Pattern de design réutilisable multi-systèmes, exigence qualité maximale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Brasil-70-A-Saga-do-Tri\|Brasil 70: A Saga do Tri]] — catégorie: Titre Netflix (Brésil) utilisant la GenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Build-a-Large-Language-Model-(From-Scratch)\|Build a Large Language Model (From Scratch)]] — type: Livre technique sur LLMs (1 occ., 1 fiches)
+- [[kb/CEO-Agenda-2026\|CEO Agenda 2026]] — méthodologie: Enquête Oliver Wyman Forum × NYSE, 415 CEO, janvier-mars 2026, 56 % Amérique du Nord, 32 % Europe (1 occ., 1 fiches)
 - [[kb/CLAUDE-md-document\|CLAUDE.md]] — rôle: Contexte de dépôt versionné : commandes, conventions, architecture, erreurs récurrentes de l'agent (2 occ., 13 fiches)
 - [[kb/_entites-mineures#CONCEPTS-md\|CONCEPTS.md]] — rôle: Vocabulaire partagé (glossaire, jamais des specs) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CONTEXT-MAP-md\|CONTEXT-MAP.md]] — rôle: Pointe vers les CONTEXT.md/docs/adr de chaque bounded context (1 occ., 1 fiches)
@@ -51,6 +52,7 @@
 - [[kb/_entites-mineures#FinOps-for-AI-Overview\|FinOps for AI Overview]] — type: Guide de référence officiel (CC BY 4.0) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GDPval-AA\|GDPval-AA]] — rôle: Benchmark de travail de connaissance réel/agentique (Elo, multi-tours, livrables rendus) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gang-of-Four\|Gang of Four]] — nature: Design Patterns (Gamma, Helm, Johnson, Vlissides, 1994) (1 occ., 1 fiches)
+- [[kb/Global-Voices-Survey\|Global Voices Survey]] — méthodologie: Enquête en ligne Oliver Wyman Forum, avril (N = 12 883) et août 2026 (N = 12 837), 15 marchés, 18-75 ans, ~96 % d'actifs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Glory\|Glory]] — catégorie: Titre Netflix (Inde) utilisant la GenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Growth-Marketing-Fit\|Growth Marketing Fit]] — rôle: Newsletter LinkedIn de Guillaume Dumortier (~1 300 abonnés en août 2026), support de publication du retour d'expérience sur le Marketing AI OS (1 occ., 1 fiches)
 - [[kb/_entites-mineures#HBR-study-2026-cognitive-exhaustion\|HBR study 2026 cognitive exhaustion]] — description: Étude Harvard Business Review 2026 confirmant *« cognitive exhaustion from intensive oversight of AI agents is both real and significant »* — citée par Chepurin/Turner (1 occ., 1 fiches)
@@ -108,11 +110,13 @@
 - [[kb/_entites-mineures#Sinks,-Not-Pipes\|Sinks, Not Pipes]] — catégorie: Essai de Hohpe sur le code « boîte noire » à l'ère de l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Socrates-on-the-Invention-of-Writing-and-the-Relationship-of-Writing-to-Memory\|Socrates on the Invention of Writing and the Relationship of Writing to Memory]] — définition: Notice de frise citant le *Phèdre* (274c-275b) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Software-Factories,-Light-and-Dark\|Software Factories, Light and Dark]] — statut: Essai d'Addy Osmani (addyosmani.com, juillet 2026) — source des trois concepts structurants repris par SFEIR ; absent du corpus de veille, candidat d'ajout prioritaire (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Sovereign-AI-Index\|Sovereign AI Index]] — méthodologie: Classement des 100 premières économies sur six dimensions (modèles, chercheurs, calcul, chokepoints, capital privé, préparation gouvernementale), Q3 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#State-of-AI-2026\|State of AI 2026]] — catégorie: Enquête annuelle McKinsey, publiée le 25 août 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#State-of-AI-Code-Quality-2025\|State of AI Code Quality 2025]] — catégorie: Rapport de recherche industrielle, 609 développeurs sondés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Série-Bain-software-industry-age-of-AI\|Série Bain software industry age of AI]] — description: Série 5 volets Bain & Company 2026 sur l'industrie du logiciel à l'ère IA. Volet 1 : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#TIL-(Today-I-Learned)\|TIL (Today I Learned)]] — rôle: Trace de debug : système cassé → tentatives → fix → cause racine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Terminal-Bench-2.1\|Terminal-Bench 2.1]] — rôle: Benchmark workflows CLI où GPT-5.6 domine : Sol Ultra 91,9 %, Sol 88,8 %, Mythos 5 88 %, Fable 5 83,1 % (2 occ., 2 fiches)
+- [[kb/The-AI-Agenda-2026-—-The-reality-check\|The AI Agenda 2026 — The reality check]] — catégorie: Rapport de 91 pages, cinq chapitres (ROI, main-d'œuvre, commerce agentique, gouvernance, souveraineté), octobre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-AI-Era-Software-Assembly-Line\|The AI-Era Software Assembly Line]] — rôle: Rapport complet portant les données sous-jacentes, non reproduites dans le billet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-AI-Native-SDLC-playbook\|The AI-Native SDLC playbook]] — format: Guide de six étapes découpées en plays, ~40 min de lecture, publié le 21 août 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-American-Experiment\|The American Experiment]] — catégorie: Titre Netflix (US) utilisant la GenAI (1 occ., 1 fiches)

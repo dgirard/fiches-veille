@@ -1,10 +1,11 @@
 # Muse
 
-> **Type** : TECHNOLOGIE | 6 relations | 2 fiches sources
+> **Type** : TECHNOLOGIE | 6 relations | 3 fiches sources
 
 ## Attributs
 
 - **catégorie** : Assistant personnel de Meta, entraînement activé par défaut
+- **contexte** : Assistant de Meta lancé en septembre 2026, bloqué par Amazon comme agent non autorisé
 - **éditeur** : Meta ; numéro 1 de l'App Store à la date du billet
 
 ## Relations (comme sujet)
@@ -33,4 +34,5 @@
 ## Fiches sources
 
 - [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
+- [[fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15\|The AI Agenda 2026 — The reality check]]
 - [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]

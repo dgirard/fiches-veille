@@ -497,7 +497,7 @@
 - [[kb/_entites-mineures#Monetization-Gateway\|Monetization Gateway]] — définition: Offre Cloudflare permettant à un client de vendre contenu et API à des acheteurs agentiques sans infrastructure de paiement traditionnelle ; versant vendeur du dispositif dont Wallets est le versant acheteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Moneybot\|Moneybot]] — définition: Assistant IA de Cash App qui surveille l'activité de l'utilisateur, renseigne comptes, soldes et transactions et suggère des fonctionnalités ; plus d'un million de comptes actifs hebdomadaires en août 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Multimodal-generative-AI\|Multimodal generative AI]] — promesse: Résultats IA plus forts et plus rapides (1 occ., 1 fiches)
-- [[kb/Muse\|Muse]] — catégorie: Assistant personnel de Meta, entraînement activé par défaut (2 occ., 2 fiches)
+- [[kb/Muse\|Muse]] — catégorie: Assistant personnel de Meta, entraînement activé par défaut (3 occ., 3 fiches)
 - [[kb/Muse-Code\|Muse Code]] — définition: Agent de codage en terminal de Meta, en bêta au 5 août 2026 : agents d'arrière-plan persistants, journal d'événements rendant le runtime rejouable et reprenable, et trois skills livrées d'origine — plan approuvé, mise à l'épreuve du plan, poursuite d'objectif (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Muse-Spark-1.1\|Muse Spark 1.1]] — rôle: Version précédente du modèle, point de comparaison des gains annoncés (1 occ., 1 fiches)
 - [[kb/Muse-Spark-1.2\|Muse Spark 1.2]] — définition: Modèle orienté codage de Meta, co-entraîné avec le harnais Muse Code, entraîné sur des tâches longues avec compaction de contexte et issu d'une boucle d'auto-amélioration alimentée par la version précédente (2 occ., 1 fiches)

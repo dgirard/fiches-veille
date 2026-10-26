@@ -1,6 +1,6 @@
 # commerce agentique
 
-> **Type** : CONCEPT | 4 relations | 2 fiches sources
+> **Type** : CONCEPT | 5 relations | 2 fiches sources
 
 ## Attributs
 
@@ -28,6 +28,10 @@
 
 - comportement d'achat (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2025-10/novik-ai-online-shopping-consumers-2025-10-26\|The future is already here: 73% of consumers are already using AI for online shopping]]
+
+## Relations (comme objet)
+
+- [[kb/_entites-mineures#shopping-agent-optimization\|shopping agent optimization]] **s_applique_à** → commerce agentique — 0.92
 
 ## Fiches sources
 
