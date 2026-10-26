@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 446 entités de type ORGANISATION
+> 447 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -323,6 +323,7 @@
 - [[kb/_entites-mineures#Raiffeisen-Bank-International-(RBI)\|Raiffeisen Bank International (RBI)]] — secteur: Groupe bancaire autrichien, parent de Raiffeisen Bank Ukraine (1 occ., 1 fiches)
 - [[kb/Raiffeisen-Bank-Ukraine\|Raiffeisen Bank Ukraine]] — secteur: Banque systémique régulée, filiale Raiffeisen Bank International (RBI, Autriche), ~900 ingénieurs IT, contexte ukrainien (économie de guerre depuis 2022) (1 occ., 1 fiches)
 - [[kb/Rakuten\|Rakuten]] — secteur: Commerce en ligne / Technologie (2 occ., 2 fiches)
+- [[kb/Ramp\|Ramp]] — secteur: Fintech (cartes et gestion des dépenses) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Redwood-Research\|Redwood Research]] — rôle: organisation recherche partenaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Regie\|Regie]] — catégorie: AI SDR startup (1 occ., 1 fiches)
 - [[kb/Replit-organisation\|Replit]] — type: Plateforme de création logicielle IA (navigateur) (3 occ., 6 fiches)

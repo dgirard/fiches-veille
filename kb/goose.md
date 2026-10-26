@@ -1,6 +1,6 @@
 # goose
 
-> **Type** : TECHNOLOGIE | 10 relations | 8 fiches sources
+> **Type** : TECHNOLOGIE | 11 relations | 8 fiches sources
 
 ## Attributs
 
@@ -43,6 +43,7 @@
 - [[kb/Block\|Block]] **utilise** → goose — 0.96
 - [[kb/Minions\|Minions]] **utilise** → goose — 0.96
 - [[kb/Minions\|Minions]] **est_basé_sur** → goose — 0.95
+- [[kb/_entites-mineures#article-Why-Ramp-built-its-own-in-house-coding-agent,-Inspect\|article Why Ramp built its own in-house coding agent, Inspect]] **référence** → goose — 0.90
 
 ## Fiches sources
 

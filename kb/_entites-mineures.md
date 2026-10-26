@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 3080 entités avec moins de 3 triples/fiches
+> 3088 entités avec moins de 3 triples/fiches
 
-## PERSONNE (411)
+## PERSONNE (415)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1635,6 +1635,16 @@
 
 **Fiches** : [[fiches/2025-08/block-goose-mcp-ui-future-agentic-interfaces-2025-08-25\|Block's Goose and the Future of Agentic Interfaces via Model Context Protocol]], [[fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25\|MCP-UI: The Future of Agentic Interfaces]]
 
+### Ivan Klaric {#Ivan-Klaric}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Co-auteur du deepdive, The Pragmatic Engineer
+
+- **publie** → [[kb/_entites-mineures#article-Why-Ramp-built-its-own-in-house-coding-agent,-Inspect\|article Why Ramp built its own in-house coding agent, Inspect]] (DOCUMENT) — 0.97
+
+**Fiches** : [[fiches/2026-08/orosz-salmon-klaric-ramp-inspect-coding-agent-2026-08-25\|Why Ramp built its own in-house coding agent, Inspect]]
+
 ### J.R. Storment {#J.R.-Storment}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1824,6 +1834,16 @@
 - **a_créé** → [[kb/_entites-mineures#HistoryofInformation.com\|HistoryofInformation.com]] (TECHNOLOGIE) — 0.85
 
 **Fiches** : [[fiches/2026-08/norman-socrates-invention-writing-memory-2026-08-27\|Socrates on the Invention of Writing and the Relationship of Writing to Memory]]
+
+### Jessica Salmon {#Jessica-Salmon}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Co-autrice du deepdive, The Pragmatic Engineer
+
+- **publie** → [[kb/_entites-mineures#article-Why-Ramp-built-its-own-in-house-coding-agent,-Inspect\|article Why Ramp built its own in-house coding agent, Inspect]] (DOCUMENT) — 0.97
+
+**Fiches** : [[fiches/2026-08/orosz-salmon-klaric-ramp-inspect-coding-agent-2026-08-25\|Why Ramp built its own in-house coding agent, Inspect]]
 
 ### Jin Montesano {#Jin-Montesano}
 
@@ -3105,6 +3125,16 @@
 
 **Fiches** : [[fiches/2026-07/mozilla-state-of-open-source-ai-2026-07\|The state of open source AI (v1.0.1, juillet 2026)]]
 
+### Rahul Sengottuvelu {#Rahul-Sengottuvelu}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : CTO de Ramp
+
+- **travaille_chez** → [[kb/Ramp\|Ramp]] (ORGANISATION) — 0.96
+
+**Fiches** : [[fiches/2026-08/orosz-salmon-klaric-ramp-inspect-coding-agent-2026-08-25\|Why Ramp built its own in-house coding agent, Inspect]]
+
 ### Randy Shoup {#Randy-Shoup}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -4057,6 +4087,16 @@
 - **affirme_que** → « la moitié des nouveaux avocats, consultants et professionnels de la finance disparaîtra d'ici 1 à 5 ans » (AFFIRMATION) — 0.90
 
 **Fiches** : [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
+
+### Zach Bruggeman {#Zach-Bruggeman}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Principal engineer, ingénieur fondateur d'Inspect (Ramp)
+
+- **a_créé** → [[kb/Inspect\|Inspect]] (TECHNOLOGIE) — 0.92
+
+**Fiches** : [[fiches/2026-08/orosz-salmon-klaric-ramp-inspect-coding-agent-2026-08-25\|Why Ramp built its own in-house coding agent, Inspect]]
 
 ### Zach Davis {#Zach-Davis}
 
@@ -7533,7 +7573,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (684)
+## TECHNOLOGIE (686)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -8786,11 +8826,13 @@
 
 ### Cloudflare Agents SDK {#Cloudflare-Agents-SDK}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **usage** : WebSocket + Dynamic Worker execution → Code Mode
 
 - **permet** → [[kb/_entites-mineures#Code-Mode\|Code Mode]] (CONCEPT) — 0.92
+
+- [[kb/Inspect\|Inspect]] **utilise** → Cloudflare Agents SDK — 0.90
 
 **Fiches** : [[fiches/2026-06/dembo-byo-agent-m5stack-tinkering-opus-cloudflare-2026-06-07\|BYO Agent with M5Stack Stick 3]]
 
@@ -11399,9 +11441,11 @@
 
 ### Modal {#Modal}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **categorie** : Infrastructure sandbox agents
+
+- [[kb/Inspect\|Inspect]] **utilise** → Modal — 0.90
 
 **Fiches** : [[fiches/2026-03/levie-building-trillions-agents-software-2026-03-07\|Building for trillions of agents]]
 
@@ -11754,6 +11798,16 @@
 - [[kb/workflow-IA-Wardley\|workflow IA Wardley]] **utilise** → Obsidian — 0.97
 
 **Fiches** : [[fiches/2025-04/ai-workflow-wardley-mapping-obsidian-youtube-2025-04-23\|AI Workflow for Creating Wardley Maps (Video Tutorial)]]
+
+### Oncall Assistant {#Oncall-Assistant}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Agent d'astreinte de Ramp relié aux systèmes de production et d'observabilité
+
+- **est_basé_sur** → [[kb/Inspect\|Inspect]] (TECHNOLOGIE) — 0.92
+
+**Fiches** : [[fiches/2026-08/orosz-salmon-klaric-ramp-inspect-coding-agent-2026-08-25\|Why Ramp built its own in-house coding agent, Inspect]]
 
 ### OneHelp {#OneHelp}
 
@@ -12281,6 +12335,16 @@
 
 **Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]]
 
+### Ramp Research {#Ramp-Research}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Agent analyste de données de Ramp (Looker, Snowflake, dbt), interrogeable depuis Slack
+
+- **est_basé_sur** → [[kb/Inspect\|Inspect]] (TECHNOLOGIE) — 0.92
+
+**Fiches** : [[fiches/2026-08/orosz-salmon-klaric-ramp-inspect-coding-agent-2026-08-25\|Why Ramp built its own in-house coding agent, Inspect]]
+
 ### React {#React}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -12327,6 +12391,16 @@
 - **améliore** → développement d'apps internes pour ingénieurs (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19\|One Prompt, Zero Engineers: Your New Internal Dev]]
+
+### ReviewBuddy {#ReviewBuddy}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Système de revue de code interne de Ramp, personnalisable par équipe
+
+- **est_basé_sur** → [[kb/Inspect\|Inspect]] (TECHNOLOGIE) — 0.94
+
+**Fiches** : [[fiches/2026-08/orosz-salmon-klaric-ramp-inspect-coding-agent-2026-08-25\|Why Ramp built its own in-house coding agent, Inspect]]
 
 ### Rippling {#Rippling}
 
@@ -14163,18 +14237,6 @@
 
 **Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]]
 
-### opencode {#opencode}
-
-**Type** : TECHNOLOGIE | 2 relations | 2 fiches
-
-- **catégorie** : Agent de codage open source
-- **usage** : Harnais de codage configuré avec deux fournisseurs Vertex et des sous-agents worker (Flash) et deep-thinker (Fable)
-
-- [[kb/_entites-mineures#système-de-revue-de-code-en-CI\|système de revue de code en CI]] **utilise** → opencode — 0.95
-- [[kb/_entites-mineures#promptfoo\|promptfoo]] **utilise** → opencode — 0.93
-
-**Fiches** : [[fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14\|Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team]], [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
-
 ### orchestration agentique {#orchestration-agentique}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -14263,7 +14325,7 @@
 
 - **usage** : Pilote des exécutions d'agent (provider exec) pour comparer deux modèles sur les mêmes tâches, timeout 60 s
 
-- **utilise** → [[kb/_entites-mineures#opencode\|opencode]] (TECHNOLOGIE) — 0.93
+- **utilise** → [[kb/OpenCode\|opencode]] (TECHNOLOGIE) — 0.93
 
 - [[kb/Alan-Blount\|Alan Blount]] **utilise** → promptfoo — 0.93
 
@@ -14553,7 +14615,7 @@
 - **catégorie** : Orchestration multi-reviewers de Cloudflare
 
 - **mesure** → « 131 246 revues sur 48 095 PR dans 5 169 dépôts, 159 103 constats, soit 1,2 par revue (mars-avril 2026) » (MESURE) — 0.95
-- **utilise** → [[kb/_entites-mineures#opencode\|OpenCode]] (TECHNOLOGIE) — 0.95
+- **utilise** → [[kb/OpenCode\|OpenCode]] (TECHNOLOGIE) — 0.95
 
 - [[kb/Cloudflare\|Cloudflare]] **a_créé** → système de revue de code en CI — 0.93
 
@@ -14711,7 +14773,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1029)
+## CONCEPT (1030)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -23536,6 +23598,16 @@
 
 **Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 
+### sandbox distant {#sandbox-distant}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Environnement de développement cloud provisionné par session d'agent, configuré centralement
+
+- **permet** → sessions d'agents parallèles illimitées (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-08/orosz-salmon-klaric-ramp-inspect-coding-agent-2026-08-25\|Why Ramp built its own in-house coding agent, Inspect]]
+
 ### sandboxed iframes {#sandboxed-iframes}
 
 **Type** : CONCEPT | 1 relations | 2 fiches
@@ -29400,7 +29472,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (167)
+## DOCUMENT (168)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -30846,6 +30918,21 @@
 - [[kb/Asma-Mhalla\|Asma Mhalla]] **publie** → article What if the future does not need you — 0.98
 
 **Fiches** : [[fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20\|WHAT IF THE FUTURE DOES NOT NEED YOU ?]]
+
+### article Why Ramp built its own in-house coding agent, Inspect {#article-Why-Ramp-built-its-own-in-house-coding-agent,-Inspect}
+
+**Type** : DOCUMENT | 5 relations | 1 fiches
+
+- **catégorie** : Deepdive payant de The Pragmatic Engineer, 25 août 2026
+
+- **référence** → [[kb/goose\|Goose]] (TECHNOLOGIE) — 0.90
+- **référence** → [[kb/Minions\|Minions]] (TECHNOLOGIE) — 0.90
+
+- [[kb/Gergely-Orosz\|Gergely Orosz]] **publie** → article Why Ramp built its own in-house coding agent, Inspect — 0.98
+- [[kb/_entites-mineures#Ivan-Klaric\|Ivan Klaric]] **publie** → article Why Ramp built its own in-house coding agent, Inspect — 0.97
+- [[kb/_entites-mineures#Jessica-Salmon\|Jessica Salmon]] **publie** → article Why Ramp built its own in-house coding agent, Inspect — 0.97
+
+**Fiches** : [[fiches/2026-08/orosz-salmon-klaric-ramp-inspect-coding-agent-2026-08-25\|Why Ramp built its own in-house coding agent, Inspect]]
 
 ### article de Paul Sawers (16 juin 2026) {#article-de-Paul-Sawers-(16-juin-2026)}
 

@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 442 fiches | 1975-12 → 2026-10-21 | généré le 2026-10-22
+> 443 fiches | 1975-12 → 2026-10-21 | généré le 2026-10-26
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -57,6 +57,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **27** [Socrates on the Invention of Writing and the Relationship of Writing to Memory](fiches/2026-08/norman-socrates-invention-writing-memory-2026-08-27.md) — Jeremy Norman — historien et éditeur de HistoryofInformation.com ; notice de frise chronologique citant Platon (*Phèdre*, v. 370 av. J.-C.). · HistoryofInformation.com — Socrate, Platon, Phèdre
 - **26** [The turbulent AI era is here. The choices we make now are critical.](fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26.md) — Bill Gates — cofondateur de Microsoft, président du conseil de la Gates Foundation. Blog personnel Gates Notes. Page non capturable par `curl | lynx` (403 Akamai) : extraction navigateur. · Gates Notes — équité et IA, transition vers l'ère IA, substitution de la cognition
 - **26** [DuckDB and the changing physics of analytics](fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26.md) — Andy Warfield, ingénieur du service S3 chez AWS, en billet invité sur *All Things Distributed* ; introduction de Werner Vogels, CTO d'Amazon. · All Things Distributed (blog de Werner Vogels) — DuckDB, DuckLabs, acquisition AWS
+- **25** [Why Ramp built its own in-house coding agent, Inspect](fiches/2026-08/orosz-salmon-klaric-ramp-inspect-coding-agent-2026-08-25.md) — Gergely Orosz, Jessica Salmon, Ivan Klaric — *The Pragmatic Engineer* (newsletter Substack de Gergely Orosz). · The Pragmatic Engineer — agent de codage en arrière-plan, background coding agent, agent de codage interne
 - **24** [When code is abundant](fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24.md) — Bill Staples, directeur général de GitLab (fonction non affichée par la page), sur le blog about.gitlab.com. · GitLab (blog about.gitlab.com) — abondance du code, coût par changement accepté, théorie des contraintes
 - **21** [The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage](fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21.md) — Louis Claxton (Anthropic, équipe Applied AI), sur le blog claude.com ; contributions créditées à Jim Blackhurst, Will Steuk et Jamal Arif. · Anthropic (blog claude.com) — SDLC AI-native, cycle de vie logiciel, plays
 - **20** [The Claude Code guide for startups](fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20.md) — Michael Segner, auteur du guide sur le blog claude.com (fonction non affichée par la page) ; entretiens avec les dirigeants de quinze entreprises nommées. · Anthropic (blog claude.com) — Claude Code, jeunes pousses, everyone ships
@@ -575,6 +576,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic](fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14.md) — Sachin Malhotra (ingénieur, Anthropic), sur le blog claude.com.
 - [Portal by Spotify cut my Claude Code token usage by 90%](fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03.md) — Dimitri Mazmanov (Principal Product Manager, Spotify), sur le blog d'ingénierie engineering.atspotify.com.
 - [Maybe We Shouldn't Be Reviewing All This Code](fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02.md) — Rachel Laycock, CTO de Thoughtworks, sur *Rachel's Ramblings* (martinfowler.com).
+- [Why Ramp built its own in-house coding agent, Inspect](fiches/2026-08/orosz-salmon-klaric-ramp-inspect-coding-agent-2026-08-25.md) — Gergely Orosz, Jessica Salmon, Ivan Klaric — *The Pragmatic Engineer* (newsletter Substack de Gergely Orosz).
 - [When code is abundant](fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24.md) — Bill Staples, directeur général de GitLab (fonction non affichée par la page), sur le blog about.gitlab.com.
 - [The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage](fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21.md) — Louis Claxton (Anthropic, équipe Applied AI), sur le blog claude.com ; contributions créditées à Jim Blackhurst, Will Steuk et Jamal Arif.
 - [The Claude Code guide for startups](fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20.md) — Michael Segner, auteur du guide sur le blog claude.com (fonction non affichée par la page) ; entretiens avec les dirigeants de quinze entreprises nommées.
@@ -1141,6 +1143,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Do you even need a presentation?](fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08.md) — Sumeet Gayathri Moghe (global head of culture and organisational design, Thoughtworks), publié sur martinfowler.com ; relecture éditoriale de Martin Fowler.
 - [Portal by Spotify cut my Claude Code token usage by 90%](fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03.md) — Dimitri Mazmanov (Principal Product Manager, Spotify), sur le blog d'ingénierie engineering.atspotify.com.
 - [DuckDB and the changing physics of analytics](fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26.md) — Andy Warfield, ingénieur du service S3 chez AWS, en billet invité sur *All Things Distributed* ; introduction de Werner Vogels, CTO d'Amazon.
+- [Why Ramp built its own in-house coding agent, Inspect](fiches/2026-08/orosz-salmon-klaric-ramp-inspect-coding-agent-2026-08-25.md) — Gergely Orosz, Jessica Salmon, Ivan Klaric — *The Pragmatic Engineer* (newsletter Substack de Gergely Orosz).
 - [Designing AI with character: what we learned building Berd](fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18.md) — **Aucun auteur nommé** : le billet est signé **« Block »** — le champ *Author* de la page porte le nom de l'entreprise. Publié le **18 août 2026** sur `block.xyz/inside`, le blog **corporate**, et non sur `engineering.block.xyz`.
 - [Securing Software at the Speed of AI: What Four Years of Data Reveal](fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18.md) — Aaron Linskens, *technical writer* chez Sonatype, sur le blog de l'éditeur ; les chiffres sont produits par Sonatype Research Labs, non par l'auteur.
 - [Projects in Buzz](fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18.md) — **Thomas Petersen** — *« Principal Designer & Builder »* chez **Block**, auteur unique et signataire du billet ; première apparition dans le corpus. Publié le **18 août 2026** sur le blog **Block Engineering**. Troisième signature Block sur Buzz en un mois, après Tyler Longwell (21 juillet) et Atish Patel (6 août), et la première non-ingénieur.
@@ -1273,17 +1276,17 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 442 fiches
-- **Par année** : 2026 (265) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 443 fiches
+- **Par année** : 2026 (266) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 166
+  - Agents de codage IA & Skills : 167
   - Architecture & Construction : 62
   - Transformation & Adoption : 100
   - Qualité & Sécurité : 57
   - Économie & Marché : 94
   - Philosophie & Société : 32
   - Stratégie & Frameworks : 42
-  - Outils & Plateformes : 63
+  - Outils & Plateformes : 64
   - Recherche & Éducation : 16
   - Produits & Services : 19
   - Politique & Régulation : 32

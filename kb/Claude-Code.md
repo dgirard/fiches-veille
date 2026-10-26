@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 129 relations | 57 fiches sources
+> **Type** : TECHNOLOGIE | 130 relations | 57 fiches sources
 
 ## Attributs
 
@@ -288,6 +288,7 @@
 - [[kb/Omarchy\|Omarchy]] **utilise** → Claude Code — 0.88
 - [[kb/_entites-mineures#role-playing\|role-playing]] **améliore** → Claude Code — 0.85
 - [[kb/mode-Minimal\|mode Minimal]] **concurrence** → Claude Code — 0.82
+- [[kb/Inspect\|Inspect]] **concurrence** → Claude Code — 0.80
 
 ## Fiches sources
 

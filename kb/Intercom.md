@@ -38,7 +38,7 @@
 ## Relations (comme objet)
 
 - [[kb/Darragh-Curran\|Darragh Curran]] **dirige** → Intercom — 0.97
-- Ramp **converge_avec** → Intercom — 0.88
+- [[kb/Ramp\|Ramp]] **converge_avec** → Intercom — 0.88
 
 ## Fiches sources
 

@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 565 entités de type PERSONNE
+> 569 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -199,7 +199,7 @@
 - [[kb/_entites-mineures#Geoffrey-Huntley\|Geoffrey Huntley]] — contribution: Auteur de la technique Ralph (début 2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#George-Sunderland\|George Sunderland]] — rôle: Partner/Expert Bain & Company, co-auteur série software industry age of AI volet 1/5 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Georges-Bernanos\|Georges Bernanos]] — domaine: Écrivain français, critique de la technique (1 occ., 1 fiches)
-- [[kb/Gergely-Orosz\|Gergely Orosz]] — rôle: Auteur newsletter The Pragmatic Engineer (2 occ., 2 fiches)
+- [[kb/Gergely-Orosz\|Gergely Orosz]] — rôle: Auteur de The Pragmatic Engineer (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Gideon-Nave\|Gideon Nave]] — rôle: Co-auteur étude Wharton/UPenn sur cognitive offloading vs surrender (1 occ., 1 fiches)
 - [[kb/Gilles-Chehade\|Gilles Chehade]] — rôle: Cofondateur, contributeur OpenBSD (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Giorgio-La-Pira\|Giorgio La Pira]] — rôle: Maire de Florence (1951-1965), figure du catholicisme social italien, artisan de paix — cité par Léon XIV (n. 221) sur la culture de la négociation (1 occ., 1 fiches)
@@ -228,6 +228,7 @@
 - [[kb/_entites-mineures#Ido-Salomon\|Ido Salomon]] — rôle: Co-créateur MCP-UI, Monday.com (2 occ., 2 fiches)
 - [[kb/Itamar-Friedman\|Itamar Friedman]] — rôle: CEO, QodoAI (2 occ., 2 fiches)
 - [[kb/Ivan-Chepurin\|Ivan Chepurin]] — rôle: Auteur Evil Martians, co-rédacteur Chronicles AI-assisted engineers burning out (mai 2026) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Ivan-Klaric\|Ivan Klaric]] — rôle: Co-auteur du deepdive, The Pragmatic Engineer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#J.R.-Storment\|J.R. Storment]] — rôle: Créateur / executive director de la FinOps Foundation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#J.R.R.-Tolkien\|J.R.R. Tolkien]] — rôle: Écrivain catholique anglais (1892-1973), auteur du *Seigneur des Anneaux* — cité par Léon XIV (n. 213) via les paroles de Sam dans *Le Retour du Roi* sur la responsabilité de notre génération (1 occ., 1 fiches)
 - [[kb/Jack-Clark\|Jack Clark]] — rôle: Co-fondateur Anthropic, membre AI Index Steering Committee (1 occ., 1 fiches)
@@ -259,6 +260,7 @@
 - [[kb/_entites-mineures#Jeremy-Norman\|Jeremy Norman]] — rôle: Historien et éditeur de HistoryofInformation.com (1 occ., 1 fiches)
 - [[kb/Jesse-Vincent\|Jesse Vincent]] — rôle: Praticien ayant transmis le conseil de délégation multi-modèles (6 occ., 5 fiches)
 - [[kb/Jesse-Zhang\|Jesse Zhang]] — rôle: Cofondateur et CEO de Decagon (agents IA de service client) ; défend une approche produit contre l'approche FDE/services et déclare que deux tiers du travail de déploiement de son entreprise sont réalisés de façon autonome (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Jessica-Salmon\|Jessica Salmon]] — rôle: Co-autrice du deepdive, The Pragmatic Engineer (1 occ., 1 fiches)
 - [[kb/Jessica-Talisman\|Jessica Talisman]] — rôle: Semantic Engineer + Information Architect 25+ ans, MLS, ex-Adobe RDF knowledge graphs, ex-Amazon information architecture, fondatrice Ontology Pipeline Framework et Contextually LLC, auteure newsletter Intentional Arrangement et livre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jin-Montesano\|Jin Montesano]] — rôle: CHRO Lixil (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jing-Hu\|Jing Hu]] — rôle: Citée : l'anxiété IA est une question d'identité (1 occ., 1 fiches)
@@ -428,6 +430,7 @@
 - [[kb/Rachel-Laycock\|Rachel Laycock]] — rôle: CTO de Thoughtworks, autrice de la section *Rachel's Ramblings* sur martinfowler.com (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rafael-Marques\|Rafael Marques]] — rôle: Product Manager, Google Cloud (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Raffi-Krikorian\|Raffi Krikorian]] — rôle: Chief Technology Officer de Mozilla, auteur de la lettre d'ouverture du rapport (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Rahul-Sengottuvelu\|Rahul Sengottuvelu]] — rôle: CTO de Ramp (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Randy-Shoup\|Randy Shoup]] — rôle: SVP Engineering, CircleCI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ranganathan-&-Ye\|Ranganathan & Ye]] — rôle: Chercheurs publiés dans HBR (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ray-Dalio\|Ray Dalio]] — attribut: Promoteur de la conscience de soi radicale (1 occ., 1 fiches)
@@ -557,6 +560,7 @@
 - [[kb/_entites-mineures#Yoko-Li\|Yoko Li]] — rôle: Partner a16z, entreprise et infrastructure (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Yugen-Matsuda\|Yugen Matsuda]] — rôle: Entrepreneur indépendant, compte X @ytk_matsuda (1 occ., 1 fiches)
 - [[kb/Yves-Caseau\|Yves Caseau]] — rôle: Group Chief Digital & Information Officer, Michelin (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Zach-Bruggeman\|Zach Bruggeman]] — rôle: Principal engineer, ingénieur fondateur d'Inspect (Ramp) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zach-Davis\|Zach Davis]] — rôle: Principal Engineer, LaunchDarkly (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zach-Gleicher\|Zach Gleicher]] — rôle: Product Manager, Google DeepMind (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zie619\|Zie619]] — rôle: Créateur et mainteneur du repository (1 occ., 1 fiches)

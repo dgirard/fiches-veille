@@ -1,6 +1,6 @@
 # Minions
 
-> **Type** : TECHNOLOGIE | 10 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 11 relations | 3 fiches sources
 
 ## Attributs
 
@@ -39,6 +39,7 @@
 ## Relations (comme objet)
 
 - [[kb/Stripe\|Stripe]] **a_créé** → Minions — 0.98
+- [[kb/_entites-mineures#article-Why-Ramp-built-its-own-in-house-coding-agent,-Inspect\|article Why Ramp built its own in-house coding agent, Inspect]] **référence** → Minions — 0.90
 - [[kb/fichiers-de-règles-partagés\|fichiers de règles partagés]] **s_applique_à** → Minions — 0.90
 
 ## Fiches sources

@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3687 entités
+> 3698 entités
 
 ## #
 
@@ -416,6 +416,7 @@
 - [[kb/_entites-mineures#article-The-Dot-and-the-Swarm\|article The Dot and the Swarm]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#article-Training-AI-to-Paint-with-Code\|article Training AI to Paint with Code]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#article-What-if-the-future-does-not-need-you\|article What if the future does not need you]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#article-Why-Ramp-built-its-own-in-house-coding-agent,-Inspect\|article Why Ramp built its own in-house coding agent, Inspect]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Articulation-TDD-coding-agents-2026\|Articulation TDD / coding agents 2026]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Artifactory\|Artifactory]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Artificial-Analysis\|Artificial Analysis]] (ORGANISATION, 2 fiches)
@@ -1509,7 +1510,7 @@
 - [[kb/_entites-mineures#George-Sunderland\|George Sunderland]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Georges-Bernanos\|Georges Bernanos]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#GEPA\|GEPA]] (TECHNOLOGIE, 1 fiches)
-- [[kb/Gergely-Orosz\|Gergely Orosz]] (PERSONNE, 2 fiches)
+- [[kb/Gergely-Orosz\|Gergely Orosz]] (PERSONNE, 3 fiches)
 - [[kb/_entites-mineures#gestion-des-coûts-LLM\|gestion des coûts LLM]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Ghostty\|Ghostty]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#Ghostty\|Ghostty]] (TECHNOLOGIE, 2 fiches)
@@ -1801,6 +1802,7 @@
 - [[kb/_entites-mineures#ingénieurs-augmentés\|ingénieurs augmentés]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Ink\|Ink]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Insights\|Insights]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Inspect\|Inspect]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#inspection-de-Fagan-(1976)\|inspection de Fagan (1976)]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Instant-Checkout\|Instant Checkout]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Instinct\|Instinct]] (ORGANISATION, 2 fiches)
@@ -1836,6 +1838,7 @@
 - [[kb/_entites-mineures#IT-Revolution\|IT Revolution]] (ORGANISATION, 1 fiches)
 - [[kb/Itamar-Friedman\|Itamar Friedman]] (PERSONNE, 2 fiches)
 - [[kb/Ivan-Chepurin\|Ivan Chepurin]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Ivan-Klaric\|Ivan Klaric]] (PERSONNE, 1 fiches)
 ## J
 
 - [[kb/_entites-mineures#J-courbe-de-la-valeur-IA\|J-courbe de la valeur IA]] (CONCEPT, 1 fiches)
@@ -1877,6 +1880,7 @@
 - [[kb/_entites-mineures#Jeremy-Norman\|Jeremy Norman]] (PERSONNE, 1 fiches)
 - [[kb/Jesse-Vincent\|Jesse Vincent]] (PERSONNE, 5 fiches)
 - [[kb/Jesse-Zhang\|Jesse Zhang]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Jessica-Salmon\|Jessica Salmon]] (PERSONNE, 1 fiches)
 - [[kb/Jessica-Talisman\|Jessica Talisman]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jeu-train-test-séparé\|Jeu train/test séparé]] (CONCEPT, 1 fiches)
 - [[kb/Jev\|Jev]] (TECHNOLOGIE, 3 fiches)
@@ -2434,6 +2438,7 @@
 - [[kb/_entites-mineures#OMS\|OMS]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Onboarding-60-90j-→-~40j\|Onboarding 60-90j → ~40j]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#onboarding-quotidien-LLM\|onboarding quotidien LLM]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Oncall-Assistant\|Oncall Assistant]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#One-pizza-pods\|One pizza pods]] (CONCEPT, 1 fiches)
 - [[kb/One-Useful-Thing-document\|One Useful Thing]] (DOCUMENT, 3 fiches)
 - [[kb/One-Useful-Thing-organisation\|One Useful Thing]] (ORGANISATION, 3 fiches)
@@ -2459,7 +2464,7 @@
 - [[kb/_entites-mineures#OpenBSD\|OpenBSD]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#OpenClaude\|OpenClaude]] (TECHNOLOGIE, 1 fiches)
 - [[kb/OpenClaw\|OpenClaw]] (TECHNOLOGIE, 6 fiches)
-- [[kb/_entites-mineures#opencode\|opencode]] (TECHNOLOGIE, 2 fiches)
+- [[kb/OpenCode\|OpenCode]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#OpenSearch-protocol\|OpenSearch protocol]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#OpenSMTPD\|OpenSMTPD]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Operator\|Operator]] (TECHNOLOGIE, 1 fiches)
@@ -2777,6 +2782,7 @@
 - [[kb/RAG\|RAG]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#RAG-Agent\|RAG Agent]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#RAG-Anything\|RAG-Anything]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Rahul-Sengottuvelu\|Rahul Sengottuvelu]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Raiffeisen-Bank-International-(RBI)\|Raiffeisen Bank International (RBI)]] (ORGANISATION, 1 fiches)
 - [[kb/Raiffeisen-Bank-Ukraine\|Raiffeisen Bank Ukraine]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#rail-discipline\|rail discipline]] (METHODOLOGIE, 1 fiches)
@@ -2784,6 +2790,8 @@
 - [[kb/_entites-mineures#Raisonnement-automatisé\|Raisonnement automatisé]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Rakuten\|Rakuten]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#Ralph-Loop\|Ralph Loop]] (METHODOLOGIE, 2 fiches)
+- [[kb/Ramp\|Ramp]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Ramp-Research\|Ramp Research]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Randy-Shoup\|Randy Shoup]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Ranganathan-&-Ye\|Ranganathan & Ye]] (PERSONNE, 1 fiches)
 - [[kb/Range\|Range]] (CONCEPT, 1 fiches)
@@ -2841,6 +2849,7 @@
 - [[kb/_entites-mineures#Reverse-Engineering-with-AI-works\|Reverse Engineering with AI/works™]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Review-quality-at-scale\|Review quality at scale]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#REVIEW-md\|REVIEW.md]] (DOCUMENT, 2 fiches)
+- [[kb/_entites-mineures#ReviewBuddy\|ReviewBuddy]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#reviewers-mono-lentille\|reviewers mono-lentille]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#revue-adversariale\|revue adversariale]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#revue-adverse-LLM\|revue adverse LLM]] (METHODOLOGIE, 1 fiches)
@@ -2951,6 +2960,7 @@
 - [[kb/_entites-mineures#Sample-ROI-calculator\|Sample ROI calculator]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Samsung\|Samsung]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#San-Francisco-consensus\|San Francisco consensus]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#sandbox-distant\|sandbox distant]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#sandboxed-iframes\|sandboxed iframes]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#sandboxed-iframes\|sandboxed iframes]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#sandwich-teams\|sandwich teams]] (CONCEPT, 1 fiches)
@@ -3680,6 +3690,7 @@
 - [[kb/Z.ai\|Z.ai]] (ORGANISATION, 5 fiches)
 - [[kb/_entites-mineures#Z.ai-Code-Bench\|Z.ai Code Bench]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Z.ai-Security-Disclosure-Ledger\|Z.ai Security Disclosure Ledger]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Zach-Bruggeman\|Zach Bruggeman]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Zach-Davis\|Zach Davis]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Zach-Gleicher\|Zach Gleicher]] (PERSONNE, 1 fiches)
 - [[kb/Zapier-organisation\|Zapier]] (ORGANISATION, 4 fiches)

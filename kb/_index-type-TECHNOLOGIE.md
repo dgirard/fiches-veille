@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 874 entités de type TECHNOLOGIE
+> 878 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -386,6 +386,7 @@
 - [[kb/_entites-mineures#Indice-d'Utilisation-de-l'IA-(AUI)\|Indice d'Utilisation de l'IA (AUI)]] — usage: mesurer adoption comparative par pays (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ink\|Ink]] — usage: Framework React pour UI terminal (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Insights\|Insights]] — catégorie: Agent spécialisé données (1 occ., 1 fiches)
+- [[kb/Inspect\|Inspect]] — catégorie: Agent de codage background interne de Ramp sur sandboxes distants, v2 lancée en novembre 2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Instinct\|Instinct]] — catégorie: Assistant personnel à licence perpétuelle sur les données (1 occ., 2 fiches)
 - [[kb/_entites-mineures#Inter\|Inter]] — catégorie: Police typographique recommandée (1 occ., 1 fiches)
 - [[kb/Interactions-API\|Interactions API]] — catégorie: API unifiée modèles et agents (2 occ., 1 fiches)
@@ -530,6 +531,7 @@
 - [[kb/_entites-mineures#Obsidian\|Obsidian]] — catégorie: Outil de gestion des connaissances avec graphe natif (1 occ., 1 fiches)
 - [[kb/Omarchy\|Omarchy]] — catégorie: Distribution Linux gratuite conçue pour être pilotée par des agents, agent choisi au premier démarrage, diagnostic de crash et pull request automatisés ; site traduit en 50 langues par agent (1 occ., 1 fiches)
 - [[kb/Omarchy-Quattro\|Omarchy Quattro]] — fabrication: Quatrième version, écrite exclusivement par agents en trois mois sans ligne de code manuelle ; 200 000 téléchargements en 18 jours, 4 000 plugins en quatre semaines, 21,7 M$ de promesses de dons (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Oncall-Assistant\|Oncall Assistant]] — catégorie: Agent d'astreinte de Ramp relié aux systèmes de production et d'observabilité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OneHelp\|OneHelp]] — fonction: Agent de support de Mirakl adossé à la documentation ; satisfaction client ×2 et utilisateurs ×10 à effectif constant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenAI-API\|OpenAI API]] — usage: Génération de capacités et relations via prompts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenAI-Agents-SDK\|OpenAI Agents SDK]] — catégorie: SDK d'agents OpenAI (2 occ., 2 fiches)
@@ -540,6 +542,7 @@
 - [[kb/_entites-mineures#OpenBSD\|OpenBSD]] — catégorie: Système d'exploitation Unix sécurisé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenClaude\|OpenClaude]] — catégorie: Variante open / locale de Claude Code mentionnée par Meng (1 occ., 1 fiches)
 - [[kb/OpenClaw\|OpenClaw]] — categorie: Agent IA persistant 24/7 (6 occ., 6 fiches)
+- [[kb/OpenCode\|OpenCode]] — catégorie: Agent de codage open source (3 occ., 3 fiches)
 - [[kb/_entites-mineures#OpenSMTPD\|OpenSMTPD]] — catégorie: Serveur mail open-source pour Unix/OpenBSD (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenSearch-protocol\|OpenSearch protocol]] — rôle: Protocole d'intégration moteurs de recherche alternatifs dans Chrome (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Operator\|Operator]] — statut: Rebrandé en ChatGPT Agent (1 occ., 1 fiches)
@@ -593,6 +596,7 @@
 - [[kb/_entites-mineures#RISC-V\|RISC-V]] — type: Architecture de jeu d'instructions ouverte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#RTX-5090\|RTX 5090]] — catégorie: GPU 32 Go VRAM, 1 999 $ (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Raisonnement-automatisé\|Raisonnement automatisé]] — catégorie: Crible déterministe mathématiquement prouvé (Bedrock) pour borner les agents (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Ramp-Research\|Ramp Research]] — catégorie: Agent analyste de données de Ramp (Looker, Snowflake, dbt), interrogeable depuis Slack (1 occ., 1 fiches)
 - [[kb/_entites-mineures#React\|React]] — catégorie: Bibliothèque UI JavaScript (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Redis\|Redis]] — catégorie: Base de données en mémoire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Remotion\|Remotion]] — catégorie: Framework React pour vidéos programmatiques (1 occ., 1 fiches)
@@ -600,6 +604,7 @@
 - [[kb/Replit-Agent\|Replit Agent]] — catégorie: Agent de codage IA autonome (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Replit-slides\|Replit slides]] — catégorie: Feature slides récente de Replit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Retool\|Retool]] — catégorie: Plateforme low-code pour développeurs (1 occ., 1 fiches)
+- [[kb/_entites-mineures#ReviewBuddy\|ReviewBuddy]] — catégorie: Système de revue de code interne de Ramp, personnalisable par équipe (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rippling\|Rippling]] — catégorie: Plateforme RH / paie / IT unifiée, co-fondée par Prasanna Sankar et Parker Conrad, $16B+ valorisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Robostral\|Robostral]] — catégorie: Modèle de robotique de Mistral (Robostral Navigate, 8 juillet 2026) ; signal de verticalisation sectorielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Routines\|Routines]] — description: Équivalent serveur de /loop : agents tournant côté Anthropic même quand laptop fermé (1 occ., 1 fiches)
@@ -818,7 +823,6 @@
 - [[kb/_entites-mineures#navigateur-IA\|navigateur IA]] — positionnement: Troisième terme possible du duel desktop/web : le critique le plus virulent de Claude Desktop utilise Claude dans le navigateur d'OpenAI, ce qui déplace la question du client natif vers la surface de navigation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#navigateur-web\|navigateur web]] — statut: remplacé progressivement par MCP (1 occ., 1 fiches)
 - [[kb/_entites-mineures#npm\|npm]] — mesure: Version moins risquée déjà disponible dans 46,9 % des sélections vulnérables (1 occ., 1 fiches)
-- [[kb/_entites-mineures#opencode\|opencode]] — usage: Harnais de codage configuré avec deux fournisseurs Vertex et des sous-agents worker (Flash) et deep-thinker (Fable) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#orchestration-agentique\|orchestration agentique]] — statut: Vecteur principal de l'évolution du vibe coding (1 occ., 1 fiches)
 - [[kb/_entites-mineures#p5.brush\|p5.brush]] — catégorie: Bibliothèque JavaScript de pinceaux pour p5 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pi-ai\|pi-ai]] — rôle: Bibliothèque tierce (`@earendil-works/pi-ai`) derrière l'adaptateur `dsh-llm-pi-ai`, second fournisseur LLM livré avec DeepSeek Harness aux côtés de l'adaptateur DeepSeek natif. Une instance détient un dictionnaire de profils par route ; une route absente du catalogue se déclare intégralement, de sorte qu'un gateway OpenAI-compatible ou un serveur auto-hébergé relève de la configuration et non du code. C'est la preuve vérifiable que le harnais n'est pas verrouillé sur les modèles DeepSeek (1 occ., 1 fiches)

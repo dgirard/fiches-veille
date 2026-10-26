@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 193 entités de type DOCUMENT
+> 194 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -161,6 +161,7 @@
 - [[kb/_entites-mineures#article-The-agentic-transformation-office\|article The agentic transformation office]] — catégorie: Article McKinsey Transformation Practice, septembre 2026, 8 pages (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-Training-AI-to-Paint-with-Code\|article Training AI to Paint with Code]] — date: 2026-03 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-What-if-the-future-does-not-need-you\|article What if the future does not need you]] — forme: Essai en cinq parties titrées en anglais, publié sur Substack le 20 septembre 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#article-Why-Ramp-built-its-own-in-house-coding-agent,-Inspect\|article Why Ramp built its own in-house coding agent, Inspect]] — catégorie: Deepdive payant de The Pragmatic Engineer, 25 août 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-de-Paul-Sawers-(16-juin-2026)\|article de Paul Sawers (16 juin 2026)]] — catégorie: Article The New Stack (Paul Sawers, 16 juin 2026) sur la suspension de la scission de facturation de l'Agent SDK, replacée dans son contexte sectoriel et réglementaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#bands.yaml\|bands.yaml]] — rôle: Config versionnée des bandes de contrôle production et des paliers d'autonomie associés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#billet-How-to-be-more-ambitious\|billet How to be more ambitious]] — catégorie: Billet de blog, felixrieseberg.com, 13 octobre 2026 (1 occ., 1 fiches)
