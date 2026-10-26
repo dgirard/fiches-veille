@@ -205,3 +205,9 @@ la demande. Ne pas y committer de livrable ni de contenu NDA.
 
 Suite complète : `python3 -m unittest discover -s scripts/tests -t scripts/tests -p "test_*.py"`
 (à conserver verte).
+
+## Articles pour le site web (sfeir.com)
+
+« Faire un article pour le site web » = article éditorial SFEIR dans
+`copywriting/article-sfeir-YYYY-slug.md`. Lire [`copywriting/README.md`](copywriting/README.md).
+**Ne pas utiliser la skill `deploy-content`** (autre projet).
