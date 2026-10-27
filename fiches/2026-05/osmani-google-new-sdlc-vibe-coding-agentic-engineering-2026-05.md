@@ -84,8 +84,8 @@ Le développeur oscille entre **conductor** (temps réel, in-IDE) et **orchestra
 | The New SDLC With Vibe Coding | DOCUMENT | affirme_que | le basculement fondamental est le passage de l'écriture de code à l'expression d'intention | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
 | agentic engineering | METHODOLOGIE | est_variante_de | vibe coding | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
 | context engineering | METHODOLOGIE | améliore | qualité du code généré par IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Agent Skills | METHODOLOGIE | permet | gestion du contexte dynamique par progressive disclosure | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Agent Skills | METHODOLOGIE | réduit | context rot des prompts surchargés | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Agent Skills | TECHNOLOGIE | permet | gestion du contexte dynamique par progressive disclosure | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Agent Skills | TECHNOLOGIE | réduit | context rot des prompts surchargés | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | harness | CONCEPT | permet | transformer un modèle brut en agent capable de finir une tâche | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | The New SDLC With Vibe Coding | DOCUMENT | affirme_que | la plupart des échecs d'agents sont des échecs de configuration du harness | AFFIRMATION | 0.91 | ATEMPOREL | déclaré_article |
 | IA | TECHNOLOGIE | réduit | durée de la phase d'implémentation | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |

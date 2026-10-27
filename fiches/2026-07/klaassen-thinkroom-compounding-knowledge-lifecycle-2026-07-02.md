@@ -75,7 +75,7 @@ Enfin, le **refresh** empêche la mémoire de mentir via trois contre-forces (re
 | Compounding Knowledge Lifecycle | METHODOLOGIE | est_basé_sur | docs/solutions/ | DOCUMENT | 0.94 | ATEMPOREL | déclaré_article |
 | Learning | DOCUMENT | fait_partie_de | docs/solutions/ | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
 | Learning | DOCUMENT | est_basé_sur | frontmatter conçu pour la recherche (grep-first) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| /ce-compound | TECHNOLOGIE | permet | Learning | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| /ce-compound | TECHNOLOGIE | permet | Learning | DOCUMENT | 0.93 | ATEMPOREL | déclaré_article |
 | /ce-compound | TECHNOLOGIE | utilise | subagents (context analyzer, solution extractor, related-docs finder) | METHODOLOGIE | 0.9 | ATEMPOREL | déclaré_article |
 | learnings-researcher | METHODOLOGIE | permet | récupération grep-first aux points de décision (5 skills) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | /ce-code-review | TECHNOLOGIE | utilise | learnings pour un verdict followed/violated contre le diff | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |

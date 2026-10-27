@@ -120,7 +120,7 @@
 - [[kb/Buzz\|Buzz]] — définition: Espace de travail auto-hébergeable de Block (21 juillet 2026, Apache-2.0) bâti sur Nostr, où humains et agents partagent les mêmes canaux ; chaque participant est une paire de clés, chaque événement est signé dans un journal append-only (16 occ., 7 fiches)
 - [[kb/_entites-mineures#Buzz-Desktop\|Buzz Desktop]] — rôle: Client où Projects est exposé sous l'onglet Experiments (1 occ., 1 fiches)
 - [[kb/Buzz-Projects\|Buzz Projects]] — catégorie: Forge logicielle hébergée sur relais : multi-dépôts, git, PR, issues, historique de contribution (2 occ., 1 fiches)
-- [[kb/CLAUDE-md-technologie\|CLAUDE.md]] — fonction: Fichier de configuration des instructions Claude Code (11 occ., 13 fiches)
+- [[kb/CLAUDE-md\|CLAUDE.md]] — fonction: Fichier de configuration des instructions Claude Code (13 occ., 13 fiches)
 - [[kb/_entites-mineures#CLAUDE_PLUGIN_DATA\|CLAUDE_PLUGIN_DATA]] — usage: Répertoire stable pour mémoire persistante (logs/JSON append-only) (1 occ., 1 fiches)
 - [[kb/CLI\|CLI]] — rôle: Abstraction fondamentale agents codage (2 occ., 2 fiches)
 - [[kb/_entites-mineures#CLI-Augment\|CLI Augment]] — performance: 51,80 % sur SWE-bench Pro (fév. 2026, top publié alors) (1 occ., 1 fiches)

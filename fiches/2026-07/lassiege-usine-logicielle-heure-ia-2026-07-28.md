@@ -137,10 +137,10 @@ Page de référence publiée le **28 juillet 2026** par **Hugo Lassiège** sur e
 | Hugo Lassiège | PERSONNE | recommande | expliciter ses propres contraintes plutôt que demander à une IA d'écrire du code de qualité | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | usine logicielle | CONCEPT | est_basé_sur | trois questions : ce que l'agent sait, ce qu'il fait de façon déterministe, ce qui l'arrête quand il se trompe | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
 | contexte permanent | CONCEPT | permet | d'indexer les skills sans les charger, le contenu n'étant ouvert qu'au besoin | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
-| skill | METHODOLOGIE | est_instance_de | procédure réutilisable | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| skill | CONCEPT | est_instance_de | procédure réutilisable | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | GitNexus | TECHNOLOGIE | permet | de mesurer le rayon d'explosion d'une modification et d'en détecter tous les effets de bord | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
 | graphe de code | CONCEPT | surpasse | le grep de nom de fonction pour retrouver un flux d'exécution | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
-| hooks | CONCEPT | fait_partie_de | harness de l'agent | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| hooks | TECHNOLOGIE | fait_partie_de | harness de l'agent | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | ast-grep | TECHNOLOGIE | permet | de transformer une décision d'architecture en règle de lint | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
 | quality gate | CONCEPT | permet | d'empêcher tout déploiement non validé, via une dépendance du job de déploiement au job de qualité | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | clôture de spec | METHODOLOGIE | résout | l'obsolescence des specs, qui deviennent périmées en six mois sans elle | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |

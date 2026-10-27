@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 3119 entités avec moins de 3 triples/fiches
+> 3118 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (423)
 
@@ -7163,7 +7163,7 @@
 
 - **initiative** : AI Workforce Action Plan
 
-- **utilise** → [[kb/Iceberg-Index\|Iceberg Index]] (CONCEPT) — 0.88
+- **utilise** → [[kb/Iceberg-Index\|Iceberg Index]] (TECHNOLOGIE) — 0.88
 
 **Fiches** : [[fiches/2025-11/mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26\|MIT study finds AI can already replace 11.7% of U.S. workforce]]
 
@@ -10303,7 +10303,7 @@
 
 - **rôle** : Accès prioritaire à AI Mode en phase Labs
 
-- **permet** → [[kb/AI-Mode\|AI Mode]] (CONCEPT) — 0.93
+- **permet** → [[kb/AI-Mode\|AI Mode]] (TECHNOLOGIE) — 0.93
 
 **Fiches** : [[fiches/2025-03/google-ai-mode-search-personalized-sites-2025-03-05\|Expanding AI Overviews and introducing AI Mode]]
 
@@ -14898,7 +14898,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1036)
+## CONCEPT (1035)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -17438,7 +17438,7 @@
 
 - **slogan** : « Buy a GPU » = exit power / déclaration d'indépendance
 
-- **réduit** → [[kb/Anthropic\|Anthropic]] (CONCEPT) — 0.88
+- **réduit** → [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.88
 
 **Fiches** : [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 
@@ -18077,7 +18077,7 @@
 
 - **caractéristiques** : faible coût d'erreur + connaissance explicite
 
-- **recommande** → [[kb/IA-générative\|IA générative]] (CONCEPT) — 0.95
+- **recommande** → [[kb/IA-générative\|IA générative]] (TECHNOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11\|The Gen AI Playbook for Organizations]]
 
@@ -18702,7 +18702,7 @@
 
 - **définition** : Chaque erreur d'agent devient une règle permanente. Toute ligne d'AGENTS.md traçable à un échec passé.
 
-- **est_basé_sur** → [[kb/AGENTS-md\|AGENTS.md]] (CONCEPT) — 0.95
+- **est_basé_sur** → [[kb/AGENTS-md\|AGENTS.md]] (TECHNOLOGIE) — 0.95
 
 - [[kb/_entites-mineures#cliquet-de-l'anneau\|cliquet de l'anneau]] **est_basé_sur** → Ratchet principle — 0.95
 - [[kb/Harness-engineering\|Harness engineering]] **est_basé_sur** → Ratchet principle — 0.95
@@ -20414,7 +20414,7 @@
 
 - **définition** : Capacité IA que la firme bâtit et possède
 
-- **est_basé_sur** → [[kb/boucle-d'apprentissage\|boucle d'apprentissage]] (CONCEPT) — 0.88
+- **est_basé_sur** → [[kb/boucle-d'apprentissage\|boucle d'apprentissage]] (METHODOLOGIE) — 0.88
 
 - [[kb/boucle-d'apprentissage\|boucle d'apprentissage]] **permet** → capital token — 0.92
 - agence humaine **permet** → capital token — 0.90
@@ -21165,18 +21165,6 @@
 
 **Fiches** : [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 
-### craft / artisanat logiciel {#craft-artisanat-logiciel}
-
-**Type** : CONCEPT | 3 relations | 1 fiches
-
-- **description** : Mouvement post-Agile valorisant la qualité du code, les pratiques techniques (TDD, refactoring, pair programming) et la responsabilité individuelle de l'artisan. Position Eveillard et corpus FR
-
-- [[kb/Harness-engineering\|Harness engineering]] **utilise** → craft / artisanat logiciel — 0.90
-- [[kb/_entites-mineures#Skraft\|Skraft]] **est_basé_sur** → craft / artisanat logiciel — 0.85
-- [[kb/Superpowers\|Superpowers]] **est_basé_sur** → craft / artisanat logiciel — 0.85
-
-**Fiches** : [[fiches/2022-12/eveillard-tdd-is-dead-long-live-testing-reponse-dhh-2022-12-07\|TDD is dead. Long live testing. (Une contre-argumentation point à point à l'article phare de David Heinemeier Hansson,…]]
-
 ### crise de sens {#crise-de-sens}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -21277,7 +21265,7 @@
 - **description** : Rendre plus facile ce que les gens font déjà
 - **source** : Observation des usages imprévus ("abuse") par les utilisateurs avancés
 
-- **s_applique_à** → [[kb/Claude-Code\|Claude Code]] (METHODOLOGIE) — 0.95
+- **s_applique_à** → [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]], [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]
 
@@ -23705,6 +23693,7 @@
 **Type** : CONCEPT | 4 relations | 2 fiches
 
 - **principe** : Découple la décision de déléguer (le plugin) de la manière de répondre (le mode) ; changer de modèle de travail ne change pas le plugin
+- **règle** : Opus = stratégie, Sonnet 4.6 = prod, Haiku 4.5 = micro-tâches
 
 - **réduit** → consommation de tokens du modèle principal (CONCEPT) — 0.92
 - **s_oppose_à** → « délégation de l'édition de code et du raisonnement » (AFFIRMATION) — 0.90
@@ -24449,7 +24438,7 @@
 
 - **définition** : Taux historique de promesses tenues (~19 % sur >600 engagements), en déclin
 
-- **s_applique_à** → [[kb/_entites-mineures#IPO-SPCX\|IPO SPCX]] (CONCEPT) — 0.84
+- **s_applique_à** → [[kb/_entites-mineures#IPO-SPCX\|IPO SPCX]] (EVENEMENT) — 0.84
 
 **Fiches** : [[fiches/2026-06/nyt-musk-promises-spacex-ipo-track-record-2026-06-02\|Elon Musk Promises. Here's How Often He Delivers.]]
 
@@ -26149,7 +26138,7 @@
 
 - **définition** : Couche "quasiment militaire" contraignant les agents — innovation centrale et barrière à l'entrée
 
-- **est_instance_de** → [[kb/Usine-Logicielle-Augmentée\|Usine Logicielle Augmentée]] (CONCEPT) — 0.97
+- **est_instance_de** → [[kb/Usine-Logicielle-Augmentée\|Usine Logicielle Augmentée]] (METHODOLOGIE) — 0.97
 - **est_instance_de** → barrière à l'entrée réelle (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
@@ -26558,7 +26547,7 @@
 
 - **séquence** : lattice-init → design-blueprint → code-forge → review (+ refactor-safely, bug-fix en écarts)
 
-- **est_basé_sur** → [[kb/_entites-mineures#Pipeline-Lattice\|Pipeline Lattice]] (CONCEPT) — 0.96
+- **est_basé_sur** → [[kb/_entites-mineures#Pipeline-Lattice\|Pipeline Lattice]] (METHODOLOGIE) — 0.96
 - **converge_avec** → pipeline ce:brainstorm → ce:plan → ce:work → ce:review (isomorphisme) (METHODOLOGIE) — 0.91
 
 - [[kb/_entites-mineures#Pipeline-Lattice\|Pipeline Lattice]] **est_basé_sur** → Pipeline Lattice — 0.96
@@ -27731,6 +27720,18 @@
 
 **Fiches** : [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|How Anthropic enables self-service data analytics with Claude]]
 
+### craft / artisanat logiciel {#craft-artisanat-logiciel}
+
+**Type** : METHODOLOGIE | 3 relations | 1 fiches
+
+- **description** : Mouvement post-Agile valorisant la qualité du code, les pratiques techniques (TDD, refactoring, pair programming) et la responsabilité individuelle de l'artisan. Position Eveillard et corpus FR
+
+- [[kb/Harness-engineering\|Harness engineering]] **utilise** → craft / artisanat logiciel — 0.90
+- [[kb/_entites-mineures#Skraft\|Skraft]] **est_basé_sur** → craft / artisanat logiciel — 0.85
+- [[kb/Superpowers\|Superpowers]] **est_basé_sur** → craft / artisanat logiciel — 0.85
+
+**Fiches** : [[fiches/2022-12/eveillard-tdd-is-dead-long-live-testing-reponse-dhh-2022-12-07\|TDD is dead. Long live testing. (Une contre-argumentation point à point à l'article phare de David Heinemeier Hansson,…]]
+
 ### cross-validation multi-agents {#cross-validation-multi-agents}
 
 **Type** : METHODOLOGIE | 3 relations | 1 fiches
@@ -28582,7 +28583,7 @@
 
 - **structure** : hook → exploration → dialogue → pratique → flashcard FSRS
 
-- **s_applique_à** → [[kb/Claude-Code\|Claude Code]] (CONCEPT) — 0.97
+- **s_applique_à** → [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.97
 
 **Fiches** : [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Maîtriser Claude Code — Détail complet des 12 modules et ~60 leçons]]
 
@@ -28743,20 +28744,6 @@
 - **permet** → auditabilité et détection de menace interne (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
-
-### routage de modèles {#routage-de-modèles}
-
-**Type** : METHODOLOGIE | 4 relations | 2 fiches
-
-- **règle** : Opus = stratégie, Sonnet 4.6 = prod, Haiku 4.5 = micro-tâches
-
-- **réduit** → consommation de tokens du modèle principal (CONCEPT) — 0.92
-- **s_oppose_à** → « délégation de l'édition de code et du raisonnement » (AFFIRMATION) — 0.90
-
-- [[kb/AiKA-Modes\|AiKA Modes]] **permet** → routage de modèles — 0.93
-- [[kb/coordination-asymétrique\|coordination asymétrique]] **est_instance_de** → routage de modèles — 0.93
-
-**Fiches** : [[fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03\|Portal by Spotify cut my Claude Code token usage by 90%]], [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate]]
 
 ### routage à deux niveaux de modèles {#routage-à-deux-niveaux-de-modèles}
 

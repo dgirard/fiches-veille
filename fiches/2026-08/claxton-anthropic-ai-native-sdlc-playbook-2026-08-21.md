@@ -72,7 +72,7 @@ L'étape Maintain ferme la boucle : un script déterministe surveille une métri
 | spec.md | DOCUMENT | est_basé_sur | intent.md | DOCUMENT | 0.91 | ATEMPOREL | déclaré_article |
 | plan.md | DOCUMENT | est_basé_sur | spec.md | DOCUMENT | 0.90 | ATEMPOREL | déclaré_article |
 | Plan mode | METHODOLOGIE | permet | plan accepté avant toute écriture de code | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| CLAUDE.md | DOCUMENT | s_applique_à | contexte du dépôt lu à chaque session | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| CLAUDE.md | TECHNOLOGIE | s_applique_à | contexte du dépôt lu à chaque session | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Claude Skills | TECHNOLOGIE | s_applique_à | politique appliquée pendant l'écriture du code | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | hooks | TECHNOLOGIE | améliore | Claude Skills | TECHNOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
 | Louis Claxton | PERSONNE | affirme_que | une skill est un contrôle consultatif, rien n'oblige une session à la suivre | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
@@ -101,7 +101,7 @@ L'étape Maintain ferme la boucle : un script déterministe surveille une métri
 | intent.md | DOCUMENT | rôle | Proto-spec écrite par l'auteur de l'idée : problème, résultat attendu, contraintes, questions ouvertes | AJOUT |
 | spec.md | DOCUMENT | rôle | Spécification exigences + design produite en une session, contrainte par les skills, points de friction signalés | AJOUT |
 | plan.md | DOCUMENT | rôle | Plan d'implémentation accepté : fichiers touchés, ordre du travail, risques, preuves attendues | AJOUT |
-| CLAUDE.md | DOCUMENT | rôle | Contexte de dépôt versionné : commandes, conventions, architecture, erreurs récurrentes de l'agent | AJOUT |
+| CLAUDE.md | TECHNOLOGIE | rôle | Contexte de dépôt versionné : commandes, conventions, architecture, erreurs récurrentes de l'agent | AJOUT |
 | REVIEW.md | DOCUMENT | rôle | Doctrine de revue : passes bugs/sécurité/conformité, définition de « Important », plafond de nits | AJOUT |
 | bands.yaml | DOCUMENT | rôle | Config versionnée des bandes de contrôle production et des paliers d'autonomie associés | AJOUT |
 | Plan mode | METHODOLOGIE | mécanisme | Claude lit le dépôt sans le modifier tant que le plan n'est pas accepté | AJOUT |

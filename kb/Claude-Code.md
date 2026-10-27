@@ -260,7 +260,7 @@
 - [[kb/Salesforce\|Salesforce]] **utilise** → Claude Code — 0.97
 - [[kb/Salvatore-Sanfilippo\|Salvatore Sanfilippo]] **utilise** → Claude Code — 0.97
 - [[kb/content-engineering\|content engineering]] **est_basé_sur** → Claude Code — 0.96
-- [[kb/CLAUDE-md-technologie\|CLAUDE.md]] **s_applique_à** → Claude Code — 0.96
+- [[kb/CLAUDE-md\|CLAUDE.md]] **s_applique_à** → Claude Code — 0.96
 - employés (1100 en pic) **utilise** → Claude Code — 0.96
 - [[kb/_entites-mineures#Legora\|Legora]] **utilise** → Claude Code — 0.96
 - [[kb/pipeline-de-rapprochement-des-paiements-non-identifiés\|pipeline de rapprochement des paiements non identifiés]] **utilise** → Claude Code — 0.96

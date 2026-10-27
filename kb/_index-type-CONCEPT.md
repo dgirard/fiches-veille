@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1091 entités de type CONCEPT
+> 1090 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -688,7 +688,6 @@
 - [[kb/_entites-mineures#coût-par-changement-accepté\|coût par changement accepté]] — définition: Unité économique proposée en remplacement du coût par ligne : durée et coût du changement généré jusqu'au changement accepté, décomposés par environnement, CI, revue, remédiation et gouvernance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coût-par-outcome\|coût par outcome]] — définition: Piloter le budget IA au coût d'un résultat (ticket résolu, feature livrée), pas au décompte de tokens (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coût-par-tâche\|coût par tâche]] — principe: Métrique FinOps qui prime sur le prix par token : un modèle plus cher au token peut coûter moins au total (moins d'étapes, moins de tokens sortie, moins de reprises) (1 occ., 1 fiches)
-- [[kb/_entites-mineures#craft-artisanat-logiciel\|craft / artisanat logiciel]] — description: Mouvement post-Agile valorisant la qualité du code, les pratiques techniques (TDD, refactoring, pair programming) et la responsabilité individuelle de l'artisan. Position Eveillard et corpus FR (1 occ., 1 fiches)
 - [[kb/_entites-mineures#crise-de-sens\|crise de sens]] — catégorie: Perte de sens du travail face à l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#crise-mondiale-de-l'apprentissage\|crise mondiale de l'apprentissage]] — statistique: 70% des enfants de 10 ans dans les PRFM ne lisent pas au niveau requis (1 occ., 1 fiches)
 - [[kb/_entites-mineures#critique-de-Lucas\|critique de Lucas]] — auteur: Robert Lucas (1976) — équivalent macroéconomique (1 occ., 1 fiches)
@@ -951,7 +950,7 @@
 - [[kb/_entites-mineures#reward-hacking\|reward hacking]] — définition: Exploitation de bugs d'évaluation / extraction de réponses cachées gonflant les scores ; reconnu dans le system card OpenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#risque-carrière\|risque carrière]] — origine: demander aide perçu comme signe d'échec personnel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#robotaxi-full-self-driving\|robotaxi / full self-driving]] — rôle: >60 objectifs annoncés liés à l'autonomie, largement non tenus (1 occ., 1 fiches)
-- [[kb/_entites-mineures#routage-de-modèles\|routage de modèles]] — principe: Découple la décision de déléguer (le plugin) de la manière de répondre (le mode) ; changer de modèle de travail ne change pas le plugin (1 occ., 2 fiches)
+- [[kb/_entites-mineures#routage-de-modèles\|routage de modèles]] — règle: Opus = stratégie, Sonnet 4.6 = prod, Haiku 4.5 = micro-tâches (2 occ., 2 fiches)
 - [[kb/_entites-mineures#routeurs-de-modèles-dynamiques\|routeurs de modèles dynamiques]] — limite: Mûrs en ML prédictif (bandits, ad tech, fraude), fragiles en agents multi-tours ; écartés au profit d'une composition explicite (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ruissellement-économique-du-cloud\|ruissellement économique du cloud]] — valeur: 68 centimes / € restent en Europe avec Scaleway vs < 20 centimes avec un hyperscaler US (1 occ., 1 fiches)
 - [[kb/_entites-mineures#règle-des-5%\|règle des 5%]] — principe: 5% des stratégies génèrent l'essentiel de l'impact (1 occ., 1 fiches)

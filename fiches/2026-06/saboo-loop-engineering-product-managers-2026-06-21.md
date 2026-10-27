@@ -95,4 +95,4 @@ Saboo conseille de commencer petit, par les **ops produit** : un **weekly produc
 | GitHub | TECHNOLOGIE | rôle | Couche mémoire des artefacts PM (« the repo becomes product memory ») | AJOUT |
 | condition d'arrêt (stop condition) | CONCEPT | rôle | Sortie propre d'une boucle : la partie la plus critique, surtout en récursif | AJOUT |
 | Loop Library | DOCUMENT | rôle | Collection de boucles réelles (eng/research/ops) de Matthew Berman | AJOUT |
-| CLAUDE.md | DOCUMENT | rôle | Artefact vivant qui façonne l'agent, sujet à dérive, à versionner | AJOUT |
+| CLAUDE.md | TECHNOLOGIE | rôle | Artefact vivant qui façonne l'agent, sujet à dérive, à versionner | AJOUT |

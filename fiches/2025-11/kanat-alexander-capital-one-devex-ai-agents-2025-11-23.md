@@ -61,7 +61,7 @@ Il aborde ensuite le défi majeur : la **Revue de Code**. Avec l'IA, la producti
 | CLIs rapides | TECHNOLOGIE | améliore | boucle de feedback agents | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | validation déterministe | CONCEPT | permet | efficacité agents | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | refactoring lisibilité | METHODOLOGIE | permet | utilisation efficace IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| revue de code | CONCEPT | est_instance_de | goulot d'étranglement du développement assisté IA | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| revue de code | METHODOLOGIE | est_instance_de | goulot d'étranglement du développement assisté IA | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
 | documentation intention | CONCEPT | améliore | lecture code par agents | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
 | agents IA | TECHNOLOGIE | utilise | environnement sain | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | Max Kanat-Alexander | PERSONNE | affirme_que | « ce qui est bon pour les humains est bon pour l'IA » | CITATION | 0.95 | ATEMPOREL | déclaré_article |

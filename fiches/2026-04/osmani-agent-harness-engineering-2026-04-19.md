@@ -98,7 +98,7 @@ Pièce de consolidation qui stabilise le vocabulaire commun du champ et fait bas
 | Viv Trivedy | PERSONNE | a_créé | Harness engineering | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Viv Trivedy | PERSONNE | a_créé | équation Agent = Model + Harness | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | Harness engineering | METHODOLOGIE | est_basé_sur | ratchet principle | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Ratchet principle | CONCEPT | est_basé_sur | AGENTS.md | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Ratchet principle | CONCEPT | est_basé_sur | AGENTS.md | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
 | HumanLayer | ORGANISATION | recommande | reframe skill issue pour échecs d'agent | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Dex Horthy | PERSONNE | dirige | HumanLayer | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
 | Terminal Bench 2.0 | TECHNOLOGIE | mesure | passage Top 30 → Top 5 par changement de harnais seul | MESURE | 0.97 | STATIQUE | déclaré_article |
@@ -107,7 +107,7 @@ Pièce de consolidation qui stabilise le vocabulaire commun du champ et fait bas
 | Anthropic | ORGANISATION | recommande | planner generator evaluator split | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
 | Ralph Loop | METHODOLOGIE | utilise | hook qui ré-injecte prompt dans fresh context window | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | HumanLayer | ORGANISATION | recommande | garder AGENTS.md sous 60 lignes | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
-| Hooks | CONCEPT | est_basé_sur | Success is silent failures are verbose | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Hooks | TECHNOLOGIE | est_basé_sur | Success is silent failures are verbose | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Fareed Khan | PERSONNE | publie | architecture Claude Code en 7 couches | DOCUMENT | 0.92 | STATIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | est_basé_sur | architecture en 7 couches (input, knowledge, integration, execution, output, observability, multi-agent) | CONCEPT | 0.93 | STATIQUE | déclaré_article |
 | Model-harness training loop | CONCEPT | permet | co-training et overfitting | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |

@@ -1,12 +1,14 @@
 # CLAUDE.md
 
-> **Type** : DOCUMENT | 13 relations | 13 fiches sources
-
-> **Même entité, autre type** : [[kb/CLAUDE-md-technologie\|CLAUDE.md (TECHNOLOGIE)]]
+> **Type** : TECHNOLOGIE | 13 relations | 13 fiches sources
 
 ## Attributs
 
-- **rôle** : Contexte de dépôt versionné : commandes, conventions, architecture, erreurs récurrentes de l'agent
+- **categorie** : Fichier de configuration agent / orchestration
+- **catégorie** : Fichier de configuration projet
+- **fonction** : Fichier de configuration des instructions Claude Code
+- **rôle** : Fichier racine pour les non-négociables (architecture, limites de sécurité) et par sous-répertoire pour les conventions permanentes ; lu au début de chaque session
+- **usage** : Fichier de règles évolutif, mémoire persistante de l'agent
 
 ## Relations (comme sujet)
 
@@ -49,7 +51,7 @@
 
 ### s_applique_à
 
-- [[kb/Claude-Code\|Claude Code]] (CONCEPT) — 0.96, DYNAMIQUE
+- [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.96, DYNAMIQUE
   - [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 - contexte du dépôt lu à chaque session (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]

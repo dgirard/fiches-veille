@@ -18,7 +18,7 @@
 
 - [[kb/Ontologie\|Ontologie]] (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01\|The AI operating system: A new way for CEOs to run the enterprise]]
-- [[kb/_entites-mineures#knowledge-graph\|Knowledge graph]] (CONCEPT) — 0.90, ATEMPOREL
+- [[kb/_entites-mineures#knowledge-graph\|Knowledge graph]] (TECHNOLOGIE) — 0.90, ATEMPOREL
   - [[fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01\|The AI operating system: A new way for CEOs to run the enterprise]]
 
 ## Relations (comme objet)

@@ -69,7 +69,7 @@ La chute du dialogue est mordante. Wardley introduit « Alice », la développeu
 | Simon Wardley | PERSONNE | affirme_que | le nombre de développeurs restera globalement stable malgré l'IA | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | Vibe coding | METHODOLOGIE | permet | explosion volume code | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 | Stabilité effectifs développeurs | CONCEPT | est_basé_sur | Effet Reine Rouge | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Paradoxe de Jevons | CONCEPT | s_applique_à | Vibe coding | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Paradoxe de Jevons | CONCEPT | s_applique_à | Vibe coding | METHODOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
 | Simon Wardley | PERSONNE | prédit | les grandes entreprises passeront de 30M à 1Md+ lignes de code | AFFIRMATION | 0.80 | DYNAMIQUE | déclaré_article |
 | DevOps Engineers | CONCEPT | remplace | Sysadmins | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | Human-AI system integrator | CONCEPT | remplace | Développeurs | CONCEPT | 0.85 | DYNAMIQUE | inféré |

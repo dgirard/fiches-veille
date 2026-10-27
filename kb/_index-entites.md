@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3744 entités
+> 3742 entités
 
 ## #
 
@@ -778,8 +778,7 @@
 - [[kb/_entites-mineures#claude-api-build-eval\|claude-api build-eval]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#claude-api-hillclimb\|claude-api hillclimb]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude.ai\|Claude.ai]] (TECHNOLOGIE, 1 fiches)
-- [[kb/CLAUDE-md-document\|CLAUDE.md]] (DOCUMENT, 13 fiches)
-- [[kb/CLAUDE-md-technologie\|CLAUDE.md]] (TECHNOLOGIE, 13 fiches)
+- [[kb/CLAUDE-md\|CLAUDE.md]] (TECHNOLOGIE, 13 fiches)
 - [[kb/_entites-mineures#CLAUDE_PLUGIN_DATA\|CLAUDE_PLUGIN_DATA]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Clawlikes\|Clawlikes]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Clay\|Clay]] (ORGANISATION, 1 fiches)
@@ -998,7 +997,7 @@
 - [[kb/_entites-mineures#coût-par-changement-accepté\|coût par changement accepté]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#coût-par-outcome\|coût par outcome]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#coût-par-tâche\|coût par tâche]] (CONCEPT, 1 fiches)
-- [[kb/_entites-mineures#craft-artisanat-logiciel\|craft / artisanat logiciel]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#craft-artisanat-logiciel\|craft / artisanat logiciel]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Craft-hours-AI-free\|Craft hours AI-free]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Creative-Catalyst-Zone\|Creative Catalyst Zone]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#CRED\|CRED]] (ORGANISATION, 1 fiches)
@@ -2933,7 +2932,6 @@
 - [[kb/_entites-mineures#Rosalie-Zandona\|Rosalie Zandona]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Round-2-Anthropic-Labs\|Round 2 Anthropic Labs]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#routage-de-modèles\|routage de modèles]] (CONCEPT, 2 fiches)
-- [[kb/_entites-mineures#routage-de-modèles\|routage de modèles]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#routage-SIEM\|routage SIEM]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#routage-à-deux-niveaux-de-modèles\|routage à deux niveaux de modèles]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#routeur-de-modèles\|routeur de modèles]] (TECHNOLOGIE, 1 fiches)

@@ -10,7 +10,7 @@ check est STALE ou FAIL (WARN et SKIP n'échouent pas).
 Checks : (a) fraîcheur catalogue, (b) fraîcheur KB, (c) bijection
 catalogue↔fiches, (d) retard des KB thématiques, (e) quasi-doublons d'entités,
 (f) bloc stats README, (g) raw-data (best-effort), (h) dérive de nommage
-Triples↔Entités. Stdlib uniquement.
+Triples↔Entités, (i) dérive de type inter-fiches. Stdlib uniquement.
 """
 
 from __future__ import annotations
@@ -299,9 +299,60 @@ def check_derive_nommage(root: Path) -> tuple[str, str, str]:
             f"{total} variante(s) dans {len(fiches_touchees)} fiche(s) : {tete}")
 
 
+def check_derive_type(root: Path) -> tuple[str, str, str]:
+    """(i) Même entité typée différemment d'une fiche à l'autre.
+
+    Ex. `Anthropic` ORGANISATION ×227 et CONCEPT ×1 : la KB groupe par
+    (nom, type) et crée une entité « Anthropic (CONCEPT) » orpheline ; thekb, qui
+    joint les triples par nom seul, mélange les deux. Signalé quand un type
+    domine nettement (≥ 3 occurrences, ≥ 75 %) : l'écart est alors une faute de
+    frappe, pas un arbitrage.
+
+    Exemptions : la paire ORGANISATION/TECHNOLOGIE (typage selon le rôle, cf.
+    `ontologie-kg.md`), les noms dont FUSION impose le type, et les homonymes
+    actés par une ligne DISTINCT (nom, type minoritaire) d'entity_aliases.tsv.
+    Détecté à l'origine par un raisonneur OWL sur le graphe publié (2026-10-27).
+    """
+    fusion_map, distinct_map = bk.load_entity_aliases(root / "scripts")
+    occ: dict[str, list[tuple[str, str]]] = {}
+    for p in sorted((root / "fiches").rglob("*.md")):
+        triples, ents, fiche_id = bk.extract_graphe_connaissance(str(p))
+        vus = [(t.get(c, ""), t.get(tc, ""))
+               for t in triples
+               for c, tc in (("Sujet", "Type Sujet"), ("Objet", "Type Objet"))]
+        vus += [(e.get("Entité", ""), e.get("Type", "")) for e in ents]
+        for nom, typ in vus:
+            nom, typ = nom.strip(), typ.strip()
+            if not nom or not typ or typ in bk.EPISTEMIC_TYPES:
+                continue
+            cle = bk.normalize_name(nom)
+            if cle in fusion_map:
+                continue
+            occ.setdefault(cle, []).append((typ, fiche_id))
+    ecarts = []
+    for cle, liste in occ.items():
+        compte: dict[str, int] = {}
+        for typ, _ in liste:
+            compte[typ] = compte.get(typ, 0) + 1
+        if len(compte) < 2 or set(compte) == {"ORGANISATION", "TECHNOLOGIE"}:
+            continue
+        total = sum(compte.values())
+        dominant = max(compte, key=compte.get)
+        if total < 3 or compte[dominant] / total < 0.75:
+            continue
+        for typ, fiche_id in liste:
+            if typ != dominant and (cle, bk.normalize_name(typ)) not in distinct_map:
+                ecarts.append((cle, typ, dominant, fiche_id))
+    if not ecarts:
+        return "i. dérive de type inter-fiches", OK, ""
+    tete = " ; ".join(f"{c} {t}→{d} ({f})" for c, t, d, f in ecarts[:3])
+    return ("i. dérive de type inter-fiches", WARN,
+            f"{len(ecarts)} écart(s) au type dominant : {tete}")
+
+
 CHECKS_FULL = [check_catalogue, check_kb, check_bijection, check_kb_thematiques,
                check_quasi_doublons, check_readme, check_raw_data,
-               check_derive_nommage]
+               check_derive_nommage, check_derive_type]
 
 
 def run(root: Path, catalogue_only: bool = False) -> int:

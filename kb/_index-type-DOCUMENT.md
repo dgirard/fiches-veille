@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 204 entités de type DOCUMENT
+> 203 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -31,7 +31,6 @@
 - [[kb/_entites-mineures#Brasil-70-A-Saga-do-Tri\|Brasil 70: A Saga do Tri]] — catégorie: Titre Netflix (Brésil) utilisant la GenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Build-a-Large-Language-Model-(From-Scratch)\|Build a Large Language Model (From Scratch)]] — type: Livre technique sur LLMs (1 occ., 1 fiches)
 - [[kb/CEO-Agenda-2026\|CEO Agenda 2026]] — méthodologie: Enquête Oliver Wyman Forum × NYSE, 415 CEO, janvier-mars 2026, 56 % Amérique du Nord, 32 % Europe (1 occ., 1 fiches)
-- [[kb/CLAUDE-md-document\|CLAUDE.md]] — rôle: Contexte de dépôt versionné : commandes, conventions, architecture, erreurs récurrentes de l'agent (2 occ., 13 fiches)
 - [[kb/_entites-mineures#CONCEPTS-md\|CONCEPTS.md]] — rôle: Vocabulaire partagé (glossaire, jamais des specs) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CONTEXT-MAP-md\|CONTEXT-MAP.md]] — rôle: Pointe vers les CONTEXT.md/docs/adr de chaque bounded context (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CONTEXT-md\|CONTEXT.md]] — nature: Glossaire du vocabulaire métier (sans détails d'implémentation) (1 occ., 1 fiches)

@@ -77,7 +77,7 @@ L'intérêt de l'article n'est pas l'éditorial mais la méthode : un codage sys
 | SpaceX | ORGANISATION | affirme_que | le calendrier et la faisabilité de chantiers majeurs sont actuellement indéterminables | AFFIRMATION | 0.87 | DYNAMIQUE | déclaré_article |
 | Starlink | TECHNOLOGIE | fait_partie_de | SpaceX | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
 | The New York Times | ORGANISATION | recommande | distinguer le récit (promesse) de la livraison mesurée avant d'investir | AFFIRMATION | 0.82 | ATEMPOREL | inféré |
-| track record de Musk | CONCEPT | s_applique_à | IPO SPCX | CONCEPT | 0.84 | ATEMPOREL | inféré |
+| track record de Musk | CONCEPT | s_applique_à | IPO SPCX | EVENEMENT | 0.84 | ATEMPOREL | inféré |
 
 ### Entités
 

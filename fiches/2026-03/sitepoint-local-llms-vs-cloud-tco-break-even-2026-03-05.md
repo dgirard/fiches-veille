@@ -66,7 +66,7 @@ L'enseignement central, qui sert de titre-conclusion : **les points de break-eve
 | Électricité | CONCEPT | mesure | break-even repoussé de 40 à 60 % en volume quotidien | MESURE | 0.90 | STATIQUE | déclaré_article |
 | RTX 5090 | TECHNOLOGIE | mesure | 1 999 $ MSRP | MESURE | 0.94 | DYNAMIQUE | déclaré_article |
 | Palier lourd local | CONCEPT | mesure | 7,15 $ par M tokens sur 36 mois | MESURE | 0.88 | DYNAMIQUE | déclaré_article |
-| Prompt caching | METHODOLOGIE | réduit | Coût d'entrée | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| Prompt caching | CONCEPT | réduit | Coût d'entrée | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
 | SitePoint | ORGANISATION | publie | Analyse TCO LLM 2026 | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 
 ### Entités
