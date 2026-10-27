@@ -115,6 +115,53 @@ class TestDeriveNommage(unittest.TestCase):
         self.assertEqual(status, cc.OK)
 
 
+class TestDeriveType(unittest.TestCase):
+    """(i) même entité typée différemment d'une fiche à l'autre."""
+
+    LIGNE = "| A | ORGANISATION | a_créé | B | TECHNOLOGIE |"
+
+    def setUp(self):
+        self.r = _Repo()
+        (self.r.root / "scripts").mkdir(exist_ok=True)
+
+    def tearDown(self):
+        self.r.cleanup()
+
+    def _fiches(self, types_b, aliases=""):
+        """Une fiche par type donné à l'objet « B » (remplace la fiche par défaut)."""
+        (self.r.root / "fiches" / "2026-06" / "a-2026-06-15.md").unlink()
+        for i, typ in enumerate(types_b):
+            fid = f"f{i}-2026-06-15"
+            corps = FICHE.replace("# a-2026-06-15", f"# {fid}").replace(
+                self.LIGNE, f"| A | ORGANISATION | a_créé | B | {typ} |")
+            (self.r.root / "fiches" / "2026-06" / f"{fid}.md").write_text(corps, encoding="utf-8")
+        (self.r.root / "scripts" / "entity_aliases.tsv").write_text(aliases, encoding="utf-8")
+
+    def test_ecart_au_type_dominant_signale(self):
+        self._fiches(["CONCEPT", "CONCEPT", "CONCEPT", "METHODOLOGIE"])
+        _, status, detail = cc.check_derive_type(self.r.root)
+        self.assertEqual(status, cc.WARN)
+        self.assertIn("b METHODOLOGIE→CONCEPT", detail)
+
+    def test_partage_equilibre_non_signale(self):
+        # Aucun type ne domine : c'est un arbitrage, pas une faute de frappe.
+        self._fiches(["CONCEPT", "CONCEPT", "METHODOLOGIE", "METHODOLOGIE"])
+        _, status, _ = cc.check_derive_type(self.r.root)
+        self.assertEqual(status, cc.OK)
+
+    def test_organisation_technologie_exempte(self):
+        # Typage selon le rôle (ontologie-kg.md) : homonymie prescrite.
+        self._fiches(["TECHNOLOGIE", "TECHNOLOGIE", "TECHNOLOGIE", "ORGANISATION"])
+        _, status, _ = cc.check_derive_type(self.r.root)
+        self.assertEqual(status, cc.OK)
+
+    def test_distinct_acte_l_arbitrage(self):
+        self._fiches(["CONCEPT", "CONCEPT", "CONCEPT", "METHODOLOGIE"],
+                     aliases="B\tDISTINCT\t-\tMETHODOLOGIE\n")
+        _, status, _ = cc.check_derive_type(self.r.root)
+        self.assertEqual(status, cc.OK)
+
+
 class TestKbThematiquesPerimetre(unittest.TestCase):
     """(d) le thème doit rester discriminant : un thème large ne doit pas
     remonter une fiche hors sujet, mais un thème pertinent suffit seul."""

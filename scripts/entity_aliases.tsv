@@ -50,3 +50,8 @@ Mathieu Grymonprez	FUSION	Matthieu Grymonprez	PERSONNE
 swarm	DISTINCT	-	CONCEPT
 Diffusion Gemma	FUSION	DiffusionGemma	TECHNOLOGIE
 DeepSeek V4 Pro	FUSION	DeepSeek-V4-Pro	TECHNOLOGIE
+# — Arbitrages du check (i) dérive de type inter-fiches, 2026-10-27 : type minoritaire légitime —
+Chine	DISTINCT	-	LIEU
+DORA	DISTINCT	-	DOCUMENT
+Software Factory	DISTINCT	-	ORGANISATION
+kill switch	DISTINCT	-	METHODOLOGIE

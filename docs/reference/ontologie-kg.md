@@ -221,6 +221,14 @@ vs `Arc` le navigateur) s'arbitre par une ligne `DISTINCT` dans
 `scripts/entity_aliases.tsv` (cible `-` si aucun renommage de fichier n'est
 nécessaire) — ce qui le sort aussi du rapport de quasi-doublons du doctor.
 
+**Cohérence du type d'une fiche à l'autre** (check doctor `i`) : un même nom
+porte le même type dans tout le corpus. Quand un type domine (≥ 3 occurrences,
+≥ 75 %), tout écart est signalé — `Anthropic` CONCEPT parmi 227 ORGANISATION
+était une faute de frappe. Exemptés : la paire ORGANISATION/TECHNOLOGIE
+(typage selon le rôle) et les écarts **légitimes**, actés par une ligne
+`DISTINCT` (nom, type minoritaire, cible `-`) dans `entity_aliases.tsv` — ex.
+`DORA` DOCUMENT (le rapport) face à `DORA` ORGANISATION.
+
 ## Fiches de Skills (format spécial)
 
 Une **skill** (capacité réutilisable décrite par un `SKILL.md`, ex. les skills Claude Code / agents) n'est **pas** un article : sa valeur tient dans son **fonctionnement réutilisable**, pas dans une opinion datée. Les fiches de skills suivent donc un format dérivé, **compatible avec le pipeline** (gate Bronze + `build_knowledge_base.py`) : on conserve les **10 sections canoniques dans l'ordre** et on **insère un bloc Skill** de 4 sections juste avant `## GrapheDeConnaissance` (qui reste 10ᵉ et dernière).
