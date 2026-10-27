@@ -34,7 +34,7 @@
 
 ### collabore_avec
 
-- « plusieurs équipes de sécurité en Chine, non nommées, pour exécuter les modèles GLM contre des bases de code réelles depuis GLM-5.2 » (AFFIRMATION) — 0.90, DYNAMIQUE
+- équipes de sécurité chinoises non nommées (ORGANISATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
 
 ### prédit

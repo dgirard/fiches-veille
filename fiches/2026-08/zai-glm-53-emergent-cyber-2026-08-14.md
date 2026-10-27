@@ -207,14 +207,14 @@ Billet d'annonce publié le **14 août 2026** sur le blog de **Z.ai** (ex-Zhipu 
 | GLM-5.3 | TECHNOLOGIE | observé_dans | 2 436 vulnérabilités identifiées dans 269 projets open source après revue d'experts, tri et déduplication, couvrant noyaux système, systèmes d'exploitation, moteurs de navigateur, infrastructure open source, applications web et protocoles réseau | MESURE | 0.93 | STATIQUE | déclaré_article |
 | Z.ai | ORGANISATION | a_créé | Z.ai Security Disclosure Ledger | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
 | Z.ai Security Disclosure Ledger | TECHNOLOGIE | mesure | 2 436 constats suivis dont 53 publiquement divulgués et 2 383 sous embargo, 1 097 de sévérité critique ou élevée, la plus ancienne faille introduite en 1981 et une durée de vie moyenne de 26,6 ans avant découverte | MESURE | 0.94 | DYNAMIQUE | déclaré_article |
-| Z.ai | ORGANISATION | collabore_avec | plusieurs équipes de sécurité en Chine, non nommées, pour exécuter les modèles GLM contre des bases de code réelles depuis GLM-5.2 | AFFIRMATION | 0.9 | DYNAMIQUE | déclaré_article |
+| Z.ai | ORGANISATION | collabore_avec | équipes de sécurité chinoises non nommées | ORGANISATION | 0.9 | DYNAMIQUE | déclaré_article |
 | Z.ai | ORGANISATION | prédit | la publication des poids de GLM-5.3 dans les deux semaines suivant le lancement, une fois l'évaluation de sûreté et le durcissement terminés | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
 | publication de poids ouverts | CONCEPT | s_applique_à | un calendrier annoncé plutôt qu'à une procédure publiée : ni définition du durcissement, ni critère de non-publication, ni évaluateur tiers ne sont fournis | AFFIRMATION | 0.88 | ATEMPOREL | inféré |
 | GLM-5.3 | TECHNOLOGIE | observé_dans | Claude Code | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | est_instance_de | harnais d'évaluation agentique de référence, utilisé en version 2.1.207 par un laboratoire concurrent pour mesurer son propre modèle et ceux d'Anthropic et d'OpenAI | AFFIRMATION | 0.89 | DYNAMIQUE | inféré |
+| Claude Code | TECHNOLOGIE | est_instance_de | harnais d'évaluation agentique | CONCEPT | 0.89 | DYNAMIQUE | inféré |
 | Artificial Analysis | ORGANISATION | mesure | les scores GDPval-AA v2 et FrontierSWE du tableau comparatif, seules évaluations attribuées à un tiers, ainsi que les débits par modèle servant à normaliser les budgets ExploitGym | MESURE | 0.92 | STATIQUE | déclaré_article |
 | GLM-5.3 | TECHNOLOGIE | s_oppose_à | la désactivation du raisonnement : thinking.type « disabled » n'est plus supporté et fait échouer la requête, trois niveaux low, high et max étant proposés avec max par défaut | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
-| GLM Coding Plan | TECHNOLOGIE | utilise | un système de quotas en points comptés séparément pour l'entrée, l'entrée en cache et la sortie, les appels hors heures pleines — hors 14h-18h UTC+8 du lundi au vendredi — consommant 50 % du barème | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
+| GLM Coding Plan | TECHNOLOGIE | utilise | quotas en points | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | ZCode | TECHNOLOGIE | permet | un taux de cache revendiqué à plus de 98 %, un mode Goal qui planifie, code, teste et vérifie jusqu'à atteinte de la cible, et un pilotage à distance des tâches longues via WeChat ou Feishu | AFFIRMATION | 0.9 | DYNAMIQUE | déclaré_article |
 
 ### Entités

@@ -158,7 +158,8 @@ Article publié sur **VentureBeat** le **11 août 2026** par **Michael Nuñez**,
 | Mistral AI | ORGANISATION | a_créé | European Compute Unit | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | European Compute Unit | CONCEPT | permet | de convertir un engagement pluriannuel d'entreprise en créance fongible sur de la capacité à construire, dépensable en inférence, entraînement, adaptation de modèles ou Kubernetes managé | AFFIRMATION | 0.94 | STATIQUE | déclaré_article |
 | Timothée Lacroix | PERSONNE | affirme_que | l'objectif des compute units est l'engagement, sur environ cinq ans, et qu'il n'y a pas de sortie possible — « There is no getting out » | CITATION | 0.96 | STATIQUE | déclaré_article |
-| European Compute Unit | CONCEPT | est_instance_de | pré-achat de capacité servant de garantie au financement d'infrastructure, sur le modèle d'un contrat d'achat d'électricité plutôt que d'un contrat cloud | AFFIRMATION | 0.88 | ATEMPOREL | inféré |
+| European Compute Unit | CONCEPT | est_instance_de | pré-achat de capacité de calcul | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| European Compute Unit | CONCEPT | s_inspire_de | contrat d'achat d'électricité | CONCEPT | 0.88 | ATEMPOREL | inféré |
 | Mistral AI | ORGANISATION | prédit | 200 mégawatts d'infrastructure financée en Europe d'ici fin 2027 et un gigawatt d'ici fin 2030 | MESURE | 0.93 | DYNAMIQUE | déclaré_article |
 | Mistral AI | ORGANISATION | mesure | moins de 200 mégawatts de capacité exploitée à août 2026, dont trois sites détaillés totalisant 77 mégawatts : 44 MW près de Paris, 23 MW en Suède, 10 MW aux Ulis | MESURE | 0.9 | DYNAMIQUE | déclaré_article |
 | Mistral AI | ORGANISATION | collabore_avec | EcoDataCenter | ORGANISATION | 0.9 | DYNAMIQUE | déclaré_article |
@@ -172,7 +173,7 @@ Article publié sur **VentureBeat** le **11 août 2026** par **Michael Nuñez**,
 | Mistral AI | ORGANISATION | converge_avec | le playbook « model garden » des hyperscalers, Bedrock et Vertex, en se repositionnant d'éditeur de modèles en couche de distribution souveraine pour modèles ouverts tiers | AFFIRMATION | 0.87 | DYNAMIQUE | inféré |
 | Timothée Lacroix | PERSONNE | affirme_que | les risques liés à l'adoption d'un nouveau modèle, à la couche des poids, sont plutôt limités dès lors que les évaluations de sûreté et de conformité maison sont passées | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 | Mistral AI | ORGANISATION | collabore_avec | Microsoft | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Microsoft | ORGANISATION | utilise | la capacité des datacenters européens de Mistral, louée pour servir sa propre demande cloud et IA | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Microsoft | ORGANISATION | collabore_avec | Mistral AI | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
 | Timothée Lacroix | PERSONNE | affirme_que | Microsoft est un client d'ancrage qui dé-risque la construction d'infrastructure, sur le modèle économique des neoclouds, et non un mécène | AFFIRMATION | 0.9 | DYNAMIQUE | déclaré_article |
 | Mistral AI | ORGANISATION | utilise | Nvidia | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
 | souveraineté numérique | CONCEPT | s_applique_à | la configuration d'une application agentique plutôt qu'à la seule région d'exécution, puisque les appels d'outils comme la recherche web peuvent sortir de la région choisie | AFFIRMATION | 0.9 | ATEMPOREL | inféré |

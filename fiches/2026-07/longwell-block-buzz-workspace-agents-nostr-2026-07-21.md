@@ -109,11 +109,12 @@ Billet d'ingénierie de **Block** signé **Tyler Longwell**, publié le **21 jui
 | Buzz | TECHNOLOGIE | permet | de changer de modèle ou de harness sans que le projet perde son identité, ses permissions ou son historique | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
 | Tyler Longwell | PERSONNE | affirme_que | les agents ont rendu le travail individuel plus rapide et le travail d'équipe plus lent, chaque passage de main exigeant un humain pour transporter le contexte | CITATION | 0.94 | DYNAMIQUE | déclaré_article |
 | agents de codage | TECHNOLOGIE | s_oppose_à | le limiteur de débit humain sur lequel les forges Git étaient implicitement dimensionnées | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
-| Buzz | TECHNOLOGIE | utilise | des packfiles immuables adressés par contenu sur stockage objet, plus un pointeur de manifeste mutable avancé par compare-and-swap conditionnel | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
+| Buzz | TECHNOLOGIE | utilise | stockage objet | TECHNOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
+| Buzz | TECHNOLOGIE | utilise | compare-and-swap conditionnel | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | Buzz | TECHNOLOGIE | affirme_que | la mise à jour du pointeur est le point de commit, les événements du workspace annonçant le changement sans le définir | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | Block | ORGANISATION | utilise | TLA+ | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | TLA+ | TECHNOLOGIE | permet | de model-checker la durabilité, la reconstruction et les poussées concurrentes du protocole de stockage Git de Buzz | AFFIRMATION | 0.94 | STATIQUE | déclaré_article |
-| Buzz | TECHNOLOGIE | utilise | une suite de conformité que chaque backend de stockage objet doit passer, le résultat borné dépendant de trois garanties explicites | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
+| Buzz | TECHNOLOGIE | utilise | suite de conformité de stockage objet | TECHNOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
 | Buzz | TECHNOLOGIE | permet | de router les requêtes d'inférence d'un agent vers la machine d'un autre membre, le trafic chiffré circulant directement entre pairs autorisés | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 | Buzz | TECHNOLOGIE | réduit | la compression du contexte partagé dans des prompts privés, en gardant discussion, patchs, CI, revue et décision de merge dans un même canal | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
 | Buzz | TECHNOLOGIE | affirme_que | une forge classique conserve le diff et une coche verte, là où Buzz conserve aussi pourquoi le correctif évident était faux | CITATION | 0.95 | ATEMPOREL | déclaré_article |

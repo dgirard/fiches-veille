@@ -1,6 +1,6 @@
 # GitHub Copilot
 
-> **Type** : TECHNOLOGIE | 6 relations | 9 fiches sources
+> **Type** : TECHNOLOGIE | 7 relations | 9 fiches sources
 
 ## Attributs
 
@@ -20,6 +20,11 @@
 
 - [[kb/_entites-mineures#stack-de-développement-IA\|stack de développement IA]] (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|The Trillion Dollar AI Software Development Stack]]
+
+### utilise
+
+- facturation au token (CONCEPT) — 0.95, STATIQUE
+  - [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
 
 ## Relations (comme objet)
 

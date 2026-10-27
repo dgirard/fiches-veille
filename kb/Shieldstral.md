@@ -50,7 +50,7 @@
 
 ### utilise
 
-- « une softmax sur les deux tokens yes et no pour produire un score continu entre 0 et 1 » (AFFIRMATION) — 0.94, ATEMPOREL
+- score softmax yes/no (CONCEPT) — 0.94, ATEMPOREL
   - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
 - Pixtral (TECHNOLOGIE) — 0.92, STATIQUE
   - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]

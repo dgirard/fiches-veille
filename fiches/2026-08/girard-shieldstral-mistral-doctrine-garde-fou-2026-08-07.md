@@ -109,11 +109,11 @@ Note de veille du **7 août 2026** qui lit **Shieldstral 1.0 3B** — le classif
 | Didier Girard | PERSONNE | affirme_que | Shieldstral met en production la doctrine défendue par Arthur Mensch devant la commission d'enquête de l'Assemblée nationale | AFFIRMATION | 0.96 | DYNAMIQUE | déclaré_article |
 | Arthur Mensch | PERSONNE | affirme_que | un éditeur de modèles n'a pas la légitimité démocratique pour arbitrer l'usage final de ses modèles | CITATION | 0.96 | DYNAMIQUE | déclaré_article |
 | Shieldstral | TECHNOLOGIE | permet | de lire une politique de modération en langage naturel au moment de l'inférence, sans réentraînement | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
-| Shieldstral | TECHNOLOGIE | utilise | une softmax sur les deux tokens yes et no pour produire un score continu entre 0 et 1 | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
+| Shieldstral | TECHNOLOGIE | utilise | score softmax yes/no | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | Shieldstral | TECHNOLOGIE | est_basé_sur | Ministral 3 | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
 | Shieldstral | TECHNOLOGIE | utilise | Pixtral | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
 | Shieldstral | TECHNOLOGIE | s_oppose_à | Llama Guard 4 | TECHNOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
-| Llama Guard 4 | TECHNOLOGIE | utilise | une taxonomie MLCommons figée à l'entraînement | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
+| Llama Guard 4 | TECHNOLOGIE | utilise | taxonomie MLCommons | DOCUMENT | 0.93 | ATEMPOREL | déclaré_article |
 | Mistral AI | ORGANISATION | mesure | 91,3 % de F1 en adaptabilité aux politiques, contre 61,1 % pour un fine-tuning sur jeux de données publics seuls | MESURE | 0.93 | STATIQUE | déclaré_article |
 | paire contrastive | CONCEPT | améliore | l'adaptabilité d'un classificateur à une politique fournie à l'inférence, de 23,3 points de F1 | MESURE | 0.91 | ATEMPOREL | déclaré_article |
 | Shieldstral | TECHNOLOGIE | surpasse | Qwen3Guard | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |

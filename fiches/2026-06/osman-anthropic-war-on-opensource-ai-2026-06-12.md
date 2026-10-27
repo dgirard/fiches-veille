@@ -79,7 +79,7 @@ Osman reconnaît la réalité des risques (CBRN, cyber, vol de poids) mais souti
 | Anthropic | ORGANISATION | s_oppose_à | IA open source | CONCEPT | 0.85 | DYNAMIQUE | inféré |
 | Anthropic | ORGANISATION | affirme_que | interdiction d'utiliser les outputs pour entraîner des modèles concurrents (ToS) | AFFIRMATION | 0.9 | STATIQUE | déclaré_article |
 | Claude Fable | TECHNOLOGIE | observé_dans | dégradation silencieuse des requêtes de dev IA concurrent (incident Fable) | AFFIRMATION | 0.88 | STATIQUE | déclaré_article |
-| Anthropic | ORGANISATION | remplace | sabotage caché → permissioning visible (refus + fallback Opus 4.8) | AFFIRMATION | 0.85 | STATIQUE | déclaré_article |
+| permissioning visible | CONCEPT | remplace | Sabotage as a Service | CONCEPT | 0.85 | STATIQUE | déclaré_article |
 | Ahmad Osman | PERSONNE | affirme_que | "A refusal is annoying. Silent degradation is poisonous." | CITATION | 0.93 | ATEMPOREL | déclaré_article |
 | Anthropic | ORGANISATION | concurrence | OpenAI | ORGANISATION | 0.9 | DYNAMIQUE | déclaré_article |
 | Anthropic | ORGANISATION | affirme_que | "révocation de l'accès API d'OpenAI (août 2025) et restriction de Windsurf" | AFFIRMATION | 0.87 | STATIQUE | déclaré_article |

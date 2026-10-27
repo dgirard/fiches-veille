@@ -1,6 +1,6 @@
 # agents IA
 
-> **Type** : TECHNOLOGIE | 37 relations | 5 fiches sources
+> **Type** : TECHNOLOGIE | 36 relations | 5 fiches sources
 
 ## Attributs
 
@@ -106,7 +106,6 @@
 
 - [[kb/BMAD\|BMAD]] **utilise** → agents IA — 0.95
 - [[kb/One-New-Zealand\|One New Zealand]] **utilise** → agents IA — 0.95
-- humain **dirige** → agents IA — 0.93
 - [[kb/_entites-mineures#paradox-of-choice\|paradox of choice]] **observé_dans** → agents IA — 0.93
 - [[kb/_entites-mineures#proposal-bias\|proposal bias]] **observé_dans** → agents IA — 0.93
 - [[kb/AI-Decision-Matrix\|AI Decision Matrix]] **s_applique_à** → agents IA — 0.90

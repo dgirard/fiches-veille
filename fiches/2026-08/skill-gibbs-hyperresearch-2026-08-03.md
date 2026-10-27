@@ -270,7 +270,7 @@ description: >
 | verrouillage d'outils | CONCEPT | permet | de rendre une réécriture mécaniquement impossible plutôt que déconseillée | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | verrouillage d'outils | CONCEPT | surpasse | une consigne de prompt pour garantir un comportement d'agent | AFFIRMATION | 0.92 | ATEMPOREL | inféré |
 | hyperresearch | METHODOLOGIE | recommande | de ne modifier un rapport synthétisé que par retouches chirurgicales, jamais par régénération | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
-| prompt utilisateur verbatim | CONCEPT | fait_partie_de | contrat canonique relu par chaque étape et chaque sous-agent | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
+| prompt utilisateur verbatim | CONCEPT | fait_partie_de | hyperresearch | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
 | audit d'indépendance des sources | CONCEPT | réduit | le poids d'un consensus apparent formé de reprises d'un même communiqué | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
 | vérification de l'intégrité des citations | CONCEPT | résout | l'expédition de citations hallucinées, en exigeant leur présence verbatim dans le corpus | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | balayage de rétractation | CONCEPT | s_applique_à | chaque DOI cité au moment de l'expédition, y compris sur des sources réutilisées | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
@@ -287,7 +287,8 @@ description: >
 | vérification | CONCEPT | s_oppose_à | le paramétrage par registre, qui module les critiques mais jamais le contrôle des citations | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
 | hyperresearch | METHODOLOGIE | affirme_que | le gate de lint attrape les défaillances structurelles mais ne garantit pas l'exactitude factuelle | CITATION | 0.95 | ATEMPOREL | déclaré_article |
 | hyperresearch | METHODOLOGIE | mesure | une position de tête sur DeepResearch-Bench RACE, présentée comme projection prospective auto-administrée sans validation tierce | MESURE | 0.75 | DYNAMIQUE | déclaré_article |
-| hyperresearch | METHODOLOGIE | utilise | modèles Anthropic Opus et Sonnet via un roster de seize sous-agents | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
+| hyperresearch | METHODOLOGIE | utilise | Claude Opus | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| hyperresearch | METHODOLOGIE | utilise | Claude Sonnet | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | hyperresearch | METHODOLOGIE | s_oppose_à | la résolution automatique des CAPTCHA, de la double authentification et des connexions | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
 
 ### Entités

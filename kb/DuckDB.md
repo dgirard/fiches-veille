@@ -1,6 +1,6 @@
 # DuckDB
 
-> **Type** : TECHNOLOGIE | 7 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 8 relations | 1 fiches sources
 
 ## Attributs
 
@@ -34,6 +34,7 @@
 
 - [[kb/_entites-mineures#Hannes-Mühleisen\|Hannes Mühleisen]] **a_créé** → DuckDB — 0.97
 - [[kb/_entites-mineures#Mark-Raasveldt\|Mark Raasveldt]] **a_créé** → DuckDB — 0.97
+- [[kb/AWS\|AWS]] **utilise** → DuckDB — 0.89
 
 ## Fiches sources
 

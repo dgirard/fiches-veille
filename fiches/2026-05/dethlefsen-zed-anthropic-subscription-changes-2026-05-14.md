@@ -89,7 +89,7 @@ Billet publié sur le blog **Zed** le **14 mai 2026** par **Franciska Dethlefsen
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Zed | ORGANISATION | publie | billet Zed sur la facturation Claude | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | Franciska Dethlefsen | PERSONNE | travaille_chez | Zed | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Anthropic | ORGANISATION | publie | une scission de la facturation de l'abonnement Claude en deux pools, first-party et SDK tiers | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | publie | crédit Agent SDK | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | Anthropic | ORGANISATION | mesure | crédits Agent SDK mensuels de 20 $ (Pro), 100 $ (Max 5x) et 200 $ (Max 20x) | MESURE | 0.95 | STATIQUE | déclaré_article |
 | abonnement Claude | CONCEPT | réduit | le coût de l'usage agentique d'un facteur estimé 15 à 30× par rapport au tarif API | MESURE | 0.85 | DYNAMIQUE | déclaré_article |
 | Franciska Dethlefsen | PERSONNE | affirme_que | pour tout usage agentique intensif, le changement représente une hausse de coût majeure | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
@@ -99,7 +99,7 @@ Billet publié sur le blog **Zed** le **14 mai 2026** par **Franciska Dethlefsen
 | Agent Client Protocol | TECHNOLOGIE | permet | de changer d'agent ou de fournisseur sans changer d'éditeur | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
 | Zed | ORGANISATION | affirme_que | un protocole ouvert protège l'éditeur des décisions tarifaires d'un fournisseur unique | CITATION | 0.94 | ATEMPOREL | déclaré_article |
 | Zed | ORGANISATION | prédit | les fournisseurs continueront d'ajuster leur facturation de l'usage agentique | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
-| Anthropic | ORGANISATION | remplace | le changement de facturation annoncé par une suspension, avec préavis promis avant toute évolution | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | publie | suspension du changement de facturation Agent SDK | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
 | Zed | ORGANISATION | publie | Terminal Threads | TECHNOLOGIE | 0.88 | STATIQUE | déclaré_article |
 | JetBrains | ORGANISATION | collabore_avec | Zed | ORGANISATION | 0.9 | DYNAMIQUE | déclaré_article |
 

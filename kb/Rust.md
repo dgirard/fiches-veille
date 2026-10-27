@@ -1,6 +1,6 @@
 # Rust
 
-> **Type** : TECHNOLOGIE | 6 relations | 2 fiches sources
+> **Type** : TECHNOLOGIE | 7 relations | 2 fiches sources
 
 ## Attributs
 
@@ -26,6 +26,7 @@
 - [[kb/_entites-mineures#BPlusTree3\|BPlusTree3]] **utilise** → Rust — 0.99
 - [[kb/Home-Mixer\|Home Mixer]] **utilise** → Rust — 0.98
 - [[kb/Bun\|Bun]] **utilise** → Rust — 0.97
+- [[kb/Buzz\|Buzz]] **utilise** → Rust — 0.94
 
 ## Fiches sources
 

@@ -81,7 +81,7 @@ Il termine sur l'artisanat — un avantage de pilotage qui rétrécit, et une mi
 | David Heinemeier Hansson | PERSONNE | affirme_que | "Mes compétences de programmation ne sont plus économiquement viables comme levier indépendant pour créer des choses" | CITATION | 0.95 | DYNAMIQUE | déclaré_article |
 | David Heinemeier Hansson | PERSONNE | prédit | Salesforce et SAP sont en sérieuse difficulté, la valeur ayant quitté le code pour les seules intuitions de process | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
 | David Heinemeier Hansson | PERSONNE | prédit | les applications purement client-side comme celles d'Adobe vivent sur du temps emprunté face aux alternatives open source vibe-codées | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
-| Shopify | ORGANISATION | utilise | moat de plomberie sur les systèmes de paiement, d'expédition et de taxes | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
+| Shopify | ORGANISATION | utilise | moat de plomberie | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
 | applications client-serveur | CONCEPT | résout | la réticence des utilisateurs à administrer eux-mêmes serveurs, bases et sauvegardes | AFFIRMATION | 0.9 | DYNAMIQUE | déclaré_article |
 | Omarchy | TECHNOLOGIE | est_instance_de | distribution à agents intégrés au cœur du système | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | Omarchy Quattro | TECHNOLOGIE | est_variante_de | Omarchy | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |

@@ -1,6 +1,6 @@
 # Claude Desktop
 
-> **Type** : TECHNOLOGIE | 5 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 6 relations | 1 fiches sources
 
 ## Attributs
 
@@ -23,6 +23,10 @@
   - [[fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12\|ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »]]
 - Electron (TECHNOLOGIE) — 0.88, ATEMPOREL
   - [[fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12\|ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »]]
+
+## Relations (comme objet)
+
+- [[kb/_entites-mineures#navigateur-IA\|navigateur IA]] **concurrence** → Claude Desktop — 0.82
 
 ## Fiches sources
 

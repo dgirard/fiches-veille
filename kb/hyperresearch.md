@@ -1,6 +1,6 @@
 # hyperresearch
 
-> **Type** : METHODOLOGIE | 14 relations | 1 fiches sources
+> **Type** : METHODOLOGIE | 16 relations | 1 fiches sources
 
 ## Attributs
 
@@ -52,9 +52,11 @@
 
 - [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
-- Europe PMC (TECHNOLOGIE) — 0.93, DYNAMIQUE
+- [[kb/_entites-mineures#Claude-Opus\|Claude Opus]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
-- « modèles Anthropic Opus et Sonnet via un roster de seize sous-agents » (AFFIRMATION) — 0.93, DYNAMIQUE
+- [[kb/_entites-mineures#Claude-Sonnet\|Claude Sonnet]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
+  - [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
+- Europe PMC (TECHNOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
 - Unpaywall (TECHNOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
@@ -62,6 +64,7 @@
 ## Relations (comme objet)
 
 - [[kb/_entites-mineures#Jordan-Gibbs\|Jordan Gibbs]] **a_créé** → hyperresearch — 0.97
+- prompt utilisateur verbatim **fait_partie_de** → hyperresearch — 0.93
 
 ## Fiches sources
 

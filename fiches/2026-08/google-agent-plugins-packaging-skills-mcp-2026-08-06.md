@@ -112,7 +112,7 @@ Billet d'ingénierie de **Google** du **6 août 2026** annonçant que l'entrepri
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Google | ORGANISATION | collabore_avec | Agent Plugins | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | Kevin Hou | PERSONNE | travaille_chez | Google DeepMind | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
-| Kevin Hou | PERSONNE | dirige | la représentation de Google au comité de pilotage technique d'Agent Plugins | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Kevin Hou | PERSONNE | fait_partie_de | comité de pilotage technique | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
 | Agent Plugins | TECHNOLOGIE | permet | d'empaqueter des Agent Skills et des serveurs MCP dans un plugin portable d'un client à l'autre | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
 | Agent Plugins | TECHNOLOGIE | utilise | Agent Skills | TECHNOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
 | Agent Plugins | TECHNOLOGIE | utilise | Model Context Protocol | TECHNOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
@@ -123,7 +123,7 @@ Billet d'ingénierie de **Google** du **6 août 2026** annonçant que l'entrepri
 | Cursor | ORGANISATION | publie | Agent Plugins | TECHNOLOGIE | 0.9 | STATIQUE | déclaré_article |
 | Google | ORGANISATION | affirme_que | le problème de portabilité ne vient pas des composants mais du manifeste qui les emballe | CITATION | 0.96 | ATEMPOREL | déclaré_article |
 | Agent Plugins | TECHNOLOGIE | résout | la duplication et la dérive des packages forkés pour chaque client | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
-| Agent Plugins | TECHNOLOGIE | utilise | un répertoire à emplacements fixes plutôt qu'un manifeste expressif : plugin.json ne peut ni relocaliser ni déclarer les composants en ligne | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Agent Plugins | TECHNOLOGIE | utilise | plugin.json | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
 | Agent Plugins | TECHNOLOGIE | réduit | la surface de divergence entre implémentations, en supprimant les chemins de découverte configurables et les ordres de précédence | AFFIRMATION | 0.91 | ATEMPOREL | inféré |
 | Agent Plugins | TECHNOLOGIE | permet | l'échec indépendant des composants : un serveur mcp.json qui ne démarre pas n'emporte pas les skills du plugin | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | espace d'extension en domaine inversé | CONCEPT | permet | à un client d'ajouter ses fonctionnalités propriétaires sans casser la portabilité du cœur | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |

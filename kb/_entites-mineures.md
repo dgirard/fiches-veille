@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 3121 entités avec moins de 3 triples/fiches
+> 3119 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (423)
 
@@ -2143,7 +2143,7 @@
 - **rôle** : Senior Staff Engineer chez Google DeepMind ; représente nominativement Google au comité de pilotage technique d'Agent Plugins et cosigne l'annonce
 
 - **travaille_chez** → [[kb/Google-DeepMind\|Google DeepMind]] (ORGANISATION) — 0.96
-- **dirige** → « la représentation de Google au comité de pilotage technique d'Agent Plugins » (AFFIRMATION) — 0.93
+- **fait_partie_de** → comité de pilotage technique (ORGANISATION) — 0.93
 
 **Fiches** : [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 
@@ -2704,7 +2704,7 @@
 - **rôle** : Distinguished Engineer chez Google, pilote la stratégie d'Alphabet Security ; alias lcamtuf, figure historique de la sécurité offensive, ex-CISO de Snap
 
 - **travaille_chez** → [[kb/Google\|Google]] (ORGANISATION) — 0.97
-- **dirige** → « la stratégie d'Alphabet Security » (AFFIRMATION) — 0.93
+- **dirige** → Alphabet Security (ORGANISATION) — 0.93
 
 **Fiches** : [[fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20\|Beyond Zero: Enterprise security for the AI era]]
 
@@ -4684,7 +4684,7 @@
 
 - **rôle** : Institut de recherche cité par Zuckerberg comme ayant déjà publié des modèles biologiques open source sur les cellules virtuelles et les protéines ; rattaché à l'objectif de prévenir ou guérir toutes les maladies dans le siècle
 
-- **publie** → « des modèles biologiques open source sur les cellules virtuelles et les protéines aidant les scientifiques à faire de nouvelles découvertes et concevoir de nouveaux médicaments » (AFFIRMATION) — 0.90
+- **publie** → modèles biologiques open source (TECHNOLOGIE) — 0.90
 
 **Fiches** : [[fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10\|The Future is for Everyone: The Path to a Positive AI Future]]
 
@@ -5445,11 +5445,12 @@
 
 ### Fella & Delilah {#Fella-&-Delilah}
 
-**Type** : ORGANISATION | 1 relations | 1 fiches
+**Type** : ORGANISATION | 2 relations | 1 fiches
 
 - **catégorie** : Firme de télésanté ; incite au 996 par +25 % de salaire et +100 % de parts
 
-- **utilise** → « hausse de salaire de 25 % pour faire adopter le 996 » (AFFIRMATION) — 0.85
+- **mesure** → « hausse de salaire de 25 % pour faire adopter le 996 » (MESURE) — 0.85
+- **utilise** → [[kb/996\|996]] (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
@@ -5667,7 +5668,7 @@
 - **rôle** : Société éditrice de graphify, passée par Y Combinator promotion S26 ; construit une plateforme commerciale continue au-dessus de la skill open source
 
 - **publie** → [[kb/graphify\|graphify]] (METHODOLOGIE) — 0.95
-- **publie** → « une plateforme commerciale appliquant la même approche en continu à tout le contexte de travail » (AFFIRMATION) — 0.90
+- **publie** → plateforme commerciale de contexte (TECHNOLOGIE) — 0.90
 
 **Fiches** : [[fiches/2026-08/skill-shamsi-graphify-2026-08-06\|graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A…]]
 
@@ -7688,7 +7689,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (687)
+## TECHNOLOGIE (686)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -8668,17 +8669,6 @@
 
 **Fiches** : [[fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10\|Everything you need to know about building ChatGPT apps]]
 
-### ChatGPT Desktop {#ChatGPT-Desktop}
-
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
-
-- **définition** : Client de bureau d'OpenAI (macOS annoncé le 13 mai 2024, disponible le 25 juin) : raccourci global Option/Alt + Espace, companion window au premier plan, captures d'écran natives ; fusionné avec Codex le 9 juillet 2026 en une app à onglets Chat / Work / Codex, l'ancienne version devenant ChatGPT Classic
-
-- **permet** → « un raccourci global, une companion window au premier plan et des captures d'écran natives » (AFFIRMATION) — 0.94
-- **s_oppose_à** → « la gouvernance d'entreprise, en réunissant exécution de code, navigateur et connecteurs dans une frontière de confiance élargie » (AFFIRMATION) — 0.87
-
-**Fiches** : [[fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12\|ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »]]
-
 ### ChatGPT Enterprise {#ChatGPT-Enterprise}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -8796,7 +8786,7 @@
 
 ### Claude Opus {#Claude-Opus}
 
-**Type** : TECHNOLOGIE | 5 relations | 2 fiches
+**Type** : TECHNOLOGIE | 6 relations | 2 fiches
 
 - **statut** : Versions 4.6, 4.7 et 4.8 ciblées par les campagnes de distillation ; Opus 5 rédige une demande de subvention orthopoxvirus sans blocage
 - **versions citées** : Opus 4.8 (départ), Opus 5.5 (effort bas : 87,8 % à 1,9 centime par ticket)
@@ -8805,6 +8795,7 @@
 - **améliore** → « coût des tokens : 20 % de moins en entrée et sortie, 60 % de moins en lecture de cache (Opus 5.5 face à 4.8) » (MESURE) — 0.90
 
 - [[kb/_entites-mineures#PSR-(Project-Security-Review)\|PSR (Project Security Review)]] **utilise** → Claude Opus — 0.94
+- [[kb/hyperresearch\|hyperresearch]] **utilise** → Claude Opus — 0.93
 - [[kb/Kiro\|Kiro]] **utilise** → Claude Opus — 0.90
 - [[kb/_entites-mineures#Qwen\|Qwen]] **est_basé_sur** → Claude Opus — 0.88
 
@@ -8874,7 +8865,7 @@
 
 ### Claude Sonnet {#Claude-Sonnet}
 
-**Type** : TECHNOLOGIE | 2 relations | 2 fiches
+**Type** : TECHNOLOGIE | 3 relations | 2 fiches
 
 - **version citée** : Sonnet 5 en effort bas : 88,9 % à 1 centime par ticket, puis 98,9 % avec prompt amélioré
 - **versions** : 4.0 et 3.7 intégrés comme moteurs IA primaires de Kiro
@@ -8882,6 +8873,7 @@
 - **mesure** → « 90,5 % contre 78,6 % sur 14 tickets tenus à l'écart, pour environ un cinquième du coût » (MESURE) — 0.93
 
 - [[kb/Kiro\|Kiro]] **utilise** → Claude Sonnet — 0.98
+- [[kb/hyperresearch\|hyperresearch]] **utilise** → Claude Sonnet — 0.93
 
 **Fiches** : [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Launches Kiro, A Specification-Driven Agentic IDE]], [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
 
@@ -9096,7 +9088,7 @@
 
 - **rôle** : Capacité de pilotage de la machine par le modèle, en public beta depuis le 22 octobre 2024 ; exige les permissions système d'Accessibilité et d'enregistrement d'écran, ce qui en fait un point de décision de gouvernance
 
-- **utilise** → « les permissions système d'Accessibilité et d'enregistrement d'écran » (AFFIRMATION) — 0.93
+- **utilise** → permissions système d'accessibilité (CONCEPT) — 0.93
 
 - [[kb/Claude-Desktop\|Claude Desktop]] **utilise** → Computer Use — 0.92
 
@@ -9746,7 +9738,7 @@
 
 - **définition** : Abonnement codage de Z.ai passé en août 2026 à un système de quotas en points, comptés séparément pour l'entrée, l'entrée en cache et la sortie. Heures pleines 14h-18h UTC+8 du lundi au vendredi ; tout le reste, week-ends inclus, à 50 % du barème — soit, pour une équipe européenne, une fenêtre pleine correspondant à la matinée de travail
 
-- **utilise** → « un système de quotas en points comptés séparément pour l'entrée, l'entrée en cache et la sortie, les appels hors heures pleines — hors 14h-18h UTC+8 du lundi au vendredi — consommant 50 % du barème » (AFFIRMATION) — 0.93
+- **utilise** → quotas en points (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
 
@@ -10909,7 +10901,7 @@
 - **rôle** : Outil bas niveau utilisé par compounding teams
 
 - **mesure** → « 5200 PRs (2022 entier) » (MESURE) — 0.92
-- **a_créé** → « abstractions (pods, deployments, services) façonnant la pensée de l'industrie » (AFFIRMATION) — 0.85
+- **a_créé** → abstractions pods / deployments / services (CONCEPT) — 0.85
 
 - [[kb/compounding-teams\|compounding teams]] **utilise** → Kubernetes — 0.93
 
@@ -11131,7 +11123,7 @@
 
 - **définition** : Modèle de modération de Meta embarquant la taxonomie MLCommons figée à l'entraînement ; contre-modèle de Shieldstral, mesuré à 69,1 % de F1 texte dans les benchmarks Mistral
 
-- **utilise** → « une taxonomie MLCommons figée à l'entraînement » (AFFIRMATION) — 0.93
+- **utilise** → taxonomie MLCommons (DOCUMENT) — 0.93
 
 - [[kb/Shieldstral\|Shieldstral]] **s_oppose_à** → Llama Guard 4 — 0.92
 
@@ -11371,7 +11363,7 @@
 
 - **définition** : Système d'IA marketing interne bâti dans Claude (2026) : quatre couches — vérité, production, vérification, distribution interne —, une trentaine de skills contenu et vente, une douzaine de modules de source de vérité, sept agents dont six ne font que contrôler, un plugin terminal et une application navigateur portant la même connaissance, plus une orchestration enchaînant trois ou quatre actifs en un *campaign bundle*
 
-- **est_instance_de** → « système interne à quatre couches — vérité, production, vérification, distribution — servant une équipe marketing d'une soixantaine de personnes avec une trentaine de skills, une douzaine de modules de source de vérité et sept agents dont six ne font que contrôler » (AFFIRMATION) — 0.94
+- **est_instance_de** → système multi-agents (TECHNOLOGIE) — 0.94
 - **utilise** → [[kb/Claude-entite\|Claude]] (TECHNOLOGIE) — 0.93
 
 - [[kb/Guillaume-Dumortier\|Guillaume Dumortier]] **a_créé** → Marketing AI OS — 0.96
@@ -11599,9 +11591,11 @@
 
 ### Modèles open chinois {#Modèles-open-chinois}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **exemples** : DeepSeek, Qwen, MiniMax, Kimi, Zhipu/GLM (frontière open 2025)
+
+- entreprises **utilise** → Modèles open chinois — 0.88
 
 **Fiches** : [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 
@@ -12482,11 +12476,12 @@
 
 ### Redis {#Redis}
 
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
 
 - **catégorie** : Base de données en mémoire
 
 - [[kb/Salvatore-Sanfilippo\|Salvatore Sanfilippo]] **a_créé** → Redis — 0.99
+- [[kb/Buzz\|Buzz]] **utilise** → Redis — 0.94
 - [[kb/Claude-Code\|Claude Code]] **résout** → Redis — 0.92
 
 **Fiches** : [[fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11\|Don't fall into the anti-AI hype]]
@@ -12627,11 +12622,12 @@
 
 ### S3 {#S3}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **contexte** : Service de stockage objet d'AWS, étendu par S3 Files, S3 Tables et S3 Vectors, dont l'équipe a observé l'embarquement de DuckDB chez ses clients
 
 - [[kb/_entites-mineures#S3-Tables\|S3 Tables]] **fait_partie_de** → S3 — 0.95
+- [[kb/Buzz\|Buzz]] **utilise** → S3 — 0.94
 
 **Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
 
@@ -14339,11 +14335,12 @@
 
 ### navigateur IA {#navigateur-IA}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **positionnement** : Troisième terme possible du duel desktop/web : le critique le plus virulent de Claude Desktop utilise Claude dans le navigateur d'OpenAI, ce qui déplace la question du client natif vers la surface de navigation
 
-- **concurrence** → « l'opposition entre application desktop et version web, comme troisième voie » (AFFIRMATION) — 0.82
+- **concurrence** → [[kb/ChatGPT-Desktop\|ChatGPT Desktop]] (TECHNOLOGIE) — 0.82
+- **concurrence** → [[kb/Claude-Desktop\|Claude Desktop]] (TECHNOLOGIE) — 0.82
 
 **Fiches** : [[fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12\|ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »]]
 
@@ -14901,7 +14898,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1037)
+## CONCEPT (1036)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -16939,19 +16936,6 @@
 
 **Fiches** : [[fiches/1975-12/kerr-folly-rewarding-a-hoping-b-academy-management-1975-12\|On the Folly of Rewarding A, While Hoping for B]]
 
-### European Compute Unit {#European-Compute-Unit}
-
-**Type** : CONCEPT | 3 relations | 1 fiches
-
-- **définition** : Unité d'engagement créée par Mistral AI (août 2026) : créance pluriannuelle sur de la capacité de calcul à construire, fongible entre inférence, entraînement, adaptation de modèles et Kubernetes managé. Visée d'engagement de cinq ans sans sortie anticipée — « There is no getting out ». Fonctionne comme un pré-achat de capacité garantissant le financement d'infrastructure, à la manière d'un contrat d'achat d'électricité
-
-- **permet** → « de convertir un engagement pluriannuel d'entreprise en créance fongible sur de la capacité à construire, dépensable en inférence, entraînement, adaptation de modèles ou Kubernetes managé » (AFFIRMATION) — 0.94
-- **est_instance_de** → « pré-achat de capacité servant de garantie au financement d'infrastructure, sur le modèle d'un contrat d'achat d'électricité plutôt que d'un contrat cloud » (AFFIRMATION) — 0.88
-
-- [[kb/Mistral-AI\|Mistral AI]] **a_créé** → European Compute Unit — 0.95
-
-**Fiches** : [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
-
 ### Evals {#Evals}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -18884,9 +18868,11 @@
 
 ### Sabotage as a Service {#Sabotage-as-a-Service}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Dégradation/reroutage silencieux de réponses sous bannière de sécurité
+
+- permissioning visible **remplace** → Sabotage as a Service — 0.85
 
 **Fiches** : [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 
@@ -20782,7 +20768,7 @@
 
 - **définition** : Brique de base de la SBO : savoir-faire objectivé et transparent, déployé là où le besoin est concret, indépendamment de l'intitulé du poste (à ne pas confondre avec les Agent Skills)
 
-- **remplace** → « l'identité statutaire par une identité opératoire » (AFFIRMATION) — 0.88
+- **permet** → [[kb/_entites-mineures#identité-opératoire\|identité opératoire]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 
@@ -21236,10 +21222,12 @@
 
 ### crédit Agent SDK {#crédit-Agent-SDK}
 
-**Type** : CONCEPT | 0 relations | 2 fiches
+**Type** : CONCEPT | 1 relations | 2 fiches
 
 - **définition** : Pool de facturation séparé annoncé par Anthropic pour l'usage agent et SDK tiers (20 $ / 100 $ / 200 $ selon le plan), facturé au plein tarif API — annoncé pour le 15 juin 2026 puis suspendu
 - **statut** : Annoncé pour le 15 juin 2026, suspendu le jour même ; aucune date de reprise annoncée, Anthropic déclarant travailler à une révision du plan
+
+- [[kb/Anthropic\|Anthropic]] **publie** → crédit Agent SDK — 0.95
 
 **Fiches** : [[fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14\|What Anthropic's New Claude Billing Means for Zed Users]], [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
 
@@ -22322,9 +22310,13 @@
 
 ### identité opératoire {#identité-opératoire}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **définition** : « Je sais concevoir des architectures complexes » — définition de soi par la compétence, opposée à l'identité statutaire (« je suis manager »)
+
+- **remplace** → identité statutaire (CONCEPT) — 0.88
+
+- [[kb/_entites-mineures#compétence-opérationnelle\|compétence opérationnelle]] **permet** → identité opératoire — 0.88
 
 **Fiches** : [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 
@@ -22577,7 +22569,7 @@
 
 - **statut** : Capacité annoncée par Stripe le 29 avril 2026 mais non livrée : plafonds paramétrables et choix des cas où un agent agit sans revue humaine supplémentaire
 
-- **est_instance_de** → « une capacité annoncée mais non livrée au 29 avril 2026 » (AFFIRMATION) — 0.94
+- **est_instance_de** → capacité annoncée non livrée (CONCEPT) — 0.94
 
 **Fiches** : [[fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29\|Giving agents the ability to pay]]
 
@@ -23941,9 +23933,11 @@
 
 ### signal avancé d'usage {#signal-avancé-d'usage}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Statut épistémique revendiqué pour les données d'usage IA : indicateur de recomposition des métiers visible avant les fiches de poste, les intitulés et les statistiques du marché du travail
+
+- [[kb/_entites-mineures#task-crossover\|task crossover]] **est_instance_de** → signal avancé d'usage — 0.97
 
 **Fiches** : [[fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27\|How AI is expanding what people do at work (Work at the Frontier, rapport 1)]]
 
@@ -24178,9 +24172,11 @@
 
 ### surface d'écriture non résolue {#surface-d'écriture-non-résolue}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Couche permission et identité du stack agentique, désignée comme le point non résolu : lire est outillé, écrire ne l'est pas
+
+- permission et identité des agents **est_instance_de** → surface d'écriture non résolue — 0.93
 
 **Fiches** : [[fiches/2026-07/mozilla-state-of-open-source-ai-2026-07\|The state of open source AI (v1.0.1, juillet 2026)]]
 
@@ -24306,7 +24302,7 @@
 - **définition** : Tâches historiquement associées à un métier qui apparaissent dans l'usage IA de professionnels d'un autre métier ; mesuré à 43,5 % des messages métier-spécifiques
 - **mesure** : 16,8 % des messages liés au travail et 43,5 % des messages métier-spécifiques, après retrait des 61,5 % d'usage générique
 
-- **est_instance_de** → « l'apparition, dans l'usage IA d'un métier, de travail historiquement associé à un autre » (CITATION) — 0.97
+- **est_instance_de** → [[kb/_entites-mineures#signal-avancé-d'usage\|signal avancé d'usage]] (CONCEPT) — 0.97
 - **observé_dans** → « les données d'usage de ChatGPT, comme signal avancé de la recomposition des métiers » (AFFIRMATION) — 0.90
 
 **Fiches** : [[fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27\|How AI is expanding what people do at work (Work at the Frontier, rapport 1)]], [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
@@ -26899,7 +26895,7 @@
 
 - **définition** : Modèle d'organisation faisant de la compétence réellement opérationnelle — et non du poste — l'unité de base du travail
 
-- **remplace** → « la fiche de poste comme unité d'organisation du travail » (AFFIRMATION) — 0.93
+- **remplace** → fiche de poste (CONCEPT) — 0.93
 - **permet** → « de rendre le task crossover visible, outillé et valorisé au lieu d'un bricolage informel » (AFFIRMATION) — 0.88
 
 - [[kb/SFEIR\|SFEIR]] **utilise** → Skill Based Organisation — 0.95
@@ -28405,7 +28401,7 @@
 
 - **rôle** : Substitut proposé à la revue pour le transfert de connaissance et l'apprentissage des juniors, parce qu'il opère pendant le raisonnement et non après
 
-- **remplace** → « la revue de code comme mécanisme de transfert de connaissance » (AFFIRMATION) — 0.92
+- **remplace** → [[kb/revue-de-code\|revue de code]] (METHODOLOGIE) — 0.92
 - **surpasse** → « la lecture d'une solution achevée pour apprendre le raisonnement d'un ingénieur expérimenté » (AFFIRMATION) — 0.91
 
 **Fiches** : [[fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02\|Maybe We Shouldn't Be Reviewing All This Code]]
@@ -29182,11 +29178,13 @@
 
 ### évaluations (evals) {#évaluations-(evals)}
 
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
 
 - **rôle** : Tester un artefact contre des exemples connus (3 bons/3 mauvais PRD, 5 appels, 2 lancements)
 
 - **permet** → preuve qu'un artefact s'améliore face à un jugement produit connu (CONCEPT) — 0.88
+
+- [[kb/construction-et-déploiement-d'applications-IA\|construction et déploiement d'applications IA]] **utilise** → évaluations (evals) — 0.94
 
 **Fiches** : [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Loop Engineering for Product Managers]]
 
@@ -29577,7 +29575,7 @@
 
 - **structure** : Annoncé le 21 avril 2026 : plancher de 10 milliards de dollars pour un partenariat de calcul, option d'achat à 60 milliards exerçable en titres cotés après l'introduction en bourse
 
-- **remplace** → « tour de table de 2 milliards mené par Andreessen Horowitz, Thrive Capital et Nvidia à 50 milliards de valorisation » (AFFIRMATION) — 0.91
+- **remplace** → tour de table Cursor à 50 milliards (EVENEMENT) — 0.91
 
 **Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 
@@ -29623,11 +29621,13 @@
 
 ### coupure de Fable 5 et Mythos 5 {#coupure-de-Fable-5-et-Mythos-5}
 
-**Type** : EVENEMENT | 1 relations | 1 fiches
+**Type** : EVENEMENT | 2 relations | 1 fiches
 
 - **attribut** : Suspension mondiale 12 juin → 1er juil. 2026 sur ordre d'export du Commerce (19 jours)
 
 - **affirme_que** → « un « kill switch de fait » est déjà une réalité opérationnelle (19 jours de coupure mondiale, juin 2026) » (AFFIRMATION) — 0.92
+
+- Department of Commerce **a_créé** → coupure de Fable 5 et Mythos 5 — 0.90
 
 **Fiches** : [[fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24\|Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes]]
 

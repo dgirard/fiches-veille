@@ -90,7 +90,7 @@ Les protocoles ouverts (MCP, A2A, OpenTelemetry, OCI) fournissent presque toutes
 | Twelve-Factor App | METHODOLOGIE | recommande | traiter les capacités (modèle, mémoire, outils) comme des ressources attachées par configuration | AFFIRMATION | 0.85 | ATEMPOREL | déclaré_article |
 | Janakiram MSV | PERSONNE | recommande | évaluer une plateforme agent sur trois questions : gouvernance neutre, packaging portable, état exportable | AFFIRMATION | 0.9 | STATIQUE | déclaré_article |
 | Janakiram MSV | PERSONNE | prédit | celui qui possèdera le control plane agent définira ce qu'est un agent | AFFIRMATION | 0.85 | ATEMPOREL | déclaré_article |
-| Kubernetes | TECHNOLOGIE | a_créé | abstractions (pods, deployments, services) façonnant la pensée de l'industrie | AFFIRMATION | 0.85 | STATIQUE | déclaré_article |
+| Kubernetes | TECHNOLOGIE | a_créé | abstractions pods / deployments / services | CONCEPT | 0.85 | STATIQUE | déclaré_article |
 
 ### Entités
 

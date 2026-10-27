@@ -143,7 +143,7 @@ Billet de benchmarks de **Block** signé **Atish Patel**, publié le **6 août 2
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Block | ORGANISATION | publie | des benchmarks d'équipes d'agents exécutés sur de vrais agents Buzz via un relais live, une tentative par tâche et sans retry | AFFIRMATION | 0.96 | STATIQUE | déclaré_article |
+| Block | ORGANISATION | publie | benchmarks d'équipes d'agents Buzz | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
 | Atish Patel | PERSONNE | travaille_chez | Block | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
 | Leigh Maddock | PERSONNE | travaille_chez | Block | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 | Block | ORGANISATION | mesure | aucune des douze compositions d'équipe testées sur Terminal-Bench 2.1 n'a devancé l'agent solo équivalent en rapport qualité-prix | MESURE | 0.96 | STATIQUE | déclaré_article |

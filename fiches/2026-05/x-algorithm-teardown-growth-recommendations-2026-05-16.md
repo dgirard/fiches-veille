@@ -248,7 +248,7 @@ Le 15 mai 2026, xAI publie en open-source `xai-org/x-algorithm`, l'algorithme **
 | Phoenix | TECHNOLOGIE | fait_partie_de | x-algorithm | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Grox | TECHNOLOGIE | fait_partie_de | x-algorithm | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Home Mixer | TECHNOLOGIE | utilise | Rust | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Home Mixer | TECHNOLOGIE | dirige | pipeline For You feed (orchestration) | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Home Mixer | TECHNOLOGIE | permet | pipeline For You feed (orchestration) | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Thunder | TECHNOLOGIE | permet | lookups sub-ms des posts récents in-network | CONCEPT | 0.99 | STATIQUE | déclaré_article |
 | Thunder | TECHNOLOGIE | utilise | Kafka | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | Phoenix | TECHNOLOGIE | est_basé_sur | Grok-1 | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |

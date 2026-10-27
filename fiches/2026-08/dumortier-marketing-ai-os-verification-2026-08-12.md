@@ -141,7 +141,7 @@ Retour d'expérience publié sur **LinkedIn Pulse** le **12 août 2026** par **G
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Guillaume Dumortier | PERSONNE | a_créé | Marketing AI OS | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
 | Marketing AI OS | TECHNOLOGIE | utilise | Claude | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| Marketing AI OS | TECHNOLOGIE | est_instance_de | système interne à quatre couches — vérité, production, vérification, distribution — servant une équipe marketing d'une soixantaine de personnes avec une trentaine de skills, une douzaine de modules de source de vérité et sept agents dont six ne font que contrôler | AFFIRMATION | 0.94 | STATIQUE | déclaré_article |
+| Marketing AI OS | TECHNOLOGIE | est_instance_de | système multi-agents | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
 | Guillaume Dumortier | PERSONNE | affirme_que | la qualité d'une sortie IA n'est pas déterminée au moment de la génération mais par ce que le système sait avant de commencer et ce qui arrive au brouillon après qu'il a fini | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | Guillaume Dumortier | PERSONNE | affirme_que | il croyait construire une machine à contenu alors qu'il construisait une machine à confiance, ce qui lui a fait dépenser son effort initial au mauvais endroit | CITATION | 0.95 | STATIQUE | déclaré_article |
 | couche de vérité | CONCEPT | fait_partie_de | Marketing AI OS | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |

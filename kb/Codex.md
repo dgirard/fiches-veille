@@ -1,6 +1,6 @@
 # Codex
 
-> **Type** : TECHNOLOGIE | 17 relations | 9 fiches sources
+> **Type** : TECHNOLOGIE | 18 relations | 9 fiches sources
 
 ## Attributs
 
@@ -68,6 +68,7 @@
 - [[kb/OpenAI\|OpenAI]] **a_créé** → Codex — 0.97
 - [[kb/Eric-S.-Raymond\|Eric S. Raymond]] **utilise** → Codex — 0.95
 - [[kb/OpenAI\|OpenAI]] **publie** → Codex — 0.90
+- [[kb/ChatGPT-Desktop\|ChatGPT Desktop]] **utilise** → Codex — 0.90
 - [[kb/swarm-concept\|swarm]] **utilise** → Codex — 0.90
 
 ## Fiches sources

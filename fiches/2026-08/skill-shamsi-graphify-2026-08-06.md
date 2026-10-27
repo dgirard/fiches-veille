@@ -246,14 +246,14 @@ Shortest path (3 hops):
 | construction du graphe par AST | CONCEPT | réduit | le coût de construction à zéro crédit de modèle | MESURE | 0.95 | ATEMPOREL | déclaré_article |
 | graphe de code structuré | CONCEPT | surpasse | la récupération vectorielle pour la compréhension de code | AFFIRMATION | 0.85 | ATEMPOREL | inféré |
 | graphify | METHODOLOGIE | s_applique_à | code, documents, PDF, images, vidéo, configurations MCP et manifestes de paquets | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
-| commentaires d'intention | CONCEPT | fait_partie_de | le graphe, comme nœuds distincts reliés au code qu'ils expliquent | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| commentaires d'intention | CONCEPT | fait_partie_de | graphify | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
 | cache par empreinte et hook post-commit | CONCEPT | résout | la péremption du graphe face à un code qui change | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 | sortie en wiki markdown | CONCEPT | permet | à un agent de naviguer la base de connaissance en lisant des fichiers plutôt qu'en analysant du JSON | CITATION | 0.92 | ATEMPOREL | déclaré_article |
 | graphify | METHODOLOGIE | utilise | faster-whisper pour transcrire vidéo et audio localement | TECHNOLOGIE | 0.9 | ATEMPOREL | déclaré_article |
 | journal de requêtes local | CONCEPT | s_oppose_à | l'absence totale de trace, étant actif par défaut et désactivable par variable d'environnement | AFFIRMATION | 0.9 | DYNAMIQUE | déclaré_article |
 | détection automatique de backend | CONCEPT | s_oppose_à | une contrainte de résidence des données, pouvant router vers des serveurs situés en Chine | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
 | graphify | METHODOLOGIE | converge_avec | GitNexus | TECHNOLOGIE | 0.85 | DYNAMIQUE | inféré |
-| Graphify Labs | ORGANISATION | publie | une plateforme commerciale appliquant la même approche en continu à tout le contexte de travail | AFFIRMATION | 0.9 | DYNAMIQUE | déclaré_article |
+| Graphify Labs | ORGANISATION | publie | plateforme commerciale de contexte | TECHNOLOGIE | 0.9 | DYNAMIQUE | déclaré_article |
 | branche main du dépôt | DOCUMENT | s_oppose_à | la branche v8, en décrivant un produit de génération antérieure | AFFIRMATION | 0.92 | DYNAMIQUE | inféré |
 
 ### Entités

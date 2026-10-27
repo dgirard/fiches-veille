@@ -141,7 +141,7 @@ Publié dans **ACM Queue** le 20 juillet 2026 par **Joseph Valente** et **Michal
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Joseph Valente | PERSONNE | travaille_chez | Google | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
 | Michal Zalewski | PERSONNE | travaille_chez | Google | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Michal Zalewski | PERSONNE | dirige | la stratégie d'Alphabet Security | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Michal Zalewski | PERSONNE | dirige | Alphabet Security | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
 | Google | ORGANISATION | publie | Beyond Zero | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | Beyond Zero | CONCEPT | remplace | BeyondCorp | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | Beyond Zero | CONCEPT | est_basé_sur | BeyondCorp | CONCEPT | 0.95 | STATIQUE | déclaré_article |
@@ -161,7 +161,7 @@ Publié dans **ACM Queue** le 20 juillet 2026 par **Joseph Valente** et **Michal
 | Beyond Zero | CONCEPT | s_applique_à | les accès via front-end, API, MCP ou tout autre chemin | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
 | Valente et Zalewski | PERSONNE | recommande | des standards d'identité agentique rendant chaque action attribuable à un agent, un utilisateur contrôlant et une tâche | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
 | Valente et Zalewski | PERSONNE | recommande | faire du point d'évaluation de politique opéré par l'entreprise un first-class citizen de tout produit SaaS | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
-| NIST | ORGANISATION | publie | un effort de normalisation sur la sécurité des agents | AFFIRMATION | 0.85 | DYNAMIQUE | déclaré_article |
+| NIST | ORGANISATION | publie | initiative de normalisation de la sécurité des agents | EVENEMENT | 0.85 | DYNAMIQUE | déclaré_article |
 | Beyond Zero | CONCEPT | converge_avec | la doctrine d'identité agentique de Uber (actor chain, tokens single-hop) | CONCEPT | 0.82 | DYNAMIQUE | inféré |
 | Beyond Zero | CONCEPT | affirme_que | la sécurité d'entreprise doit fonctionner comme un système immunitaire s'adaptant au contexte et à l'intention de chaque requête | CITATION | 0.9 | ATEMPOREL | déclaré_article |
 | ACM Queue | ORGANISATION | publie | Beyond Zero: Enterprise security for the AI era | DOCUMENT | 0.97 | STATIQUE | déclaré_article |

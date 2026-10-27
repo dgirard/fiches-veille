@@ -164,12 +164,12 @@ Manifeste publié sur **meta.com** le **10 août 2026**, signé ***« – Mark �
 | Mark Zuckerberg | PERSONNE | affirme_que | tous les modèles IA dérivent de la connaissance humaine et qu'il faut protéger le principe selon lequel on peut apprendre de tout ce qu'on peut observer, contre la présentation de la distillation comme nuisible | CITATION | 0.94 | ATEMPOREL | déclaré_article |
 | Meta Superintelligence Labs | ORGANISATION | fait_partie_de | Meta | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 | Meta | ORGANISATION | prédit | la reprise prochaine de la publication de certains modèles open source, maintenant que Meta Superintelligence Labs sont opérationnels | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
-| Meta | ORGANISATION | utilise | une structure de gouvernance donnant à son conseil d'administration indépendant le pouvoir d'approuver les critères de sûreté de publication des modèles et de vérifier la conformité de chaque publication, alors que Meta reste une entreprise contrôlée par son fondateur | AFFIRMATION | 0.94 | DYNAMIQUE | déclaré_article |
+| Meta | ORGANISATION | utilise | gouvernance par conseil indépendant | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
 | auto-amélioration récursive | CONCEPT | s_applique_à | tout laboratoire de pointe, qui prendra intrinsèquement du retard s'il ne dirige pas une part substantielle de sa capacité de calcul vers l'auto-amélioration de ses systèmes | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
 | Mark Zuckerberg | PERSONNE | prédit | qu'un système auto-améliorant optimisant son efficacité pourrait théoriquement extraire cent fois plus d'intelligence de chaque gigawatt, et donc commander plus de compute effectif que tout le monde réuni | MESURE | 0.88 | DYNAMIQUE | déclaré_article |
 | Mark Zuckerberg | PERSONNE | recommande | que les labos et clouds engagés pour l'équilibre des pouvoirs construisent collectivement assez de compute pour rester compétitifs en auto-amélioration récursive tout en dirigeant la majorité significative vers les objectifs individuels, sans seuil chiffré ni mécanisme de vérification proposé | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
 | Meta | ORGANISATION | concurrence | OpenAI | ORGANISATION | 0.85 | DYNAMIQUE | inféré |
-| Biohub | ORGANISATION | publie | des modèles biologiques open source sur les cellules virtuelles et les protéines aidant les scientifiques à faire de nouvelles découvertes et concevoir de nouveaux médicaments | AFFIRMATION | 0.9 | DYNAMIQUE | déclaré_article |
+| Biohub | ORGANISATION | publie | modèles biologiques open source | TECHNOLOGIE | 0.9 | DYNAMIQUE | déclaré_article |
 | The Future is for Everyone | DOCUMENT | référence | superintelligence personnelle | CONCEPT | 0.94 | STATIQUE | déclaré_article |
 
 ### Entités

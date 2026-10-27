@@ -12,7 +12,7 @@
 
 - dossier d'instructions scripts et ressources (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
-- « procédure écrite une fois et rejouée à l'identique, créée dès la troisième répétition » (AFFIRMATION) — 0.94, ATEMPOREL
+- procédure réutilisable (CONCEPT) — 0.94, ATEMPOREL
   - [[fiches/2026-07/lassiege-usine-logicielle-heure-ia-2026-07-28\|Mon usine logicielle à l'heure de l'IA]]
 - [[kb/_entites-mineures#progressive-disclosure\|progressive disclosure]] (METHODOLOGIE) — 0.93, ATEMPOREL
   - [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]

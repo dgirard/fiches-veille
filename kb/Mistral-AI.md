@@ -1,6 +1,6 @@
 # Mistral AI
 
-> **Type** : ORGANISATION | 48 relations | 8 fiches sources
+> **Type** : ORGANISATION | 49 relations | 8 fiches sources
 
 ## Attributs
 
@@ -13,7 +13,7 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#European-Compute-Unit\|European Compute Unit]] (CONCEPT) — 0.95, STATIQUE
+- [[kb/European-Compute-Unit\|European Compute Unit]] (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
 
 ### affirme_que
@@ -128,6 +128,7 @@
 - [[kb/_entites-mineures#Audry-Herblin-Stoupe\|Audry Herblin-Stoupe]] **travaille_chez** → Mistral AI — 0.98
 - [[kb/Timothée-Lacroix\|Timothée Lacroix]] **travaille_chez** → Mistral AI — 0.98
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] **est_basé_sur** → Mistral AI — 0.96
+- [[kb/Microsoft\|Microsoft]] **collabore_avec** → Mistral AI — 0.93
 - [[kb/_entites-mineures#ASML\|ASML]] **soutient** → Mistral AI — 0.90
 - Amadeus **soutient** → Mistral AI — 0.88
 - [[kb/Capgemini\|Capgemini]] **soutient** → Mistral AI — 0.88

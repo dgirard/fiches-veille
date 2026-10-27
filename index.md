@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 448 fiches | 1975-12 → 2026-10-25 | généré le 2026-10-26
+> 448 fiches | 1975-12 → 2026-10-25 | généré le 2026-10-27
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 

@@ -33,6 +33,11 @@
 - modèle de leadership pour l'IA (METHODOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|The Pivotal Role Of Chief HR Officer in AI Transformation]]
 
+### collabore_avec
+
+- [[kb/Mistral-AI\|Mistral AI]] (ORGANISATION) — 0.93, DYNAMIQUE
+  - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
+
 ### fait_partie_de
 
 - AAIF (ORGANISATION) — 0.93, DYNAMIQUE
@@ -76,8 +81,6 @@
 
 - Bad Developer Days (METHODOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|HOW TECH COMPANIES MEASURE THE IMPACT OF AI ON SOFTWARE DEVELOPMENT]]
-- « la capacité des datacenters européens de Mistral, louée pour servir sa propre demande cloud et IA » (AFFIRMATION) — 0.93, DYNAMIQUE
-  - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
 - [[kb/_entites-mineures#NVIDIA-Vera-Rubin\|NVIDIA Vera Rubin]] (TECHNOLOGIE) — 0.90, STATIQUE
   - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 

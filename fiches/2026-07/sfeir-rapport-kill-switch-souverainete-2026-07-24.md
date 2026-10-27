@@ -84,7 +84,7 @@ Ce **rapport de recherche interne SFEIR** est la base factuelle d'un futur artic
 | rapport de recherche kill switch | DOCUMENT | affirme_que | l'incident OpenAI/Hugging Face, survenu en red-teaming, ne déclencherait pas l'autorité d'urgence du texte | AFFIRMATION | 0.9 | STATIQUE | déclaré_article |
 | rapport de recherche kill switch | DOCUMENT | affirme_que | la thèse « barrière très basse » est fausse au sens strict mais vraie par l'effet domino sur les clients | AFFIRMATION | 0.9 | DYNAMIQUE | déclaré_article |
 | coupure de Fable 5 et Mythos 5 | EVENEMENT | affirme_que | un « kill switch de fait » est déjà une réalité opérationnelle (19 jours de coupure mondiale, juin 2026) | AFFIRMATION | 0.92 | STATIQUE | déclaré_article |
-| Department of Commerce | ORGANISATION | a_créé | ordre d'export coupant Fable 5 et Mythos 5 (lettre Lutnick → Amodei) | AFFIRMATION | 0.9 | STATIQUE | déclaré_article |
+| Department of Commerce | ORGANISATION | a_créé | coupure de Fable 5 et Mythos 5 | EVENEMENT | 0.9 | STATIQUE | déclaré_article |
 | gating des modèles US fermés | CONCEPT | permet | le report de la demande vers l'open-weight chinois non « killable » (paradoxe du kill switch) | AFFIRMATION | 0.85 | DYNAMIQUE | déclaré_article |
 | modèles open-weight chinois | TECHNOLOGIE | mesure | passage de < 1,2 % à 61 % des tokens parmi le top-10 OpenRouter (fin 2024 → fév. 2026) | MESURE | 0.85 | STATIQUE | déclaré_article |
 | Cloud Act | DOCUMENT | s_applique_à | souveraineté numérique européenne (accès extraterritorial US) | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |

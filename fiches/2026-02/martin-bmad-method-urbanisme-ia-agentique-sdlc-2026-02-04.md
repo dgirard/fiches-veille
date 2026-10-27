@@ -79,7 +79,7 @@ Philippe Martin présente la méthode BMAD (Breakthrough Method for Agile AI-Dri
 | BMAD | METHODOLOGIE | s_applique_à | SDLC | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
 | BMAD | METHODOLOGIE | utilise | agents IA | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
 | vibe coding | METHODOLOGIE | permet | dette technique | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| humain | CONCEPT | dirige | agents IA | TECHNOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
+| BMAD | METHODOLOGIE | recommande | l'humain reste architecte en chef et dirige les agents IA | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
 | agents IA | TECHNOLOGIE | est_instance_de | contremaîtres spécialisés | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | BMAD | METHODOLOGIE | s_applique_à | DSI | ORGANISATION | 0.90 | DYNAMIQUE | déclaré_article |
 | BMAD | METHODOLOGIE | s_applique_à | legacy | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
