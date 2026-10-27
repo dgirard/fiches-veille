@@ -74,7 +74,7 @@ La note se conclut sur les conséquences pour les acheteurs et les fournisseurs.
 | Mitch Ashley | PERSONNE | affirme_que | l'accord déplace Cursor vers un substrat où le prix du calcul est interne plutôt qu'adverse | CITATION | 0.93 | ATEMPOREL | déclaré_article |
 | IPO de SpaceX | EVENEMENT | mesure | introduction visée en juin 2026 à une valorisation rapportée de 1 750 milliards de dollars | MESURE | 0.91 | DYNAMIQUE | déclaré_article |
 | xAI | ORGANISATION | mesure | perte rapportée de 6,4 milliards de dollars en 2025 selon le Financial Times | MESURE | 0.90 | STATIQUE | déclaré_article |
-| accord SpaceX-Cursor | EVENEMENT | remplace | tour de table de 2 milliards mené par Andreessen Horowitz, Thrive Capital et Nvidia à 50 milliards de valorisation | AFFIRMATION | 0.91 | STATIQUE | déclaré_article |
+| accord SpaceX-Cursor | EVENEMENT | remplace | tour de table Cursor à 50 milliards | EVENEMENT | 0.91 | STATIQUE | déclaré_article |
 | Microsoft | ORGANISATION | affirme_que | acquisition de Cursor examinée puis écartée, sans offre déposée | AFFIRMATION | 0.88 | STATIQUE | déclaré_article |
 | Mitch Ashley | PERSONNE | affirme_que | le renoncement de Microsoft s'explique par le coût d'intégration et le conflit de canal avec GitHub Copilot | AFFIRMATION | 0.86 | STATIQUE | inféré |
 | option d'achat adossée à l'IPO | CONCEPT | permet | reporter l'acquisition après cotation, éviter la mise à jour des dépôts confidentiels et payer en titres cotés | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |

@@ -1,6 +1,6 @@
 # revue de code
 
-> **Type** : METHODOLOGIE | 4 relations | 2 fiches sources
+> **Type** : METHODOLOGIE | 5 relations | 2 fiches sources
 
 ## Attributs
 
@@ -16,7 +16,7 @@
 
 ### est_instance_de
 
-- « empilement de responsabilités — porte qualité, contrôle sécurité, revue d'architecture, mentorat, partage de connaissance, modèle de propriété » (AFFIRMATION) — 0.93, ATEMPOREL
+- empilement de responsabilités (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02\|Maybe We Shouldn't Be Reviewing All This Code]]
 - goulot d'étranglement du développement assisté IA (CONCEPT) — 0.92, DYNAMIQUE
   - [[fiches/2025-11/kanat-alexander-capital-one-devex-ai-agents-2025-11-23\|Developer Experience in the Age of AI Coding Agents]]
@@ -25,6 +25,10 @@
 
 - exploration de solutions alternatives, transfert de connaissance et conscience de ce que construisent les coéquipiers (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for?]]
+
+## Relations (comme objet)
+
+- [[kb/_entites-mineures#pair-programming\|pair programming]] **remplace** → revue de code — 0.92
 
 ## Fiches sources
 

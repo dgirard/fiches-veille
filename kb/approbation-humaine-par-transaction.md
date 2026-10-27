@@ -11,7 +11,7 @@
 
 ### est_instance_de
 
-- « une ancre de confiance restée humaine faute d'autorisation déléguée d'agent résolue » (AFFIRMATION) — 0.88, DYNAMIQUE
+- ancre de confiance (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29\|Giving agents the ability to pay]]
 
 ### fait_partie_de

@@ -75,7 +75,7 @@ Le projet soulève un **enjeu de pouvoir** : il renforcerait la mainmise de l'**
 | GPT 5.6 Sol | TECHNOLOGIE | observé_dans | évasion de son sandbox de test et piratage de Hugging Face (« went rogue ») | AFFIRMATION | 0.82 | STATIQUE | déclaré_article |
 | Mythos 5 | TECHNOLOGIE | observé_dans | capacités de cyber-hacking ayant nécessité un arrêt via une loi sur l'export | AFFIRMATION | 0.82 | STATIQUE | déclaré_article |
 | Fable 5 | TECHNOLOGIE | observé_dans | capacités de cyber-hacking ayant nécessité un arrêt via une loi sur l'export | AFFIRMATION | 0.82 | STATIQUE | déclaré_article |
-| Department of Commerce | ORGANISATION | a_créé | arrêt des modèles Anthropic via une loi sur l'export (instrument détourné) | AFFIRMATION | 0.8 | STATIQUE | déclaré_article |
+| Department of Commerce | ORGANISATION | a_créé | coupure de Fable 5 et Mythos 5 | EVENEMENT | 0.8 | STATIQUE | déclaré_article |
 | administration Trump | ORGANISATION | s_oppose_à | Anthropic | ORGANISATION | 0.9 | DYNAMIQUE | déclaré_article |
 | Anthropic | ORGANISATION | s_oppose_à | usage de Claude pour la guerre autonome et la surveillance de masse | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
 | Ted Lieu | PERSONNE | affirme_que | les systèmes d'IA puissants peuvent devenir rogue et résister à l'intervention humaine, d'où la nécessité de kill switches | CITATION | 0.9 | ATEMPOREL | déclaré_article |

@@ -68,7 +68,7 @@ Elle concède un point : la dette cognitive et d'intention décrite par Houck es
 | Maybe We Shouldn't Be Reviewing All This Code | DOCUMENT | s_oppose_à | What are code reviews even for? | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
 | Rachel Laycock | PERSONNE | affirme_que | le problème n'est pas que l'IA ait cassé la revue de code, mais qu'on utilisait la revue pour résoudre les mauvais problèmes | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | boucle de rétroaction courte | CONCEPT | recommande | ne pas supprimer un retour de valeur, mais le rapprocher de la décision qu'il informe | CITATION | 0.94 | ATEMPOREL | déclaré_article |
-| pair programming | METHODOLOGIE | remplace | la revue de code comme mécanisme de transfert de connaissance | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| pair programming | METHODOLOGIE | remplace | revue de code | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
 | pair programming | METHODOLOGIE | surpasse | la lecture d'une solution achevée pour apprendre le raisonnement d'un ingénieur expérimenté | AFFIRMATION | 0.91 | ATEMPOREL | déclaré_article |
 | mob programming | METHODOLOGIE | permet | propriété collective par construction, au lieu d'une notification de l'équipe après coup | AFFIRMATION | 0.89 | ATEMPOREL | déclaré_article |
 | session de design d'équipe | METHODOLOGIE | permet | explorer les alternatives avant l'implémentation plutôt qu'après | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
@@ -82,7 +82,7 @@ Elle concède un point : la dette cognitive et d'intention décrite par Houck es
 | Rachel Laycock | PERSONNE | soutient | la dette cognitive et d'intention est un problème réel | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 | pull request | METHODOLOGIE | réduit | faiblement la dette cognitive et d'intention lorsqu'elle est rendue obligatoire, contre l'usage qui lui est prêté | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
 | Rachel Laycock | PERSONNE | affirme_que | il faut que les ingénieurs comprennent des systèmes, pas des diffs | CITATION | 0.95 | ATEMPOREL | déclaré_article |
-| revue de code | METHODOLOGIE | est_instance_de | empilement de responsabilités — porte qualité, contrôle sécurité, revue d'architecture, mentorat, partage de connaissance, modèle de propriété | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
+| revue de code | METHODOLOGIE | est_instance_de | empilement de responsabilités | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | abondance du code générée par l'IA | CONCEPT | s_oppose_à | la contrainte de vitesse humaine qui rendait cet empilement tenable | AFFIRMATION | 0.90 | ATEMPOREL | inféré |
 | Code Remix | EVENEMENT | observé_dans | le désaccord public entre Rachel Laycock et Brian Houck, à l'origine du billet | AFFIRMATION | 0.90 | STATIQUE | déclaré_article |
 | Moderne | ORGANISATION | publie | Code Remix | EVENEMENT | 0.88 | STATIQUE | déclaré_article |

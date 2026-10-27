@@ -93,7 +93,7 @@
 - [[kb/goose\|goose]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
   - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
-- « des benchmarks d'équipes d'agents exécutés sur de vrais agents Buzz via un relais live, une tentative par tâche et sans retry » (AFFIRMATION) — 0.96, STATIQUE
+- benchmarks d'équipes d'agents Buzz (DOCUMENT) — 0.96, STATIQUE
   - [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 - [[kb/_entites-mineures#Managerbot\|Managerbot]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]

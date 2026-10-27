@@ -104,7 +104,7 @@ Page d'introduction de la spécification de l'**Agent Client Protocol**, consult
 | Agent Client Protocol | TECHNOLOGIE | permet | l'affichage de diffs et autres éléments d'UX propres au codage agentique | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
 | Zed Industries | ORGANISATION | a_créé | Agent Client Protocol | TECHNOLOGIE | 0.9 | STATIQUE | inféré |
 | JetBrains | ORGANISATION | collabore_avec | Zed Industries | ORGANISATION | 0.88 | DYNAMIQUE | inféré |
-| Agent Client Protocol | TECHNOLOGIE | publie | une spécification versionnée v1 (Latest) et v2 (Draft) | AFFIRMATION | 0.9 | DYNAMIQUE | déclaré_article |
+| Agent Client Protocol | TECHNOLOGIE | publie | spécification Agent Client Protocol | DOCUMENT | 0.9 | DYNAMIQUE | déclaré_article |
 | ACP Registry | TECHNOLOGIE | fait_partie_de | Agent Client Protocol | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
 | Agent Client Protocol | TECHNOLOGIE | affirme_que | le support complet des agents distants est encore un travail en cours | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
 

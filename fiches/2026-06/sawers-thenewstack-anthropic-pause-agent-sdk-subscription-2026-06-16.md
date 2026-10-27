@@ -93,14 +93,16 @@ Article de **Paul Sawers** pour **The New Stack**, publié le **16 juin 2026** :
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | The New Stack | ORGANISATION | publie | article de Paul Sawers (16 juin 2026) | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | Paul Sawers | PERSONNE | a_créé | article de Paul Sawers (16 juin 2026) | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
-| Anthropic | ORGANISATION | remplace | le changement de facturation de l'Agent SDK par une suspension, le jour même de son entrée en vigueur | AFFIRMATION | 0.97 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | publie | suspension du changement de facturation Agent SDK | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
 | Anthropic | ORGANISATION | affirme_que | « We're pausing the changes to Claude Agent SDK usage described below. For now, nothing has changed. » | CITATION | 0.96 | STATIQUE | déclaré_article |
 | Boris Cherny | PERSONNE | affirme_que | les abonnements n'ont pas été conçus pour les schémas d'usage des outils tiers | CITATION | 0.95 | STATIQUE | déclaré_article |
 | tarification au forfait | CONCEPT | s_oppose_à | l'usage agentique ouvert | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
-| GitHub | ORGANISATION | remplace | le modèle forfaitaire de premium requests de Copilot par une facturation au token | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
+| facturation au token | CONCEPT | remplace | premium requests | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| GitHub Copilot | TECHNOLOGIE | utilise | facturation au token | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | GitHub | ORGANISATION | converge_avec | Anthropic | ORGANISATION | 0.85 | DYNAMIQUE | inféré |
 | directive de contrôle à l'export | CONCEPT | observé_dans | le retrait mondial de Fable 5 et Mythos 5 par Anthropic quelques jours après leur sortie | AFFIRMATION | 0.93 | STATIQUE | déclaré_article |
-| Anthropic | ORGANISATION | publie | Fable 5 et Mythos 5 le 9 juin 2026, avec garde-fous cybersécurité durcis | AFFIRMATION | 0.94 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | publie | Claude Fable 5 | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | publie | Claude Mythos 5 | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
 | Conductor | TECHNOLOGIE | est_basé_sur | Claude Agent SDK | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
 | volte-face tarifaire de plateforme | CONCEPT | s_oppose_à | la capacité des outils tiers à communiquer un tarif stable à leurs clients | AFFIRMATION | 0.88 | ATEMPOREL | inféré |
 | Matthew Diakonov | PERSONNE | mesure | une subvention de l'usage agentique par l'abonnement de l'ordre de 15 à 30× le tarif API | MESURE | 0.85 | DYNAMIQUE | déclaré_article |

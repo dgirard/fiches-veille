@@ -41,7 +41,7 @@
 
 ### publie
 
-- « une spécification versionnée v1 (Latest) et v2 (Draft) » (AFFIRMATION) — 0.90, DYNAMIQUE
+- spécification Agent Client Protocol (DOCUMENT) — 0.90, DYNAMIQUE
   - [[fiches/2026-08/agentclientprotocol-introduction-2026-08-02\|Agent Client Protocol — Introduction]]
 
 ### réduit

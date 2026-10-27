@@ -1,6 +1,6 @@
 # construction et déploiement d'applications IA
 
-> **Type** : CONCEPT | 3 relations | 1 fiches sources
+> **Type** : CONCEPT | 4 relations | 1 fiches sources
 
 ## Attributs
 
@@ -20,7 +20,9 @@
 
 ### utilise
 
-- « des boucles d'évaluations et d'analyse d'erreurs disciplinées, présentées comme la compétence centrale pour rendre un système IA plus prévisible » (AFFIRMATION) — 0.94, ATEMPOREL
+- analyse d'erreurs (METHODOLOGIE) — 0.94, ATEMPOREL
+  - [[fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14\|The AI Engineering Skills Map]]
+- [[kb/_entites-mineures#évaluations-(evals)\|évaluations (evals)]] (METHODOLOGIE) — 0.94, ATEMPOREL
   - [[fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14\|The AI Engineering Skills Map]]
 
 ## Fiches sources

@@ -110,7 +110,7 @@ Annonce publiée sur le blog **Stripe** le **29 avril 2026** par **Dan Hill**, P
 | justificatif de paiement scopé | CONCEPT | réduit | la perte maximale d'une transaction agentique, le montant, la devise et le marchand étant bornés à l'émission | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
 | approbation humaine par transaction | METHODOLOGIE | fait_partie_de | Link wallet for agents | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | approbation humaine par transaction | METHODOLOGIE | s_oppose_à | le micropaiement agentique, dont la fréquence rend la revue humaine impraticable | AFFIRMATION | 0.86 | ATEMPOREL | inféré |
-| approbation humaine par transaction | METHODOLOGIE | est_instance_de | une ancre de confiance restée humaine faute d'autorisation déléguée d'agent résolue | AFFIRMATION | 0.88 | DYNAMIQUE | inféré |
+| approbation humaine par transaction | METHODOLOGIE | est_instance_de | ancre de confiance | CONCEPT | 0.88 | DYNAMIQUE | inféré |
 | contexte de transaction fourni par l'agent | CONCEPT | permet | à l'humain d'approuver une dépense en comprenant ce qu'il autorise | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | Issuing for agents | TECHNOLOGIE | permet | à une entreprise de bâtir son propre portefeuille agentique avec contrôles de dépense, permissions par carte et antifraude à l'autorisation | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
 | Issuing for agents | TECHNOLOGIE | s_applique_à | l'émission de cartes agentiques par les fintechs, les plateformes SaaS verticales et les places de marché | AFFIRMATION | 0.94 | DYNAMIQUE | déclaré_article |
@@ -121,7 +121,7 @@ Annonce publiée sur le blog **Stripe** le **29 avril 2026** par **Dan Hill**, P
 | Link wallet for agents | TECHNOLOGIE | s_oppose_à | le pari sur un rail machine-natif, en adossant la dépense agentique aux réseaux de cartes existants | AFFIRMATION | 0.89 | DYNAMIQUE | inféré |
 | Stripe | ORGANISATION | mesure | plus de 200 millions de consommateurs dans la base clients de Link | MESURE | 0.80 | DYNAMIQUE | déclaré_article |
 | Stripe Sessions 2026 | EVENEMENT | référence | Link wallet for agents | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
-| limites de dépense sans approbation | CONCEPT | est_instance_de | une capacité annoncée mais non livrée au 29 avril 2026 | AFFIRMATION | 0.94 | DYNAMIQUE | déclaré_article |
+| limites de dépense sans approbation | CONCEPT | est_instance_de | capacité annoncée non livrée | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

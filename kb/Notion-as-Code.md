@@ -37,7 +37,7 @@
 
 - un SDK TypeScript (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-08/notion-as-code-2026-08-03\|How to use Notion as Code]]
-- « des jetons d'accès personnels plutôt que des jetons de bot de l'API publique » (AFFIRMATION) — 0.94, DYNAMIQUE
+- jetons d'accès personnels (TECHNOLOGIE) — 0.94, DYNAMIQUE
   - [[fiches/2026-08/notion-as-code-2026-08-03\|How to use Notion as Code]]
 
 ## Relations (comme objet)

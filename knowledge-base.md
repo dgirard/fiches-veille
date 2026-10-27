@@ -1,7 +1,7 @@
 # Knowledge Base — Veille Technologique
 
-<!-- manifest: sha256=a184d94e15e2c4c4ba25fdda3facb181fd7b22727eff2f0e3dc7ed0fa19cde1e fiches=448 -->
-> 448 fiches | 3744 entités | 7280 triples | Généré le 2026-10-26
+<!-- manifest: sha256=116d713b8bb52ac52f80845c7a977dbc3c92b8f289047e529f68b716ad33989a fiches=448 -->
+> 448 fiches | 3744 entités | 7291 triples | Généré le 2026-10-27
 
 ## Navigation
 
@@ -14,27 +14,27 @@
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (57)
 - [[kb/_index-type-LIEU\|LIEU]] (5)
 - [[kb/_index-type-DOCUMENT\|DOCUMENT]] (204)
-- [[kb/_entites-mineures\|Entités mineures]] (3121)
+- [[kb/_entites-mineures\|Entités mineures]] (3119)
 
 ## Entités les plus connectées
 
 | Entité | Type | Relations | Fiches |
 |--------|------|-----------|--------|
-| [[kb/Anthropic\|Anthropic]] | ORGANISATION | 161 | 53 |
+| [[kb/Anthropic\|Anthropic]] | ORGANISATION | 158 | 53 |
 | [[kb/Claude-Code\|Claude Code]] | TECHNOLOGIE | 130 | 57 |
 | [[kb/Ethan-Mollick\|Ethan Mollick]] | PERSONNE | 70 | 16 |
 | [[kb/SFEIR\|SFEIR]] | ORGANISATION | 68 | 11 |
 | [[kb/OpenAI\|OpenAI]] | ORGANISATION | 60 | 23 |
 | [[kb/Block\|Block]] | ORGANISATION | 51 | 11 |
 | [[kb/Google\|Google]] | ORGANISATION | 50 | 20 |
-| [[kb/Mistral-AI\|Mistral AI]] | ORGANISATION | 48 | 8 |
+| [[kb/Mistral-AI\|Mistral AI]] | ORGANISATION | 49 | 8 |
 | [[kb/Arthur-Mensch\|Arthur Mensch]] | PERSONNE | 47 | 4 |
 | [[kb/vibe-coding\|vibe coding]] | METHODOLOGIE | 45 | 23 |
+| [[kb/Buzz\|Buzz]] | TECHNOLOGIE | 40 | 7 |
 | [[kb/Addy-Osmani\|Addy Osmani]] | PERSONNE | 39 | 11 |
 | [[kb/Boris-Cherny\|Boris Cherny]] | PERSONNE | 39 | 11 |
 | [[kb/IA\|IA]] | TECHNOLOGIE | 38 | 10 |
-| [[kb/agents-IA\|agents IA]] | TECHNOLOGIE | 37 | 5 |
-| [[kb/Buzz\|Buzz]] | TECHNOLOGIE | 35 | 7 |
+| [[kb/agents-IA\|agents IA]] | TECHNOLOGIE | 36 | 5 |
 | [[kb/Léon-XIV\|Léon XIV]] | PERSONNE | 29 | 1 |
 | [[kb/Claude-entite\|Claude]] | TECHNOLOGIE | 28 | 14 |
 | [[kb/McKinsey\|McKinsey]] | ORGANISATION | 28 | 3 |
@@ -46,20 +46,20 @@
 ### Prédicats les plus fréquents
 
 - **affirme_que** : 912
-- **utilise** : 844
-- **permet** : 652
-- **mesure** : 585
+- **utilise** : 854
+- **permet** : 654
+- **mesure** : 586
 - **publie** : 421
-- **a_créé** : 401
-- **recommande** : 354
+- **a_créé** : 400
+- **recommande** : 355
 - **s_applique_à** : 296
 - **est_basé_sur** : 258
 - **réduit** : 257
 - **s_oppose_à** : 256
-- **fait_partie_de** : 242
+- **fait_partie_de** : 243
 - **améliore** : 222
 - **est_instance_de** : 219
-- **remplace** : 160
+- **travaille_chez** : 157
 
 ### Distribution par type
 
@@ -74,5 +74,5 @@
 
 ### Déduplication
 
-- **Triples** : 7407 → 7280 (127 doublons)
+- **Triples** : 7422 → 7291 (131 doublons)
 - **Entités** : 4957 → 3744 (1213 doublons)

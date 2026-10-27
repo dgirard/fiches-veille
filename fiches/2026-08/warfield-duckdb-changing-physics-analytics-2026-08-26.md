@@ -91,7 +91,7 @@ Warfield ne présente pas l'embarqué comme un remplacement : quand un traitemen
 | DuckDB | TECHNOLOGIE | s_applique_à | WebAssembly | TECHNOLOGIE | 0.91 | DYNAMIQUE | déclaré_article |
 | Andy Warfield | PERSONNE | affirme_que | DuckDB est « the glibc of structured data » : une dépendance sobre et ubiquitaire à laquelle beaucoup de logiciels se lient sans y penser | CITATION | 0.92 | ATEMPOREL | déclaré_article |
 | Andy Warfield | PERSONNE | prédit | l'analytique cesse d'être une activité séparée pour devenir quelque chose que l'on fait en continu pendant qu'on construit | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
-| AWS | ORGANISATION | utilise | DuckDB en interne pour des tableaux de bord, de l'outillage CLI, des accélérateurs côté serveur et des ponts entre systèmes | AFFIRMATION | 0.89 | DYNAMIQUE | déclaré_article |
+| AWS | ORGANISATION | utilise | DuckDB | TECHNOLOGIE | 0.89 | DYNAMIQUE | déclaré_article |
 | Xen | TECHNOLOGIE | s_inspire_de | virtualisation des mainframes IBM des années 60 | CONCEPT | 0.88 | STATIQUE | déclaré_article |
 
 ### Entités

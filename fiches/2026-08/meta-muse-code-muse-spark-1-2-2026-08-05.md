@@ -127,7 +127,7 @@ L'annonce vaut donc surtout comme **confirmation empirique** d'une thèse déjà
 | journal d'événements local | CONCEPT | permet | de reprendre exactement où l'agent s'est arrêté après un plantage | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | agents d'arrière-plan persistants | CONCEPT | s_oppose_à | les sous-agents créés puis détruits pour chaque tâche | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
 | agents d'arrière-plan persistants | CONCEPT | réduit | la collecte d'information redondante et le besoin de pilotage | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
-| Muse Code | TECHNOLOGIE | utilise | une skill de mise à l'épreuve du plan avant implémentation | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
+| Muse Code | TECHNOLOGIE | utilise | mise à l'épreuve du plan | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
 | Muse Spark 1.1 | TECHNOLOGIE | permet | de générer les environnements et de noter les solutions ayant servi à entraîner Muse Spark 1.2 | AFFIRMATION | 0.9 | STATIQUE | déclaré_article |
 | Opus 5 | TECHNOLOGIE | surpasse | Muse Spark 1.2 | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Muse Spark 1.2 | TECHNOLOGIE | mesure | 82,9 % sur Terminal-Bench 2.1 contre 86,7 % pour Opus 5 avec Claude Code | MESURE | 0.93 | STATIQUE | déclaré_article |

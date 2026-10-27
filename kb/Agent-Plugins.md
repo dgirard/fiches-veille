@@ -38,7 +38,7 @@
   - [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 - [[kb/Model-Context-Protocol\|Model Context Protocol]] (TECHNOLOGIE) — 0.96, ATEMPOREL
   - [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
-- « un répertoire à emplacements fixes plutôt qu'un manifeste expressif : plugin.json ne peut ni relocaliser ni déclarer les composants en ligne » (AFFIRMATION) — 0.95, ATEMPOREL
+- plugin.json (TECHNOLOGIE) — 0.95, ATEMPOREL
   - [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 
 ## Relations (comme objet)

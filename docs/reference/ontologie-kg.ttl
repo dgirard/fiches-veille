@@ -1,0 +1,115 @@
+# Ontologie du GrapheDeConnaissance — version formelle (OWL 2, Turtle)
+#
+# Traduction de docs/reference/ontologie-kg.md (qui reste la référence) :
+# 8 types d'entités + 3 types épistémiques, 30 prédicats par famille avec
+# domaine/portée, équivalences ATransverse v5, arbitrage du 2026-10-27 sur les
+# objets épistémiques et le sujet de `dirige`.
+#
+# Portée (rdfs:range) : v:Entite = prédicat interdit aux objets épistémiques ;
+# v:Noeud = objet épistémique admis ou toléré.
+# Données : python3 scripts/export_rdf.py (→ gold/rdf/corpus.ttl).
+# Les IRI en .example sont des espaces de noms locaux, non résolubles.
+
+@prefix v: <https://veille.example/onto#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix at: <https://atransverse.example/v5#> .
+
+v: a owl:Ontology ; rdfs:label "Ontologie du GrapheDeConnaissance (veille)"@fr .
+
+v:Noeud a owl:Class ; rdfs:label "Nœud du graphe"@fr ; rdfs:comment "Tout sujet ou objet de triple."@fr .
+v:Entite a owl:Class ; rdfs:subClassOf v:Noeud ; rdfs:label "Entité"@fr ; rdfs:comment "Peut figurer dans la table Entités et être sujet."@fr .
+v:ObjetEpistemique a owl:Class ; rdfs:subClassOf v:Noeud ; rdfs:label "Objet épistémique"@fr ; rdfs:comment "Proposition, chiffre ou verbatim : jamais sujet, jamais dans la table Entités."@fr .
+v:Entite owl:disjointWith v:ObjetEpistemique .
+
+v:Personne a owl:Class ; rdfs:subClassOf v:Entite ; rdfs:label "PERSONNE" ; rdfs:comment "Individu nommé"@fr .
+v:Organisation a owl:Class ; rdfs:subClassOf v:Entite ; rdfs:label "ORGANISATION" ; rdfs:comment "Entreprise, labo, institution"@fr .
+v:Technologie a owl:Class ; rdfs:subClassOf v:Entite ; rdfs:label "TECHNOLOGIE" ; rdfs:comment "Outil, framework, plateforme, langage, produit"@fr .
+v:Concept a owl:Class ; rdfs:subClassOf v:Entite ; rdfs:label "CONCEPT" ; rdfs:comment "Idée, principe, pattern"@fr .
+v:Methodologie a owl:Class ; rdfs:subClassOf v:Entite ; rdfs:label "METHODOLOGIE" ; rdfs:comment "Pratique actionnable avec des étapes"@fr .
+v:Evenement a owl:Class ; rdfs:subClassOf v:Entite ; rdfs:label "EVENEMENT" ; rdfs:comment "Publication, annonce, incident"@fr .
+v:Lieu a owl:Class ; rdfs:subClassOf v:Entite ; rdfs:label "LIEU" ; rdfs:comment "Localisation géographique (usage gelé)"@fr .
+v:Document a owl:Class ; rdfs:subClassOf v:Entite ; rdfs:label "DOCUMENT" ; rdfs:comment "Rapport, livre, étude citée comme objet"@fr .
+v:Affirmation a owl:Class ; rdfs:subClassOf v:ObjetEpistemique ; rdfs:label "AFFIRMATION" ; rdfs:comment "Proposition affirmée par une source"@fr .
+v:Mesure a owl:Class ; rdfs:subClassOf v:ObjetEpistemique ; rdfs:label "MESURE" ; rdfs:comment "Point de mesure chiffré, daté"@fr .
+v:Citation a owl:Class ; rdfs:subClassOf v:ObjetEpistemique ; rdfs:label "CITATION" ; rdfs:comment "Verbatim significatif"@fr .
+
+[] a owl:AllDisjointClasses ; owl:members ( v:Personne v:Organisation v:Technologie v:Concept v:Methodologie v:Evenement v:Lieu v:Document ) .
+[] a owl:AllDisjointClasses ; owl:members ( v:Affirmation v:Mesure v:Citation ) .
+
+v:famille_structurel a owl:ObjectProperty ; rdfs:label "Famille Structurels"@fr .
+v:famille_epistemique a owl:ObjectProperty ; rdfs:label "Famille Épistémiques"@fr .
+v:famille_operationnel a owl:ObjectProperty ; rdfs:label "Famille Opérationnels"@fr .
+v:famille_marche a owl:ObjectProperty ; rdfs:label "Famille Marché"@fr .
+v:famille_personnes a owl:ObjectProperty ; rdfs:label "Famille Personnes"@fr .
+
+v:fait_partie_de a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_structurel ; rdfs:label "fait_partie_de" ; rdfs:domain v:Entite ; rdfs:range v:Entite ; owl:equivalentProperty at:partOf .
+v:est_instance_de a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_structurel ; rdfs:label "est_instance_de" ; rdfs:domain v:Entite ; rdfs:range v:Entite ; owl:equivalentProperty at:instanceOf .
+v:est_variante_de a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_structurel ; rdfs:label "est_variante_de" ; rdfs:domain v:Entite ; rdfs:range v:Entite ; owl:equivalentProperty at:variantOf .
+v:remplace a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_structurel ; rdfs:label "remplace" ; rdfs:domain v:Entite ; rdfs:range v:Entite ; owl:equivalentProperty at:supersedes .
+v:publie a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_structurel ; rdfs:label "publie" ; rdfs:domain v:Entite ; rdfs:range v:Entite ; owl:equivalentProperty at:releases .
+v:affirme_que a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_epistemique ; rdfs:label "affirme_que" ; rdfs:domain v:Entite ; rdfs:range v:Noeud ; owl:equivalentProperty at:claims .
+v:soutient a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_epistemique ; rdfs:label "soutient" ; rdfs:domain v:Entite ; rdfs:range v:Noeud ; owl:equivalentProperty at:supports .
+v:s_oppose_a a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_epistemique ; rdfs:label "s_oppose_à" ; rdfs:domain v:Entite ; rdfs:range v:Noeud ; owl:equivalentProperty at:contradicts .
+v:affine a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_epistemique ; rdfs:label "affine" ; rdfs:domain v:Entite ; rdfs:range v:Noeud ; owl:equivalentProperty at:refines .
+v:predit a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_epistemique ; rdfs:label "prédit" ; rdfs:domain v:Entite ; rdfs:range v:Noeud ; owl:equivalentProperty at:predicts .
+v:mesure a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_epistemique ; rdfs:label "mesure" ; rdfs:domain v:Entite ; rdfs:range v:Noeud ; owl:equivalentProperty at:measures .
+v:est_base_sur a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_epistemique ; rdfs:label "est_basé_sur" ; rdfs:domain v:Entite ; rdfs:range v:Noeud ; owl:equivalentProperty at:derivedFrom .
+v:s_inspire_de a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_epistemique ; rdfs:label "s_inspire_de" ; rdfs:domain v:Entite ; rdfs:range v:Noeud ; owl:equivalentProperty at:informedBy .
+v:reference a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_epistemique ; rdfs:label "référence" ; rdfs:domain v:Entite ; rdfs:range v:Noeud ; owl:equivalentProperty at:referencesExternal .
+v:utilise a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_operationnel ; rdfs:label "utilise" ; rdfs:domain v:Entite ; rdfs:range v:Entite ; owl:equivalentProperty at:uses .
+v:permet a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_operationnel ; rdfs:label "permet" ; rdfs:domain v:Entite ; rdfs:range v:Noeud ; owl:equivalentProperty at:enables .
+v:ameliore a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_operationnel ; rdfs:label "améliore" ; rdfs:domain v:Entite ; rdfs:range v:Noeud ; owl:equivalentProperty at:improves .
+v:reduit a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_operationnel ; rdfs:label "réduit" ; rdfs:domain v:Entite ; rdfs:range v:Noeud ; owl:equivalentProperty at:reduces .
+v:resout a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_operationnel ; rdfs:label "résout" ; rdfs:domain v:Entite ; rdfs:range v:Noeud ; owl:equivalentProperty at:solves .
+v:s_applique_a a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_operationnel ; rdfs:label "s_applique_à" ; rdfs:domain v:Entite ; rdfs:range v:Noeud ; owl:equivalentProperty at:appliesTo .
+v:observe_dans a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_operationnel ; rdfs:label "observé_dans" ; rdfs:domain v:Entite ; rdfs:range v:Noeud ; owl:equivalentProperty at:observedIn .
+v:recommande a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_operationnel ; rdfs:label "recommande" ; rdfs:domain v:Entite ; rdfs:range v:Noeud ; owl:equivalentProperty at:recommends .
+v:concurrence a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_marche ; rdfs:label "concurrence" ; rdfs:domain v:Entite ; rdfs:range v:Entite ; owl:equivalentProperty at:competesWith .
+v:surpasse a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_marche ; rdfs:label "surpasse" ; rdfs:domain v:Entite ; rdfs:range v:Noeud ; owl:equivalentProperty at:outperforms .
+v:converge_avec a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_marche ; rdfs:label "converge_avec" ; rdfs:domain v:Entite ; rdfs:range v:Noeud ; owl:equivalentProperty at:convergesWith .
+v:collabore_avec a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_marche ; rdfs:label "collabore_avec" ; rdfs:domain v:Entite ; rdfs:range v:Entite ; owl:equivalentProperty at:partneredWith .
+v:a_cree a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_marche ; rdfs:label "a_créé" ; rdfs:domain v:Entite ; rdfs:range v:Entite ; owl:equivalentProperty at:created .
+v:travaille_chez a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_personnes ; rdfs:label "travaille_chez" ; rdfs:domain v:Entite ; rdfs:range v:Entite .
+v:dirige a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_personnes ; rdfs:label "dirige" ; rdfs:domain v:Entite ; rdfs:range v:Entite .
+v:emploie a owl:ObjectProperty ; rdfs:subPropertyOf v:famille_personnes ; rdfs:label "emploie" ; rdfs:domain v:Entite ; rdfs:range v:Entite .
+
+v:travaille_chez rdfs:domain v:Personne ; rdfs:range v:Organisation .
+v:PersonneOuOrganisation a owl:Class ; owl:unionOf ( v:Personne v:Organisation ) .
+v:dirige rdfs:domain v:PersonneOuOrganisation .
+v:emploie rdfs:domain v:Organisation ; rdfs:range v:Personne .
+v:emploie owl:inverseOf v:travaille_chez .
+
+# disjonctions deux à deux (le profil owl-rl ignore owl:AllDisjointClasses)
+v:Personne owl:disjointWith v:Organisation .
+v:Personne owl:disjointWith v:Technologie .
+v:Personne owl:disjointWith v:Concept .
+v:Personne owl:disjointWith v:Methodologie .
+v:Personne owl:disjointWith v:Evenement .
+v:Personne owl:disjointWith v:Lieu .
+v:Personne owl:disjointWith v:Document .
+v:Organisation owl:disjointWith v:Technologie .
+v:Organisation owl:disjointWith v:Concept .
+v:Organisation owl:disjointWith v:Methodologie .
+v:Organisation owl:disjointWith v:Evenement .
+v:Organisation owl:disjointWith v:Lieu .
+v:Organisation owl:disjointWith v:Document .
+v:Technologie owl:disjointWith v:Concept .
+v:Technologie owl:disjointWith v:Methodologie .
+v:Technologie owl:disjointWith v:Evenement .
+v:Technologie owl:disjointWith v:Lieu .
+v:Technologie owl:disjointWith v:Document .
+v:Concept owl:disjointWith v:Methodologie .
+v:Concept owl:disjointWith v:Evenement .
+v:Concept owl:disjointWith v:Lieu .
+v:Concept owl:disjointWith v:Document .
+v:Methodologie owl:disjointWith v:Evenement .
+v:Methodologie owl:disjointWith v:Lieu .
+v:Methodologie owl:disjointWith v:Document .
+v:Evenement owl:disjointWith v:Lieu .
+v:Evenement owl:disjointWith v:Document .
+v:Lieu owl:disjointWith v:Document .
+v:Affirmation owl:disjointWith v:Mesure .
+v:Affirmation owl:disjointWith v:Citation .
+v:Mesure owl:disjointWith v:Citation .

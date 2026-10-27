@@ -8,11 +8,6 @@
 
 ## Relations (comme sujet)
 
-### dirige
-
-- pipeline For You feed (orchestration) (METHODOLOGIE) — 0.99, STATIQUE
-  - [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
-
 ### fait_partie_de
 
 - [[kb/x-algorithm\|x-algorithm]] (TECHNOLOGIE) — 0.99, STATIQUE
@@ -20,6 +15,8 @@
 
 ### permet
 
+- pipeline For You feed (orchestration) (METHODOLOGIE) — 0.99, STATIQUE
+  - [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
 - brand-safety tracking (METHODOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
 

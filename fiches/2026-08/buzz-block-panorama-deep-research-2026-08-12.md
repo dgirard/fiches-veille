@@ -150,13 +150,17 @@ Rapport de recherche interne du **12 août 2026** consolidant l'état public de 
 | Buzz | TECHNOLOGIE | permet | une souveraineté organisationnelle par auto-hébergement et identité portable, et non une redondance réseau | AFFIRMATION | 0.94 | ATEMPOREL | inféré |
 | relais unique | CONCEPT | s_oppose_à | la disponibilité du workspace, dont il constitue le point de défaillance unique | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
 | Buzz | TECHNOLOGIE | utilise | Nostr | TECHNOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
-| Buzz | TECHNOLOGIE | utilise | un relais écrit en Rust avec Postgres pour les événements et la recherche, Redis pour la présence et le pub/sub, et un stockage objet S3 ou MinIO pour les médias | AFFIRMATION | 0.94 | DYNAMIQUE | déclaré_article |
+| Buzz | TECHNOLOGIE | utilise | Rust | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
+| Buzz | TECHNOLOGIE | utilise | PostgreSQL | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
+| Buzz | TECHNOLOGIE | utilise | Redis | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
+| Buzz | TECHNOLOGIE | utilise | S3 | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
+| Buzz | TECHNOLOGIE | utilise | MinIO | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
 | Block | ORGANISATION | utilise | TLA+ | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
 | Block | ORGANISATION | utilise | Tamarin | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
 | Tamarin | TECHNOLOGIE | permet | de vérifier les propriétés d'autorisation de Buzz, ce qui est inhabituel pour un logiciel encore en version 0.5.x | AFFIRMATION | 0.9 | STATIQUE | déclaré_article |
 | Buzz | TECHNOLOGIE | s_oppose_à | l'autorisation fine par outil : l'appartenance au canal reste l'unité de permission, un agent dans un canal pouvant faire ce que font les membres | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
 | João Queirós | PERSONNE | affirme_que | l'appartenance à un canal n'est pas une autorisation fine par outil | CITATION | 0.94 | ATEMPOREL | déclaré_article |
-| Buzz | TECHNOLOGIE | utilise | un lancement en --dangerously-skip-permissions, hors bac à sable, sur la machine d'un humain | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Buzz | TECHNOLOGIE | utilise | mode --dangerously-skip-permissions | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | Block | ORGANISATION | affirme_que | l'agent peut tout faire, et la sécurité repose entièrement sur la restriction de qui peut lui donner des instructions | CITATION | 0.94 | ATEMPOREL | déclaré_article |
 | Buzz | TECHNOLOGIE | s_oppose_à | l'observabilité de l'activité des agents : le workspace signale qu'un agent a reçu un message mais pas ce qu'il en fait, des agents ayant subi des kills OOM silencieux | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
 | journal d'audit signé | CONCEPT | permet | de prouver qui a fait quoi, sans empêcher un opérateur de relais compromis de supprimer des événements | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |

@@ -134,7 +134,7 @@ OpenAI mesure l'usage de son propre produit, sur ses seuls utilisateurs américa
 | OpenAI Economic Research | ORGANISATION | publie | Work at the Frontier | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | Work at the Frontier | DOCUMENT | mesure | 16,8 % des messages liés au travail et 43,5 % des messages métier-spécifiques portent sur une tâche d'un autre métier | MESURE | 0.97 | STATIQUE | déclaré_article |
 | Work at the Frontier | DOCUMENT | mesure | 61,5 % de l'usage professionnel est générique et écarté du calcul du crossover | MESURE | 0.95 | STATIQUE | déclaré_article |
-| task crossover | CONCEPT | est_instance_de | l'apparition, dans l'usage IA d'un métier, de travail historiquement associé à un autre | CITATION | 0.97 | ATEMPOREL | déclaré_article |
+| task crossover | CONCEPT | est_instance_de | signal avancé d'usage | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | OpenAI Economic Research | ORGANISATION | s_oppose_à | les études qui partent d'une liste figée de tâches par métier pour tester la substituabilité du modèle | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
 | Work at the Frontier | DOCUMENT | mesure | part hors métier par fonction : expérience client 77 %, design 75 %, RH 69 %, juridique 56 %, marketing 53 %, vente 40 %, finance 40 %, ingénierie 28 % | MESURE | 0.96 | STATIQUE | déclaré_article |
 | Work at the Frontier | DOCUMENT | mesure | le design importe 35,2 % de tâches extérieures et n'en exporte que 1,7 % | MESURE | 0.95 | STATIQUE | déclaré_article |

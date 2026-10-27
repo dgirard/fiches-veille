@@ -147,7 +147,8 @@ Post X d'**Andrew Ng** du **14 août 2026**, repris de la lettre « Dear friends
 | compétences d'AI engineering | CONCEPT | fait_partie_de | AI Engineering Skills Map | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
 | construction et déploiement d'applications IA | CONCEPT | fait_partie_de | AI Engineering Skills Map | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
 | construction et déploiement d'applications IA | CONCEPT | affirme_que | la différence clé entre une application IA et une application classique est l'imprévisibilité de ses sorties, d'où le recours à des techniques statistiques pour mesurer, piloter et gouverner le système | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
-| construction et déploiement d'applications IA | CONCEPT | utilise | des boucles d'évaluations et d'analyse d'erreurs disciplinées, présentées comme la compétence centrale pour rendre un système IA plus prévisible | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
+| construction et déploiement d'applications IA | CONCEPT | utilise | évaluations (evals) | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
+| construction et déploiement d'applications IA | CONCEPT | utilise | analyse d'erreurs | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
 | fondamentaux du génie logiciel | CONCEPT | fait_partie_de | AI Engineering Skills Map | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
 | fondamentaux du génie logiciel | CONCEPT | permet | de reconnaître quels arbitrages existent entre coût, scalabilité, fiabilité, vitesse, sécurité et vie privée, et donc de mieux choisir sa stack, son architecture, son magasin de données et ses tests | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | fondamentaux du génie logiciel | CONCEPT | permet | de piloter un agent de codage dans le langage précis du génie logiciel | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
@@ -157,7 +158,8 @@ Post X d'**Andrew Ng** du **14 août 2026**, repris de la lettre « Dear friends
 | utilisation des agents de codage | CONCEPT | recommande | de tenir des routines d'essai de nouveaux outils et de faire évoluer ses workflows, la pratique du codage agentique changeant trop vite pour que la connaissance des pratiques de pointe suffise | AFFIRMATION | 0.94 | DYNAMIQUE | déclaré_article |
 | façonner la construction | CONCEPT | fait_partie_de | AI Engineering Skills Map | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
 | façonner la construction | CONCEPT | affirme_que | les agents livrant de mieux en mieux un spec clair, le travail de l'ingénieur se déplace vers la décision de ce que le spec doit contenir, et un ingénieur ne doit plus s'attendre à recevoir un design pixel-perfect à seulement implémenter | CITATION | 0.95 | DYNAMIQUE | déclaré_article |
-| façonner la construction | CONCEPT | utilise | le sens produit, la compréhension du contexte métier et des objectifs client, ainsi que la conduite de projet — savoir quand livrer vite un MVP à tester auprès d'utilisateurs et quand ralentir pour construire plus soigneusement | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
+| façonner la construction | CONCEPT | utilise | sens produit | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| façonner la construction | CONCEPT | utilise | conduite de projet | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
 | façonner la construction | CONCEPT | converge_avec | le rôle partiel de product management que Ng attribuait déjà aux ingénieurs dans sa lettre sur les trois boucles du développement produit | AFFIRMATION | 0.9 | DYNAMIQUE | inféré |
 | apprentissage continu | CONCEPT | fait_partie_de | AI Engineering Skills Map | DOCUMENT | 0.93 | ATEMPOREL | déclaré_article |
 | apprentissage continu | CONCEPT | s_applique_à | les quatre compétences comme socle commun, l'IA continuant de changer vite | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |

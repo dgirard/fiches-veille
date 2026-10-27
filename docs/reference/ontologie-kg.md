@@ -5,6 +5,11 @@
 > Le gate Bronze (`scripts/lint_fiches.py`) valide mécaniquement le registre
 > fermé des prédicats et les vocabulaires de types ; cette référence porte la
 > sémantique (désambiguïsation, exemples) que le lint ne peut pas vérifier.
+>
+> **Version formelle** : [`ontologie-kg.ttl`](ontologie-kg.ttl) (OWL 2) traduit
+> les types, domaines et portées ci-dessous ; `scripts/export_rdf.py` exporte les
+> triples du corpus pour une vérification par raisonneur (open-ontologies,
+> externe). Toute modification d'une règle ici se reporte dans le `.ttl`.
 
 ## Section GrapheDeConnaissance — Format détaillé
 
@@ -64,6 +69,16 @@ Quand l'objet d'un triple épistémique (`affirme_que`, `prédit`, `mesure`, `re
 
 **Règles** : ces objets n'apparaissent **jamais** dans la table `### Entités` (ce ne sont pas des entités) et ne sont jamais sujets d'un triple. Si l'objet correspond à une entité existante du graphe, utiliser l'entité.
 
+**Quels prédicats acceptent un objet épistémique** (arbitrage du 2026-10-27, après
+vérification formelle du corpus par un raisonneur OWL) :
+
+| Prédicats | Objet AFFIRMATION / MESURE / CITATION |
+|-----------|---------------------------------------|
+| Les **9 épistémiques** (`affirme_que`, `soutient`, `s_oppose_à`, `affine`, `prédit`, `mesure`, `est_basé_sur`, `s_inspire_de`, `référence`) + `recommande` | **Admis** : on soutient, conteste ou fonde une proposition. |
+| `améliore`, `réduit`, `surpasse` | **MESURE admise** (effet chiffré : « Bun améliore le démarrage de ~10 % »). |
+| Autres opérationnels (`permet`, `s_applique_à`, `observé_dans`, `résout`, `utilise` excepté) et `converge_avec` | **Toléré**, à éviter dans une fiche nouvelle : une phrase en objet est un cul-de-sac dans le graphe. Préférer une entité courte (« résout → `incompatibilité agents / paiement` »). |
+| **Structurels, marché, personnes et `utilise`** (`fait_partie_de`, `est_instance_de`, `est_variante_de`, `remplace`, `publie`, `concurrence`, `collabore_avec`, `a_créé`, `travaille_chez`, `dirige`, `emploie`, `utilise`) | **Interdit** : ces prédicats relient des choses nommées. Une phrase y masque des entités (« Buzz utilise *un relais en Rust avec Postgres…* » → `Rust`, `PostgreSQL`). Découper en plusieurs triples si besoin. |
+
 ### Règles de désambiguïsation des types
 
 - **ORGANISATION vs TECHNOLOGIE** (entreprises-produits : Cursor, Replit, Perplexity, GitHub, Manus…) : typer selon le **rôle dans la relation** — qui agit (lève des fonds, annonce, recrute) = ORGANISATION ; ce qui est utilisé/intégré/comparé = TECHNOLOGIE.
@@ -106,6 +121,12 @@ Quand l'objet d'un triple épistémique (`affirme_que`, `prédit`, `mesure`, `re
 | **Opérationnels** (8) | `utilise`, `permet`, `améliore`, `réduit`, `résout`, `s_applique_à`, `observé_dans`, `recommande` | uses, enables, improves, reduces, solves, appliesTo, observedIn, recommends |
 | **Marché** (5) | `concurrence`, `surpasse`, `converge_avec`, `collabore_avec`, `a_créé` | competesWith, outperforms, convergesWith, partneredWith, created |
 | **Personnes** (3) | `travaille_chez`, `dirige`, `emploie` | (spécifique veille — PERSONNE conservé) |
+
+**Sujets et objets des prédicats « Personnes »** : `travaille_chez` va d'une
+PERSONNE vers une ORGANISATION ; `emploie` d'une ORGANISATION vers une PERSONNE ;
+`dirige` a pour sujet une PERSONNE **ou une ORGANISATION** (un conseil, un comité
+dirige une organisation). Une technologie qui orchestre n'est pas un sujet de
+`dirige` (→ `permet`), un principe non plus (→ `recommande` porté par la source).
 
 **Table de normalisation des prédicats hérités** (anciens → canoniques) :
 

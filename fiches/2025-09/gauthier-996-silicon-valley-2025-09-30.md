@@ -70,7 +70,8 @@ L'article n'élude pas le revers. Adrian Kinnersley, dirigeant d'une société d
 | Emily Yuan | PERSONNE | dirige | Corgi | ORGANISATION | 0.9 | DYNAMIQUE | déclaré_article |
 | Emily Yuan | PERSONNE | affirme_que | "Pourquoi irais-je boire un verre dans un bar si je peux créer une entreprise ?" | CITATION | 0.9 | STATIQUE | déclaré_article |
 | Rilla | ORGANISATION | affirme_que | presque l'ensemble de ses 80 employés adhèrent au 996 | AFFIRMATION | 0.85 | DYNAMIQUE | déclaré_article |
-| Fella & Delilah | ORGANISATION | utilise | hausse de salaire de 25 % pour faire adopter le 996 | AFFIRMATION | 0.85 | STATIQUE | déclaré_article |
+| Fella & Delilah | ORGANISATION | utilise | 996 | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| Fella & Delilah | ORGANISATION | mesure | hausse de salaire de 25 % pour faire adopter le 996 | MESURE | 0.85 | STATIQUE | déclaré_article |
 | San Francisco Standard | ORGANISATION | affirme_que | le 996 est le grand sujet de conversation du moment dans la tech | AFFIRMATION | 0.9 | DYNAMIQUE | déclaré_article |
 | Adrian Kinnersley | PERSONNE | affirme_que | de nombreuses entreprises appliquant le 996 sont totalement non conformes aux lois américaines du travail | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
 | Cour suprême chinoise | ORGANISATION | affirme_que | contraindre les travailleurs au 996 sans compensation est illégal | AFFIRMATION | 0.9 | STATIQUE | déclaré_article |

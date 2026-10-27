@@ -90,7 +90,7 @@
   - [[fiches/2026-01/rauch-coding-agents-cli-abstraction-2026-01-02\|The fundamental coding agent abstraction is the CLI]]
 - mode conducteur (METHODOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2025-11/osmani-conductors-orchestrators-agentic-coding-2025-11-01\|Conductors to Orchestrators: The Future of Agentic Coding]]
-- « harnais d'évaluation agentique de référence, utilisé en version 2.1.207 par un laboratoire concurrent pour mesurer son propre modèle et ceux d'Anthropic et d'OpenAI » (AFFIRMATION) — 0.89, DYNAMIQUE
+- harnais d'évaluation agentique (CONCEPT) — 0.89, DYNAMIQUE
   - [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
 - catalyseur de la transformation de l'ingénierie (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|The AI-native interview]]

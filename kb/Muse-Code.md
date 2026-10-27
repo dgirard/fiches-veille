@@ -17,7 +17,7 @@
 
 - [[kb/Muse-Spark-1.2\|Muse Spark 1.2]] (TECHNOLOGIE) — 0.96, DYNAMIQUE
   - [[fiches/2026-08/meta-muse-code-muse-spark-1-2-2026-08-05\|Introducing Muse Code and Muse Spark 1.2]]
-- « une skill de mise à l'épreuve du plan avant implémentation » (AFFIRMATION) — 0.93, ATEMPOREL
+- mise à l'épreuve du plan (METHODOLOGIE) — 0.93, ATEMPOREL
   - [[fiches/2026-08/meta-muse-code-muse-spark-1-2-2026-08-05\|Introducing Muse Code and Muse Spark 1.2]]
 
 ## Relations (comme objet)

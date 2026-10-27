@@ -146,7 +146,7 @@ Mozilla milite pour ce qu'elle mesure. Les légendes sont scrupuleuses et la *wa
 | Mozilla | ORGANISATION | publie | The state of open source AI | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | Raffi Krikorian | PERSONNE | travaille_chez | Mozilla | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 | Mozilla | ORGANISATION | affirme_que | la couche modèle s'est commoditisée et la valeur remonte vers le harnais agentique | CITATION | 0.96 | DYNAMIQUE | déclaré_article |
-| harnais agentique | CONCEPT | est_instance_de | un user agent, au sens où le navigateur l'était pour le web ouvert | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| harnais agentique | CONCEPT | est_instance_de | user agent | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | harnais ajusté aux poids d'un laboratoire | CONCEPT | réduit | l'interchangeabilité des poids sous-jacents — le verrouillage arrive comme effet de bord de l'optimisation | CITATION | 0.95 | DYNAMIQUE | déclaré_article |
 | Kimi K3 | TECHNOLOGIE | mesure | 57 sur l'Artificial Analysis Intelligence Index v4.1, contre 61 pour le meilleur modèle fermé | MESURE | 0.93 | STATIQUE | déclaré_article |
 | Kimi K3 | TECHNOLOGIE | concurrence | Claude Opus 5 | TECHNOLOGIE | 0.9 | DYNAMIQUE | déclaré_article |
@@ -157,12 +157,12 @@ Mozilla milite pour ce qu'elle mesure. Les légendes sont scrupuleuses et la *wa
 | poids ouverts | TECHNOLOGIE | permet | un droit de sortie, là où une API propriétaire reproduit le piège du verrouillage cloud | CITATION | 0.94 | ATEMPOREL | déclaré_article |
 | contrôle à l'export | CONCEPT | s_oppose_à | la disponibilité d'un modèle fermé, éteint dix-neuf jours pour tous ses utilisateurs | AFFIRMATION | 0.94 | STATIQUE | déclaré_article |
 | publication de poids | CONCEPT | s_oppose_à | la révocabilité d'un accès, une copie distribuée ne pouvant être retirée | CITATION | 0.95 | ATEMPOREL | déclaré_article |
-| permission et identité des agents | CONCEPT | est_instance_de | la surface d'écriture non résolue du stack agentique | CITATION | 0.93 | DYNAMIQUE | déclaré_article |
+| permission et identité des agents | CONCEPT | est_instance_de | surface d'écriture non résolue | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | Model Context Protocol | TECHNOLOGIE | mesure | 97 M de téléchargements SDK mensuels et plus de 10 000 serveurs actifs en un an | MESURE | 0.9 | DYNAMIQUE | déclaré_article |
 | gouvernance des agents | CONCEPT | s_oppose_à | le rythme d'adoption, seules ~21 % des entreprises déclarant une gouvernance mature | MESURE | 0.9 | DYNAMIQUE | déclaré_article |
 | prix de l'inférence | CONCEPT | réduit | d'un facteur 50 en 36 mois à performance de classe GPT-4 | MESURE | 0.9 | DYNAMIQUE | déclaré_article |
 | modèles fermés | TECHNOLOGIE | mesure | environ 80 % de l'usage et 96 % du revenu sur OpenRouter, à un coût par appel environ six fois supérieur à parité | MESURE | 0.88 | STATIQUE | déclaré_article |
-| entreprises | ORGANISATION | utilise | les poids ouverts chinois en auto-hébergement, tout en interdisant le service hébergé correspondant | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
+| entreprises | ORGANISATION | utilise | Modèles open chinois | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
 | Michael Kratsios | PERSONNE | affirme_que | Kimi K3 aurait été entraîné par extraction covert à grande échelle depuis Fable 5 | AFFIRMATION | 0.85 | DYNAMIQUE | déclaré_article |
 | Moonshot AI | ORGANISATION | s_oppose_à | l'allégation d'extraction covert, qu'elle dément | AFFIRMATION | 0.9 | DYNAMIQUE | déclaré_article |
 | Mozilla | ORGANISATION | affirme_que | aucun journal ni dossier forensique n'étaye l'allégation de distillation, que Moonshot dément | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |

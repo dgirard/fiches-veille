@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 161 relations | 53 fiches sources
+> **Type** : ORGANISATION | 158 relations | 53 fiches sources
 
 ## Attributs
 
@@ -208,6 +208,7 @@
   - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills are awesome, maybe a bigger deal than MCP]]
 - [[kb/Claude-Fable-5\|Claude Fable 5]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
+  - [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
 - post-mortem qualité Claude Code avril 2026 (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|An Update on Recent Claude Code Quality Reports]]
 - [[kb/_entites-mineures#post-mortem-technique-détaillé\|post-mortem technique détaillé]] (DOCUMENT) — 0.98, STATIQUE
@@ -224,6 +225,9 @@
   - [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 - [[kb/_entites-mineures#Model-Context-Protocol-(MCP)\|Model Context Protocol (MCP)]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
+- suspension du changement de facturation Agent SDK (EVENEMENT) — 0.97, STATIQUE
+  - [[fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14\|What Anthropic's New Claude Billing Means for Zed Users]]
+  - [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
 - [[kb/_entites-mineures#The-AI-Native-SDLC-playbook\|The AI-Native SDLC playbook]] (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
 - système de plugins Claude Code (TECHNOLOGIE) — 0.96, STATIQUE
@@ -234,14 +238,13 @@
   - [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
 - [[kb/Claude-Mythos-5\|Claude Mythos 5]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
+  - [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
+- [[kb/_entites-mineures#crédit-Agent-SDK\|crédit Agent SDK]] (CONCEPT) — 0.95, STATIQUE
+  - [[fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14\|What Anthropic's New Claude Billing Means for Zed Users]]
 - [[kb/_entites-mineures#Routines\|Routines]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
 - réinitialisation des limites d'utilisation de tous les abonnés (23 avril) (EVENEMENT) — 0.95, STATIQUE
   - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|An Update on Recent Claude Code Quality Reports]]
-- « une scission de la facturation de l'abonnement Claude en deux pools, first-party et SDK tiers » (AFFIRMATION) — 0.95, STATIQUE
-  - [[fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14\|What Anthropic's New Claude Billing Means for Zed Users]]
-- « Fable 5 et Mythos 5 le 9 juin 2026, avec garde-fous cybersécurité durcis » (AFFIRMATION) — 0.94, STATIQUE
-  - [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
 - étude junior engineers deskilling AI agents (DOCUMENT) — 0.94, STATIQUE
   - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
 - [[kb/_entites-mineures#Economic-Index\|Economic Index]] (DOCUMENT) — 0.93, DYNAMIQUE
@@ -275,15 +278,6 @@
   - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
 - standards industrie biais politique (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]]
-
-### remplace
-
-- « le changement de facturation de l'Agent SDK par une suspension, le jour même de son entrée en vigueur » (AFFIRMATION) — 0.97, STATIQUE
-  - [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
-- « le changement de facturation annoncé par une suspension, avec préavis promis avant toute évolution » (AFFIRMATION) — 0.95, STATIQUE
-  - [[fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14\|What Anthropic's New Claude Billing Means for Zed Users]]
-- « sabotage caché → permissioning visible (refus + fallback Opus 4.8) » (AFFIRMATION) — 0.85, STATIQUE
-  - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 
 ### résout
 

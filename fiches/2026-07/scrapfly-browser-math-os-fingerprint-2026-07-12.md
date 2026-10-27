@@ -110,9 +110,9 @@ L'éditeur déclare que ses billets sont **rédigés avec l'aide de l'IA**, les 
 | IEEE 754 | CONCEPT | s_applique_à | le stockage d'un double, sans exiger l'arrondi correct des fonctions transcendantes | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
 | libm de plateforme | TECHNOLOGIE | permet | d'identifier le système d'exploitation d'un navigateur par la différence d'arrondi d'une fonction transcendante | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
 | Math.tanh | TECHNOLOGIE | mesure | trois valeurs distinctes sur glibc, libsystem_m et UCRT pour l'entrée 0.8 | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
-| Chrome 148 | TECHNOLOGIE | remplace | le calcul embarqué de tanh par un appel à la libm hôte, introduisant la fuite | AFFIRMATION | 0.94 | STATIQUE | déclaré_article |
+| Chrome 148 | TECHNOLOGIE | utilise | libm de plateforme | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
 | fonctions trigonométriques CSS | TECHNOLOGIE | s_oppose_à | les fonctions Math de JavaScript, dont elles ne partagent pas le chemin de code | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
-| Web Audio | TECHNOLOGIE | utilise | trois bibliothèques mathématiques distinctes dans un même graphe audio sur macOS | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
+| Web Audio | TECHNOLOGIE | utilise | libm de plateforme | TECHNOLOGIE | 0.9 | ATEMPOREL | déclaré_article |
 | Accelerate | TECHNOLOGIE | s_oppose_à | libsystem_m scalaire, les deux divergeant sur 10 à 89 % des entrées selon la fonction | MESURE | 0.92 | ATEMPOREL | déclaré_article |
 | spoofing partiel d'une empreinte | CONCEPT | s_oppose_à | la cohérence de l'empreinte, l'asymétrie créée étant elle-même vérifiable | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
 | ajout de bruit | CONCEPT | s_oppose_à | la dissimulation d'une empreinte, en produisant une valeur ne correspondant à aucun système réel | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |

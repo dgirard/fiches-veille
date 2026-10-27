@@ -39,7 +39,7 @@
 
 - [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
-- « DuckDB en interne pour des tableaux de bord, de l'outillage CLI, des accélérateurs côté serveur et des ponts entre systèmes » (AFFIRMATION) — 0.89, DYNAMIQUE
+- [[kb/DuckDB\|DuckDB]] (TECHNOLOGIE) — 0.89, DYNAMIQUE
   - [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
 
 ## Relations (comme objet)

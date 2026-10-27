@@ -1,6 +1,6 @@
 # graphify
 
-> **Type** : METHODOLOGIE | 14 relations | 2 fiches sources
+> **Type** : METHODOLOGIE | 15 relations | 2 fiches sources
 
 ## Attributs
 
@@ -55,6 +55,7 @@
 - [[kb/_entites-mineures#Safi-Shamsi\|Safi Shamsi]] **a_créé** → graphify — 0.97
 - [[kb/graphify.net\|graphify.net]] **référence** → graphify — 0.96
 - [[kb/_entites-mineures#Graphify-Labs\|Graphify Labs]] **publie** → graphify — 0.95
+- commentaires d'intention **fait_partie_de** → graphify — 0.92
 
 ## Fiches sources
 

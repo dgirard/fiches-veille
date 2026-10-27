@@ -1,6 +1,6 @@
 # BMAD
 
-> **Type** : METHODOLOGIE | 11 relations | 2 fiches sources
+> **Type** : METHODOLOGIE | 12 relations | 2 fiches sources
 
 ## Attributs
 
@@ -23,6 +23,11 @@
 ### est_variante_de
 
 - Breakthrough Method for Agile AI-Driven Development (METHODOLOGIE) — 0.99, STATIQUE
+  - [[fiches/2026-02/martin-bmad-method-urbanisme-ia-agentique-sdlc-2026-02-04\|BMAD-Method : le plan d'urbanisme qui apprivoise l'IA agentique dans votre SDLC]]
+
+### recommande
+
+- « l'humain reste architecte en chef et dirige les agents IA » (AFFIRMATION) — 0.93, ATEMPOREL
   - [[fiches/2026-02/martin-bmad-method-urbanisme-ia-agentique-sdlc-2026-02-04\|BMAD-Method : le plan d'urbanisme qui apprivoise l'IA agentique dans votre SDLC]]
 
 ### résout

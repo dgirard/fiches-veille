@@ -129,7 +129,7 @@ Annonce publiée sur le blog **Cloudflare** le **4 août 2026** par **Will Pappe
 | Monetization Gateway | TECHNOLOGIE | permet | à un vendeur d'être payé sans infrastructure de paiement traditionnelle | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
 | Cloudflare Wallets | TECHNOLOGIE | converge_avec | Monetization Gateway | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | Cloudflare | ORGANISATION | affirme_que | l'ensemble portefeuille, passerelle de monétisation et identité formera un marché headless pour Internet | CITATION | 0.93 | DYNAMIQUE | déclaré_article |
-| agent non identifié | CONCEPT | est_instance_de | un accédant non intrinsèquement suspect, mais tenu de prouver davantage — par analogie avec un VPN | CITATION | 0.92 | ATEMPOREL | déclaré_article |
+| agent non identifié | CONCEPT | est_instance_de | accédant à vérification renforcée | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Cloudflare Wallets | TECHNOLOGIE | fait_partie_de | Agents SDK | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
 | Cloudflare | ORGANISATION | affirme_que | la majorité du trafic web est désormais produite par des bots | AFFIRMATION | 0.75 | DYNAMIQUE | déclaré_article |
 

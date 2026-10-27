@@ -65,7 +65,7 @@ Boris Cherny (**Head of Claude Code**) et Cat Wu (**Head of Product, Claude Code
 | goût produit | CONCEPT | améliore | valeur d'un profil à l'ère des agents de codage | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | Claude Code | TECHNOLOGIE | permet | livraison de produit de bout en bout par un seul contributeur | CONCEPT | 0.90 | DYNAMIQUE | inféré |
 | agents de codage IA | TECHNOLOGIE | réduit | coût de production du code (livrer devient bon marché) | AFFIRMATION | 0.90 | DYNAMIQUE | inféré |
-| jugement | CONCEPT | remplace | savoir construire comme compétence rare | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
+| jugement | CONCEPT | remplace | savoir construire | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | Omer K. | PERSONNE | affirme_que | le différenciateur devient le jugement et le goût produit, pas le code | AFFIRMATION | 0.90 | DYNAMIQUE | déclaré_article |
 | Rehan Nazir | PERSONNE | affirme_que | quand un PM valide une idée par un prototype le jour même, les organigrammes cessent d'importer | AFFIRMATION | 0.89 | DYNAMIQUE | déclaré_article |
 | Natasha Newbold | PERSONNE | affirme_que | les gens deviennent des architectes écrivant les specs qu'exécutent des équipes d'agents | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |

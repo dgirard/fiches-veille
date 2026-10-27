@@ -131,7 +131,7 @@
 - [[kb/ChatGPT-Agent\|ChatGPT Agent]] — catégorie: Agent autonome CLI/interface (2 occ., 1 fiches)
 - [[kb/_entites-mineures#ChatGPT-Apps-SDK\|ChatGPT Apps SDK]] — catégorie: SDK pour applications ChatGPT intégrées (1 occ., 1 fiches)
 - [[kb/ChatGPT-Atlas\|ChatGPT Atlas]] — catégorie: Navigateur web conversationnel IA (1 occ., 1 fiches)
-- [[kb/_entites-mineures#ChatGPT-Desktop\|ChatGPT Desktop]] — définition: Client de bureau d'OpenAI (macOS annoncé le 13 mai 2024, disponible le 25 juin) : raccourci global Option/Alt + Espace, companion window au premier plan, captures d'écran natives ; fusionné avec Codex le 9 juillet 2026 en une app à onglets Chat / Work / Codex, l'ancienne version devenant ChatGPT Classic (1 occ., 1 fiches)
+- [[kb/ChatGPT-Desktop\|ChatGPT Desktop]] — définition: Client de bureau d'OpenAI (macOS annoncé le 13 mai 2024, disponible le 25 juin) : raccourci global Option/Alt + Espace, companion window au premier plan, captures d'écran natives ; fusionné avec Codex le 9 juillet 2026 en une app à onglets Chat / Work / Codex, l'ancienne version devenant ChatGPT Classic (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ChatGPT-Enterprise\|ChatGPT Enterprise]] — catégorie: Plateforme GenAI entreprise (OpenAI) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ChatGPT-Instant-Checkout\|ChatGPT Instant Checkout]] — catégorie: Checkout agentique sans visite site marchand (2 occ., 1 fiches)
 - [[kb/_entites-mineures#ChatGPT-Work\|ChatGPT Work]] — catégorie: Offre décrite par l'auteur comme limitée à l'orchestration (1 occ., 1 fiches)

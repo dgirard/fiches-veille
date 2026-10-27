@@ -1,6 +1,6 @@
 # façonner la construction
 
-> **Type** : CONCEPT | 4 relations | 1 fiches sources
+> **Type** : CONCEPT | 5 relations | 1 fiches sources
 
 ## Attributs
 
@@ -25,7 +25,9 @@
 
 ### utilise
 
-- « le sens produit, la compréhension du contexte métier et des objectifs client, ainsi que la conduite de projet — savoir quand livrer vite un MVP à tester auprès d'utilisateurs et quand ralentir pour construire plus soigneusement » (AFFIRMATION) — 0.94, ATEMPOREL
+- conduite de projet (METHODOLOGIE) — 0.94, ATEMPOREL
+  - [[fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14\|The AI Engineering Skills Map]]
+- sens produit (CONCEPT) — 0.94, ATEMPOREL
   - [[fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14\|The AI Engineering Skills Map]]
 
 ## Fiches sources

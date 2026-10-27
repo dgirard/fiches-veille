@@ -105,13 +105,14 @@ Rapport de recherche interne du **12 août 2026**, au format **What ? — So Wha
 | Deep Research Veille Interne | ORGANISATION | s_oppose_à | la reprise des benchmarks chiffrés attribués à Alibaba Product Insights, Skywork, Cosmo Edge et Zenken AI sur ce sujet | AFFIRMATION | 0.94 | DYNAMIQUE | déclaré_article |
 | Skywork | ORGANISATION | mesure | son propre agent Windows, et non Claude Desktop contre la version web | AFFIRMATION | 0.88 | STATIQUE | déclaré_article |
 | ChatGPT Desktop | TECHNOLOGIE | permet | un raccourci global, une companion window au premier plan et des captures d'écran natives | AFFIRMATION | 0.94 | DYNAMIQUE | déclaré_article |
-| OpenAI | ORGANISATION | publie | la fusion de Codex et ChatGPT en une application desktop unifiée le 9 juillet 2026, l'ancienne app devenant ChatGPT Classic | AFFIRMATION | 0.9 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | publie | ChatGPT Desktop | TECHNOLOGIE | 0.9 | STATIQUE | déclaré_article |
+| ChatGPT Desktop | TECHNOLOGIE | utilise | Codex | TECHNOLOGIE | 0.9 | STATIQUE | déclaré_article |
 | Claude Desktop | TECHNOLOGIE | utilise | Desktop Extensions | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | Desktop Extensions | TECHNOLOGIE | permet | d'installer un serveur MCP local en cliquant un bouton | CITATION | 0.92 | DYNAMIQUE | déclaré_article |
 | Desktop Extensions | TECHNOLOGIE | utilise | Model Context Protocol | TECHNOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
 | Claude Desktop | TECHNOLOGIE | utilise | Cowork | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
 | Claude Desktop | TECHNOLOGIE | utilise | Computer Use | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
-| Computer Use | TECHNOLOGIE | utilise | les permissions système d'Accessibilité et d'enregistrement d'écran | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
+| Computer Use | TECHNOLOGIE | utilise | permissions système d'accessibilité | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Deep Research Veille Interne | ORGANISATION | affirme_que | l'application desktop n'est plus un client de chat mais un runtime d'agents avec accès à la machine | CITATION | 0.95 | DYNAMIQUE | déclaré_article |
 | frontière de confiance | CONCEPT | s_applique_à | l'arbitrage entre un client desktop qui obtient des permissions système et un navigateur gouvernable par SSO, DLP et CASB | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 | ChatGPT Desktop | TECHNOLOGIE | s_oppose_à | la gouvernance d'entreprise, en réunissant exécution de code, navigateur et connecteurs dans une frontière de confiance élargie | AFFIRMATION | 0.87 | DYNAMIQUE | déclaré_article |
@@ -122,7 +123,8 @@ Rapport de recherche interne du **12 août 2026**, au format **What ? — So Wha
 | Claude Desktop | TECHNOLOGIE | utilise | Electron | TECHNOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
 | Deep Research Veille Interne | ORGANISATION | affirme_que | l'avantage du desktop est une promesse d'implémentation et non une loi de la nature | CITATION | 0.94 | ATEMPOREL | déclaré_article |
 | Deep Research Veille Interne | ORGANISATION | recommande | de ne citer que les verbatims et dates confirmés, et de produire un mini-benchmark maison reproductible plutôt que de reprendre des chiffres invérifiables | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
-| navigateur IA | TECHNOLOGIE | concurrence | l'opposition entre application desktop et version web, comme troisième voie | AFFIRMATION | 0.82 | DYNAMIQUE | inféré |
+| navigateur IA | TECHNOLOGIE | concurrence | Claude Desktop | TECHNOLOGIE | 0.82 | DYNAMIQUE | inféré |
+| navigateur IA | TECHNOLOGIE | concurrence | ChatGPT Desktop | TECHNOLOGIE | 0.82 | DYNAMIQUE | inféré |
 
 ### Entités
 

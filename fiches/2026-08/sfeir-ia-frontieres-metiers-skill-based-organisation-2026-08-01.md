@@ -148,12 +148,13 @@ Dans ce point de vue publié sur sfeir.com le 1er août 2026, **SFEIR** fait con
 | OpenAI Economic Research | ORGANISATION | publie | Work at the Frontier | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
 | Ethan Mollick | PERSONNE | affirme_que | les frontières organisationnelles deviennent poreuses et les entreprises devront repenser la division du travail | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
 | Ethan Mollick | PERSONNE | affirme_que | correctement orchestrée, la recomposition du travail rapporte gros en satisfaction et en performance | AFFIRMATION | 0.9 | DYNAMIQUE | déclaré_article |
-| Skill Based Organisation | METHODOLOGIE | remplace | la fiche de poste comme unité d'organisation du travail | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Skill Based Organisation | METHODOLOGIE | remplace | fiche de poste | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | SFEIR | ORGANISATION | utilise | Skill Based Organisation | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Rosalie Zandona | PERSONNE | travaille_chez | SFEIR | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 | Rosalie Zandona | PERSONNE | dirige | Skill Based Organisation | METHODOLOGIE | 0.9 | DYNAMIQUE | déclaré_article |
 | Skill Based Organisation | METHODOLOGIE | permet | de rendre le task crossover visible, outillé et valorisé au lieu d'un bricolage informel | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
-| compétence opérationnelle | CONCEPT | remplace | l'identité statutaire par une identité opératoire | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
+| identité opératoire | CONCEPT | remplace | identité statutaire | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| compétence opérationnelle | CONCEPT | permet | identité opératoire | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | Deloitte | ORGANISATION | mesure | les organisations par compétences ont 98 % de chances supplémentaires d'être perçues comme d'excellents lieux de croissance | MESURE | 0.85 | STATIQUE | déclaré_article |
 | Procter & Gamble | ORGANISATION | observé_dans | The Cybernetic Teammate | DOCUMENT | 0.93 | STATIQUE | déclaré_article |
 

@@ -103,7 +103,7 @@ Documentation de **Notion as Code**, produit en **alpha fermée**, consultée le
 | table de correspondance resourceId vers enregistrement | CONCEPT | permet | de mettre à jour les enregistrements existants au lieu d'en créer de nouveaux | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | Notion as Code | TECHNOLOGIE | utilise | un SDK TypeScript | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Notion as Code | TECHNOLOGIE | s_applique_à | les agents de codage, désignés comme utilisateurs du SDK au même titre que les humains | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
-| Notion as Code | TECHNOLOGIE | utilise | des jetons d'accès personnels plutôt que des jetons de bot de l'API publique | AFFIRMATION | 0.94 | DYNAMIQUE | déclaré_article |
+| Notion as Code | TECHNOLOGIE | utilise | jetons d'accès personnels | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
 | endpoint infra_as_code | TECHNOLOGIE | s_oppose_à | le modèle une requête pour une entité, d'où une limite de débit abaissée à cinq requêtes par minute | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
 | Notion as Code | TECHNOLOGIE | réduit | le nombre d'appels d'API nécessaires pour construire des structures répétitives, grâce aux variables et aux boucles | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
 | description d'état typée | CONCEPT | surpasse | une séquence d'appels impératifs pour un agent, l'erreur devenant rejouable plutôt que cumulative | AFFIRMATION | 0.82 | ATEMPOREL | inféré |
