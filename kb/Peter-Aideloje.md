@@ -17,7 +17,7 @@
 
 - conception AI-first (METHODOLOGIE) — 0.88, DYNAMIQUE
   - [[fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15\|MCP remplace le navigateur : Voici comment les développeurs devraient se préparer]]
-- [[kb/MCP\|MCP]] (CONCEPT) — 0.87, STATIQUE
+- [[kb/MCP\|MCP]] (TECHNOLOGIE) — 0.87, STATIQUE
   - [[fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15\|MCP remplace le navigateur : Voici comment les développeurs devraient se préparer]]
 
 ## Fiches sources

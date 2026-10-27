@@ -78,7 +78,7 @@ Nadella conclut par un avertissement d'économie politique : un monde où quelqu
 | écosystème frontière | CONCEPT | s_oppose_à | captation de la valeur par quelques modèles | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | Satya Nadella | PERSONNE | prédit | l'économie politique ne tolérera pas que quelques modèles captent toute la valeur | AFFIRMATION | 0.86 | ATEMPOREL | déclaré_article |
 | ère de l'IA | CONCEPT | s_inspire_de | analogie de la première mondialisation et du hollowing out industriel | CONCEPT | 0.83 | ATEMPOREL | déclaré_article |
-| capital token | CONCEPT | est_basé_sur | boucle d'apprentissage | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| capital token | CONCEPT | est_basé_sur | boucle d'apprentissage | METHODOLOGIE | 0.88 | ATEMPOREL | inféré |
 
 ### Entités
 

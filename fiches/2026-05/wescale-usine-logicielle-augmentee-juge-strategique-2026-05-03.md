@@ -149,7 +149,7 @@ Quatre conseils structurants ferment le deck : (1) l'outillage ne suffit pas, la
 | Juge Stratégique | CONCEPT | remplace | rôle de producteur de code du développeur | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Manager d'Agents | CONCEPT | remplace | rôle de producteur de code du développeur | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Métriques DORA | CONCEPT | remplace | vélocité | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| Gouvernance injectée | METHODOLOGIE | est_instance_de | Usine Logicielle Augmentée | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Gouvernance injectée | METHODOLOGIE | est_instance_de | Usine Logicielle Augmentée | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
 | Gouvernance injectée | METHODOLOGIE | est_instance_de | barrière à l'entrée réelle | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | Wescale | ORGANISATION | recommande | dissocier principes (immuables) et implémentation (adaptable) | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
 | Manque d'injection de contexte | CONCEPT | permet | Drift | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |

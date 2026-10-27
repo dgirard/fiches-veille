@@ -83,7 +83,7 @@ L'article conclut que l'écosystème est encore très jeune mais prometteur, ave
 | window.openai | TECHNOLOGIE | permet | authentification gratuite | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | CORS | CONCEPT | s_oppose_à | développement ChatGPT Apps | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | MCP Inspector | TECHNOLOGIE | améliore | débogage MCP | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
-| Gadget | ORGANISATION | s_oppose_à | OpenAI | CONCEPT | 0.88 | STATIQUE | inféré |
+| Gadget | ORGANISATION | s_oppose_à | OpenAI | ORGANISATION | 0.88 | STATIQUE | inféré |
 
 ### Entités
 

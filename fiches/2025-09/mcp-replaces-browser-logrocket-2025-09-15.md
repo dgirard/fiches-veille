@@ -63,7 +63,7 @@ Pour se préparer, les développeurs doivent se familiariser avec le fonctionnem
 | MCP | TECHNOLOGIE | utilise | sécurité renforcée | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | MCP | TECHNOLOGIE | améliore | compréhension machine | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
 | Peter Aideloje | PERSONNE | publie | article MCP is replacing the browser | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
-| Peter Aideloje | PERSONNE | recommande | MCP | CONCEPT | 0.87 | STATIQUE | déclaré_article |
+| Peter Aideloje | PERSONNE | recommande | MCP | TECHNOLOGIE | 0.87 | STATIQUE | déclaré_article |
 
 ### Entités
 

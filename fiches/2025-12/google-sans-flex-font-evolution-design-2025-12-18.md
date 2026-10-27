@@ -69,7 +69,7 @@ L'article se conclut en qualifiant cette évolution de "masterclass en design pi
 | Google Sans Code | TECHNOLOGIE | remplace | Google Sans Code | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
 | Google | ORGANISATION | publie | Google Sans Flex | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Google Sans | TECHNOLOGIE | s_applique_à | 20+ systèmes d'écriture | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| design piloté par les besoins | METHODOLOGIE | s_applique_à | Google Sans | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| design piloté par les besoins | METHODOLOGIE | s_applique_à | Google Sans | TECHNOLOGIE | 0.88 | ATEMPOREL | inféré |
 
 ### Entités
 

@@ -89,7 +89,7 @@ Osman reconnaît la réalité des risques (CBRN, cyber, vol de poids) mais souti
 | Dario Amodei | PERSONNE | affirme_que | "I don't trust China at all" | CITATION | 0.9 | STATIQUE | déclaré_article |
 | Anthropic | ORGANISATION | affirme_que | campagnes de distillation industrielle par DeepSeek, Moonshot, MiniMax (fév. 2026) | AFFIRMATION | 0.85 | STATIQUE | déclaré_article |
 | IA open source | CONCEPT | permet | souveraineté opérationnelle et épistémique | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| IA locale | CONCEPT | réduit | Anthropic | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| IA locale | CONCEPT | réduit | Anthropic | ORGANISATION | 0.88 | ATEMPOREL | déclaré_article |
 | Claude's Constitution | DOCUMENT | affirme_que | "Anthropic a l'autorité finale sur le comportement de Claude" | AFFIRMATION | 0.88 | STATIQUE | déclaré_article |
 | Ahmad Osman | PERSONNE | recommande | financer des labs open frontier occidentaux et des stacks locaux | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
 | Anthropic | ORGANISATION | mesure | règlement copyright de 1,5 Md$ (~500 000 titres, ≥3 000 $/œuvre) | MESURE | 0.85 | STATIQUE | déclaré_article |

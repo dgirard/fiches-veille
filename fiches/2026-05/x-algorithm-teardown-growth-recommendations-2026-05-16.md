@@ -270,7 +270,7 @@ Le 15 mai 2026, xAI publie en open-source `xai-org/x-algorithm`, l'algorithme **
 | share_via_dm + share_via_copy_link | CONCEPT | est_variante_de | share standard (signaux distincts) | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | x-algorithm | TECHNOLOGIE | remplace | features hand-engineered (toutes éliminées) | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | Phoenix | TECHNOLOGIE | est_basé_sur | user action sequence (apprentissage) | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| Phoenix | CONCEPT | est_instance_de | scores per-user per-post (pas globaux) | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Phoenix | TECHNOLOGIE | est_instance_de | scores per-user per-post (pas globaux) | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | "going viral" | CONCEPT | est_instance_de | population-level outcome de prédictions personnelles | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | rapport interne x-algorithm growth | DOCUMENT | affirme_que | params.rs (valeurs des poids) est absent du release open-source | AFFIRMATION | 0.99 | STATIQUE | déclaré_article |
 | X | ORGANISATION | utilise | feature-switch service interne pour gérer FAVORITE_WEIGHT, REPLY_WEIGHT etc. | TECHNOLOGIE | 0.95 | DYNAMIQUE | inféré |
@@ -288,7 +288,7 @@ Le 15 mai 2026, xAI publie en open-source `xai-org/x-algorithm`, l'algorithme **
 | Phoenix checkpoint released | TECHNOLOGIE | est_basé_sur | corpus 537K posts sports (entraînement) | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | `panic!("Not implemented: to_thrift for ...")` stubs | CONCEPT | fait_partie_de | candidate_features.rs / user_features.rs | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
 | rapport interne x-algorithm growth | DOCUMENT | affirme_que | brand-safety lists, topic ID mappings, language penalties et ad blending sont absents du release | AFFIRMATION | 0.97 | STATIQUE | déclaré_article |
-| Home Mixer | TECHNOLOGIE | fait_partie_de | x-algorithm | EVENEMENT | 0.94 | STATIQUE | déclaré_article |
+| Home Mixer | TECHNOLOGIE | fait_partie_de | x-algorithm | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
 | Home Mixer | TECHNOLOGIE | permet | brand-safety tracking | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | author diversity decay | METHODOLOGIE | soutient | cadence optimale non-monotone en post count | CONCEPT | 0.95 | ATEMPOREL | inféré |
 | mute ou block utilisateur | CONCEPT | réduit | reach de tous les posts futurs vers cet utilisateur (cumulatif) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |

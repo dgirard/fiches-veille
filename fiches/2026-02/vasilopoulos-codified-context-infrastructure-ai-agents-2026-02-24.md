@@ -76,7 +76,7 @@ Le coût de maintenance est estimé à 1-2 heures par semaine. L'article démont
 | conventions, patterns, tables routage | CONCEPT | fait_partie_de | Tier 1 Constitution | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | 19 spécifications domain experts | CONCEPT | fait_partie_de | Tier 2 Agents spécialisés | CONCEPT | 0.96 | STATIQUE | déclaré_article |
 | Tier 3 Knowledge Base | CONCEPT | utilise | serveur MCP | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| infrastructure contexte codifié | CONCEPT | améliore | cohérence agents IA entre sessions | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| infrastructure contexte codifié | METHODOLOGIE | améliore | cohérence agents IA entre sessions | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | specs obsolètes | CONCEPT | réduit | qualité output agents IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | connaissance documentée | CONCEPT | améliore | productivité développement agentique | CONCEPT | 0.92 | ATEMPOREL | inféré |
 | infrastructure contexte codifié | METHODOLOGIE | est_basé_sur | architecture 3 tiers hot/warm/cold | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |

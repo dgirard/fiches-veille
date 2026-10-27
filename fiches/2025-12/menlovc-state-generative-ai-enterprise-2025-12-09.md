@@ -62,7 +62,7 @@ Le rapport tranche le débat boom vs bulle en faveur du boom : revenus réels en
 | marché IA entreprise | CONCEPT | mesure | croissance 3,2x par rapport à 2024 | MESURE | 0.95 | STATIQUE | déclaré_article |
 | startups IA | CONCEPT | mesure | 63% du marché applicatif IA | MESURE | 0.92 | DYNAMIQUE | déclaré_article |
 | codage IA | CONCEPT | mesure | 4 milliards de dollars (55% de l'IA départementale) | MESURE | 0.93 | STATIQUE | déclaré_article |
-| entreprises | CONCEPT | mesure | 76% des cas d'usage IA achetés plutôt que construits | MESURE | 0.90 | DYNAMIQUE | déclaré_article |
+| entreprises | ORGANISATION | mesure | 76% des cas d'usage IA achetés plutôt que construits | MESURE | 0.90 | DYNAMIQUE | déclaré_article |
 | adoption PLG | METHODOLOGIE | mesure | 27% des dépenses applicatives IA | MESURE | 0.88 | DYNAMIQUE | déclaré_article |
 | santé | CONCEPT | mesure | 1,5 milliard de dollars d'IA verticale (43%) | MESURE | 0.90 | STATIQUE | déclaré_article |
 | Cursor | TECHNOLOGIE | concurrence | GitHub Copilot | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |

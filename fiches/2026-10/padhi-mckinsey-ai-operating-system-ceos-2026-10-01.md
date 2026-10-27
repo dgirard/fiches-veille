@@ -72,7 +72,7 @@ Le management doit changer : intervenir sur signal plutôt que selon un calendri
 | McKinsey | ORGANISATION | a_créé | AI operating system | CONCEPT | 0.80 | STATIQUE | inféré |
 | AI operating system | CONCEPT | utilise | Couche sémantique | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Couche sémantique | CONCEPT | utilise | Ontologie | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Couche sémantique | CONCEPT | utilise | Knowledge graph | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Couche sémantique | CONCEPT | utilise | Knowledge graph | TECHNOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
 | AI operating system | CONCEPT | utilise | Orchestration d'agents | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
 | AI operating system | CONCEPT | utilise | LLM | TECHNOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
 | AI operating system | CONCEPT | permet | Management par intervention | METHODOLOGIE | 0.88 | ATEMPOREL | déclaré_article |

@@ -30,7 +30,7 @@
 ## Relations (comme objet)
 
 - [[kb/OpenAI\|OpenAI]] **publie** → AGENTS.md — 0.97
-- [[kb/CLAUDE-md-technologie\|CLAUDE.md]] **est_variante_de** → AGENTS.md — 0.96
+- [[kb/CLAUDE-md\|CLAUDE.md]] **est_variante_de** → AGENTS.md — 0.96
 - [[kb/_entites-mineures#Ratchet-principle\|Ratchet principle]] **est_basé_sur** → AGENTS.md — 0.95
 
 ## Fiches sources

@@ -24,7 +24,7 @@
 
 ## Relations (comme objet)
 
-- [[kb/CLAUDE-md-technologie\|CLAUDE.md]] **remplace** → LangGraph — 0.85
+- [[kb/CLAUDE-md\|CLAUDE.md]] **remplace** → LangGraph — 0.85
 - [[kb/coordination-asymétrique\|coordination asymétrique]] **s_applique_à** → LangGraph — 0.85
 
 ## Fiches sources

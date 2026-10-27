@@ -16,7 +16,7 @@
 
 ## Relations (comme objet)
 
-- [[kb/CLAUDE-md-technologie\|CLAUDE.md]] **remplace** → CrewAI — 0.85
+- [[kb/CLAUDE-md\|CLAUDE.md]] **remplace** → CrewAI — 0.85
 
 ## Fiches sources
 

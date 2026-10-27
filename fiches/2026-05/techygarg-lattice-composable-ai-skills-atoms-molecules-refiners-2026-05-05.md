@@ -130,7 +130,7 @@ Limites : repo encore jeune, validation d'adoption massive non établie, auteur 
 | Atoms (Lattice) | CONCEPT | est_instance_de | guardrails mono-principe | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | Molecules (Lattice) | CONCEPT | utilise | Atoms (Lattice) | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | Refiners (Lattice) | CONCEPT | affine | Atoms (Lattice) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Pipeline Lattice | METHODOLOGIE | est_basé_sur | Pipeline Lattice | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Pipeline Lattice | METHODOLOGIE | est_basé_sur | Pipeline Lattice | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
 | .lattice folder | TECHNOLOGIE | est_instance_de | living context layer projet | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | techygarg | PERSONNE | publie | série d'articles sur martinfowler.com | DOCUMENT | 0.93 | DYNAMIQUE | déclaré_article |
 | Lattice | TECHNOLOGIE | utilise | design-first progressive approach (5 niveaux, imposé) | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |

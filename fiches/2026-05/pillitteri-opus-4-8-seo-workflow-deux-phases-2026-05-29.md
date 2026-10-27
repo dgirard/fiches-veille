@@ -139,6 +139,6 @@ Quatre erreurs courantes ferment l'article : ne pas vérifier les chiffres (*tru
 | modelcontextprotocol/servers | TECHNOLOGIE | métrique | 86 440 étoiles, 10 000+ serveurs actifs | AJOUT |
 | loop hebdomadaire | METHODOLOGIE | résultat | +45 % productivité, draft 6-12 min | AJOUT |
 | benchmarks du modèle | CONCEPT | valeurs | SWE-bench 88,6 % / USAMO 96,7 % / GraphWalks 68,1 % | AJOUT |
-| routage de modèles | METHODOLOGIE | règle | Opus = stratégie, Sonnet 4.6 = prod, Haiku 4.5 = micro-tâches | AJOUT |
+| routage de modèles | CONCEPT | règle | Opus = stratégie, Sonnet 4.6 = prod, Haiku 4.5 = micro-tâches | AJOUT |
 | content gap paid-organic | CONCEPT | cas | 2 742 termes gaspillés / 351 opportunités en 90 s | AJOUT |
 | MCP | TECHNOLOGIE | catégorie | Protocole d'outillage dont l'article fixe la pile minimale utile au workflow | AJOUT |

@@ -1,7 +1,7 @@
 # Knowledge Base — Veille Technologique
 
-<!-- manifest: sha256=116d713b8bb52ac52f80845c7a977dbc3c92b8f289047e529f68b716ad33989a fiches=448 -->
-> 448 fiches | 3744 entités | 7291 triples | Généré le 2026-10-27
+<!-- manifest: sha256=0ae870614dc356fd3a36aedfe43252047ae604138e309ca1ccb29ddf7de5ba21 fiches=448 -->
+> 448 fiches | 3742 entités | 7291 triples | Généré le 2026-10-27
 
 ## Navigation
 
@@ -9,12 +9,12 @@
 - [[kb/_index-type-PERSONNE\|PERSONNE]] (579)
 - [[kb/_index-type-ORGANISATION\|ORGANISATION]] (455)
 - [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (879)
-- [[kb/_index-type-CONCEPT\|CONCEPT]] (1091)
+- [[kb/_index-type-CONCEPT\|CONCEPT]] (1090)
 - [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (474)
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (57)
 - [[kb/_index-type-LIEU\|LIEU]] (5)
-- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (204)
-- [[kb/_entites-mineures\|Entités mineures]] (3119)
+- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (203)
+- [[kb/_entites-mineures\|Entités mineures]] (3118)
 
 ## Entités les plus connectées
 
@@ -66,13 +66,13 @@
 - **PERSONNE** : 579 (15.5%)
 - **ORGANISATION** : 455 (12.2%)
 - **TECHNOLOGIE** : 879 (23.5%)
-- **CONCEPT** : 1091 (29.1%)
+- **CONCEPT** : 1090 (29.1%)
 - **METHODOLOGIE** : 474 (12.7%)
 - **EVENEMENT** : 57 (1.5%)
 - **LIEU** : 5 (0.1%)
-- **DOCUMENT** : 204 (5.4%)
+- **DOCUMENT** : 203 (5.4%)
 
 ### Déduplication
 
 - **Triples** : 7422 → 7291 (131 doublons)
-- **Entités** : 4957 → 3744 (1213 doublons)
+- **Entités** : 4957 → 3742 (1215 doublons)
