@@ -1,12 +1,13 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 158 relations | 53 fiches sources
+> **Type** : ORGANISATION | 164 relations | 54 fiches sources
 
 ## Attributs
 
 - **accusation** : « Régime de permission » vendant la cognition comme infrastructure
 - **apport** : Publie un playbook de SDLC AI-native tiré des déploiements de son équipe Applied AI
 - **description** : Incubator interne Anthropic fin 2024, équipe de quelques personnes, a créé Claude Code + MCP + app desktop, puis disbanded
+- **effectif** : Taille triplée en un an ; revenu par employé 2 à 4 fois celui de Meta et Google au même âge (oct. 2026)
 - **engagement** : S'engage unilatéralement à accueillir une équipe d'évaluateurs externes embarqués et appelle les autres laboratoires à suivre
 - **mesure interne** : ×25 de jobs CI en six mois, ×10 de tests, 8× de code livré par ingénieur, Claude auteur de 80 % du code
 - **positionnement** : Topologie inverse de celle de Mistral : garde-fou logé dans les poids, Claude Fable 5 public avec mesures de sécurité et Claude Mythos 5 sans, réservé aux cyberdéfenseurs approuvés du Project Glasswing
@@ -213,6 +214,8 @@
   - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|An Update on Recent Claude Code Quality Reports]]
 - [[kb/_entites-mineures#post-mortem-technique-détaillé\|post-mortem technique détaillé]] (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic Releases Post-Mortem Analysis of Multi-Hour Claude Service Outage]]
+- [[kb/rapport-How-employment-is-changing-at-Anthropic\|rapport How employment is changing at Anthropic]] (DOCUMENT) — 0.98, STATIQUE
+  - [[fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16\|How employment is changing at Anthropic]]
 - [[kb/_entites-mineures#étude-sur-la-transformation-du-travail\|étude sur la transformation du travail]] (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
 - [[kb/_entites-mineures#v1-skills\|/v1/skills]] (TECHNOLOGIE) — 0.97, STATIQUE
@@ -343,7 +346,12 @@
 - [[kb/Cat-Wu\|Cat Wu]] **travaille_chez** → Anthropic — 0.95
 - [[kb/Felix-Rieseberg\|Felix Rieseberg]] **travaille_chez** → Anthropic — 0.95
 - [[kb/Jarred-Sumner\|Jarred Sumner]] **travaille_chez** → Anthropic — 0.95
+- [[kb/_entites-mineures#Maxim-Massenkoff\|Maxim Massenkoff]] **travaille_chez** → Anthropic — 0.95
+- [[kb/_entites-mineures#Nathan-Wilmers\|Nathan Wilmers]] **travaille_chez** → Anthropic — 0.95
+- [[kb/_entites-mineures#Peter-McCrory\|Peter McCrory]] **travaille_chez** → Anthropic — 0.95
+- [[kb/_entites-mineures#Regina-Catipon\|Regina Catipon]] **travaille_chez** → Anthropic — 0.95
 - [[kb/Sachin-Malhotra\|Sachin Malhotra]] **travaille_chez** → Anthropic — 0.95
+- [[kb/_entites-mineures#Meta-work\|Meta-work]] **observé_dans** → Anthropic — 0.92
 - [[kb/Gates-Foundation\|Gates Foundation]] **collabore_avec** → Anthropic — 0.90
 - [[kb/SFEIR\|SFEIR]] **collabore_avec** → Anthropic — 0.90
 - [[kb/_entites-mineures#Snowflake\|Snowflake]] **collabore_avec** → Anthropic — 0.90
@@ -412,4 +420,5 @@
 - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
 - [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Superpowers: How I'm using coding agents in October 2025]]
 - [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Lessons from Building Claude Code: Prompt Caching Is Everything]]
+- [[fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16\|How employment is changing at Anthropic]]
 - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]

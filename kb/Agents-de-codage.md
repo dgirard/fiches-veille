@@ -1,12 +1,17 @@
 # Agents de codage
 
-> **Type** : TECHNOLOGIE | 18 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 19 relations | 2 fiches sources
 
 ## Attributs
 
-- **catégorie** : Agents d'IA qui écrivent et modifient du code
+- **catégorie** : Agents IA qui écrivent et modifient du code
 
 ## Relations (comme sujet)
+
+### améliore
+
+- « production de code des ingénieurs adoptants, sans écart de suppression ou de revert à 90 jours » (MESURE) — 0.85, DYNAMIQUE
+  - [[fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16\|How employment is changing at Anthropic]]
 
 ### est_instance_de
 
@@ -66,3 +71,4 @@
 ## Fiches sources
 
 - [[fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09\|The three joys of engineering: liberation or loss depends on which joy you lean on most]]
+- [[fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16\|How employment is changing at Anthropic]]

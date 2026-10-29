@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 476 entités de type METHODOLOGIE
+> 479 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -153,6 +153,7 @@
 - [[kb/Loop-Engineering\|Loop Engineering]] — définition: Concevoir un système qui s'améliore à chaque run via des boucles à 5 parties (trigger, action, preuve, mémoire, stop) (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Management-par-intervention\|Management par intervention]] — définition: Remplacer les revues calendaires par des signaux, seuils et exceptions déclenchant l'intervention (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Marketing-Mix-Modeling\|Marketing Mix Modeling]] — abréviation: MMM (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Meta-work\|Meta-work]] — définition: Travail consacré à outiller et superviser les agents (skills, specs, revues, monitoring) plutôt qu'à la tâche elle-même (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mode-ask-vs-mode-generation\|Mode ask vs mode generation]] — définition: Recommandation Chepurin/Turner — préférer interroger le modèle (mode pédagogique) à le laisser générer (mode délégation), pour maintenir l'engagement cognitif (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Model-routing\|Model routing]] — définition: Diriger chaque tâche vers le modèle juste-suffisant ; tout envoyer au frontier model = différence entre facture gérable et problème de board (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Modele-outcome-based\|Modele outcome-based]] — categorie: Tarification basee sur les resultats, pas le temps (1 occ., 1 fiches)
@@ -201,6 +202,7 @@
 - [[kb/_entites-mineures#RLVR\|RLVR]] — définition: RL à récompenses vérifiables, opposé au cas esthétique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ralph-Loop\|Ralph Loop]] — définition: Hook qui intercepte la sortie du modèle et ré-injecte le prompt original dans une fresh context window pour exécution multi-session (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Recursive-Tool-Building\|Recursive Tool Building]] — principe: Construire un outil pour créer un outil — approche méta-cognitive (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Redéploiement-interne\|Redéploiement interne]] — définition: Réaffectation des employés vers des postes moins exposés à l'automatisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#References\|References]] — principe: La meilleure référence est du code source (même dans un autre langage) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Reverse-Engineering-with-AI-works\|Reverse Engineering with AI/works™]] — rôle: Ingestion legacy codebases → reconstruction business logic → génération validated as-is specifications (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Roadmap-CapEx-→-OpEx\|Roadmap CapEx → OpEx]] — définition: Phase 1 Build context layer (CapEx : IDP + healthy data ecosystem + machine-readable docs) ; Phase 2 Empower human in loop (OpEx : context engineering + trust in AI) ; Phase 3 Validate via leading indicators (experiment frequency, deployment frequency) (1 occ., 1 fiches)
@@ -234,6 +236,7 @@
 - [[kb/_entites-mineures#Sub-agents-maker-checker\|Sub-agents maker-checker]] — fonction: Vérificateur adversarial gardant le travail avant revue humaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Surgical-Changes\|Surgical Changes]] — objectif: Modifier uniquement le code lié à la demande (1 occ., 1 fiches)
 - [[kb/Swarm-methodologie\|Swarm]] — définition: Équipe jetable montée pour un projet borné (migration, montée de framework, gros refactor), qui accumule une mémoire partagée des cas particuliers du projet et est supprimée à la fin ; motif efficace : un SmartBee coordinateur, un pool de workers bon marché, un vérificateur indépendant, et une escalade qui remonte au coordinateur plutôt qu'à l'humain. Terme forgé par Block pour ce billet (1 occ., 2 fiches)
+- [[kb/_entites-mineures#Système-d'alerte-précoce-sur-les-métiers\|Système d'alerte précoce sur les métiers]] — définition: Suivi par métier de la demande et de la productivité, lu au regard des capacités et usages de l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sécurité-par-zones\|Sécurité par zones]] — règle: Zéro agentique sur paiement, commande et supply chain ; feu vert là où le risque est nul (1 occ., 1 fiches)
 - [[kb/_entites-mineures#TDD\|TDD]] — cycle: Red → Green → Refactor, un test à la fois (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Target-Operating-Model\|Target Operating Model]] — enjeu: À repenser pour l'ère agentique (équipes, process, culture data, métier) (1 occ., 1 fiches)

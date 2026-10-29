@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 449 fiches | 1975-12 → 2026-10-25 | généré le 2026-10-29
+> 450 fiches | 1975-12 → 2026-10-25 | généré le 2026-10-29
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -12,6 +12,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **22** [La fin de Valeur × Faisabilité : pourquoi la matrice produit ne sait plus prioriser l'IA](fiches/2026-10/suchaud-wenvision-fin-valeur-faisabilite-prioriser-ia-2026-10-22.md) — Nicolas Suchaud — WEnvision (cabinet de conseil) ; hub Insights, rubrique Intelligence Artificielle. · WEnvision (Nicolas Suchaud) — priorisation IA, matrice Valeur × Faisabilité, quick wins
 - **21** [Eric Schmidt: Are We Ready for Superintelligence? | Podcast | In Good Company](fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21.md) — Eric Schmidt (invité), ancien PDG de Google ; Nicolai Tangen (hôte), directeur général de Norges Bank Investment Management. · In Good Company (NBIM) — superintelligence, AGI, découverte scientifique
 - **16** [Build or surrender](fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16.md) — Arthur Mensch (@arthurmensch) — cofondateur et directeur général de Mistral AI ; article publié sur X. · X — souveraineté IA, modèles de frontière, IA de frontière
+- **16** [How employment is changing at Anthropic](fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16.md) — Nathan Wilmers, Regina Catipon, Maxim Massenkoff, Peter McCrory — équipe Economics d'Anthropic ; rapport publié sur anthropic.com/research. · Anthropic Research — emploi, marché du travail, Anthropic
 - **15** [Quand la vélocité explose avec l'IA, place au "Harness Engineering" !](fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15.md) — Dorra Bartaguiz — CTO d'Arolla (conseil et formation, « agentic software crafters ») ; slides de son talk Dev With AI publiées sur LinkedIn. · LinkedIn (slides Dev With AI) — harness engineering, vélocité, revue de code
 - **15** [The AI Agenda 2026 — The reality check](fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15.md) — Oliver Wyman Forum — préface de John Romeo (CEO) et Ana Kreacic (COO) ; cinq équipes d'auteurs par chapitre (Aaron Fine, Helen Leis, Adrian Oest, Daniel Cope, Abhishek Sharma et al.). · Oliver Wyman Forum — ROI de l'IA, return on intelligence, ROI harvester
 - **15** [How the Claude Code team does code review](fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15.md) — Addy Osmani, Morgan Westlee Lunt, Qing Wang — équipe Claude Code (Anthropic) ; blog *claude.dev*, catégorie Engineering. · claude.dev Blog — revue de code, code review, revue de code agentique
@@ -804,6 +805,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - [La fin de Valeur × Faisabilité : pourquoi la matrice produit ne sait plus prioriser l'IA](fiches/2026-10/suchaud-wenvision-fin-valeur-faisabilite-prioriser-ia-2026-10-22.md) — Nicolas Suchaud — WEnvision (cabinet de conseil) ; hub Insights, rubrique Intelligence Artificielle.
 - [Eric Schmidt: Are We Ready for Superintelligence? | Podcast | In Good Company](fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21.md) — Eric Schmidt (invité), ancien PDG de Google ; Nicolai Tangen (hôte), directeur général de Norges Bank Investment Management.
+- [How employment is changing at Anthropic](fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16.md) — Nathan Wilmers, Regina Catipon, Maxim Massenkoff, Peter McCrory — équipe Economics d'Anthropic ; rapport publié sur anthropic.com/research.
 - [The AI Agenda 2026 — The reality check](fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15.md) — Oliver Wyman Forum — préface de John Romeo (CEO) et Ana Kreacic (COO) ; cinq équipes d'auteurs par chapitre (Aaron Fine, Helen Leis, Adrian Oest, Daniel Cope, Abhishek Sharma et al.).
 - [How to be more ambitious: A tutorial for humans with models](fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13.md) — Felix Rieseberg — EM chez Anthropic (fonction affichée), co-mainteneur d'Electron ; blog personnel felixrieseberg.com.
 - [Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)](fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09.md) — Fred Cavazza (@fredcavazza) — auteur du post sur X ; fonction non indiquée dans le texte.
@@ -971,6 +973,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - [Eric Schmidt: Are We Ready for Superintelligence? | Podcast | In Good Company](fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21.md) — Eric Schmidt (invité), ancien PDG de Google ; Nicolai Tangen (hôte), directeur général de Norges Bank Investment Management.
 - [Build or surrender](fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16.md) — Arthur Mensch (@arthurmensch) — cofondateur et directeur général de Mistral AI ; article publié sur X.
+- [How employment is changing at Anthropic](fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16.md) — Nathan Wilmers, Regina Catipon, Maxim Massenkoff, Peter McCrory — équipe Economics d'Anthropic ; rapport publié sur anthropic.com/research.
 - [Introducing Mistral Large 4](fiches/2026-10/mistral-large-4-le-chonk-2026-10-06.md) — Mistral AI — éditeur de modèles d'IA ; billet de blog de l'entreprise (« By Mistral »).
 - [Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will completely vanish » — extrait de Fox & Friends First (Fox News, 29 mai 2025) avec Dario Amodei](fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02.md) — Yugen Matsuda — entrepreneur indépendant, compte X japonais ; post de relais d'un entretien de Dario Amodei (CEO d'Anthropic) diffusé sur Fox News.
 - [Personal AI Should Actually Be Personal](fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29.md) — Ryan Sarver (@rsarver), auteur du fil sur X ; fonction non indiquée dans le texte.
@@ -1067,6 +1070,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Philosophie & Société
 
+- [How employment is changing at Anthropic](fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16.md) — Nathan Wilmers, Regina Catipon, Maxim Massenkoff, Peter McCrory — équipe Economics d'Anthropic ; rapport publié sur anthropic.com/research.
 - [Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code, whatever tools they use](fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14.md) — Thomas Claburn — AI and software reporter, The Register.
 - [How to be more ambitious: A tutorial for humans with models](fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13.md) — Felix Rieseberg — EM chez Anthropic (fonction affichée), co-mainteneur d'Electron ; blog personnel felixrieseberg.com.
 - [The three joys of engineering: liberation or loss depends on which joy you lean on most](fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09.md) — Addy Osmani — Member of Technical Staff chez Anthropic (fonction affichée) ; post LinkedIn.
@@ -1295,15 +1299,15 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 449 fiches
-- **Par année** : 2026 (272) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 450 fiches
+- **Par année** : 2026 (273) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 169
   - Architecture & Construction : 63
-  - Transformation & Adoption : 104
+  - Transformation & Adoption : 105
   - Qualité & Sécurité : 57
-  - Économie & Marché : 95
-  - Philosophie & Société : 32
+  - Économie & Marché : 96
+  - Philosophie & Société : 33
   - Stratégie & Frameworks : 46
   - Outils & Plateformes : 64
   - Recherche & Éducation : 16

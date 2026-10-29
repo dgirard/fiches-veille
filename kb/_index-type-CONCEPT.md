@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1091 entités de type CONCEPT
+> 1094 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -61,6 +61,7 @@
 - [[kb/_entites-mineures#Accountability\|Accountability]] — définition: Responsabilité humaine inaliénable face aux décisions des agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Accumulated-execution-data\|Accumulated execution data]] — définition: Moat durable agentic AI Bain — base d'exécutions agent qui s'enrichit avec chaque action, plus dure à répliquer pour concurrents que data statique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Accélération-projection-2030-vers-2026\|Accélération projection 2030 vers 2026]] — description: McKinsey a divisé par 3+ son ETA pour atteindre la parité humains/agents — 3 000 agents il y a 18 mois, 20 000 maintenant. Pattern systématique 2024-2026 où trajectoires observées dépassent projections initiales (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Actionnariat-salarié\|Actionnariat salarié]] — définition: Participation financière des employés, présentée comme mécanisme de partage des gains de l'adoption (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Adaptive-organization\|Adaptive organization]] — définition: Organisation où people, technology et work sont continuellement réalignés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Adoption-IA-en-entreprise\|Adoption IA en entreprise]] — enjeu: Leadership et gestion du risque (1 occ., 1 fiches)
 - [[kb/Agent-concept\|Agent]] — niveau: 3 — exécution pas-à-pas avec approbation (2 occ., 3 fiches)
@@ -169,6 +170,7 @@
 - [[kb/_entites-mineures#Compensate-satisfaction-with-quantity\|Compensate satisfaction with quantity]] — définition: Formule-canonique Chepurin/Turner — *« We compensate for a lack of satisfaction with work quantity. »* Mécanisme central de l'escalade burnout (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Compositional-Path-Dependency\|Compositional Path Dependency]] — définition: Cause de surrender : chaque chunk surrender rend le prochain surrender plus probable, requiert reconstruction complète pour redevenir indépendant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Comprehension-Debt\|Comprehension Debt]] — définition: Écart croissant entre volume total de code et compréhension humaine ; cognitive surrender est le mécanisme d'accumulation. Extension d'origine Osmani de la "technical debt" (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Compromis-syndical-d'après-guerre\|Compromis syndical d'après-guerre]] — définition: Accord des années 1950 (UAW, USW) : réorganisation du travail contre hausses salariales indexées sur la productivité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Computer-System-Engineers\|Computer System Engineers]] — rôle futur: Construire les backbones en code assisté IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Confidence-Flywheel\|Confidence Flywheel]] — description: Cycle vertueux : contexte → moins d'hallucinations → confiance → vitesse de livraison (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Confidence-Transfer\|Confidence Transfer]] — définition: Cause de surrender : modèles parlent avec autorité, déclarations institutionnellement crédibles même quand inventées (ex. "debounce of 300ms") (1 occ., 1 fiches)
@@ -471,6 +473,7 @@
 - [[kb/_entites-mineures#Skill-issue-reframe\|Skill issue reframe]] — définition: Cadre HumanLayer : la plupart des échecs d'agent sont des problèmes de configuration, pas de poids du modèle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Slidedoc\|Slidedoc]] — origine: Nom donné par Duarte Design à l'infodeck (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SmartBee\|SmartBee]] — définition: Tier qui tient la vue d'ensemble, tranche et absorbe les escalades ; à appairer avec un QuickBee ou un WorkerBee pour ne pas brûler de tokens frontier sur du travail d'exécution. Modèles cités : Claude Opus 5, Kimi K3, GPT-5.6 Sol. Effort recommandé : medium (1 occ., 1 fiches)
+- [[kb/_entites-mineures#So-so-automation\|So-so automation]] — définition: Automatisation qui remplace des travailleurs pour un gain de productivité minime (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Software-3.0\|Software 3.0]] — définition: Programmation = prompting d'un LLM-interpréteur, contexte = levier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Solutions-Engineers\|Solutions Engineers]] — rôle futur: Programmer en langage naturel, orchestrer agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Souveraineté-IA\|Souveraineté IA]] — définition: Capacité à auditer, adapter et garantir l'accès aux modèles utilisés (1 occ., 1 fiches)

@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 3125 entités avec moins de 3 triples/fiches
+> 3134 entités avec moins de 3 triples/fiches
 
-## PERSONNE (426)
+## PERSONNE (429)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -2630,6 +2630,16 @@
 
 **Fiches** : [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
 
+### Maxim Massenkoff {#Maxim-Massenkoff}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Économiste, équipe Economics d'Anthropic
+
+- **travaille_chez** → [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16\|How employment is changing at Anthropic]]
+
 ### Megan Hsu {#Megan-Hsu}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -2828,6 +2838,16 @@
 - **travaille_chez** → [[kb/McKinsey\|McKinsey]] (ORGANISATION) — 0.98
 
 **Fiches** : [[fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23\|Moving away from Agile: What's Next? Reshaping Software Delivery with Agents]]
+
+### Nathan Wilmers {#Nathan-Wilmers}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Économiste, équipe Economics d'Anthropic
+
+- **travaille_chez** → [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16\|How employment is changing at Anthropic]]
 
 ### Nathaniel Moran {#Nathaniel-Moran}
 
@@ -3058,11 +3078,13 @@
 
 ### Peter McCrory {#Peter-McCrory}
 
-**Type** : PERSONNE | 0 relations | 1 fiches
+**Type** : PERSONNE | 1 relations | 2 fiches
 
-- **rôle** : co-auteur rapport Anthropic Economic Index
+- **rôle** : Économiste, équipe Economics d'Anthropic
 
-**Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
+- **travaille_chez** → [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]], [[fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16\|How employment is changing at Anthropic]]
 
 ### Peter Steinberger {#Peter-Steinberger}
 
@@ -3264,6 +3286,16 @@
 - **affirme_que** → « les hallucinations LLM sont une fonctionnalité, pas un bug » (AFFIRMATION) — 0.95
 
 **Fiches** : [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Some thoughts on LLMs and Software Development]]
+
+### Regina Catipon {#Regina-Catipon}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Chercheuse, équipe Economics d'Anthropic
+
+- **travaille_chez** → [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16\|How employment is changing at Anthropic]]
 
 ### Richards Heuer {#Richards-Heuer}
 
@@ -14952,7 +14984,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1036)
+## CONCEPT (1039)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -15418,6 +15450,16 @@
 - **description** : McKinsey a divisé par 3+ son ETA pour atteindre la parité humains/agents — 3 000 agents il y a 18 mois, 20 000 maintenant. Pattern systématique 2024-2026 où trajectoires observées dépassent projections initiales
 
 **Fiches** : [[fiches/2026-01/sternfels-mckinsey-60000-people-20000-agents-officechai-2026-01-14\|McKinsey Now Has 60,000 People, But 20,000 Of Them Are AI Agents: McKinsey's Bob Sternfels]]
+
+### Actionnariat salarié {#Actionnariat-salarié}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Participation financière des employés, présentée comme mécanisme de partage des gains de l'adoption
+
+- [[kb/rapport-How-employment-is-changing-at-Anthropic\|rapport How employment is changing at Anthropic]] **recommande** → Actionnariat salarié — 0.88
+
+**Fiches** : [[fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16\|How employment is changing at Anthropic]]
 
 ### Adaptive organization {#Adaptive-organization}
 
@@ -16387,6 +16429,16 @@
 - compréhensibilité **réduit** → Comprehension Debt — 0.94
 
 **Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]], [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
+
+### Compromis syndical d'après-guerre {#Compromis-syndical-d'après-guerre}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Accord des années 1950 (UAW, USW) : réorganisation du travail contre hausses salariales indexées sur la productivité
+
+- [[kb/rapport-How-employment-is-changing-at-Anthropic\|rapport How employment is changing at Anthropic]] **s_inspire_de** → Compromis syndical d'après-guerre — 0.80
+
+**Fiches** : [[fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16\|How employment is changing at Anthropic]]
 
 ### Computer System Engineers {#Computer-System-Engineers}
 
@@ -19126,6 +19178,16 @@
 - **définition** : Tier qui tient la vue d'ensemble, tranche et absorbe les escalades ; à appairer avec un QuickBee ou un WorkerBee pour ne pas brûler de tokens frontier sur du travail d'exécution. Modèles cités : Claude Opus 5, Kimi K3, GPT-5.6 Sol. Effort recommandé : medium
 
 **Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
+
+### So-so automation {#So-so-automation}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Automatisation qui remplace des travailleurs pour un gain de productivité minime
+
+- [[kb/_entites-mineures#Redéploiement-interne\|Redéploiement interne]] **réduit** → So-so automation — 0.78
+
+**Fiches** : [[fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16\|How employment is changing at Anthropic]]
 
 ### Software 3.0 {#Software-3.0}
 
@@ -25090,7 +25152,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (408)
+## METHODOLOGIE (411)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -26395,6 +26457,16 @@
 
 **Fiches** : [[fiches/2025-10/think-with-google-demand-led-marketing-budget-2026-2025-10-01\|Think with Google: Demand-Led Marketing - How to Build Your 2026 Budget]]
 
+### Meta-work {#Meta-work}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Travail consacré à outiller et superviser les agents (skills, specs, revues, monitoring) plutôt qu'à la tâche elle-même
+
+- **observé_dans** → [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.92
+
+**Fiches** : [[fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16\|How employment is changing at Anthropic]]
+
 ### Mode ask vs mode generation {#Mode-ask-vs-mode-generation}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
@@ -26808,6 +26880,18 @@
 
 **Fiches** : [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]]
 
+### Redéploiement interne {#Redéploiement-interne}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Réaffectation des employés vers des postes moins exposés à l'automatisation
+
+- **réduit** → [[kb/_entites-mineures#So-so-automation\|So-so automation]] (CONCEPT) — 0.78
+
+- [[kb/rapport-How-employment-is-changing-at-Anthropic\|rapport How employment is changing at Anthropic]] **recommande** → Redéploiement interne — 0.90
+
+**Fiches** : [[fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16\|How employment is changing at Anthropic]]
+
 ### References {#References}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -27078,6 +27162,16 @@
 - **recommande** → préservation du code existant (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Andrej Karpathy Skills for Claude Code]]
+
+### Système d'alerte précoce sur les métiers {#Système-d'alerte-précoce-sur-les-métiers}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Suivi par métier de la demande et de la productivité, lu au regard des capacités et usages de l'IA
+
+- [[kb/rapport-How-employment-is-changing-at-Anthropic\|rapport How employment is changing at Anthropic]] **recommande** → Système d'alerte précoce sur les métiers — 0.90
+
+**Fiches** : [[fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16\|How employment is changing at Anthropic]]
 
 ### Sécurité par zones {#Sécurité-par-zones}
 

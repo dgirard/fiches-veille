@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 582 entités de type PERSONNE
+> 585 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -365,6 +365,7 @@
 - [[kb/Max-Kanat-Alexander\|Max Kanat-Alexander]] — rôle: Executive Distinguished Engineer, Capital One (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Max-Schrems\|Max Schrems]] — rôle: Expert protection données / Activiste (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Max-Thilén\|Max Thilén]] — rôle: Analyste e-commerce, auteur guide Opascope (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Maxim-Massenkoff\|Maxim Massenkoff]] — rôle: Économiste, équipe Economics d'Anthropic (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Megan-Hsu\|Megan Hsu]] — rôle: Project Leader BCG, BCG Henderson Institute Ambassador (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Meklit-Workneh\|Meklit Workneh]] — rôle: Director of Clinical Development chez Moderna (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Meng-Huang\|Meng Huang]] — rôle: Engineering Manager chez Uber, responsable équipe Security/Identity infrastructure agent (1 occ., 1 fiches)
@@ -388,6 +389,7 @@
 - [[kb/_entites-mineures#Nagi-Letaifa\|Nagi Letaifa]] — rôle: Premier développeur recruté chez Mirakl, aujourd'hui directeur technique ; contributeur de la méthode de transformation par les livrables (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nancy-Duarte\|Nancy Duarte]] — spécialité: Design présentations, Slidology (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Natasha-Maniar\|Natasha Maniar]] — rôle: Partner, McKinsey (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Nathan-Wilmers\|Nathan Wilmers]] — rôle: Économiste, équipe Economics d'Anthropic (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nathaniel-Moran\|Nathaniel Moran]] — rôle: Représentant US (R-Texas), co-sponsor de l'AI Kill Switch Act (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nathen-Harvey\|Nathen Harvey]] — rôle: Lead DORA team Google Cloud, co-auteur multiples DORA reports + 97 Things Every Cloud Engineer Should Know (O'Reilly 2020) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Navan-Chauhan\|Navan Chauhan]] — rôle: Co-fondateur StrongDM AI (1 occ., 1 fiches)
@@ -420,7 +422,7 @@
 - [[kb/_entites-mineures#Pedro-Rodriguez\|Pedro Rodriguez]] — rôle: Senior Engineering Manager, Google Cloud (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pete-Stergion\|Pete Stergion]] — rôle: Desktop Engineer, Cornell AI Innovation Hub ; co-tech lead et auteur (1 occ., 1 fiches)
 - [[kb/Peter-Aideloje\|Peter Aideloje]] — rôle: développeur et rédacteur technique (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Peter-McCrory\|Peter McCrory]] — rôle: co-auteur rapport Anthropic Economic Index (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Peter-McCrory\|Peter McCrory]] — rôle: Économiste, équipe Economics d'Anthropic (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Peter-Steinberger\|Peter Steinberger]] — contribution: Observation fondatrice (« design loops that prompt your agents »), checklist de boucle (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Peter-Weill\|Peter Weill]] — rôle: Senior research scientist MIT Sloan, chairman du MIT CISR (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Phil-Williammee\|Phil Williammee]] — rôle: Co-tech lead du projet, Cornell AI Innovation Hub (1 occ., 1 fiches)
@@ -446,6 +448,7 @@
 - [[kb/_entites-mineures#Ray-Dalio\|Ray Dalio]] — attribut: Promoteur de la conscience de soi radicale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ray-Perrault\|Ray Perrault]] — rôle: Co-chair AI Index Steering Committee, SRI International (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rebecca-Parsons\|Rebecca Parsons]] — rôle: Ancienne collègue Fowler, chercheuse (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Regina-Catipon\|Regina Catipon]] — rôle: Chercheuse, équipe Economics d'Anthropic (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Richards-Heuer\|Richards Heuer]] — rôle: Analyste CIA, auteur de la méthodologie ACH (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Riley-Ralmuto\|Riley Ralmuto]] — rôle: Auteur du thread de réfutation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Robbie-Geoghegan\|Robbie Geoghegan]] — rôle: Senior Data Scientist, Atlassian (1 occ., 1 fiches)
