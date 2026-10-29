@@ -39,12 +39,12 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
 
 <!-- stats:begin -->
 
-- **Total** : 448 fiches
-- **Par année** : 2026 (271) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 449 fiches
+- **Par année** : 2026 (272) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 168
+  - Agents de codage IA & Skills : 169
   - Architecture & Construction : 63
-  - Transformation & Adoption : 103
+  - Transformation & Adoption : 104
   - Qualité & Sécurité : 57
   - Économie & Marché : 95
   - Philosophie & Société : 32
@@ -86,6 +86,7 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - X (4)
   - Ethan Mollick (4)
   - GitHub (4)
+  - McKinsey (3)
   - Block Engineering (3)
   - The Batch / DeepLearning.AI (3)
   - Addy Osmani (3)
@@ -94,7 +95,6 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - Mistral AI (2)
   - Cloudflare Blog (2)
   - YouTube (2)
-  - McKinsey (2)
 
 <!-- stats:end -->
 

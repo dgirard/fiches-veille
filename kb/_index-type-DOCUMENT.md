@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 203 entités de type DOCUMENT
+> 204 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -100,6 +100,7 @@
 - [[kb/_entites-mineures#Refresh-2026\|Refresh 2026]] — description: Article Modern Data 101 du 4 mai 2026 par Jessica Talisman MLS révisant son framework Ontology Pipeline initial de janvier 2025 — ajoute Governance et AI Partnership comme étapes critiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rerum-Novarum-(Léon-XIII)\|Rerum Novarum (Léon XIII)]] — catégorie: Encyclique sociale fondatrice (15 mai 1891), matrice originelle de la Doctrine sociale de l'Église, sur la question ouvrière — référence-pivot de Magnifica Humanitas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Responsible-Scaling-Policy\|Responsible Scaling Policy]] — portée: Aurait influencé SB 53, NY RAISE Act, EU AI Act (1 occ., 1 fiches)
+- [[kb/Rewiring-software-delivery-for-the-agentic-era\|Rewiring software delivery for the agentic era]] — format: Article McKinsey Technology, 8 pages, 4 exhibits, mai 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SALT\|SALT]] — analogie: Traités de plafonnement des missiles ; modèle invoqué pour un plafond de vitesse sur l'auto-amélioration récursive (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SWE-Bench-Pro\|SWE-Bench Pro]] — rôle: Benchmark issues GitHub réalistes où Claude domine (Mythos 5 80,3 %, Fable 5 80 %, Sol 64,6 %) ; audit OpenAI ~30 % « cassé » la veille du lancement (1 occ., 2 fiches)
 - [[kb/_entites-mineures#SWE-bench\|SWE-bench]] — rôle: Benchmark de résolution d'issues GitHub réelles (~20-40 % selon modèles) (1 occ., 1 fiches)

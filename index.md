@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 448 fiches | 1975-12 → 2026-10-25 | généré le 2026-10-27
+> 449 fiches | 1975-12 → 2026-10-25 | généré le 2026-10-29
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -180,6 +180,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **??** [The $100-Billion SaaS Opportunity Hiding in Cross-System Labor](fiches/2026-05/bain-100b-saas-opportunity-cross-system-labor-agentic-ai-2026-05.md) — **David Crawford, Chris McLaughlin, Greg Fiore** — partners et experts Bain & Company spécialistes industrie logicielle / SaaS. Article publié en **mai 2026** sur bain.com/insights, partie 2/5 d'une série sur *"the software industry in the age of AI"* (la partie 1 traite du Rule of 40, fiche `bain-ai-rule-of-40-headwinds-tailwinds-saas-2026-04.md`). · Bain & Company (David Crawford, Chris McLaughlin, Greg Fiore) — Bain & Company, 100 billion SaaS opportunity, cross-system labor
 - **??** [The New SDLC With Vibe Coding — From ad-hoc prompting to Agentic Engineering](fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05.md) — Addy Osmani, Shubham Saboo, Sokratis Kartakis (Google) · Kaggle / Google (Addy Osmani, Shubham Saboo, Sokratis Kartakis) — nouveau SDLC, vibe coding, agentic engineering
 - **31** [The AI-native SDLC is paying off: 19% more PRs and 2–3 hours saved per developer per week](fiches/2026-05/atlassian-ai-native-sdlc-paying-off-rovo-dev-2026-05-31.md) — Robbie Geoghegan, Fan Jiang (Atlassian) · Atlassian (Robbie Geoghegan & Fan Jiang) — SDLC AI-native, Rovo Dev, agents de codage
+- **29** [Rewiring software delivery for the agentic era](fiches/2026-05/moon-walsh-mckinsey-rewiring-software-delivery-agentic-era-2026-05-29.md) — Jared Moon (senior partner), Rory Walsh, Vito Di Leo (partners), avec Adam Thelwall (associate partner) — McKinsey & Company · McKinsey — McKinsey, SDLC agentique, modèle opératoire
 - **29** [Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate](fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29.md) — **Pasquale Pillitteri** — Ingénieur informatique / développeur logiciel basé à **Palerme** (Italie), certifié Innovation Manager UNI 11814:2021. Auteur d'un blog tech actif (rubrique *Claude Code & Anthropic*), avec une newsletter hebdomadaire (~3,4k lecteurs). Article publié en version **FR** le **29 mai 2026** (lendemain de la sortie d'Opus 4.8). · pasqualepillitteri.it (Pasquale Pillitteri) — Claude Opus 4.8, SEO IA, workflow en deux phases
 - **28** [Beyond code generation: rethinking engineering productivity in the age of AI agents](fiches/2026-05/dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28.md) — **Kazuaki Okumura** — Dropbox (rôle non précisé dans l'article ; le billet reprend une intervention présentée à la conférence **DX Annual 2026** sur la productivité développeur, ce qui suggère un profil engineering leadership / platform, sans confirmation). Publié sur le **Dropbox Tech blog** (dropbox.tech), rubrique *culture*, le **28 mai 2026**. · Dropbox Tech (Kazuaki Okumura) — productivité d'ingénierie, engineering productivity, beyond code generation
 - **28** [Token Budget Wars](fiches/2026-05/gupta-token-budget-wars-marginal-token-utility-2026-05-28.md) — **Jaya Gupta** (@JayaGup10) — investisseuse / VC. Très probablement **Foundation Capital** (le thread s'auto-réfère au cadre ***Context Graphs*** — *« ahem, context graph, although I am so tired of that word these days »* — concept porté par Foundation Capital, cf. fiche `bain-100b-saas-opportunity` qui cite *Foundation Capital — Context Graphs trillion-dollar opportunity, 2025-12-22*). Thread publié sur X le **28 mai 2026 à 1h51**, **230,5K vues**, format essai long en un seul post. Une réponse notable de **@tuning_engines** (*« DevSecFinOps for the Agentic Era »*) : *« Tokens will basically have to be managed like headcount […] model hierarchies too »*. · X (Jaya Gupta @JayaGup10) — Token Budget Wars, marginal token utility, token-to-outcome attribution
@@ -640,6 +641,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [The Eight Levels of AI Adoption](fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02.md) — **Mike Taylor**, **Laura Entis** et **Claude** (co-auteurs déclarés), pour **Every** (every.to), rubrique *Guides*. Mike Taylor est un auteur connu sur les sujets prompt/AI (co-auteur de *Prompt Engineering for Generative AI*) ; Laura Entis est journaliste/éditrice. La co-signature explicite de **Claude** comme auteur fait partie du positionnement éditorial d'Every (entreprise AI-native). Publié le **2 juin 2026**.
 - [L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change](fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01.md) — **Olivier Rafal**, *Consulting Director Strategy* chez **WeNvision** (groupe **SFEIR**). Ancien **rédacteur en chef du *Monde Informatique***, et auparavant consultant analyste du marché IT (~10 ans). Tribune publiée dans la rubrique *Tribune* de **CIO-Online**. Publié le **1er juin 2026**.
 - [The New SDLC With Vibe Coding — From ad-hoc prompting to Agentic Engineering](fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05.md) — Addy Osmani, Shubham Saboo, Sokratis Kartakis (Google)
+- [Rewiring software delivery for the agentic era](fiches/2026-05/moon-walsh-mckinsey-rewiring-software-delivery-agentic-era-2026-05-29.md) — Jared Moon (senior partner), Rory Walsh, Vito Di Leo (partners), avec Adam Thelwall (associate partner) — McKinsey & Company
 - [Beyond code generation: rethinking engineering productivity in the age of AI agents](fiches/2026-05/dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28.md) — **Kazuaki Okumura** — Dropbox (rôle non précisé dans l'article ; le billet reprend une intervention présentée à la conférence **DX Annual 2026** sur la productivité développeur, ce qui suggère un profil engineering leadership / platform, sans confirmation). Publié sur le **Dropbox Tech blog** (dropbox.tech), rubrique *culture*, le **28 mai 2026**.
 - [How Salesforce Engineering Became Truly Agentic](fiches/2026-05/salesforce-tallapragada-how-engineering-became-agentic-2026-05-27.md) — **Srinivas « Srini » Tallapragada** — *President and Chief Engineering and Customer Success Officer* de **Salesforce**. Plus d'une décennie chez Salesforce, dirige l'ingénierie mondiale de la plateforme unifiée. Auteur de la série *Agentic Enterprise* sur le blog Salesforce News ; ce billet (27 mai 2026) est la **suite** d'un premier opus consacré à l'adoption de l'IA par les milliers d'ingénieurs Salesforce (*« How we got our engineers to use AI — without breaking everything »*). Position d'autorité = **dirigeant exécutif** parlant en son nom et au nom d'une organisation d'ingénierie à grande échelle (donnée terrain à l'échelle d'un hyperscaler SaaS), avec accès aux métriques internes (Engineering 360, Effective Output).
 - [What Anthropic's New Claude Billing Means for Zed Users](fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14.md) — **Franciska Dethlefsen** — head of growth and marketing chez **Zed Industries**. Le rôle est déterminant pour lire le texte : ce n'est pas un billet d'ingénierie mais une **communication de crise produit**, écrite le lendemain d'une annonce d'un fournisseur dont Zed dépend, à destination d'utilisateurs inquiets. La signature growth/marketing explique la structure (problème → options → réassurance) et le fait que l'argument protocolaire arrive en conclusion plutôt qu'en tête.
@@ -846,6 +848,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [AI made your engineers fast. Too fast to leave room for the rest of the org to think.](fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17.md) — Fred PLAIS (Frédéric Plais)
 - [How Cornell Recovered $100,000 in Unidentified Payments With AI](fiches/2026-06/cornell-ai-hub-100k-unidentified-payments-2026-06-15.md) — **Pete Stergion** — Desktop Engineer au Cornell AI Innovation Hub, co-tech lead du projet (avec Phil Williammee). Article institutionnel signé de l'AI Hub.
 - [The AI-native SDLC is paying off: 19% more PRs and 2–3 hours saved per developer per week](fiches/2026-05/atlassian-ai-native-sdlc-paying-off-rovo-dev-2026-05-31.md) — Robbie Geoghegan, Fan Jiang (Atlassian)
+- [Rewiring software delivery for the agentic era](fiches/2026-05/moon-walsh-mckinsey-rewiring-software-delivery-agentic-era-2026-05-29.md) — Jared Moon (senior partner), Rory Walsh, Vito Di Leo (partners), avec Adam Thelwall (associate partner) — McKinsey & Company
 - [After Automation](fiches/2026-05/shipper-every-after-automation-frame-framer-2026-05-21.md) — **Dan Shipper** — CEO et co-fondateur de **Every** (média / studio AI-native, créateur de la newsletter *Every*, propriétaire du framework et plugin *Compound Engineering* — cf. fiche `shipper-klaassen-compound-engineering-every-agents-2025-12-11.md`). Profil rare : **opérateur-théoricien**, dirige une organisation entièrement augmentée par l'IA (95 % emails CEO automatisés, agents Claudie/Andy/Viktor en production, Fin pour le support) tout en publiant régulièrement des essais conceptuels sur every.to. Voix éditoriale anglo-saxonne de référence dans le corpus 2025-2026 sur les **modes de travail humain-IA**. Article publié sur **every.to/p/after-automation** le **21 mai 2026**.
 - [AI-assisted engineers are burning out, is this fine?](fiches/2026-05/chepurin-turner-evil-martians-ai-engineers-burning-out-2026-05-19.md) — **Ivan Chepurin** & **Travis Turner** — auteurs Evil Martians (cabinet de conseil ingénierie indépendant, Berkeley/global, ~150 ingénieurs, spécialiste Ruby on Rails / React / produits SaaS depuis 2010 ; éditeurs du blog *Evil Martians Chronicles* — référence dans la communauté Rails et JS). Article publié dans la catégorie **AI / Developer Community** sur evilmartians.com le **19 mai 2026**. Profil Evil Martians : voix éditoriale **opérateur-praticien**, articles longs ancrés dans le terrain produit, registre **soin du craft + lucidité business**, public habituellement développeurs / CTO / fondateurs early-stage.
 - [AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"](fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12.md) — **Thoughtworks** (auteur collectif corporate, page produit/marketing). Aucun individu cité sur la page. Contexte des figures Thoughtworks pertinentes en arrière-plan : **Martin Fowler** (chief scientist emeritus, *Refactoring*, *Patterns of Enterprise Application Architecture*), **Rebecca Parsons** (CTO emeritus), **Birgitta Böckeler** (Distinguished Engineer, *Harness Engineering for Coding Agents*, fiche 2026-04-02), **Matt Kamelman** (*Service-as-Software*, fiche 2025-12-03), **Sam Newman** (*Building Microservices*).
@@ -1292,12 +1295,12 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 448 fiches
-- **Par année** : 2026 (271) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 449 fiches
+- **Par année** : 2026 (272) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 168
+  - Agents de codage IA & Skills : 169
   - Architecture & Construction : 63
-  - Transformation & Adoption : 103
+  - Transformation & Adoption : 104
   - Qualité & Sécurité : 57
   - Économie & Marché : 95
   - Philosophie & Société : 32
@@ -1339,6 +1342,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - X (4)
   - Ethan Mollick (4)
   - GitHub (4)
+  - McKinsey (3)
   - Block Engineering (3)
   - The Batch / DeepLearning.AI (3)
   - Addy Osmani (3)
@@ -1347,4 +1351,3 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Mistral AI (2)
   - Cloudflare Blog (2)
   - YouTube (2)
-  - McKinsey (2)

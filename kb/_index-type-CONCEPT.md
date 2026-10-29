@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1090 entités de type CONCEPT
+> 1091 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -374,6 +374,7 @@
 - [[kb/_entites-mineures#Ordinateur-malléable\|Ordinateur malléable]] — définition: Machine dont l'utilisateur final peut modifier ou réécrire le système lui-même via un agent, au même niveau que son concepteur — impossible sur OS fermés, tenable sur Linux (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Organisation-AI-First\|Organisation AI-First]] — piliers: Avantage concurrentiel, P&L remodelé, plateforme décentralisée, agents IA, talents spécialisés (1 occ., 1 fiches)
 - [[kb/Outcome-based-pricing\|Outcome-based pricing]] — définition: Modèle économique futur SaaS où revenue se déplace de fixed seats vers labor/operations economics — paid for outcomes/work delivered, not seats. Convergence avec Levie agents trillion + Sierra autonomous resolution (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Outer-loop\|Outer loop]] — définition: Fonctions support et contrôle : risque, juridique, tests, achats (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Overhiring-pandémique-2020-2022\|Overhiring pandémique 2020-2022]] — catégorie: Phénomène recadré en "efficience IA" lors des layoffs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Own-the-context,-rent-or-replace-the-technology\|Own the context, rent or replace the technology]] — définition: Règle : la connaissance institutionnelle reste portable, la technologie est interchangeable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#PLC\|PLC]] — définition: Product Life Cycle (Theodore Levitt, HBR 1965) : trajectoire commerciale introduction/croissance/maturité/déclin guidant le marketing ; à distinguer du PDLC (« le PLC observe une courbe, le PDLC organise un travail ») (1 occ., 1 fiches)

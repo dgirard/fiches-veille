@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 879 entités de type TECHNOLOGIE
+> 881 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -63,6 +63,7 @@
 - [[kb/_entites-mineures#Agent-Sandbox\|Agent Sandbox]] — catégorie: Bac à sable d'exécution des agents avec frontière réseau propre (1 occ., 1 fiches)
 - [[kb/Agent-Skills\|Agent Skills]] — catégorie: Dossiers scripts et instructions expertise domaine (4 occ., 3 fiches)
 - [[kb/_entites-mineures#Agent-Studio\|Agent Studio]] — catégorie: Plateforme no-code construction agents (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Agent-bibliothécaire\|Agent bibliothécaire]] — définition: Agent qui interroge le graphe de connaissance à la demande (questions multi-entités) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent2Agent\|Agent2Agent]] — statut: Protocole potentiellement exploitable pour dialogue inter-agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent2Agent-(A2A)\|Agent2Agent (A2A)]] — catégorie: Protocole inter-agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AgentCash\|AgentCash]] — description: Balance unique + découverte marchands pour agents IA (2 occ., 1 fiches)
@@ -353,6 +354,7 @@
 - [[kb/_entites-mineures#Gotham\|Gotham]] — définition: Produit initial de Palantir, vendu à la CIA, à la NSA et à des unités de renseignement militaire au milieu des années 2000 ; déploiements profondément sur mesure, construits pour répondre à une seule question de renseignement pour une seule unité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Governance-for-Agents\|Governance for Agents]] — rôle: Couche d'identité, politique, approbation et audit appliquée autour de l'agent plutôt que dans son prompt (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Grammarly\|Grammarly]] — catégorie: Outil d'aide à l'écriture ; codifie un style et un niveau de lisibilité visé (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Graphe-de-connaissance\|Graphe de connaissance]] — rôle: Mémoire des agents par domaine sur le cycle de vie logiciel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Grok\|Grok]] — catégorie: Assistant LLM (X / anciennement Twitter) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Grok-4\|Grok 4]] — score even-handedness: 96% (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Grok-1\|Grok-1]] — catégorie: Modèle LLM dont Phoenix (ranker X) est dérivé, base architecture transformer (1 occ., 1 fiches)

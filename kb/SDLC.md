@@ -1,6 +1,6 @@
 # SDLC
 
-> **Type** : METHODOLOGIE | 22 relations | 11 fiches sources
+> **Type** : METHODOLOGIE | 23 relations | 11 fiches sources
 
 ## Attributs
 
@@ -52,6 +52,7 @@
 - [[kb/PDLC\|PDLC]] **affine** → SDLC — 0.85
 - [[kb/_entites-mineures#ATDD-(Acceptance-Test-Driven-Development)\|ATDD (Acceptance Test-Driven Development)]] **fait_partie_de** → SDLC — 0.85
 - [[kb/_entites-mineures#Example-Mapping\|Example Mapping]] **fait_partie_de** → SDLC — 0.85
+- [[kb/_entites-mineures#Graphe-de-connaissance\|Graphe de connaissance]] **fait_partie_de** → SDLC — 0.85
 
 ## Fiches sources
 

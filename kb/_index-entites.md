@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3742 entités
+> 3751 entités
 
 ## #
 
@@ -122,6 +122,7 @@
 - [[kb/_entites-mineures#agency-(définition-Uber)\|agency (définition Uber)]] (CONCEPT, 1 fiches)
 - [[kb/Agent-concept\|Agent]] (CONCEPT, 3 fiches)
 - [[kb/Agent-technologie\|Agent]] (TECHNOLOGIE, 3 fiches)
+- [[kb/_entites-mineures#Agent-bibliothécaire\|Agent bibliothécaire]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Agent-Client-Protocol\|Agent Client Protocol]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#Agent-collègue\|Agent collègue]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Agent-Communication-Protocol\|Agent Communication Protocol]] (TECHNOLOGIE, 1 fiches)
@@ -1625,6 +1626,7 @@
 - [[kb/_entites-mineures#GPU-NVIDIA-Grace-Blackwell\|GPU NVIDIA Grace Blackwell]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Grafana-Labs\|Grafana Labs]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Grammarly\|Grammarly]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Graphe-de-connaissance\|Graphe de connaissance]] (TECHNOLOGIE, 1 fiches)
 - [[kb/graphify\|graphify]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Graphify-Labs\|Graphify Labs]] (ORGANISATION, 1 fiches)
 - [[kb/graphify.net\|graphify.net]] (TECHNOLOGIE, 1 fiches)
@@ -1876,6 +1878,7 @@
 - [[kb/Janakiram-MSV\|Janakiram MSV]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#Janice-Manningham\|Janice Manningham]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jared-Friedman\|Jared Friedman]] (PERSONNE, 2 fiches)
+- [[kb/_entites-mineures#Jared-Moon\|Jared Moon]] (PERSONNE, 1 fiches)
 - [[kb/Jarred-Sumner\|Jarred Sumner]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jarvis-(agent-perso)\|Jarvis (agent perso)]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Jasmine-Sun\|Jasmine Sun]] (PERSONNE, 1 fiches)
@@ -2182,7 +2185,7 @@
 - [[kb/_entites-mineures#Maybe-We-Shouldn't-Be-Reviewing-All-This-Code\|Maybe We Shouldn't Be Reviewing All This Code]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#MAZU\|MAZU]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#mChat\|mChat]] (TECHNOLOGIE, 1 fiches)
-- [[kb/McKinsey\|McKinsey]] (ORGANISATION, 3 fiches)
+- [[kb/McKinsey\|McKinsey]] (ORGANISATION, 4 fiches)
 - [[kb/McKinsey-&-Company\|McKinsey & Company]] (ORGANISATION, 1 fiches)
 - [[kb/MCP\|MCP]] (TECHNOLOGIE, 16 fiches)
 - [[kb/_entites-mineures#MCP-(OAuth)\|MCP (OAuth)]] (TECHNOLOGIE, 1 fiches)
@@ -2525,6 +2528,7 @@
 - [[kb/_entites-mineures#OSS-20b\|OSS-20b]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Outcome-based-(modèle-économique-IA)\|Outcome-based (modèle économique IA)]] (METHODOLOGIE, 1 fiches)
 - [[kb/Outcome-based-pricing\|Outcome-based pricing]] (CONCEPT, 2 fiches)
+- [[kb/_entites-mineures#Outer-loop\|Outer loop]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Overhiring-pandémique-2020-2022\|Overhiring pandémique 2020-2022]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Own-the-context,-rent-or-replace-the-technology\|Own the context, rent or replace the technology]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#ownership-end-to-end\|ownership end-to-end]] (CONCEPT, 1 fiches)
@@ -2669,6 +2673,7 @@
 - [[kb/_entites-mineures#Plugin-marketplace-Intercom\|Plugin marketplace Intercom]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Plus-qu'humain-(selon-Léon-XIV)\|Plus qu'humain (selon Léon XIV)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#podcast-In-Good-Company\|podcast In Good Company]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#Policy-as-code\|Policy as code]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Policy-Bot\|Policy Bot]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#political-neutrality-eval\|political-neutrality-eval]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#politique-FinOps-token\|politique FinOps token]] (CONCEPT, 1 fiches)
@@ -2898,6 +2903,7 @@
 - [[kb/_entites-mineures#revues-multi-agents\|revues multi-agents]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#reward-hacking\|reward hacking]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Rewind\|Rewind]] (CONCEPT, 1 fiches)
+- [[kb/Rewiring-software-delivery-for-the-agentic-era\|Rewiring software delivery for the agentic era]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#RGPD\|RGPD]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Richards-Heuer\|Richards Heuer]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Riley-Ralmuto\|Riley Ralmuto]] (PERSONNE, 1 fiches)
@@ -2929,6 +2935,7 @@
 - [[kb/_entites-mineures#Roman-Gushchin\|Roman Gushchin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Romano-Guardini\|Romano Guardini]] (PERSONNE, 1 fiches)
 - [[kb/roon\|roon]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Rory-Walsh\|Rory Walsh]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Rosalie-Zandona\|Rosalie Zandona]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Round-2-Anthropic-Labs\|Round 2 Anthropic Labs]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#routage-de-modèles\|routage de modèles]] (CONCEPT, 2 fiches)
@@ -3203,6 +3210,7 @@
 - [[kb/Spotify-technologie\|Spotify]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#spotify-portal-ai-plugins\|spotify/portal-ai-plugins]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Sprint-contract\|Sprint contract]] (METHODOLOGIE, 1 fiches)
+- [[kb/Sprint-de-24-heures\|Sprint de 24 heures]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#spécialisation-par-rôle\|spécialisation par rôle]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#spécification-FOCUS\|spécification FOCUS]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#SQL-Agent\|SQL Agent]] (TECHNOLOGIE, 1 fiches)
@@ -3613,6 +3621,7 @@
 - [[kb/_entites-mineures#Visual-Studio-Code\|Visual Studio Code]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Vite\|Vite]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#VitePress\|VitePress]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Vito-Di-Leo\|Vito Di Leo]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Viv-Trivedy\|Viv Trivedy]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#VivaTech\|VivaTech]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#Vivek-Trivedy\|Vivek Trivedy]] (PERSONNE, 1 fiches)

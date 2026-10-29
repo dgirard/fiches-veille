@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 3118 entités avec moins de 3 triples/fiches
+> 3125 entités avec moins de 3 triples/fiches
 
-## PERSONNE (423)
+## PERSONNE (426)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1750,6 +1750,16 @@
 
 **Fiches** : [[fiches/2026-03/levie-building-trillions-agents-software-2026-03-07\|Building for trillions of agents]], [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Workweave: The Loom of AI Team Communication]]
 
+### Jared Moon {#Jared-Moon}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Senior partner McKinsey, Londres
+
+- **travaille_chez** → [[kb/McKinsey\|McKinsey]] (ORGANISATION) — 0.98
+
+**Fiches** : [[fiches/2026-05/moon-walsh-mckinsey-rewiring-software-delivery-agentic-era-2026-05-29\|Rewiring software delivery for the agentic era]]
+
 ### Jasmine Sun {#Jasmine-Sun}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -3346,6 +3356,16 @@
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
 
+### Rory Walsh {#Rory-Walsh}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Partner McKinsey, Dublin
+
+- **travaille_chez** → [[kb/McKinsey\|McKinsey]] (ORGANISATION) — 0.98
+
+**Fiches** : [[fiches/2026-05/moon-walsh-mckinsey-rewiring-software-delivery-agentic-era-2026-05-29\|Rewiring software delivery for the agentic era]]
+
 ### Rosalie Zandona {#Rosalie-Zandona}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -4023,6 +4043,16 @@
 - **rôle** : Neurologue psychiatre autrichien (1905-1997), survivant des camps, auteur de *Découvrir un sens à sa vie* — cité par Léon XIV (n. 121) sur la dualité de l'homme face à l'horreur
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
+
+### Vito Di Leo {#Vito-Di-Leo}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Partner McKinsey, Zurich
+
+- **travaille_chez** → [[kb/McKinsey\|McKinsey]] (ORGANISATION) — 0.98
+
+**Fiches** : [[fiches/2026-05/moon-walsh-mckinsey-rewiring-software-delivery-agentic-era-2026-05-29\|Rewiring software delivery for the agentic era]]
 
 ### Viv Trivedy {#Viv-Trivedy}
 
@@ -7689,7 +7719,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (686)
+## TECHNOLOGIE (688)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -8143,6 +8173,17 @@
 - **permet** → construction agents sans code (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12\|Live Agent Tracker - AI Agents we're building for our customers]]
+
+### Agent bibliothécaire {#Agent-bibliothécaire}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Agent qui interroge le graphe de connaissance à la demande (questions multi-entités)
+
+- **utilise** → [[kb/_entites-mineures#Graphe-de-connaissance\|Graphe de connaissance]] (TECHNOLOGIE) — 0.90
+- **améliore** → « "Questions d'experts traitées en minutes au lieu de semaines" » (MESURE) — 0.82
+
+**Fiches** : [[fiches/2026-05/moon-walsh-mckinsey-rewiring-software-delivery-agentic-era-2026-05-29\|Rewiring software delivery for the agentic era]]
 
 ### Agent2Agent {#Agent2Agent}
 
@@ -10442,6 +10483,19 @@
 - **améliore** → lisibilité et style de l'écriture (CONCEPT) — 0.86
 
 **Fiches** : [[fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08\|Do you even need a presentation?]]
+
+### Graphe de connaissance {#Graphe-de-connaissance}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **rôle** : Mémoire des agents par domaine sur le cycle de vie logiciel
+
+- **permet** → autonomie des agents (CONCEPT) — 0.90
+- **fait_partie_de** → [[kb/SDLC\|SDLC]] (METHODOLOGIE) — 0.85
+
+- [[kb/_entites-mineures#Agent-bibliothécaire\|Agent bibliothécaire]] **utilise** → Graphe de connaissance — 0.90
+
+**Fiches** : [[fiches/2026-05/moon-walsh-mckinsey-rewiring-software-delivery-agentic-era-2026-05-29\|Rewiring software delivery for the agentic era]]
 
 ### Grok {#Grok}
 
@@ -14898,7 +14952,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1035)
+## CONCEPT (1036)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -18204,6 +18258,16 @@
 - **est_basé_sur** → plateforme technologique décentralisée (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15\|STRUCTURER LA TRANSFORMATION AI-FIRST EN 15 QUESTIONS]]
+
+### Outer loop {#Outer-loop}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Fonctions support et contrôle : risque, juridique, tests, achats
+
+- [[kb/_entites-mineures#Policy-as-code\|Policy as code]] **s_applique_à** → Outer loop — 0.87
+
+**Fiches** : [[fiches/2026-05/moon-walsh-mckinsey-rewiring-software-delivery-agentic-era-2026-05-29\|Rewiring software delivery for the agentic era]]
 
 ### Overhiring pandémique 2020-2022 {#Overhiring-pandémique-2020-2022}
 
@@ -25026,7 +25090,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (407)
+## METHODOLOGIE (408)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -26603,6 +26667,16 @@
 - [[kb/Bain-&-Company\|Bain & Company]] **recommande** → Playbook 3 phases (Bain) — 0.94
 
 **Fiches** : [[fiches/2026-05/bain-100b-saas-opportunity-cross-system-labor-agentic-ai-2026-05\|The $100-Billion SaaS Opportunity Hiding in Cross-System Labor]]
+
+### Policy as code {#Policy-as-code}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **usage** : Contrôles risque / juridique / conformité automatisés dans le SDLC
+
+- **s_applique_à** → [[kb/_entites-mineures#Outer-loop\|Outer loop]] (CONCEPT) — 0.87
+
+**Fiches** : [[fiches/2026-05/moon-walsh-mckinsey-rewiring-software-delivery-agentic-era-2026-05-29\|Rewiring software delivery for the agentic era]]
 
 ### Principes d'Influence {#Principes-d'Influence}
 

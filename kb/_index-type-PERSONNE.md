@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 579 entités de type PERSONNE
+> 582 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -244,6 +244,7 @@
 - [[kb/Janakiram-MSV\|Janakiram MSV]] — rôle: Architecte praticien, analyste et conseil de startups Silicon Valley ; auteur The New Stack (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Janice-Manningham\|Janice Manningham]] — rôle: Strategic Group Product Manager, Stack Overflow, co-auteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jared-Friedman\|Jared Friedman]] — rôle: Partner YC associé à Weave (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Jared-Moon\|Jared Moon]] — rôle: Senior partner McKinsey, Londres (1 occ., 1 fiches)
 - [[kb/Jarred-Sumner\|Jarred Sumner]] — rôle: Créateur de Bun ; travaille chez Anthropic (rachat de Bun, déc. 2025) ; auteur de la réécriture Rust (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jasmine-Sun\|Jasmine Sun]] — rôle: Journaliste indépendante (Substack), couvre IA et Silicon Valley culture (1 occ., 1 fiches)
 - [[kb/Jason-Clinton\|Jason Clinton]] — rôle: Deputy CISO d'Anthropic, pilote Security Engineering (1 occ., 1 fiches)
@@ -457,6 +458,7 @@
 - [[kb/Romain-Taillade\|Romain Taillade]] — rôle: Global CTO de Decathlon (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Roman-Gushchin\|Roman Gushchin]] — rôle: Développeur kernel (linux.dev) ; défend dans le thread l'usage des LLM pour aider les mainteneurs, contre une position jugée « très anti-LLM » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Romano-Guardini\|Romano Guardini]] — rôle: Théologien et philosophe italo-allemand (1885-1968), auteur de *La fin des temps modernes* (1950) — cité par Léon XIV (n. 93) : *« L'homme moderne n'a pas reçu l'éducation nécessaire pour faire un bon usage de son pouvoir »* (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Rory-Walsh\|Rory Walsh]] — rôle: Partner McKinsey, Dublin (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rosalie-Zandona\|Rosalie Zandona]] — rôle: VP People & Culture chez SFEIR ; à l'origine de la bascule en Skill Based Organisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Roy-Lee\|Roy Lee]] — rôle: Étudiant Columbia / co-fondateur Cluely (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ruth-Appel\|Ruth Appel]] — rôle: co-auteure rapport Anthropic Economic Index (1 occ., 1 fiches)
@@ -552,6 +554,7 @@
 - [[kb/_entites-mineures#Vikas-Shah\|Vikas Shah]] — rôle: Fondateur de *Thought Economics*, administrateur de sociétés et entrepreneur britannique ; mène l'entretien en six questions, sur un registre d'accord (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Viktor-Frankl\|Viktor Frankl]] — rôle: Neurologue psychiatre autrichien (1905-1997), survivant des camps, auteur de *Découvrir un sens à sa vie* — cité par Léon XIV (n. 121) sur la dualité de l'homme face à l'horreur (1 occ., 1 fiches)
 - [[kb/Vincent-Strubel\|Vincent Strubel]] — rôle: Directeur général ANSSI (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Vito-Di-Leo\|Vito Di Leo]] — rôle: Partner McKinsey, Zurich (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Viv-Trivedy\|Viv Trivedy]] — rôle: Créateur du terme harness engineering, post Anatomy of an Agent Harness (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vivek-Trivedy\|Vivek Trivedy]] — rôle: Auteur chez LangChain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vivian-Hu\|Vivian Hu]] — rôle: 10X Technology Consultant Google Cloud, contributrice DORA 2025 State of AI-assisted Software Development et DORA AI Capabilities Model (1 occ., 1 fiches)

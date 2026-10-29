@@ -1,6 +1,6 @@
 # McKinsey
 
-> **Type** : ORGANISATION | 28 relations | 3 fiches sources
+> **Type** : ORGANISATION | 35 relations | 4 fiches sources
 
 ## Attributs
 
@@ -45,6 +45,8 @@
   - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
 - « 5 200 milliards de dollars de capex datacenter nécessaires d'ici 2030 pour absorber la demande mondiale d'IA » (MESURE) — 0.88, DYNAMIQUE
   - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
+- « "Les rôles humains se concentreront sur l'architecture, le jugement produit et la conception des systèmes" » (AFFIRMATION) — 0.85, DYNAMIQUE
+  - [[fiches/2026-05/moon-walsh-mckinsey-rewiring-software-delivery-agentic-era-2026-05-29\|Rewiring software delivery for the agentic era]]
 - « 5 millions d'humanoïdes en usine en 2040 (vs ~200 en 2026) » (MESURE) — 0.85, DYNAMIQUE
   - [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]]
 - « des managers passant de 10-12 à environ 20-40 rapports directs » (AFFIRMATION) — 0.75, DYNAMIQUE
@@ -52,6 +54,8 @@
 
 ### publie
 
+- [[kb/Rewiring-software-delivery-for-the-agentic-era\|Rewiring software delivery for the agentic era]] (DOCUMENT) — 0.98, STATIQUE
+  - [[fiches/2026-05/moon-walsh-mckinsey-rewiring-software-delivery-agentic-era-2026-05-29\|Rewiring software delivery for the agentic era]]
 - [[kb/_entites-mineures#article-The-agentic-transformation-office\|article The agentic transformation office]] (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
 - [[kb/_entites-mineures#article-The-AI-operating-system\|article The AI operating system]] (DOCUMENT) — 0.97, STATIQUE
@@ -67,11 +71,21 @@
   - [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
 - « limiter l'entreprise à un, deux ou trois AI OS » (AFFIRMATION) — 0.92, ATEMPOREL
   - [[fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01\|The AI operating system: A new way for CEOs to run the enterprise]]
+- « "Commencer par les quelques grands programmes qui concentrent la dépense" » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-05/moon-walsh-mckinsey-rewiring-software-delivery-agentic-era-2026-05-29\|Rewiring software delivery for the agentic era]]
+
+### s_oppose_à
+
+- ontologie descendante (CONCEPT) — 0.88, ATEMPOREL
+  - [[fiches/2026-05/moon-walsh-mckinsey-rewiring-software-delivery-agentic-era-2026-05-29\|Rewiring software delivery for the agentic era]]
 
 ## Relations (comme objet)
 
+- [[kb/_entites-mineures#Jared-Moon\|Jared Moon]] **travaille_chez** → McKinsey — 0.98
 - [[kb/_entites-mineures#Martin-Harrison\|Martin Harrison]] **travaille_chez** → McKinsey — 0.98
 - [[kb/_entites-mineures#Natasha-Maniar\|Natasha Maniar]] **travaille_chez** → McKinsey — 0.98
+- [[kb/_entites-mineures#Rory-Walsh\|Rory Walsh]] **travaille_chez** → McKinsey — 0.98
+- [[kb/_entites-mineures#Vito-Di-Leo\|Vito Di Leo]] **travaille_chez** → McKinsey — 0.98
 - [[kb/_entites-mineures#Chase-Covington\|Chase Covington]] **travaille_chez** → McKinsey — 0.97
 - [[kb/_entites-mineures#David-Pralong\|David Pralong]] **travaille_chez** → McKinsey — 0.97
 - [[kb/_entites-mineures#Tomer-Slaney\|Tomer Slaney]] **travaille_chez** → McKinsey — 0.97
@@ -82,4 +96,5 @@
 
 - [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
 - [[fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23\|Moving away from Agile: What's Next? Reshaping Software Delivery with Agents]]
+- [[fiches/2026-05/moon-walsh-mckinsey-rewiring-software-delivery-agentic-era-2026-05-29\|Rewiring software delivery for the agentic era]]
 - [[fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01\|The AI operating system: A new way for CEOs to run the enterprise]]

@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 474 entités de type METHODOLOGIE
+> 476 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -187,6 +187,7 @@
 - [[kb/_entites-mineures#Plateformisation\|Plateformisation]] — définition: Décomposition du SI en domaines métier plus petits exposés par API (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Platform-Engineering\|Platform Engineering]] — rôle: fondation pour débloquer valeur IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Playbook-3-phases-(Bain)\|Playbook 3 phases (Bain)]] — définition: (1) Assessment via 6 facteurs + sizing ; (2) Strategic Positioning data assets + adjacent workflows + actual operational maps ; (3) Execution build/buy/partner + restructure org + data foundations for agent readiness (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Policy-as-code\|Policy as code]] — usage: Contrôles risque / juridique / conformité automatisés dans le SDLC (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Principes-d'Influence\|Principes d'Influence]] — contenu: 7 principes : autorité, engagement, attrait, réciprocité, rareté, preuve sociale, unité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Problem-framing-analysis-planning-strategic-prioritization\|Problem framing / analysis planning / strategic prioritization]] — description: Trois skills BCG-identifiées qui débloquent les top users d'IA et préviennent l'épuisement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Productivity-Tiering\|Productivity Tiering]] — dimensions: 5 dimensions : AI usage intensity, output, usage depth, cost efficiency $/PR, prompt quality (1 occ., 1 fiches)
@@ -225,6 +226,7 @@
 - [[kb/_entites-mineures#Spec-to-Code\|Spec to Code]] — rôle: Génération high-fidelity testable code via coordinated agents depuis la Super Spec (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Spec-driven-development\|Spec-driven development]] — catégorie: Workflow de développement AI Native (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sprint-contract\|Sprint contract]] — définition: Generator et evaluator négocient la condition de "done" avant que le code soit écrit (1 occ., 1 fiches)
+- [[kb/Sprint-de-24-heures\|Sprint de 24 heures]] — définition: Équipe de nuit d'agents (16 h) + équipe de jour humaine (8 h) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Stack-orchestré-(Perplexity-→-Claude-→-ChatGPT-→-Multi-agent)\|Stack orchestré (Perplexity → Claude → ChatGPT → Multi-agent)]] — description: Séquence d'outils par phase : expansion → corpus → structuration → validation (1 occ., 1 fiches)
 - [[kb/Steps-of-AI-Adoption\|Steps of AI Adoption]] — définition: Modèle de maturité en 5 étapes (0→4) de l'adoption de l'IA agentique par une équipe d'ingénierie ; matrice 5 colonnes (nb d'agents, à quoi ça ressemble, goulet d'étranglement, produits, garde-fous) ; progression = casser le goulet suivant + bâtir les garde-fous suivants (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Story-Points\|Story Points]] — catégorie: Système de rémunération à la performance (1 occ., 1 fiches)
