@@ -69,7 +69,7 @@
 
 - modèle Claude (TECHNOLOGIE) — 0.99, DYNAMIQUE
   - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
-- [[kb/_entites-mineures#Prompt-caching\|Prompt caching]] (CONCEPT) — 0.98, ATEMPOREL
+- [[kb/Prompt-caching\|Prompt caching]] (CONCEPT) — 0.98, ATEMPOREL
   - [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Lessons from Building Claude Code: Prompt Caching Is Everything]]
 - terminal chat CLI (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]]

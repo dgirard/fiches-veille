@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 585 entités de type PERSONNE
+> 586 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -424,6 +424,7 @@
 - [[kb/Peter-Aideloje\|Peter Aideloje]] — rôle: développeur et rédacteur technique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Peter-McCrory\|Peter McCrory]] — rôle: Économiste, équipe Economics d'Anthropic (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Peter-Steinberger\|Peter Steinberger]] — contribution: Observation fondatrice (« design loops that prompt your agents »), checklist de boucle (2 occ., 2 fiches)
+- [[kb/Peter-Walker\|Peter Walker]] — rôle: Head of Insights d'OpenRouter (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Peter-Weill\|Peter Weill]] — rôle: Senior research scientist MIT Sloan, chairman du MIT CISR (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Phil-Williammee\|Phil Williammee]] — rôle: Co-tech lead du projet, Cornell AI Innovation Hub (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Philipp-Schmid\|Philipp Schmid]] — rôle: Co-auteur article (1 occ., 1 fiches)

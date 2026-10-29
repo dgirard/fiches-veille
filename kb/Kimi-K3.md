@@ -1,6 +1,6 @@
 # Kimi K3
 
-> **Type** : TECHNOLOGIE | 10 relations | 2 fiches sources
+> **Type** : TECHNOLOGIE | 11 relations | 2 fiches sources
 
 ## Attributs
 
@@ -17,6 +17,8 @@
   - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 - [[kb/GPT-5.6\|GPT-5.6]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
   - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
+- [[kb/_entites-mineures#Claude-Opus\|Claude Opus]] (TECHNOLOGIE) — 0.75, DYNAMIQUE
+  - [[fiches/2026-10/walker-onlycfo-ai-tokenomics-2026-10-22\|The Current State of AI Tokenomics - What CFOs Should Know]]
 
 ### est_instance_de
 

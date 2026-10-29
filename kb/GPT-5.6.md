@@ -25,7 +25,7 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#Prompt-caching\|prompt caching]] (CONCEPT) — 0.90, ATEMPOREL
+- [[kb/Prompt-caching\|prompt caching]] (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 
 ## Relations (comme objet)

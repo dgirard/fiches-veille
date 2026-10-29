@@ -1,20 +1,20 @@
 # Knowledge Base — Veille Technologique
 
-<!-- manifest: sha256=68f415d5d5760209b09368d63a3083e3a4ac815adc981d980ccc8161661dd051 fiches=450 -->
-> 450 fiches | 3761 entités | 7333 triples | Généré le 2026-10-29
+<!-- manifest: sha256=2d591c88d975a7d6089b9ee34251d611d963a09987a46719dc325ac8995de4bc fiches=451 -->
+> 451 fiches | 3768 entités | 7354 triples | Généré le 2026-10-30
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
-- [[kb/_index-type-PERSONNE\|PERSONNE]] (585)
-- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (455)
-- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (881)
-- [[kb/_index-type-CONCEPT\|CONCEPT]] (1094)
+- [[kb/_index-type-PERSONNE\|PERSONNE]] (586)
+- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (457)
+- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (882)
+- [[kb/_index-type-CONCEPT\|CONCEPT]] (1096)
 - [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (479)
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (57)
 - [[kb/_index-type-LIEU\|LIEU]] (5)
-- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (205)
-- [[kb/_entites-mineures\|Entités mineures]] (3134)
+- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (206)
+- [[kb/_entites-mineures\|Entités mineures]] (3139)
 
 ## Entités les plus connectées
 
@@ -45,34 +45,34 @@
 
 ### Prédicats les plus fréquents
 
-- **affirme_que** : 917
-- **utilise** : 856
+- **affirme_que** : 918
+- **utilise** : 857
 - **permet** : 655
-- **mesure** : 594
-- **publie** : 423
+- **mesure** : 602
+- **publie** : 425
 - **a_créé** : 400
-- **recommande** : 359
+- **recommande** : 361
 - **s_applique_à** : 298
-- **est_basé_sur** : 259
-- **réduit** : 259
+- **est_basé_sur** : 260
+- **réduit** : 260
 - **s_oppose_à** : 257
 - **fait_partie_de** : 244
-- **améliore** : 224
+- **améliore** : 225
 - **est_instance_de** : 219
-- **travaille_chez** : 164
+- **travaille_chez** : 165
 
 ### Distribution par type
 
-- **PERSONNE** : 585 (15.6%)
-- **ORGANISATION** : 455 (12.1%)
-- **TECHNOLOGIE** : 881 (23.4%)
-- **CONCEPT** : 1094 (29.1%)
+- **PERSONNE** : 586 (15.6%)
+- **ORGANISATION** : 457 (12.1%)
+- **TECHNOLOGIE** : 882 (23.4%)
+- **CONCEPT** : 1096 (29.1%)
 - **METHODOLOGIE** : 479 (12.7%)
 - **EVENEMENT** : 57 (1.5%)
 - **LIEU** : 5 (0.1%)
-- **DOCUMENT** : 205 (5.5%)
+- **DOCUMENT** : 206 (5.5%)
 
 ### Déduplication
 
-- **Triples** : 7464 → 7333 (131 doublons)
-- **Entités** : 4980 → 3761 (1219 doublons)
+- **Triples** : 7486 → 7354 (132 doublons)
+- **Entités** : 4989 → 3768 (1221 doublons)

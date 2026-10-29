@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 455 entités de type ORGANISATION
+> 457 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -301,11 +301,13 @@
 - [[kb/_entites-mineures#Omni\|Omni]] — apport: Canal Slack dédié aux prototypes, corollaire « tout le monde parle aux clients », inspiration de l'approche fichier plutôt qu'embedding (1 occ., 1 fiches)
 - [[kb/One-New-Zealand\|One New Zealand]] — secteur: Opérateur télécom néo-zélandais, cas d'illustration (1 occ., 1 fiches)
 - [[kb/One-Useful-Thing-organisation\|One Useful Thing]] — catégorie: Newsletter Substack (1 occ., 3 fiches)
+- [[kb/_entites-mineures#OnlyCFO\|OnlyCFO]] — secteur: Newsletter Substack destinée aux directeurs financiers (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Opascope\|Opascope]] — catégorie: Cabinet conseil e-commerce / commerce agentique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Open-Source-Initiative\|Open Source Initiative]] — rôle: Organisation co-fondée par ESR en 1998 (président jusqu'en 2005) promouvant l'open source (1 occ., 1 fiches)
 - [[kb/OpenAI\|OpenAI]] — secteur: IA (23 occ., 23 fiches)
 - [[kb/OpenAI-Economic-Research\|OpenAI Economic Research]] — rôle: Équipe de recherche économique d'OpenAI, éditrice de la série Work at the Frontier (2 occ., 2 fiches)
 - [[kb/_entites-mineures#OpenAI-Group-PBC\|OpenAI Group PBC]] — secteur: Développement IA commerciale (1 occ., 1 fiches)
+- [[kb/_entites-mineures#OpenRouter\|OpenRouter]] — secteur: Passerelle et marketplace d'inférence donnant accès à des centaines de LLM par un seul compte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Oracle\|Oracle]] — rôle: acteur du réseau circulaire d'investissements IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Orange\|Orange]] — secteur: Opérateur télécom (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Orq.ai\|Orq.ai]] — secteur: Plateforme d'agents IA / gouvernance (1 occ., 1 fiches)

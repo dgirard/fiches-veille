@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 450 fiches | 1975-12 → 2026-10-25 | généré le 2026-10-29
+> 451 fiches | 1975-12 → 2026-10-25 | généré le 2026-10-30
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -10,6 +10,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - **25** [Knowledge Graph. Context Graph. Procedural Graph. — What's true → What matters now → What do I do next](fiches/2026-10/gohel-knowledge-context-procedural-graph-2026-10-25.md) — Rakesh Gohel — builder chez JUTEQ (gouvernance et infrastructure de preuve pour agents IA) ; LinkedIn, newsletter rakeshgohel.substack.com. · LinkedIn (Rakesh Gohel) — knowledge graph, graphe de connaissances, context graph
 - **22** [La fin de Valeur × Faisabilité : pourquoi la matrice produit ne sait plus prioriser l'IA](fiches/2026-10/suchaud-wenvision-fin-valeur-faisabilite-prioriser-ia-2026-10-22.md) — Nicolas Suchaud — WEnvision (cabinet de conseil) ; hub Insights, rubrique Intelligence Artificielle. · WEnvision (Nicolas Suchaud) — priorisation IA, matrice Valeur × Faisabilité, quick wins
+- **22** [The Current State of AI Tokenomics | What CFOs Should Know](fiches/2026-10/walker-onlycfo-ai-tokenomics-2026-10-22.md) — Peter Walker — Head of Insights d'OpenRouter ; article invité dans la newsletter OnlyCFO. · OnlyCFO — tokenomics, économie de l'inférence, CFO
 - **21** [Eric Schmidt: Are We Ready for Superintelligence? | Podcast | In Good Company](fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21.md) — Eric Schmidt (invité), ancien PDG de Google ; Nicolai Tangen (hôte), directeur général de Norges Bank Investment Management. · In Good Company (NBIM) — superintelligence, AGI, découverte scientifique
 - **16** [Build or surrender](fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16.md) — Arthur Mensch (@arthurmensch) — cofondateur et directeur général de Mistral AI ; article publié sur X. · X — souveraineté IA, modèles de frontière, IA de frontière
 - **16** [How employment is changing at Anthropic](fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16.md) — Nathan Wilmers, Regina Catipon, Maxim Massenkoff, Peter McCrory — équipe Economics d'Anthropic ; rapport publié sur anthropic.com/research. · Anthropic Research — emploi, marché du travail, Anthropic
@@ -971,6 +972,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Économie & Marché
 
+- [The Current State of AI Tokenomics | What CFOs Should Know](fiches/2026-10/walker-onlycfo-ai-tokenomics-2026-10-22.md) — Peter Walker — Head of Insights d'OpenRouter ; article invité dans la newsletter OnlyCFO.
 - [Eric Schmidt: Are We Ready for Superintelligence? | Podcast | In Good Company](fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21.md) — Eric Schmidt (invité), ancien PDG de Google ; Nicolai Tangen (hôte), directeur général de Norges Bank Investment Management.
 - [Build or surrender](fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16.md) — Arthur Mensch (@arthurmensch) — cofondateur et directeur général de Mistral AI ; article publié sur X.
 - [How employment is changing at Anthropic](fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16.md) — Nathan Wilmers, Regina Catipon, Maxim Massenkoff, Peter McCrory — équipe Economics d'Anthropic ; rapport publié sur anthropic.com/research.
@@ -1107,6 +1109,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Stratégie & Frameworks
 
 - [La fin de Valeur × Faisabilité : pourquoi la matrice produit ne sait plus prioriser l'IA](fiches/2026-10/suchaud-wenvision-fin-valeur-faisabilite-prioriser-ia-2026-10-22.md) — Nicolas Suchaud — WEnvision (cabinet de conseil) ; hub Insights, rubrique Intelligence Artificielle.
+- [The Current State of AI Tokenomics | What CFOs Should Know](fiches/2026-10/walker-onlycfo-ai-tokenomics-2026-10-22.md) — Peter Walker — Head of Insights d'OpenRouter ; article invité dans la newsletter OnlyCFO.
 - [Eric Schmidt: Are We Ready for Superintelligence? | Podcast | In Good Company](fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21.md) — Eric Schmidt (invité), ancien PDG de Google ; Nicolai Tangen (hôte), directeur général de Norges Bank Investment Management.
 - [Build or surrender](fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16.md) — Arthur Mensch (@arthurmensch) — cofondateur et directeur général de Mistral AI ; article publié sur X.
 - [The AI Agenda 2026 — The reality check](fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15.md) — Oliver Wyman Forum — préface de John Romeo (CEO) et Ana Kreacic (COO) ; cinq équipes d'auteurs par chapitre (Aaron Fine, Helen Leis, Adrian Oest, Daniel Cope, Abhishek Sharma et al.).
@@ -1155,6 +1158,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Outils & Plateformes
 
+- [The Current State of AI Tokenomics | What CFOs Should Know](fiches/2026-10/walker-onlycfo-ai-tokenomics-2026-10-22.md) — Peter Walker — Head of Insights d'OpenRouter ; article invité dans la newsletter OnlyCFO.
 - [Welcome to Gemini at Work 2026: Introducing the Gemini agent](fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08.md) — Thomas Kurian — CEO de Google Cloud ; billet du blog Google Cloud adapté de sa keynote.
 - [Introducing Personal Agent Protocol](fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06.md) — Bret Taylor et Clay Bavor — cofondateurs de Sierra, plateforme d'agents IA pour l'expérience client ; billet du blog Sierra.
 - [Introducing Clef: our open-source decision models, and new RL fine-tuning platform](fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01.md) — Michelle Chen, Alex Reneau, Kevin Flansburg — équipe Workers AI / plateforme IA, blog Cloudflare.
@@ -1299,17 +1303,17 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 450 fiches
-- **Par année** : 2026 (273) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 451 fiches
+- **Par année** : 2026 (274) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 169
   - Architecture & Construction : 63
   - Transformation & Adoption : 105
   - Qualité & Sécurité : 57
-  - Économie & Marché : 96
+  - Économie & Marché : 97
   - Philosophie & Société : 33
-  - Stratégie & Frameworks : 46
-  - Outils & Plateformes : 64
+  - Stratégie & Frameworks : 47
+  - Outils & Plateformes : 65
   - Recherche & Éducation : 16
   - Produits & Services : 19
   - Politique & Régulation : 33

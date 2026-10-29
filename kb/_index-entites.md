@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3761 entités
+> 3768 entités
 
 ## #
 
@@ -421,6 +421,7 @@
 - [[kb/article-Personal-AI-Should-Actually-Be-Personal\|article Personal AI Should Actually Be Personal]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#article-The-agentic-transformation-office\|article The agentic transformation office]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#article-The-AI-operating-system\|article The AI operating system]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#article-The-Current-State-of-AI-Tokenomics\|article The Current State of AI Tokenomics]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#article-The-Dot-and-the-Swarm\|article The Dot and the Swarm]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#article-Training-AI-to-Paint-with-Code\|article Training AI to Paint with Code]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#article-What-if-the-future-does-not-need-you\|article What if the future does not need you]] (DOCUMENT, 1 fiches)
@@ -1999,6 +2000,7 @@
 - [[kb/_entites-mineures#labs-d'IA\|labs d'IA]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Lakana-360\|Lakana 360]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Lance-Martin\|Lance Martin]] (PERSONNE, 2 fiches)
+- [[kb/_entites-mineures#Landed-cost\|Landed cost]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#langage-naturel\|langage naturel]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Langage-ubiquitaire\|Langage ubiquitaire]] (CONCEPT, 1 fiches)
 - [[kb/LangChain-organisation\|LangChain]] (ORGANISATION, 4 fiches)
@@ -2480,6 +2482,7 @@
 - [[kb/One-Useful-Thing-document\|One Useful Thing]] (DOCUMENT, 3 fiches)
 - [[kb/One-Useful-Thing-organisation\|One Useful Thing]] (ORGANISATION, 3 fiches)
 - [[kb/_entites-mineures#OneHelp\|OneHelp]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#OnlyCFO\|OnlyCFO]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Onsite-AI-native\|Onsite AI-native]] (METHODOLOGIE, 1 fiches)
 - [[kb/Ontologie\|Ontologie]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Ontologie-comme-backbone-IA\|Ontologie comme backbone IA]] (CONCEPT, 1 fiches)
@@ -2488,7 +2491,7 @@
 - [[kb/_entites-mineures#OON_WEIGHT_FACTOR\|OON_WEIGHT_FACTOR]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Opascope\|Opascope]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Open-Source-Initiative\|Open Source Initiative]] (ORGANISATION, 1 fiches)
-- [[kb/open-weights\|open-weights]] (CONCEPT, 3 fiches)
+- [[kb/open-weights\|open-weights]] (CONCEPT, 4 fiches)
 - [[kb/OpenAI\|OpenAI]] (ORGANISATION, 23 fiches)
 - [[kb/_entites-mineures#OpenAI-Agents-SDK\|OpenAI Agents SDK]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#OpenAI-API\|OpenAI API]] (TECHNOLOGIE, 1 fiches)
@@ -2502,6 +2505,8 @@
 - [[kb/_entites-mineures#OpenClaude\|OpenClaude]] (TECHNOLOGIE, 1 fiches)
 - [[kb/OpenClaw\|OpenClaw]] (TECHNOLOGIE, 6 fiches)
 - [[kb/OpenCode\|OpenCode]] (TECHNOLOGIE, 3 fiches)
+- [[kb/_entites-mineures#OpenRouter\|OpenRouter]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#OpenRouter\|OpenRouter]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#OpenSearch-protocol\|OpenSearch protocol]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#OpenSMTPD\|OpenSMTPD]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Operator\|Operator]] (TECHNOLOGIE, 1 fiches)
@@ -2607,6 +2612,7 @@
 - [[kb/Peter-Aideloje\|Peter Aideloje]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Peter-McCrory\|Peter McCrory]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#Peter-Steinberger\|Peter Steinberger]] (PERSONNE, 2 fiches)
+- [[kb/Peter-Walker\|Peter Walker]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Peter-Weill\|Peter Weill]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Peur-de-devenir-superflu\|Peur de devenir superflu]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Pew-Research\|Pew Research]] (ORGANISATION, 1 fiches)
@@ -2753,7 +2759,7 @@
 - [[kb/Project-Prometheus\|Project Prometheus]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Projet-Aristotle\|Projet Aristotle]] (EVENEMENT, 1 fiches)
 - [[kb/projet-Paint-with-Code\|projet Paint with Code]] (METHODOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#Prompt-caching\|Prompt caching]] (CONCEPT, 1 fiches)
+- [[kb/Prompt-caching\|Prompt caching]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#Prompt-Engineering\|Prompt Engineering]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#prompt-structuré\|prompt structuré]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#promptfoo\|promptfoo]] (TECHNOLOGIE, 1 fiches)
@@ -3762,6 +3768,7 @@
 - [[kb/Zed\|Zed]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Zeno's-paradox-of-AI\|Zeno's paradox of AI]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#zero-blast-radius\|zero blast radius]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Zero-Data-Retention\|Zero Data Retention]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Zero-Trust\|Zero Trust]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Zero-Trust-Architecture\|Zero Trust Architecture]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Zero-Trust-for-Agents\|Zero Trust for Agents]] (DOCUMENT, 1 fiches)

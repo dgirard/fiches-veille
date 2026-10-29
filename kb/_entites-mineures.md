@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 3134 entités avec moins de 3 triples/fiches
+> 3139 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (429)
 
@@ -4317,7 +4317,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (334)
+## ORGANISATION (336)
 
 ### 10x {#10x}
 
@@ -6611,6 +6611,16 @@
 
 **Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
+### OnlyCFO {#OnlyCFO}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Newsletter Substack destinée aux directeurs financiers
+
+- **publie** → [[kb/_entites-mineures#article-The-Current-State-of-AI-Tokenomics\|article The Current State of AI Tokenomics]] (DOCUMENT) — 0.95
+
+**Fiches** : [[fiches/2026-10/walker-onlycfo-ai-tokenomics-2026-10-22\|The Current State of AI Tokenomics - What CFOs Should Know]]
+
 ### Opascope {#Opascope}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -6638,6 +6648,19 @@
 - [[kb/OpenAI\|OpenAI]] **a_créé** → OpenAI Group PBC — 0.98
 
 **Fiches** : [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
+
+### OpenRouter {#OpenRouter}
+
+**Type** : ORGANISATION | 3 relations | 1 fiches
+
+- **secteur** : Passerelle et marketplace d'inférence donnant accès à des centaines de LLM par un seul compte
+
+- **utilise** → [[kb/_entites-mineures#Landed-cost\|Landed cost]] (CONCEPT) — 0.90
+- **améliore** → « taux de succès des requêtes de 92,8 % à 96,9 % par bascule automatique » (MESURE) — 0.88
+
+- [[kb/Peter-Walker\|Peter Walker]] **travaille_chez** → OpenRouter — 0.97
+
+**Fiches** : [[fiches/2026-10/walker-onlycfo-ai-tokenomics-2026-10-22\|The Current State of AI Tokenomics - What CFOs Should Know]]
 
 ### Oracle {#Oracle}
 
@@ -7751,7 +7774,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (688)
+## TECHNOLOGIE (689)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -8859,7 +8882,7 @@
 
 ### Claude Opus {#Claude-Opus}
 
-**Type** : TECHNOLOGIE | 6 relations | 2 fiches
+**Type** : TECHNOLOGIE | 7 relations | 2 fiches
 
 - **statut** : Versions 4.6, 4.7 et 4.8 ciblées par les campagnes de distillation ; Opus 5 rédige une demande de subvention orthopoxvirus sans blocage
 - **versions citées** : Opus 4.8 (départ), Opus 5.5 (effort bas : 87,8 % à 1,9 centime par ticket)
@@ -8871,6 +8894,7 @@
 - [[kb/hyperresearch\|hyperresearch]] **utilise** → Claude Opus — 0.93
 - [[kb/Kiro\|Kiro]] **utilise** → Claude Opus — 0.90
 - [[kb/_entites-mineures#Qwen\|Qwen]] **est_basé_sur** → Claude Opus — 0.88
+- [[kb/Kimi-K3\|Kimi K3]] **concurrence** → Claude Opus — 0.75
 
 **Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]], [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
 
@@ -12106,6 +12130,19 @@
 
 **Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Google's Design.md is a design team in a file (Greg Isenberg × Meng To)]]
 
+### OpenRouter {#OpenRouter}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **catégorie** : Passerelle d'inférence multi-fournisseurs ; routage par défaut au landed cost, bascule automatique
+
+- **utilise** → [[kb/_entites-mineures#Landed-cost\|Landed cost]] (CONCEPT) — 0.90
+- **améliore** → « taux de succès des requêtes de 92,8 % à 96,9 % par bascule automatique » (MESURE) — 0.88
+
+- [[kb/Peter-Walker\|Peter Walker]] **travaille_chez** → OpenRouter — 0.97
+
+**Fiches** : [[fiches/2026-10/walker-onlycfo-ai-tokenomics-2026-10-22\|The Current State of AI Tokenomics - What CFOs Should Know]]
+
 ### OpenSMTPD {#OpenSMTPD}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -14984,7 +15021,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1039)
+## CONCEPT (1040)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -17825,6 +17862,17 @@
 
 **Fiches** : [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|HOW TECH COMPANIES MEASURE THE IMPACT OF AI ON SOFTWARE DEVELOPMENT]]
 
+### Landed cost {#Landed-cost}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Prix effectif d'une requête : prix après remise de cache + coût d'attente + coût des reprises
+
+- [[kb/Peter-Walker\|Peter Walker]] **recommande** → Landed cost — 0.92
+- [[kb/_entites-mineures#OpenRouter\|OpenRouter]] **utilise** → Landed cost — 0.90
+
+**Fiches** : [[fiches/2026-10/walker-onlycfo-ai-tokenomics-2026-10-22\|The Current State of AI Tokenomics - What CFOs Should Know]]
+
 ### Langage ubiquitaire {#Langage-ubiquitaire}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -18625,20 +18673,6 @@
 - **permet** → fatigue de changement de contexte (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2026-02/fowler-thoughtworks-retreat-llm-software-development-2026-02-13\|Fragments: February 13]]
-
-### Prompt caching {#Prompt-caching}
-
-**Type** : CONCEPT | 4 relations | 1 fiches
-
-- **description** : Mécanisme de réutilisation du prefill par correspondance de préfixe
-
-- **réduit** → recalcul du prefill (CONCEPT) — 0.97
-- **réduit** → Coût d'entrée (CONCEPT) — 0.85
-
-- [[kb/Claude-Code\|Claude Code]] **est_basé_sur** → Prompt caching — 0.98
-- [[kb/GPT-5.6\|GPT-5.6]] **utilise** → Prompt caching — 0.90
-
-**Fiches** : [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Lessons from Building Claude Code: Prompt Caching Is Everything]]
 
 ### Provenance du code {#Provenance-du-code}
 
@@ -19921,6 +19955,16 @@
 - **s_applique_à** → gap structurel modèle-humain (CONCEPT) — 0.94
 
 **Fiches** : [[fiches/2026-05/shipper-every-after-automation-frame-framer-2026-05-21\|After Automation]]
+
+### Zero Data Retention {#Zero-Data-Retention}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Endpoint qui ne conserve pas les données des requêtes ; disponible pour 93 % des tokens sur OpenRouter
+
+- [[kb/Peter-Walker\|Peter Walker]] **recommande** → Zero Data Retention — 0.88
+
+**Fiches** : [[fiches/2026-10/walker-onlycfo-ai-tokenomics-2026-10-22\|The Current State of AI Tokenomics - What CFOs Should Know]]
 
 ### Zero Trust {#Zero-Trust}
 
@@ -26111,13 +26155,15 @@
 
 ### FinOps {#FinOps}
 
-**Type** : METHODOLOGIE | 2 relations | 2 fiches
+**Type** : METHODOLOGIE | 3 relations | 2 fiches
 
 - **application** : Maîtrise de l'efficience du coût des tokens (analogie cloud)
 - **catégorie** : Optimisation financière cloud
 
 - **s_applique_à** → coût des tokens (CONCEPT) — 0.90
 - **réduit** → coûts cloud 20-30% (CONCEPT) — 0.88
+
+- [[kb/Peter-Walker\|Peter Walker]] **référence** → FinOps — 0.72
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]], [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud : l'ère des prédateurs pour vos budgets IT]]
 
@@ -29911,7 +29957,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (175)
+## DOCUMENT (176)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -31401,6 +31447,19 @@
 - [[kb/McKinsey\|McKinsey]] **publie** → article The AI operating system — 0.97
 
 **Fiches** : [[fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01\|The AI operating system: A new way for CEOs to run the enterprise]]
+
+### article The Current State of AI Tokenomics {#article-The-Current-State-of-AI-Tokenomics}
+
+**Type** : DOCUMENT | 3 relations | 1 fiches
+
+- **nature** : Article invité dans OnlyCFO, 22 octobre 2026, données OpenRouter
+
+- **est_basé_sur** → « données de trafic d'OpenRouter » (AFFIRMATION) — 0.95
+
+- [[kb/Peter-Walker\|Peter Walker]] **publie** → article The Current State of AI Tokenomics — 0.98
+- [[kb/_entites-mineures#OnlyCFO\|OnlyCFO]] **publie** → article The Current State of AI Tokenomics — 0.95
+
+**Fiches** : [[fiches/2026-10/walker-onlycfo-ai-tokenomics-2026-10-22\|The Current State of AI Tokenomics - What CFOs Should Know]]
 
 ### article The Dot and the Swarm {#article-The-Dot-and-the-Swarm}
 

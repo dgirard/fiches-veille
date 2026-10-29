@@ -117,6 +117,7 @@
 
 - [[kb/OpenAI\|OpenAI]] (ORGANISATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
+  - [[fiches/2026-10/walker-onlycfo-ai-tokenomics-2026-10-22\|The Current State of AI Tokenomics - What CFOs Should Know]]
 
 ### emploie
 

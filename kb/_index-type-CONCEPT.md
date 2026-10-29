@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1094 entités de type CONCEPT
+> 1096 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -324,6 +324,7 @@
 - [[kb/_entites-mineures#Jugement-du-modèle\|Jugement du modèle]] — principe: Laisser le modèle arbitrer le "comment" plutôt que lui dicter des règles rigides (1 occ., 1 fiches)
 - [[kb/_entites-mineures#LAYS\|LAYS]] — définition: Learning-Adjusted Years of Schooling — métrique d'efficacité éducative (1 occ., 1 fiches)
 - [[kb/_entites-mineures#LOC\|LOC]] — évaluation: Mauvaise mesure de productivité développeur (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Landed-cost\|Landed cost]] — définition: Prix effectif d'une requête : prix après remise de cache + coût d'attente + coût des reprises (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Langage-ubiquitaire\|Langage ubiquitaire]] — usage IA: Dictionnaire de domaine injecté dans le contexte de l'IA (.clinerules, templates) ; base de system prompt (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Life-Sciences-Verification-Program\|Life Sciences Verification Program]] — nature: Programme d'accès vérifié sciences du vivant, monté avec le gouvernement US (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Limites-d'usage-IA\|Limites d'usage IA]] — description: Plafonds imposés par fournisseurs IA segmentant utilisateurs en gratuit/premium/API (1 occ., 1 fiches)
@@ -411,7 +412,7 @@
 - [[kb/_entites-mineures#Productivité-3-5×-(médiane-committée)\|Productivité 3-5× (médiane committée)]] — convergence: Tatsyi (story-points ×1.5-3, ×4.5 volume code Claude stack), Frizzo (LinkedIn 2026-05-05), Wescale (2026-05-03), Curran/Intercom (2026-04-16), DORA Report 2025, Stanford Denisov-Blanch (2025-11-23) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Productized-solutions\|Productized solutions]] — définition: Concept Mandese — transformation des services agences en produits packagés reproductibles. Convergence avec Curran Skills-Based Plugin Architecture et Lattice atoms/molecules (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Programmation-supervisée\|Programmation supervisée]] — catégorie: Nouveau paradigme de développement avec agents IA (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Prompt-caching\|Prompt caching]] — description: Mécanisme de réutilisation du prefill par correspondance de préfixe (1 occ., 1 fiches)
+- [[kb/Prompt-caching\|Prompt caching]] — description: Mécanisme de réutilisation du prefill par correspondance de préfixe (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Provenance-du-code\|Provenance du code]] — définition: Mention de l'outil ou de l'agent ayant contribué à un code ou un commit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Présentation-live\|Présentation live]] — condition: Réservée à la présence synchrone : influence, objections en temps réel, pitch, célébration (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Public-wealth-fund\|Public wealth fund]] — définition: Fonds donnant à tous les citoyens une equity stake dans les A.I. companies (proposition OpenAI) (1 occ., 1 fiches)
@@ -548,6 +549,7 @@
 - [[kb/_entites-mineures#X3-X4-(gains-réalistes)\|X3-X4 (gains réalistes)]] — définition: Productivité réellement observée vs fantasme X10 — projet d'industrialisation, ROI non immédiat (1 occ., 1 fiches)
 - [[kb/_entites-mineures#You-land-it,-you-own-it\|You land it, you own it]] — définition: Norme d'équipe : l'auteur d'un changement petit ou moyen corrige ce qui casse, sans blâme (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zeno's-paradox-of-AI\|Zeno's paradox of AI]] — définition: Métaphore Shipper — Achille (IA) court vers la tortue (humain) mais la tortue *« is alive to a specific moment »*, elle bouge en permanence vers de nouveaux problèmes, Achille ne la rattrape jamais (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Zero-Data-Retention\|Zero Data Retention]] — définition: Endpoint qui ne conserve pas les données des requêtes ; disponible pour 93 % des tokens sur OpenRouter (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zero-Trust\|Zero Trust]] — définition: Aucun artefact ni contributeur n'est de confiance par défaut (1 occ., 1 fiches)
 - [[kb/_entites-mineures#`panic!(-Not-implemented-to_thrift-for-...-)`-stubs\|`panic!("Not implemented: to_thrift for ...")` stubs]] — définition: Marqueurs présents dans candidate_features.rs et user_features.rs — confirment que le release public ne tourne pas end-to-end contre les services internes X (1 occ., 1 fiches)
 - [[kb/_entites-mineures#acceptance-rate\|acceptance rate]] — statut: Métrique en déclin, portée trop étroite (1 occ., 1 fiches)
@@ -875,7 +877,7 @@
 - [[kb/_entites-mineures#noyau-ontologique\|noyau ontologique]] — catégorie: Structure conceptuelle fondamentale d'entreprise (1 occ., 1 fiches)
 - [[kb/_entites-mineures#observabilité\|observabilité]] — définition: Capacité inspecter décisions et raisonnement agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#onboarding-quotidien-LLM\|onboarding quotidien LLM]] — principe: Rappeler le contexte global au LLM à chaque session (1 occ., 1 fiches)
-- [[kb/open-weights\|open-weights]] — lecture géopolitique (Ball): Intrinsèquement décélérationnistes : dissuadent le capex IA et créent un « voile d'ingouvernabilité » sur l'IA ; leur généralisation mènerait au « communisme de l'IA » (3 occ., 3 fiches)
+- [[kb/open-weights\|open-weights]] — lecture géopolitique (Ball): Intrinsèquement décélérationnistes : dissuadent le capex IA et créent un « voile d'ingouvernabilité » sur l'IA ; leur généralisation mènerait au « communisme de l'IA » (4 occ., 4 fiches)
 - [[kb/_entites-mineures#opportunité-IA-agentique-services-et-conseil\|opportunité IA agentique services et conseil]] — taille estimée: +400 Md$ par an à horizon 2030 (estimation Capgemini) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#optimisme-déterminé\|optimisme déterminé]] — opposé: Optimisme indéterminé (avenir passif) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#optimisme-indéterminé\|optimisme indéterminé]] — catégorie: Posture opposée à l'optimisme déterminé : attendre un futur meilleur sans plan pour l'obtenir (1 occ., 1 fiches)

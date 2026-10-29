@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 881 entités de type TECHNOLOGIE
+> 882 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -546,6 +546,7 @@
 - [[kb/_entites-mineures#OpenClaude\|OpenClaude]] — catégorie: Variante open / locale de Claude Code mentionnée par Meng (1 occ., 1 fiches)
 - [[kb/OpenClaw\|OpenClaw]] — categorie: Agent IA persistant 24/7 (6 occ., 6 fiches)
 - [[kb/OpenCode\|OpenCode]] — catégorie: Agent de codage open source (3 occ., 3 fiches)
+- [[kb/_entites-mineures#OpenRouter\|OpenRouter]] — catégorie: Passerelle d'inférence multi-fournisseurs ; routage par défaut au landed cost, bascule automatique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenSMTPD\|OpenSMTPD]] — catégorie: Serveur mail open-source pour Unix/OpenBSD (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenSearch-protocol\|OpenSearch protocol]] — rôle: Protocole d'intégration moteurs de recherche alternatifs dans Chrome (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Operator\|Operator]] — statut: Rebrandé en ChatGPT Agent (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 205 entités de type DOCUMENT
+> 206 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -167,6 +167,7 @@
 - [[kb/_entites-mineures#article-Linux-kernel-devs-drop-obligatory-confession\|article Linux kernel devs drop obligatory confession]] — catégorie: Article The Register, 14 octobre 2026 (1 occ., 1 fiches)
 - [[kb/article-Personal-AI-Should-Actually-Be-Personal\|article Personal AI Should Actually Be Personal]] — forme: Fil X du 29 septembre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-The-AI-operating-system\|article The AI operating system]] — catégorie: Article McKinsey/QuantumBlack, octobre 2026, 12 pages (1 occ., 1 fiches)
+- [[kb/_entites-mineures#article-The-Current-State-of-AI-Tokenomics\|article The Current State of AI Tokenomics]] — nature: Article invité dans OnlyCFO, 22 octobre 2026, données OpenRouter (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-The-Dot-and-the-Swarm\|article The Dot and the Swarm]] — date: 2026-10-01 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-The-agentic-transformation-office\|article The agentic transformation office]] — catégorie: Article McKinsey Transformation Practice, septembre 2026, 8 pages (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-Training-AI-to-Paint-with-Code\|article Training AI to Paint with Code]] — date: 2026-03 (1 occ., 1 fiches)
