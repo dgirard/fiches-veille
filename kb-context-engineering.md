@@ -1,6 +1,6 @@
 # Knowledge Base — Context Engineering
 
-> 113 fiches | Période : Mai 2025 — Octobre 2026 | Mis à jour le 2026-10-26
+> 134 fiches | Période : Mai 2025 — Novembre 2026 | Mis à jour le 2026-11-21
 
 ## Vue d'ensemble
 
@@ -88,6 +88,23 @@ se **filtre** et se **structure** : chez GPT Researcher, *« le seuil compte plu
 que le classement »* (73 % de passages pertinents contre 46 % aux embeddings) ;
 chez Gohel, la procédure se stocke *« as a graph instead of a prompt »*, à côté
 d'un knowledge graph et d'un context graph scopé par décision.
+
+**Novembre 2026 pose la question de la propriété du contexte.** Anthropic
+(Lance Martin) donne une définition restrictive de la mémoire d'agent — des
+fichiers que l'agent écrit, relit et corrige entre sessions — et des mesures
+(CL-Bench, Opus 5.5 de **0,655** à **0,838** avec mémoire). Garry Tan formule
+l'équation **modèle loué, contexte possédé, harnais** ; Tencent ajoute un terme
+à *« Model + Harness = Agent »* : *« Memory »*. La série SFEIR sur la mémoire
+d'agent en tire une architecture en deux couches : une copie maîtresse en
+Markdown dans un dépôt Git, un index par-dessus (GBrain, TencentDB Agent
+Memory) qu'on doit pouvoir supprimer et reconstruire. Le même fichier
+d'instructions apparaît aussi comme surface d'attaque : un `AGENTS.md` déposé
+dans Téléchargements a détourné Codex dans plus de **90 %** des essais de
+laboratoire (Forever Security), d'où la règle *« An instruction file can change
+what the agent tries. It must never change what the agent is allowed to do »*.
+Côté vérification, l'équipe Claude Code lit son `REVIEW.md` **depuis la branche
+de base**, jamais depuis la PR, et Factory mesure le code « prêt pour les
+agents » à la **densité de ses boucles de validation déterministes**.
 
 ## Chronologie
 
@@ -335,6 +352,11 @@ d'un knowledge graph et d'un context graph scopé par décision.
   d'alimentation en contexte élaborés ont été dépassés par des modèles qui
   cherchent et planifient seuls ; essaim OpenAI de **88 heures** et ~**2,7 M**
   de messages à coordination *« remarkably thin »*.
+- **8 oct. 2026** — **L'advisor de Claude Code** (SFEIR) : Sonnet 5.5 en
+  principal, Opus 5.5 consulté avant de s'engager, subagent Explore épinglé sur
+  Haiku 5.5 sans outils d'écriture ; sans consigne dans `CLAUDE.md`, aucune
+  consultation sur **198** questions GPQA. Chaque appel relit tout le transcript,
+  sans cache.
 - **9 oct. 2026** — **Osmani, les trois joies** (*making*, *knowing*,
   *mattering*) : la compréhension du code est la plus exposée — *« si vous ne
   comprenez pas votre propre base de code, c'est l'agent qui vous dirige »*.
@@ -354,10 +376,82 @@ d'un knowledge graph et d'un context graph scopé par décision.
   détecteur de mensonges des tests générés par IA »* ; le cas refait en SDLC
   craft (Example Mapping, TDD, DDD, hexagonal) ; *« Software factories = Loop
   Engineering + Harness Engineering + Supervision humaine »*.
+- **15 oct. 2026** — **Migration WinDev** (SFEIR, d'après Hamadi Jabloun) :
+  *« L'IA ne doit pas commencer par écrire le nouveau code. Elle doit commencer
+  par écrire la spécification de l'ancien »* ; prompt d'archéologie en Gherkin
+  lancé dans deux sessions comme détecteur d'hallucination ; golden master
+  inversé (*« aucun test dont le LLM a écrit les valeurs attendues »*) ; effort
+  humain à **80 %** planification et revue.
+- **15 oct. 2026** — **Les limites de REA** (SFEIR) : un catalogue de **170**
+  outils MCP pèse ~1,95 Mo, *« roughly half a million tokens »* avant toute
+  action ; le profil compact de la 6.7.0 le divise par quatorze.
+- **22 oct. 2026** — **Panorama de 33 agents de code** (SFEIR) : le modèle ne
+  départage plus les outils (moins de **1 000** tokens de contexte fixe sous Pi
+  contre ~**6 900** sous OpenCode) ; **27 sur 33** lisent `AGENTS.md` ;
+  recommandation *« deux harnais et un AGENTS.md »*.
 - **25 oct. 2026** — **Gohel, trois graphes** : knowledge graph (*what is
   true*), context graph scopé par décision (*what matters now*), procedural
   graph en triplets procédure-relation-procédure (*what to do next*) ; les
   traces de succès et d'échec réécrivent les trois.
+
+### 2026 — Fin octobre-novembre : la mémoire possédée, le fichier d'instructions exposé
+
+- **27 oct. 2026** — **`AGENTS.md` piégé dans Téléchargements** (Forever
+  Security, lu par SFEIR) : le fichier fait ajouter un serveur MCP à la
+  configuration globale de Codex (plus de **90 %** de réussite en laboratoire ;
+  environ une fois sur deux pour une variante sur Claude Code, avec approbation
+  humaine). *« Markdown is the new executable »* : `AGENTS.md` et `CLAUDE.md`
+  rangés dans la supply chain logicielle.
+- **27 oct. 2026** — **Glean et la couche de contexte** (SFEIR) : plus de
+  **275** connecteurs, un *Enterprise Graph*, et une recommandation de
+  portabilité contractuelle — *« vos connecteurs, vos permissions et votre
+  graphe de connaissances valent plus que l'outil qui les exploite »*.
+- **29 oct. 2026** — **GitLab Orbit en GA** : graphe en lecture seule reliant
+  le code (branche par défaut) aux MR, pipelines et vulnérabilités, servi par
+  skill, hook ou MCP ; *« The model isn't the constraint. Context is. »* Le seul
+  test client publié (Compare the Market, **79** MR) mesure **0,696** de
+  couverture contre **0,658** sans contexte, pour une revue quatre fois plus
+  chère : *« more context isn't always better; precision matters as much as
+  coverage »*.
+- **10 nov. 2026** — **Eno Reyes (Factory), track FDE du World's Fair** : le
+  code « prêt pour les agents » se mesure à la densité de ses boucles de
+  validation déterministes (analogie avec la récompense dense) ; **15 à 20 %**
+  d'autonomie mesurés sur le code de Factory.
+- **13 nov. 2026** — **Sortir de Jira** (SFEIR) : le ticket rejoint le dépôt où
+  travaille l'agent ; cas Warmtebouw (**165** tickets Markdown dans **10**
+  repos, ~1 h de maintenance par semaine) ; quinze outils notés sur huit
+  critères agent, Backlog.md (4,5) et Beads (4,4) devant Jira Cloud + Rovo MCP
+  (2,6).
+- **14 nov. 2026** — **Série SFEIR sur la mémoire d'agent.** Restitution de
+  *« The components of agent memory »* (Lance Martin, Anthropic, 6 nov.) :
+  quatre couches (transcripts, notes, wikis, contexte injecté), passe hors ligne
+  de *dreaming*, consigne *« tell Claude what memory is for, but not how to use
+  it »* ; n'enregistrer que les échecs retire **0,234** au gain d'Opus 5. Lecture
+  DSI de *« Own Your Intelligence »* (Garry Tan) ; GBrain (Markdown + Postgres,
+  graphe typé sans LLM, **32 865** étoiles) ; TencentDB Agent Memory 2.0 (hub
+  d'équipe, Proxy qui injecte mémoire et skills dans le prompt système) ;
+  comparaison Git / hub / mémoire native sur six critères, sous l'angle de la
+  souveraineté. Chapeau : le trou entre six agents à mémoires séparées
+  (**Ephemeral Intelligence Gap**) et cinq règles d'équipe, dont l'écriture
+  d'agent par PR relue et un test de réversibilité trimestriel.
+- **15 nov. 2026** — **Agents always-on** (guide Anthropic de William Hu, lu par
+  SFEIR) : cinq primitives autour de la boucle (inbox à worker unique, timers,
+  mémoire en fichiers dont seul un index est chargé au réveil, permissions,
+  outbox) ; *« only hold what the agent can't look up again »*.
+- **15 nov. 2026** — **Les garde-fous du site sfeir.com** : **77 %** des
+  commits co-signés par un agent ; fichier d'instructions de **609** lignes,
+  **109** plans, **34** notes de solutions ; au build, *bloquer ce qui est
+  binaire, signaler ce qui demande un jugement* ; huit incidents devenus
+  contrôles.
+- **16 nov. 2026** — **« Building the Claude API for the Frontier »** (lu par
+  SFEIR) : effort et system prompt modifiables en cours de conversation sans
+  invalider le cache ; objectif de **90 %** de taux de cache ; chaque migration
+  de modèle appelle une revue du harnais.
+- **19 nov. 2026** — **Comment l'équipe Claude Code vérifie** (Osmani, lu par
+  SFEIR) : end-to-end en priorité, skill `verify` à trois tentatives avant un
+  humain, checklist de **39** items déclenchés par le diff, barrière de commit
+  *off / observe / enforce*, ratés convertis en hooks ou en règles de
+  `CLAUDE.md`.
 
 ## Fiches sources
 
@@ -389,6 +483,10 @@ d'un knowledge graph et d'un context graph scopé par décision.
 - [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification (Osmani) : boucles auto-vérifiantes, tests E2E, de propriétés et différentiels, le contrôle écrit avant le code]]
 - [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review : sept couches, approbation graduée par le risque, relecteur évalué sur les incidents passés]]
 - [[fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15\|Quand la vélocité explose, place au Harness Engineering (Bartaguiz) : 100 % de couverture annoncée, 33 % mesurés, mutation testing à 13,82 %]]
+- [[fiches/2026-10/sfeir-windev-golden-master-inverse-2026-10-15\|Golden master inversé (SFEIR, migration WinDev) : « aucun test dont le LLM a écrit les valeurs attendues », le legacy seul produit les sorties, score de mutation plutôt que couverture]]
+- [[fiches/2026-10/sfeir-agents-md-telechargements-codex-claude-code-2026-10-27\|AGENTS.md piégé dans Téléchargements (SFEIR) : Codex détourné dans plus de 90 % des essais, « Markdown is the new executable », parades managed-settings et requirements.toml]]
+- [[fiches/2026-11/sfeir-garde-fous-site-agents-ia-2026-11-15\|Les garde-fous d'un site écrit par des agents (SFEIR) : 77 % de commits co-signés, instructions de 609 lignes, bloquer le binaire, signaler le jugement]]
+- [[fiches/2026-11/sfeir-verification-code-agents-claude-code-2026-11-19\|Comment l'équipe Claude Code vérifie le code de ses agents (SFEIR) : end-to-end d'abord, skill verify, REVIEW.md lu depuis la branche de base, barrière off/observe/enforce]]
 
 ### Usines logicielles & boucles
 
@@ -401,6 +499,8 @@ d'un knowledge graph et d'un context graph scopé par décision.
 - [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz (Petersen) : forge Git sur son propre relais, chaque push/revue/fusion est un événement Nostr signé]]
 - [[fiches/2026-09/reyes-factory-building-machine-software-2026-09-22\|Building the Machine That Builds the Software (Reyes, Factory) : boucle de signaux, goulot du harnais puis de l'agent readiness]]
 - [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm (Mollick) : la Leçon amère appliquée à l'organisation des agents, essaims à coordination mince]]
+- [[fiches/2026-10/sfeir-migration-windev-software-factory-10x-2026-10-15\|Migrer WinDev avec la Software Factory 10x (SFEIR) : six étapes sur le SDLC à onze phases, trois gates humaines, 80 % planification et revue]]
+- [[fiches/2026-11/sfeir-fde-factory-eno-reyes-2026-11-10\|Factory envoie ses FDE préparer le code des clients pour les agents (Reyes) : code prêt = densité de boucles de validation déterministes, 15-20 % d'autonomie mesurés]]
 
 ### Adoption, rôles & économie des tokens
 
@@ -453,6 +553,8 @@ d'un knowledge graph et d'un context graph scopé par décision.
 - [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering (Böckeler/Thoughtworks) : confiance via guides feedforward et capteurs feedback]]
 - [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|Anatomie d'un harnais d'agent (LangChain) : composants fondamentaux, évolution des harnais]]
 - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering OpenAI/Codex : 1M lignes de code zéro écriture manuelle, environnement agent-first]]
+- [[fiches/2026-10/sfeir-agents-de-code-panorama-criteres-choix-2026-10-22\|Agents de code : les critères avant le benchmark (SFEIR) : 33 harnais, contexte fixe de 1 000 à 6 900 tokens à modèle égal, 27/33 lisent AGENTS.md]]
+- [[fiches/2026-11/sfeir-agents-always-on-anthropic-ax-google-2026-11-15\|Agents always-on (SFEIR) : cinq primitives d'Anthropic (inbox, timers, mémoire en fichiers, permissions, outbox) face à Agent Executor de Google]]
 
 ### Prompt Caching & Context Windows
 
@@ -460,6 +562,8 @@ d'un knowledge graph et d'un context graph scopé par décision.
 - [[fiches/2026-02/lancemartin-anthropic-prompt-auto-caching-claude-2026-02\|Auto-caching prompts Claude : mécanisme technique, API cache_control, économies 90% tokens]]
 - [[fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14\|Gestion de sessions Claude Code : fenêtre 1M tokens, compaction, rewind, subagents, pourriture de contexte]]
 - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|Post-mortem qualité Claude Code : trois incidents caching/reasoning/prompt (mars-avril 2026)]]
+- [[fiches/2026-10/sfeir-rea-limites-2026-10-15\|Les limites réelles de REA (SFEIR) : 170 outils MCP ≈ un demi-million de tokens avant toute action, profil compact ÷14, sorties qui saturent la fenêtre]]
+- [[fiches/2026-11/sfeir-api-claude-cache-effort-migrations-2026-11-16\|Votre facture Claude est trop haute ? (SFEIR) : effort et system prompt modifiables sans casser le cache, objectif 90 % de taux de cache, migration = revue du harnais]]
 
 ### Context-Driven Platforms
 
@@ -467,6 +571,17 @@ d'un knowledge graph et d'un context graph scopé par décision.
 - [[fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17\|Conductor Google - extension Gemini CLI développement piloté par le contexte]]
 - [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext: Context Data Platform for Cloud-Native AI Agents]]
 - [[fiches/2026-05/gupta-token-budget-wars-marginal-token-utility-2026-05-28\|Token Budget Wars : token-to-outcome attribution, decision traces, "measurement becomes memory" → context graph]]
+- [[fiches/2026-10/sfeir-glean-couche-de-contexte-2026-10-27\|Glean, Anthropic et la bataille de la couche de contexte (SFEIR) : 275+ connecteurs, Enterprise Graph, portabilité contractuelle du contexte]]
+- [[fiches/2026-10/sfeir-gitlab-orbit-graphe-contexte-2026-10-29\|GitLab Orbit en GA (SFEIR) : graphe code + cycle de vie servi aux agents, 0,696 contre 0,658 de couverture pour une revue quatre fois plus chère]]
+
+### Mémoire d'agent possédée — fichiers, Git et index jetable (série SFEIR, nov. 2026)
+
+- [[fiches/2026-11/sfeir-components-agent-memory-anthropic-2026-11-14\|The components of agent memory (Lance Martin, lu par SFEIR) : quatre couches, dreaming, CL-Bench 0,655 → 0,838, « tell Claude what memory is for, but not how to use it »]]
+- [[fiches/2026-11/sfeir-posseder-memoire-agent-depot-git-2026-11-14\|Posséder sa mémoire d'agent (SFEIR) : Ephemeral Intelligence Gap, copie maîtresse Markdown dans Git, index reconstructible, cinq règles d'équipe]]
+- [[fiches/2026-11/sfeir-own-your-intelligence-lecture-dsi-2026-11-14\|Own Your Intelligence lu par une DSI (SFEIR) : modèle loué, contexte possédé, harnais ; skills comme actif, RGPD et propriété des skills]]
+- [[fiches/2026-11/sfeir-gbrain-memoire-garry-tan-2026-11-14\|GBrain (Garry Tan) : Markdown + PGLite/Postgres, graphe typé sans LLM, CLI et MCP, « gbrain is not memory. It's a library. »]]
+- [[fiches/2026-11/sfeir-tencentdb-agent-memory-v2-2026-11-14\|TencentDB Agent Memory v2 : hub d'équipe, Proxy qui injecte mémoire et skills dans le prompt système, visibilité private par défaut]]
+- [[fiches/2026-11/sfeir-memoire-agent-souverainete-2026-11-14\|Mémoire d'agent et souveraineté (SFEIR) : Git, hub ou mémoire native sur six critères ; une source de vérité, un index jetable, une maintenance planifiée]]
 
 ### Mémoire & Recherche locale
 
@@ -479,6 +594,8 @@ d'un knowledge graph et d'un context graph scopé par décision.
 - [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Kiro - Agentic IDE - Specification-driven - Vibe coding vs Spec coding]]
 - [[fiches/2026-02/martin-bmad-method-urbanisme-ia-agentique-sdlc-2026-02-04\|Méthode BMAD : cadre structuré pour intégrer l'IA agentique dans le SDLC]]
 - [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works Thoughtworks : Super Spec dynamique, plateforme de développement agentique spec-driven sur tout le SDLC]]
+- [[fiches/2026-10/sfeir-windev-regles-metier-ia-2026-10-15\|Rétro-documentation spec first (SFEIR, WinDev) : spécifier l'ancien avant d'écrire le nouveau, prompt d'archéologie en Gherkin, double exécution contre l'hallucination]]
+- [[fiches/2026-11/sfeir-sortir-de-jira-backlog-markdown-2026-11-13\|Sortir de Jira en 2027 (SFEIR) : le ticket dans le dépôt de l'agent, cas Warmtebouw, quinze outils sur huit critères agent, échelle N0-N4]]
 
 ### Doctrine & Design en fichiers (contexte en fichiers)
 
@@ -497,6 +614,7 @@ d'un knowledge graph et d'un context graph scopé par décision.
 - [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Lattice : skills composables Atoms/Molecules/Refiners, "skills over prompts", living context]]
 - [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Leçons skills Anthropic : taxonomie 9 catégories, gotchas, progressive disclosure, "le file system est du context engineering"]]
 - [[fiches/2026-04/law-ahrefs-content-engineering-claude-code-2026-04-28\|Content engineering Ahrefs : ~23 skills orchestrées par un skill blog-pipeline, drafts en 6-12 min, MCP Ahrefs]]
+- [[fiches/2026-10/sfeir-claude-code-advisor-multi-modeles-2026-10-08\|Advisor Claude Code (SFEIR) : qui planifie, qui édite, qui lit entre Opus, Sonnet et Haiku 5.5 ; règle CLAUDE.md de consultation, échecs silencieux]]
 
 ### MCP (Model Context Protocol)
 
@@ -543,7 +661,7 @@ d'un knowledge graph et d'un context graph scopé par décision.
 - [[kb/_entites-mineures#Context-Development-Lifecycle\|Context Development Lifecycle]] — CDLC 4 phases (Debois)
 - [[kb/_entites-mineures#noyau-ontologique\|Noyau ontologique]] — Sémantique métier formalisée en ontologie (Seale)
 - [[kb/compounding-teams\|Compounding teams]] — Équipes à effet multiplicateur (Schillace)
-- [[kb/CLAUDE-md-technologie\|CLAUDE.md]] — Fichier de contexte projet pour Claude Code
+- [[kb/CLAUDE-md\|CLAUDE.md]] — Fichier de contexte projet pour Claude Code
 - [[kb/AGENTS-md\|AGENTS.md]] — Alternative/complément aux skills (Gao/Vercel)
 - [[kb/ADLC\|ADLC]] — Agentic Development Lifecycle : 8 phases, gates déterministes, deux portes humaines (Williams)
 - [[kb/_entites-mineures#prosecution\|Prosecution]] — Revue reconfigurée en réfutation adversariale, gate de sortie à deux passes sèches
@@ -551,6 +669,8 @@ d'un knowledge graph et d'un context graph scopé par décision.
 - [[kb/Loop-Engineering\|Loop Engineering]] — Concevoir un système qui s'améliore à chaque exécution plutôt que le prompt parfait (Saboo, Ng)
 - [[kb/Steps-of-AI-Adoption\|Steps of AI Adoption]] — 5 étapes d'adoption (~1 → ~1 000 agents), goulot + garde-fous par palier (Cherny)
 - [[kb/Context-Rot\|Context Rot]] — Pourriture de contexte en session longue
+- [[kb/Agent-Memory\|Agent Memory]] — Mémoire d'agent : fichiers écrits, relus et corrigés entre sessions ; quatre couches, *dreaming* (Anthropic) ; copie maîtresse Git + index jetable (SFEIR)
+- [[kb/Design-to-Exit\|Design to Exit]] — Prévoir la sortie dès la conception : format ouvert du contexte, index reconstructible, sort de la mémoire en fin de contrat
 
 ### Technologies et protocoles
 
@@ -570,6 +690,11 @@ d'un knowledge graph et d'un context graph scopé par décision.
 - [[kb/hyperresearch\|hyperresearch]] — Harnais de deep research : routeur mince, skills chargées fraîches, tool-locking, gates de citation
 - [[kb/Notion-as-Code\|Notion as Code]] — Infra-as-code documentaire : script idempotent, découplé de l'espace de travail
 - [[kb/Buzz\|Buzz]] — Workspace humains+agents de Block sur Nostr ; harnais ACP agnostique d'agents (Goose, Claude Code, Codex)
+- [[kb/GBrain\|GBrain]] — Mémoire de Garry Tan : pages Markdown indexées dans Postgres, graphe typé sans LLM, CLI + MCP (MIT)
+- [[kb/TencentDB-Agent-Memory\|TencentDB Agent Memory]] — Hub de mémoire d'équipe (v2) : Chat Memory L0-L3, Skill, LLM-Wiki, Code-Graph ; Proxy qui injecte le contexte
+- [[kb/GitLab-Orbit\|GitLab Orbit]] — Graphe de contexte code + cycle de vie servi aux agents (skill, hook, MCP), filtré par les droits GitLab
+- [[kb/advisor-Claude-Code\|Advisor (Claude Code)]] — Modèle conseiller consulté par le modèle principal avant de s'engager ; relit le transcript sans cache
+- [[kb/golden-master-inversé\|Golden master inversé]] — Le LLM génère les entrées, le code legacy seul les sorties attendues
 
 ### Personnes clés
 
@@ -584,6 +709,8 @@ d'un knowledge graph et d'un context graph scopé par décision.
 - [[kb/Andrew-Ng\|Andrew Ng]] — Trois boucles de développement produit ; avantage de contexte des humains
 - [[kb/Guillaume-Dumortier\|Guillaume Dumortier]] — Le vérificateur en monde clos ; « la génération est gratuite, la confiance est le produit »
 - [[kb/Patrick-Debois\|Patrick Debois]] — CDLC, Context Flywheel (Tessl)
+- [[kb/Garry-Tan\|Garry Tan]] — CEO de Y Combinator ; *Own Your Intelligence* (modèle loué, contexte possédé, harnais), GBrain
+- [[kb/Eno-Reyes\|Eno Reyes]] — CTO de Factory ; usine logicielle à boucle de signaux, code prêt pour les agents = boucles de validation déterministes
 - [[kb/_entites-mineures#Aristidis-Vasilopoulos\|Aristidis Vasilopoulos]] — Évaluation empirique contexte codifié 3 tiers
 - [[kb/Jesse-Vincent\|Jesse Vincent]] — Méthodologie agents, Superpowers/Skills
 - [[kb/Simon-Willison\|Simon Willison]] — Analyse Skills vs MCP, explosion cambrienne
@@ -592,7 +719,7 @@ d'un knowledge graph et d'un context graph scopé par décision.
 - [[kb/Kent-Beck\|Kent Beck]] — Vibe Coding vs TDD, augmented coding
 - [[kb/Kieran-Klaassen\|Kieran Klaassen]] — Three Fidelities, compounding engineering, Compounding Knowledge Lifecycle
 - [[kb/Sam-Schillace\|Sam Schillace]] — Compounding teams
-- [[kb/_entites-mineures#Lance-Martin\|Lance Martin]] — Auto-caching, developer advocacy Anthropic
+- [[kb/Lance-Martin\|Lance Martin]] — Auto-caching, build-eval/hillclimb, *The components of agent memory* (Anthropic)
 - [[kb/_entites-mineures#@trq212\|@trq212]] — Prompt caching lessons, équipe Claude Code
 - [[kb/_entites-mineures#Tobias-Lütke\|Tobias Lütke]] — CEO Shopify, créateur QMD
 - [[kb/_entites-mineures#Artem-Zhutov\|Artem Zhutov]] — Créateur skill /recall, lab Claude Code × Obsidian
@@ -607,6 +734,9 @@ d'un knowledge graph et d'un context graph scopé par décision.
 - [[kb/Shopify\|Shopify]] — QMD, moteur de recherche local (Tobias Lütke)
 - [[kb/Block\|Block]] — Buzz, Goose ; benchmarks de composition d'équipes d'agents (Terminal-Bench, LHTB)
 - [[kb/_entites-mineures#Graphify-Labs\|Graphify Labs]] — graphify (Safi Shamsi, Y Combinator S26)
+- [[kb/Factory\|Factory]] — Agents Droid ; *agent readiness* et densité des boucles de validation (Eno Reyes)
+- [[kb/Tencent-Cloud\|Tencent Cloud]] — TencentDB Agent Memory : *« Model + Harness = Agent »*, *« We'd add one more term: Memory »*
+- [[kb/Glean-organisation\|Glean]] — Couche de contexte d'entreprise (275+ connecteurs, Enterprise Graph), présente sur les places de marché des éditeurs de modèles
 
 ## Architecture conceptuelle
 
@@ -729,3 +859,9 @@ Deux corollaires d'architecture de cycle :
 33. **La couverture annoncée par un agent n'est pas une mesure** — le mutation testing départage les tests qui vérifient de ceux qui exécutent (Bartaguiz : 100 % annoncés, 33 % mesurés, 13,82 % de mutants tués)
 34. **Pour filtrer le contexte, le seuil compte plus que le classement** — le gain vient de moins de bruit, pas de plus de contenu (Elovic/GPT Researcher)
 35. **Stocker la procédure comme un graphe plutôt que comme un prompt** — et scoper le graphe à chaque décision au lieu de tout récupérer (Gohel)
+36. **Dire à l'agent à quoi sert la mémoire, pas comment s'en servir** — et plafonner la couche injectée ; imposer de n'enregistrer que les échecs a retiré 0,234 au gain d'Opus 5 sur CL-Bench (Lance Martin/Anthropic)
+37. **Tout fait qui compte vit dans un fichier ; l'index se supprime et se reconstruit** — la copie maîtresse est en Markdown dans Git, l'index est jetable et sa reconstruction se teste comme une restauration (SFEIR, série mémoire d'agent ; Garry Tan)
+38. **Un fichier d'instructions peut changer ce que l'agent tente, jamais ce qu'il a le droit de faire** — `AGENTS.md` et `CLAUDE.md` relèvent de la supply chain logicielle ; les permissions se verrouillent dans une configuration gérée (Jena, cité par SFEIR ; Forever Security)
+39. **Les règles de contrôle se lisent hors de portée du changement** — `REVIEW.md` lu depuis la branche de base, jamais depuis la PR ; les propriétaires du code écrivent les contrôles (équipe Claude Code)
+40. **Aucun test dont le LLM a écrit les valeurs attendues** — le modèle propose les entrées, le système de référence produit les sorties (Jabloun/SFEIR, golden master inversé)
+41. **Le code prêt pour les agents se mesure à la densité de ses boucles de validation déterministes** — un problème formulable en vérifications se traite avec un agent (Reyes/Factory)
