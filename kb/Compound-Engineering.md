@@ -1,6 +1,6 @@
 # Compound Engineering
 
-> **Type** : METHODOLOGIE | 25 relations | 7 fiches sources
+> **Type** : METHODOLOGIE | 28 relations | 7 fiches sources
 
 ## Attributs
 
@@ -64,6 +64,11 @@
 - règle 50/50 (features / amélioration système) (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2026-02/klaassen-compound-engineering-definitive-guide-every-2026-02-09\|Compound Engineering: The Definitive Guide]]
 
+### réduit
+
+- « ~30 % d'itérations de correction après dix cycles » (MESURE) — 0.85, STATIQUE
+  - [[fiches/2026-10/sfeir-migration-windev-software-factory-10x-2026-10-15\|Migrer WinDev avec la Software Factory 10x : la méthode SFEIR en six étapes, de l'audit à la bascule]]
+
 ### s_oppose_à
 
 - développement traditionnel (METHODOLOGIE) — 0.93, ATEMPOREL
@@ -84,8 +89,10 @@
 - [[kb/Kieran-Klaassen\|Kieran Klaassen]] **a_créé** → Compound Engineering — 0.95
 - [[kb/_entites-mineures#Trevin-Chow\|Trevin Chow]] **dirige** → Compound Engineering — 0.95
 - Fidelity Two **améliore** → Compound Engineering — 0.88
+- [[kb/_entites-mineures#trois-filets-de-contrôle\|trois filets de contrôle]] **est_basé_sur** → Compound Engineering — 0.85
 - [[kb/Loop-Engineering\|Loop Engineering]] **converge_avec** → Compound Engineering — 0.82
 - [[kb/Stack-Overflow-for-Agents\|Stack Overflow for Agents]] **converge_avec** → Compound Engineering — 0.82
+- [[kb/sfeir.com\|sfeir.com]] **est_basé_sur** → Compound Engineering — 0.80
 
 ## Fiches sources
 

@@ -22,7 +22,7 @@
 
 ### s_applique_à
 
-- [[kb/_entites-mineures#Design-to-Exit\|Design to Exit]] (METHODOLOGIE) — 0.85, ATEMPOREL
+- [[kb/Design-to-Exit\|Design to Exit]] (METHODOLOGIE) — 0.85, ATEMPOREL
   - [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
 - [[kb/_entites-mineures#FinOps-de-l'IA-générative\|FinOps de l'IA générative]] (METHODOLOGIE) — 0.85, ATEMPOREL
   - [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]

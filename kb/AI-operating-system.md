@@ -1,10 +1,10 @@
 # AI operating system
 
-> **Type** : CONCEPT | 6 relations | 1 fiches sources
+> **Type** : CONCEPT | 6 relations | 2 fiches sources
 
 ## Attributs
 
-- **définition** : Couche de management continue (« second cerveau ») qui maintient le contexte, raisonne entre fonctions, recommande ou exécute et apprend
+- **définition** : Couche permanente portant le contexte de l'entreprise, qui raisonne, recommande ou exécute et apprend (McKinsey)
 
 ## Relations (comme sujet)
 
@@ -22,6 +22,7 @@
 
 - [[kb/couche-sémantique\|Couche sémantique]] (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01\|The AI operating system: A new way for CEOs to run the enterprise]]
+  - [[fiches/2026-10/sfeir-ai-operating-system-mckinsey-lecture-2026-10-15\|AI operating system : ce que McKinsey a raison de dire, et ce qu'il ne prouve pas]]
 - [[kb/Orchestration-d'agents\|Orchestration d'agents]] (METHODOLOGIE) — 0.92, ATEMPOREL
   - [[fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01\|The AI operating system: A new way for CEOs to run the enterprise]]
 - [[kb/LLM\|LLM]] (TECHNOLOGIE) — 0.88, ATEMPOREL
@@ -34,3 +35,4 @@
 ## Fiches sources
 
 - [[fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01\|The AI operating system: A new way for CEOs to run the enterprise]]
+- [[fiches/2026-10/sfeir-ai-operating-system-mckinsey-lecture-2026-10-15\|AI operating system : ce que McKinsey a raison de dire, et ce qu'il ne prouve pas]]

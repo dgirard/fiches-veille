@@ -1,6 +1,6 @@
 # Codex
 
-> **Type** : TECHNOLOGIE | 18 relations | 9 fiches sources
+> **Type** : TECHNOLOGIE | 22 relations | 9 fiches sources
 
 ## Attributs
 
@@ -56,6 +56,8 @@
 
 ### utilise
 
+- [[kb/AGENTS-md\|AGENTS.md]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-agents-md-telechargements-codex-claude-code-2026-10-27\|AGENTS.md piégé dans Téléchargements : comment Codex et Claude Code ont été détournés, et les parades]]
 - [[kb/Harness\|Harness]] (CONCEPT) — 0.92, DYNAMIQUE
   - [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|Future-Proof Coding Agents: Building Reliable Systems That Outlast Model Cycles]]
 - Computer Use terminal (METHODOLOGIE) — 0.88, DYNAMIQUE
@@ -70,6 +72,9 @@
 - [[kb/OpenAI\|OpenAI]] **publie** → Codex — 0.90
 - [[kb/ChatGPT-Desktop\|ChatGPT Desktop]] **utilise** → Codex — 0.90
 - [[kb/swarm-concept\|swarm]] **utilise** → Codex — 0.90
+- [[kb/_entites-mineures#Codex-memory-v2\|Codex memory v2]] **fait_partie_de** → Codex — 0.88
+- [[kb/campagne-PaperCut\|campagne PaperCut]] **utilise** → Codex — 0.88
+- [[kb/_entites-mineures#php2shell-checker\|php2shell-checker]] **utilise** → Codex — 0.84
 
 ## Fiches sources
 

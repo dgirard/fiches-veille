@@ -1,6 +1,6 @@
 # MCP
 
-> **Type** : TECHNOLOGIE | 26 relations | 16 fiches sources
+> **Type** : TECHNOLOGIE | 31 relations | 16 fiches sources
 
 ## Attributs
 
@@ -78,15 +78,20 @@
 
 ## Relations (comme objet)
 
+- [[kb/REA\|REA]] **utilise** → MCP — 0.95
 - fuites de données **observé_dans** → MCP — 0.93
 - [[kb/Interactions-API\|Interactions API]] **utilise** → MCP — 0.93
+- [[kb/GhidraMCP\|GhidraMCP]] **utilise** → MCP — 0.92
+- [[kb/GitLab-Orbit\|GitLab Orbit]] **utilise** → MCP — 0.92
 - [[kb/Claude-Skills\|Claude Skills]] **s_oppose_à** → MCP — 0.90
 - [[kb/AiKA-Modes\|AiKA Modes]] **utilise** → MCP — 0.90
 - [[kb/_entites-mineures#everyone-ships\|everyone ships]] **utilise** → MCP — 0.90
 - [[kb/Shopify\|Shopify]] **utilise** → MCP — 0.90
 - overhead de tokens excessif **observé_dans** → MCP — 0.88
+- [[kb/Glean-technologie\|Glean]] **utilise** → MCP — 0.88
 - [[kb/Personal-Agent-Protocol\|Personal Agent Protocol]] **utilise** → MCP — 0.88
 - [[kb/Peter-Aideloje\|Peter Aideloje]] **recommande** → MCP — 0.87
+- [[kb/Dust\|Dust]] **utilise** → MCP — 0.86
 - [[kb/Agent-Skills\|Agent Skills]] **converge_avec** → MCP — 0.85
 
 ## Fiches sources

@@ -1,6 +1,6 @@
 # Stripe
 
-> **Type** : ORGANISATION | 16 relations | 7 fiches sources
+> **Type** : ORGANISATION | 18 relations | 7 fiches sources
 
 ## Attributs
 
@@ -28,6 +28,11 @@
 
 - « Fable 5 a migré un codebase Ruby de 50M lignes en un jour » (AFFIRMATION) — 0.92, STATIQUE
   - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
+
+### collabore_avec
+
+- [[kb/OpenRouter-organisation\|OpenRouter]] (ORGANISATION) — 0.78, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-openrouter-production-reglages-2026-10-12\|OpenRouter en production : cache, coûts, latence et données sous contrôle]]
 
 ### mesure
 
@@ -62,6 +67,7 @@
 
 - [[kb/_entites-mineures#Dan-Hill\|Dan Hill]] **travaille_chez** → Stripe — 0.96
 - [[kb/Sierra\|Sierra]] **collabore_avec** → Stripe — 0.92
+- [[kb/OpenAI\|OpenAI]] **collabore_avec** → Stripe — 0.88
 
 ## Fiches sources
 

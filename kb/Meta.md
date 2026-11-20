@@ -1,12 +1,13 @@
 # Meta
 
-> **Type** : ORGANISATION | 22 relations | 6 fiches sources
+> **Type** : ORGANISATION | 26 relations | 7 fiches sources
 
 ## Attributs
 
 - **apport** : Source de la télémétrie de volume de diffs citée en ouverture et opérateur du système RADAR
 - **positionnement** : Se déclare en août 2026 « la seule entreprise principalement concentrée sur la superintelligence personnelle pour tous », par opposition aux labos construisant pour les entreprises, gouvernements et institutions ; annonce une gouvernance donnant au conseil indépendant l'approbation des critères de publication, un mode entièrement privé, des accès gratuits doublés d'une enchère dynamique sur le compute, et la reprise de publications open source
 - **secteur** : Partenaire de développement du protocole
+- **stratégie modèles** : Poids fermés pour Muse Wonder ; Muse Glimmer seul modèle ouvert cité
 
 ## Relations (comme sujet)
 
@@ -49,12 +50,20 @@
 
 - [[kb/Muse\|Muse]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
+- [[kb/_entites-mineures#Muse-Wonder\|Muse Wonder]] (TECHNOLOGIE) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-muse-wonder-meta-muse-code-2026-10-15\|Muse Wonder : Meta rejoint la frontière et garde son meilleur modèle pour Muse Code]]
+- [[kb/Muse-Wonder-Full\|Muse Wonder Full]] (TECHNOLOGIE) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-muse-wonder-meta-muse-code-2026-10-15\|Muse Wonder : Meta rejoint la frontière et garde son meilleur modèle pour Muse Code]]
 - [[kb/_entites-mineures#The-Future-is-for-Everyone\|The Future is for Everyone]] (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10\|The Future is for Everyone: The Path to a Positive AI Future]]
 - [[kb/_entites-mineures#community-compact\|community compact]] (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10\|The Future is for Everyone: The Path to a Positive AI Future]]
+- Agents Rule of Two (CONCEPT) — 0.90, STATIQUE
+  - [[fiches/2026-11/sfeir-agents-always-on-anthropic-ax-google-2026-11-15\|Agents always-on : les cinq primitives d'Anthropic et l'étage AX de Google]]
 - [[kb/_entites-mineures#America's-Workforce-Academy\|America's Workforce Academy]] (ORGANISATION) — 0.90, STATIQUE
   - [[fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10\|The Future is for Everyone: The Path to a Positive AI Future]]
+- [[kb/_entites-mineures#Muse-Glimmer\|Muse Glimmer]] (TECHNOLOGIE) — 0.85, STATIQUE
+  - [[fiches/2026-10/sfeir-muse-wonder-meta-muse-code-2026-10-15\|Muse Wonder : Meta rejoint la frontière et garde son meilleur modèle pour Muse Code]]
 
 ### recommande
 
@@ -86,5 +95,6 @@
 - [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for?]]
 - [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
 - [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
+- [[fiches/2026-10/sfeir-muse-wonder-meta-muse-code-2026-10-15\|Muse Wonder : Meta rejoint la frontière et garde son meilleur modèle pour Muse Code]]
 - [[fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06\|Introducing Personal Agent Protocol]]
 - [[fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10\|The Future is for Everyone: The Path to a Positive AI Future]]

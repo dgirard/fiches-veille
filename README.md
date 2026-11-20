@@ -39,44 +39,44 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
 
 <!-- stats:begin -->
 
-- **Total** : 451 fiches
-- **Par année** : 2026 (274) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 567 fiches
+- **Par année** : 2026 (390) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 169
-  - Architecture & Construction : 63
-  - Transformation & Adoption : 105
-  - Qualité & Sécurité : 57
-  - Économie & Marché : 97
-  - Philosophie & Société : 33
-  - Stratégie & Frameworks : 47
-  - Outils & Plateformes : 65
-  - Recherche & Éducation : 16
-  - Produits & Services : 19
-  - Politique & Régulation : 33
+  - Agents de codage IA & Skills : 213
+  - Architecture & Construction : 92
+  - Transformation & Adoption : 133
+  - Qualité & Sécurité : 113
+  - Économie & Marché : 127
+  - Philosophie & Société : 36
+  - Stratégie & Frameworks : 56
+  - Outils & Plateformes : 101
+  - Recherche & Éducation : 22
+  - Produits & Services : 36
+  - Politique & Régulation : 59
 - **Auteurs (top 20)** :
+  - SFEIR AI (114)
   - Ethan Mollick (13)
   - SFEIR (13)
   - Anthropic (10)
   - Addy Osmani (9)
   - Deep Research Veille Interne (9)
   - Chris Williams (7)
+  - Didier Girard (6)
   - Philippe Ensarguet (6)
   - Boris Cherny (5)
   - Andrew Ng (4)
   - Kieran Klaassen (4)
   - Olivier Rafal (4)
   - OpenAI (4)
-  - Didier Girard (3)
   - Thariq Shihipar (3)
   - Simon Willison (3)
   - Dan Shipper (3)
   - Kent Beck (3)
   - Jesse Vincent (3)
   - Cobus Greyling (3)
-  - Arthur Mensch (2)
 - **Sources (top 20)** :
+  - SFEIR (129)
   - Anthropic (16)
-  - SFEIR (13)
   - LinkedIn (9)
   - Deep Research (9)
   - voodootikigod.com (Chris Williams) (7)

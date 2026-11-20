@@ -1,9 +1,10 @@
 # couche sémantique
 
-> **Type** : CONCEPT | 4 relations | 2 fiches sources
+> **Type** : CONCEPT | 4 relations | 3 fiches sources
 
 ## Attributs
 
+- **contenu** : Ontologies, graphes de connaissance et règles métier raccordés aux systèmes existants
 - **définition** : Compréhension partagée de l'entreprise (entités, relations, définitions, règles) qui étend le contexte des agents
 - **fonction** : Encoder précédence et signification des données pour agents
 
@@ -29,3 +30,4 @@
 
 - [[fiches/2025-12/clouded-judgement-121225-long-live\|Clouded Judgement 12.12.25 - Long Live Systems of Record]]
 - [[fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01\|The AI operating system: A new way for CEOs to run the enterprise]]
+- [[fiches/2026-10/sfeir-ai-operating-system-mckinsey-lecture-2026-10-15\|AI operating system : ce que McKinsey a raison de dire, et ce qu'il ne prouve pas]]

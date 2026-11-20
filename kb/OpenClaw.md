@@ -1,12 +1,13 @@
 # OpenClaw
 
-> **Type** : TECHNOLOGIE | 8 relations | 6 fiches sources
+> **Type** : TECHNOLOGIE | 12 relations | 7 fiches sources
 
 ## Attributs
 
 - **categorie** : Agent IA persistant 24/7
 - **catégorie** : Agent personnel à accès ordinateur, origine des Clawlikes
 - **description** : Projet (cité par Shipper) — 44 469 PRs en mai 2026 vs Kubernetes 5 200 PRs sur 2022 entier — preuve volumétrique du *« more work, not less »*
+- **licence** : Agent personnel open source (MIT), runtime d'Autopilot
 - **rôle** : Agent personnel cité par Stripe comme exemple de bénéficiaire du portefeuille Link pour agents ; mention non commentée dans l'article
 
 ## Relations (comme sujet)
@@ -32,7 +33,11 @@
 
 - [[kb/_entites-mineures#Peter-Steinberger\|Peter Steinberger]] **a_créé** → OpenClaw — 0.95
 - [[kb/_entites-mineures#Clawlikes\|Clawlikes]] **s_inspire_de** → OpenClaw — 0.94
+- [[kb/Microsoft-Autopilot\|Microsoft Autopilot]] **utilise** → OpenClaw — 0.92
+- [[kb/GBrain\|GBrain]] **s_applique_à** → OpenClaw — 0.90
+- [[kb/Garry-Tan\|Garry Tan]] **utilise** → OpenClaw — 0.90
 - [[kb/Muse\|Muse]] **s_inspire_de** → OpenClaw — 0.85
+- [[kb/WorkBuddy\|WorkBuddy]] **utilise** → OpenClaw — 0.82
 - [[kb/Hermes\|Hermes]] **concurrence** → OpenClaw — 0.70
 
 ## Fiches sources
@@ -42,4 +47,5 @@
 - [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
 - [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
 - [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|There is a growing disconnect in the way people think about building AI agents]]
+- [[fiches/2026-11/sfeir-microsoft-autopilot-openclaw-ignite-2026-11-18\|Microsoft Autopilot tourne sur OpenClaw, et Ignite ne l'a pas dit]]
 - [[fiches/2026-05/shipper-every-after-automation-frame-framer-2026-05-21\|After Automation]]

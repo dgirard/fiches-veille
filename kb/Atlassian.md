@@ -1,6 +1,6 @@
 # Atlassian
 
-> **Type** : ORGANISATION | 8 relations | 1 fiches sources
+> **Type** : ORGANISATION | 9 relations | 1 fiches sources
 
 ## Attributs
 
@@ -19,6 +19,8 @@
 
 - The AI-native SDLC is paying off (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-05/atlassian-ai-native-sdlc-paying-off-rovo-dev-2026-05-31\|The AI-native SDLC is paying off: 19% more PRs and 2–3 hours saved per developer per week]]
+- fin de vie de Jira Data Center (EVENEMENT) — 0.95, STATIQUE
+  - [[fiches/2026-11/sfeir-sortir-de-jira-backlog-markdown-2026-11-13\|Sortir de Jira en 2027 : mettez vos tickets là où travaillent vos agents]]
 
 ### recommande
 

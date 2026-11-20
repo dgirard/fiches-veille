@@ -1,6 +1,6 @@
 # TypeScript
 
-> **Type** : TECHNOLOGIE | 4 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 5 relations | 3 fiches sources
 
 ## Attributs
 
@@ -14,6 +14,11 @@
 
 - typage graduel (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-01/sdd-langages-programmation-ia-deep-research-2026-01\|Rapport de Recherche : Analyse de l'Adéquation des Langages de Programmation au Spec Drive Development]]
+
+### s_applique_à
+
+- applications de taille moyenne et équipes orientées JavaScript (CONCEPT) — 0.85, ATEMPOREL
+  - [[fiches/2026-10/sfeir-migration-windev-stack-cible-2026-10-15\|WinDev vers Java, .NET, TypeScript ou Flutter : comment choisir sa stack cible]]
 
 ### surpasse
 

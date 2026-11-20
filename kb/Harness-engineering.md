@@ -1,6 +1,6 @@
 # Harness engineering
 
-> **Type** : METHODOLOGIE | 15 relations | 6 fiches sources
+> **Type** : METHODOLOGIE | 16 relations | 6 fiches sources
 
 ## Attributs
 
@@ -41,6 +41,11 @@
 
 - [[kb/context-engineering\|Context Engineering]] (METHODOLOGIE) — 0.92, STATIQUE
   - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
+
+### s_applique_à
+
+- [[kb/_entites-mineures#agents-de-code\|agents de code]] (TECHNOLOGIE) — 0.85, ATEMPOREL
+  - [[fiches/2026-10/sfeir-agents-de-code-panorama-criteres-choix-2026-10-22\|Agents de code : les critères qui comptent avant le benchmark]]
 
 ### utilise
 

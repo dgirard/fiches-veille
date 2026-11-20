@@ -1,6 +1,6 @@
 # Google Cloud
 
-> **Type** : ORGANISATION | 16 relations | 5 fiches sources
+> **Type** : ORGANISATION | 17 relations | 5 fiches sources
 
 ## Attributs
 
@@ -44,6 +44,8 @@
   - [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Announcing the 2025 DORA Report: State of AI-Assisted Software Development]]
 - [[kb/_entites-mineures#Gemini-Enterprise-Agent-Platform\|Gemini Enterprise Agent Platform]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14\|Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team]]
+- [[kb/CodeMender\|CodeMender]] (TECHNOLOGIE) — 0.93, STATIQUE
+  - [[fiches/2026-10/sfeir-codemender-google-agent-faille-correctif-2026-10-26\|CodeMender : Google veut que l'agent qui trouve la faille écrive aussi le correctif]]
 
 ## Relations (comme objet)
 

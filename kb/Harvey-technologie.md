@@ -1,6 +1,6 @@
 # Harvey
 
-> **Type** : TECHNOLOGIE | 3 relations | 2 fiches sources
+> **Type** : TECHNOLOGIE | 4 relations | 2 fiches sources
 
 > **Même entité, autre type** : [[kb/Harvey-organisation\|Harvey (ORGANISATION)]]
 
@@ -9,6 +9,11 @@
 - **secteur** : IA juridique et services professionnels
 
 ## Relations (comme sujet)
+
+### a_créé
+
+- Harvey LAB (DOCUMENT) — 0.92, STATIQUE
+  - [[fiches/2026-10/sfeir-lire-tableau-benchmarks-ia-2026-10-15\|Lire un tableau de benchmarks IA : les 18 benchmarks de frontière, famille par famille]]
 
 ### affirme_que
 

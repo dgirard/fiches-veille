@@ -1,6 +1,6 @@
 # RAG
 
-> **Type** : TECHNOLOGIE | 10 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 11 relations | 4 fiches sources
 
 ## Attributs
 
@@ -38,6 +38,7 @@
 - [[kb/IA-agentique\|IA agentique]] **remplace** → RAG — 0.90
 - [[kb/Claude-Code\|Claude Code]] **remplace** → RAG — 0.88
 - [[kb/Enterprise-Knowledge-Fabric\|Enterprise Knowledge Fabric]] **surpasse** → RAG — 0.88
+- [[kb/GitLab-Orbit\|GitLab Orbit]] **surpasse** → RAG — 0.85
 
 ## Fiches sources
 

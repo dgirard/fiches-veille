@@ -1,9 +1,10 @@
 # SFEIR
 
-> **Type** : ORGANISATION | 68 relations | 11 fiches sources
+> **Type** : ORGANISATION | 527 relations | 64 fiches sources
 
 ## Attributs
 
+- **barème** : Originalité 1-5 et qualité de l'information 1-5, chiffres des orateurs non vérifiés
 - **capacité_revendiquée** : équivalent 10 000 personnes
 - **effectif** : ~1 000 personnes
 - **organisation interne** : Basculée en Skill Based Organisation (février 2026), jusqu'à 13 compétences identifiées par métier
@@ -13,6 +14,7 @@
 - **relation** : Groupe parent de WEnvision
 - **rôle** : Éditeur de l'article (voix éditoriale du cabinet)
 - **secteur** : ESN / cabinet d'ingénierie logicielle (groupe SFEIR)
+- **statut** : ESN / cabinet d'ingénierie logicielle, Google Cloud Premier Partner
 
 ## Relations (comme sujet)
 
@@ -20,6 +22,22 @@
 
 - [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] (METHODOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
+- [[kb/sfeir.com\|sfeir.com]] (TECHNOLOGIE) — 0.95, STATIQUE
+  - [[fiches/2026-11/sfeir-site-conversationnel-cms-conversation-2026-11-15\|Site conversationnel : comment sfeir.com est passé du CMS à la conversation]]
+- [[kb/méthode-de-migration-HFSQL-vers-PostgreSQL-en-six-étapes\|méthode de migration HFSQL vers PostgreSQL en six étapes]] (METHODOLOGIE) — 0.93, STATIQUE
+  - [[fiches/2026-10/sfeir-hfsql-postgresql-migration-donnees-2026-10-15\|HFSQL vers PostgreSQL : migrer les données d'une application WinDev sans perte]]
+- [[kb/méthode-de-migration-WinDev-en-six-étapes\|méthode de migration WinDev en six étapes]] (METHODOLOGIE) — 0.93, STATIQUE
+  - [[fiches/2026-10/sfeir-migration-windev-software-factory-10x-2026-10-15\|Migrer WinDev avec la Software Factory 10x : la méthode SFEIR en six étapes, de l'audit à la bascule]]
+- [[kb/_entites-mineures#revue-en-trois-états-(vu,-inféré,-inconnu)\|revue en trois états (vu, inféré, inconnu)]] (METHODOLOGIE) — 0.92, STATIQUE
+  - [[fiches/2026-10/sfeir-rea-evidence-sortie-agent-2026-10-15\|Lire une sortie REA : preuves, pseudocode et hallucinations]]
+- [[kb/_entites-mineures#matrice-de-décision-de-stack-cible\|matrice de décision de stack cible]] (METHODOLOGIE) — 0.90, STATIQUE
+  - [[fiches/2026-10/sfeir-migration-windev-stack-cible-2026-10-15\|WinDev vers Java, .NET, TypeScript ou Flutter : comment choisir sa stack cible]]
+- [[kb/_entites-mineures#Ephemeral-Intelligence-Gap\|Ephemeral Intelligence Gap]] (CONCEPT) — 0.88, STATIQUE
+  - [[fiches/2026-11/sfeir-posseder-memoire-agent-depot-git-2026-11-14\|Posséder sa mémoire d'agent : le dépôt Git comme cerveau partagé entre tous vos agents IA]]
+- [[kb/_entites-mineures#AI-Cyber\|AI Cyber]] (TECHNOLOGIE) — 0.82, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-retro-ingenierie-agents-securite-2026-10-16\|Rétro-ingénierie par agents : ce que ça change pour les équipes sécurité]]
+- [[kb/Software-Factory\|Software Factory]] (METHODOLOGIE) — 0.80, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-rea-dotnet-2026-10-17\|Analyser des assemblies .NET avec REA]]
 
 ### affine
 
@@ -27,6 +45,8 @@
   - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
 - [[kb/SDLC-AI-native\|SDLC AI-native]] (METHODOLOGIE) — 0.93, ATEMPOREL
   - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+- « posséder le contexte, louer ou remplacer la technologie » (AFFIRMATION) — 0.84, ATEMPOREL
+  - [[fiches/2026-10/sfeir-ai-operating-system-mckinsey-lecture-2026-10-15\|AI operating system : ce que McKinsey a raison de dire, et ce qu'il ne prouve pas]]
 
 ### affirme_que
 
@@ -58,46 +78,323 @@
   - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 - « l'architecte moderne devient un amplificateur d'intelligence plutôt qu'un oracle technique » (AFFIRMATION) — 0.93, ATEMPOREL
   - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
+- « la conversation n'a été possible que parce qu'une base de connaissances l'a précédée » (AFFIRMATION) — 0.93, STATIQUE
+  - [[fiches/2026-11/sfeir-site-conversationnel-cms-conversation-2026-11-15\|Site conversationnel : comment sfeir.com est passé du CMS à la conversation]]
+- « le filtre ZDR règle l'usage des prompts, pas la juridiction » (AFFIRMATION) — 0.93, ATEMPOREL
+  - [[fiches/2026-10/sfeir-openrouter-zdr-souverainete-2026-10-19\|OpenRouter : rétention zéro ne veut pas dire souverain]]
+- « le modèle ne départage plus les agents de code ; licence, approbation, juridiction et fichiers de contexte comptent davantage » (AFFIRMATION) — 0.93, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-agents-de-code-panorama-criteres-choix-2026-10-22\|Agents de code : les critères qui comptent avant le benchmark]]
+- « un seul modèle écrit, et seulement à la fin, à partir des passages publiés » (AFFIRMATION) — 0.93, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-architecture-site-conversationnel-2026-11-15\|Architecture d'un site conversationnel : ce qui se passe entre la question et la réponse]]
+- « aucun retour public de rétro-ingénierie par agents sur PowerBuilder ou NS-DK au 20 octobre 2026 » (AFFIRMATION) — 0.92, STATIQUE
+  - [[fiches/2026-10/sfeir-retro-ingenierie-powerbuilder-nsdk-2026-10-20\|PowerBuilder et NSDK : état des lieux de la rétro-ingénierie par agents]]
+- « l'AGL de 2026 est une stack ouverte pilotée par des agents de code » (AFFIRMATION) — 0.92, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-alternatives-windev-2026-10-16\|Alternatives à WinDev en 2026 : quels outils et langages pour remplacer l'AGL de PC SOFT ?]]
+- « l'archive ASAR est une concaténation de fichiers avec index, sans chiffrement » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-10/sfeir-electron-asar-secrets-2026-10-21\|Applications Electron : secrets et logique métier exposés dans l'ASAR]]
+- « la conversation vaut ce que vaut la base » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-11/sfeir-base-connaissances-site-conversationnel-2026-11-15\|Base de connaissances : le chantier invisible derrière un site conversationnel]]
+- « la rétro-ingénierie produit de la connaissance, le clean-room organise une réécriture » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-10/sfeir-clean-room-vs-reverse-engineering-2026-10-11\|Clean-room ou reverse engineering : méthode et risque juridique à l'ère des agents]]
 - « la souveraineté est une propriété d'architecture, pas un label : elle se qualifie dépendance par dépendance » (AFFIRMATION) — 0.92, ATEMPOREL
   - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
+- « le fonctionnement est négligeable ; la dépense réelle est dans la construction et la tenue de la base de connaissances » (AFFIRMATION) — 0.92, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-cout-site-conversationnel-2026-11-15\|Combien coûte un site conversationnel : nos chiffres mesurés et leur méthode]]
+- « le statique montre le possible, la capture montre le réel » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rgpd-verifier-telemetrie-application-2026-10-18\|RGPD : vérifier ce qu'une application envoie vraiment]]
+- « les résultats d'outils de REA partent chez le fournisseur du modèle même si le binaire reste local » (AFFIRMATION) — 0.92, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-analyse-malware-agent-local-2026-10-14\|Analyser un malware en local avec un agent, sans l'exfiltrer]]
+- « REA n'est pas un sandbox : un binaire inconnu s'ouvre en VM ou en conteneur » (AFFIRMATION) — 0.92, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-rea-trois-schemas-architecture-usage-2026-10-12\|REA en trois schémas : architecture, fonctionnement et usage]]
+- « un benchmark agentique note un couple modèle-harnais, jamais un modèle seul » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-10/sfeir-lire-tableau-benchmarks-ia-2026-10-15\|Lire un tableau de benchmarks IA : les 18 benchmarks de frontière, famille par famille]]
+- « écrire le code ne représente plus l'essentiel du coût ; le temps humain va aux décisions, à la vérification et à la matière » (AFFIRMATION) — 0.92, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-construire-site-agents-phases-temps-2026-11-15\|Construire un site avec des agents IA : les phases et le temps réellement passé]]
+- « AGENTS.md et CLAUDE.md relèvent de la supply chain logicielle, au même titre qu'un package.json » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-agents-md-telechargements-codex-claude-code-2026-10-27\|AGENTS.md piégé dans Téléchargements : comment Codex et Claude Code ont été détournés, et les parades]]
+- « au 15 octobre 2026, REA ne documente pas WinDev parmi ses cibles » (AFFIRMATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-windev-agents-rea-clean-room-2026-10-15\|Moderniser une application WinDev avec des agents : REA et méthode clean-room]]
+- « aucun convertisseur WinDev n'est possible car le code vit dans l'IHM » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-migration-windev-ia-sans-big-bang-2026-10-07\|Migration WinDev : réécrire vos applications PC SOFT avec l'IA, sans big bang]]
+- « avec un modèle hébergé, les résultats d'outils partent chez le fournisseur du modèle » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-souverainete-audit-logiciel-2026-10-19\|Souveraineté : auditer le comportement d'un logiciel extra-européen]]
+- « chercher le faux déjà en ligne est l'étape la plus rentable du sourcing » (AFFIRMATION) — 0.90, STATIQUE
+  - [[fiches/2026-11/sfeir-base-connaissances-site-conversationnel-2026-11-15\|Base de connaissances : le chantier invisible derrière un site conversationnel]]
+- « données, utilisateurs, serveur, distribution, marque et vitesse d'exécution protègent toujours un éditeur » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-fin-avantage-code-ferme-2026-10-21\|REA, ArtCraft et la fin de l'avantage du code fermé]]
 - « il faut distinguer quatre souverainetés — modèle, exécution, infrastructure, relation commerciale — dont cet accord n'en offre que trois sur quatre » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
+- « l'analyse statique montre ce que le logiciel peut faire, la capture réseau ce qu'il fait » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-souverainete-audit-logiciel-2026-10-19\|Souveraineté : auditer le comportement d'un logiciel extra-européen]]
 - « l'argument d'élasticité-prix est structurellement pro-emploi pour les développeurs » (AFFIRMATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
+- « l'audit vérifie le comportement, il ne garantit pas la souveraineté » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-souverainete-audit-logiciel-2026-10-19\|Souveraineté : auditer le comportement d'un logiciel extra-européen]]
+- « l'escalade qualitative se code dans l'application, aucun paramètre de routage ne la fait » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-routeur-modeles-llm-escalade-2026-10-12\|Routeur de modèles LLM : quand il bat un modèle unique, et quand il perd]]
 - « l'IA est un catalyseur qui revalorise synthèse, vision stratégique et lien tech-business » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 - « l'IA exécute des phases entières, elle n'assiste pas » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
+- « l'inventaire par agent complète ou vérifie la SBOM du fournisseur sans la remplacer » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-audit-binaire-fournisseur-2026-10-17\|Auditer un binaire fournisseur sans son code source]]
+- « l'obfuscation est un pari économique que les agents de rétro-ingénierie cassent » (AFFIRMATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-obfuscation-code-agents-2026-10-16\|Obfuscation et protection du code à l'ère des agents]]
+- « la compétence centrale est la revue des preuves, séparer l'observé du déduit » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-ctf-crackmes-formation-retro-ingenierie-2026-10-16\|CTF et crackmes : former ses équipes à la rétro-ingénierie assistée par agents]]
 - « la couche des modèles se banalise et la valeur se déplace vers le système (Context Engineering, harnais, gouvernance des coûts) » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
+- « la fenêtre entre divulgation et exploitation se compte en heures ; le cycle mensuel de patch ne suffit plus » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-php2shell-faille-php-course-au-patch-2026-10-21\|PHP2Shell : l'IA a trouvé la faille avant les attaquants, la course au patch commence]]
+- « la licence de Large 4 est plus fermée pour les hébergeurs que celles de GLM-5.3 et Kimi K3 » (AFFIRMATION) — 0.90, STATIQUE
+  - [[fiches/2026-11/sfeir-mistral-large-4-licence-auto-hebergement-2026-11-02\|Mistral Large 4 en poids ouverts : ce que la licence permet, ce que l'auto-hébergement coûte]]
+- « la valeur souveraine de Large 4 dépend de la licence des poids » (AFFIRMATION) — 0.90, STATIQUE
+  - [[fiches/2026-10/sfeir-mistral-large-4-souverainete-licence-2026-10-06\|Mistral Large 4 : 1 000 milliards de paramètres en open-weights, une souveraineté qui se jugera sur la licence]]
+- « la validation d'intégrité de l'ASAR ne protège pas la lecture » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-electron-asar-secrets-2026-10-21\|Applications Electron : secrets et logique métier exposés dans l'ASAR]]
+- « le code interne n'a pas d'éditeur et doit être relu avant qu'un attaquant n'y trouve les failles » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-11/sfeir-exploit-goulot-delai-correction-2026-11-06\|L'exploit n'est plus le goulot : avec l'IA, le délai de correction fixe votre risque]]
+- « le coût dépend surtout des règles métier et des états, peu du nombre de fenêtres » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-cout-migration-windev-2026-10-16\|Combien coûte une migration WinDev en 2026 ? Coût, délais et ROI avec l'IA]]
 - « le modèle est une commodité, l'avantage durable est dans l'ingénierie qui l'entoure » (CITATION) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+- « le retrait de Gemini 3.8 Flash ne vaut que pour Copilot, l'API Gemini continuant de le servir » (AFFIRMATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-gemini-4-hydrogen-github-copilot-2026-11-15\|Gemini 4 Hydrogen arrive dans GitHub Copilot : ce que vos équipes doivent régler avant le 14 décembre]]
+- « le taux de 70 % n'a pas de méthode publiée et préexiste à la version 3.0 » (AFFIRMATION) — 0.90, STATIQUE
+  - [[fiches/2026-10/sfeir-grok-voice-3-centre-appels-2026-10-15\|Grok Voice 3.0 : numéro un des modèles vocaux, ce qu'un centre d'appels doit vérifier]]
+- « le titre de FDE ne se mérite pas en renommant des consultants » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-11/sfeir-playlist-fde-worlds-fair-2026-11-10\|Forward deployed engineering : les neuf talks de l'AI Engineer World's Fair 2026, notés et classés]]
+- « les contrôles lisent du texte, pas du sens » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-11/sfeir-garde-fous-site-agents-ia-2026-11-15\|Contenus écrits par des agents IA : les garde-fous qui gardent un site juste]]
+- « les failles révélées par l'IA reproduisent le bug de l'an 2000 sans date de fin » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-11/sfeir-budgets-2027-dette-securite-2026-11-08\|Budgets 2027 : il faut défragiliser le SI]]
+- « les fallbacks se déclenchent sur erreur, jamais sur une réponse valide mais médiocre » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-openrouter-production-reglages-2026-10-12\|OpenRouter en production : cache, coûts, latence et données sous contrôle]]
+- « les migrations WinDev échouent rarement pour une raison technique » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-risques-migration-windev-2026-10-16\|Migration WinDev : les 10 risques qui font échouer un projet, et comment les maîtriser]]
+- « les résultats d'outils de REA partent vers le fournisseur du modèle même si la cible reste locale » (AFFIRMATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-rea-trois-schemas-architecture-usage-2026-10-12\|REA en trois schémas : architecture, fonctionnement et usage]]
 - « les specs et scores de Kimi K3 sont auto-déclarés (vendor-stated) et à traiter comme des revendications, pas des faits mesurés » (AFFIRMATION) — 0.90, STATIQUE
   - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
+- « noms minifiés, chemins construits à l'exécution et code servi à distance échappent à l'analyse statique » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rea-application-electron-2026-10-15\|Ce qu'une analyse REA révèle d'une application Electron]]
+- « REA ne cite ni VB5 ni VB6 parmi ses cibles documentées au 18 octobre 2026 » (AFFIRMATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-retro-ingenierie-vb6-2026-10-18\|Rétro-ingénierie d'applications VB6 : peu de retours, un workflow possible]]
+- « REA ne reconstruit pas de C# à partir d'une assembly .NET » (AFFIRMATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-rea-dotnet-2026-10-17\|Analyser des assemblies .NET avec REA]]
+- « sans source, l'objectif est de rétro-documenter les règles métier, pas de ressusciter le code » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-legacy-sans-code-source-2026-10-16\|Applications legacy sans code source : comprendre avant de réécrire]]
+- « sans échantillons connus, les propositions de structure d'un agent restent des hypothèses » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-formats-proprietaires-retro-documentation-2026-10-18\|Formats de fichiers propriétaires : rétro-documenter pour migrer les données]]
+- « un exécutable Delphi conserve après compilation une partie de ses métadonnées de classes » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-retro-ingenierie-delphi-2026-10-17\|Applications Delphi : ce que Ghidra et les agents permettent]]
+- « un ingénieur facturé à la journée qui ne répond d'aucune mise en service travaille en régie quel que soit son intitulé » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-11/sfeir-fde-consultant-architecte-regie-2026-11-06\|FDE, consultant, architecte, régie : quelles différences ?]]
+- « un même agent qui analyse puis réécrit fait disparaître la barrière clean-room » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-windev-agents-rea-clean-room-2026-10-15\|Moderniser une application WinDev avec des agents : REA et méthode clean-room]]
+- « un même agent qui lit le décompilé puis réécrit fusionne les deux rôles de la salle blanche » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-clean-room-vs-reverse-engineering-2026-10-11\|Clean-room ou reverse engineering : méthode et risque juridique à l'ère des agents]]
+- « un profil d'agent séparé n'est pas une frontière de sécurité » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rea-deploiement-entreprise-2026-10-20\|Déployer REA en entreprise : versions, profils, conteneurs]]
+- « un serveur MCP s'exécute avec les droits du développeur et constitue une dépendance de premier rang » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rea-faux-depots-supply-chain-2026-10-14\|Faux dépôts REA et cheval de Troie : le risque supply chain d'un outil viral]]
+- « une clé présente dans une version publiée doit être tenue pour compromise » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-electron-asar-secrets-2026-10-21\|Applications Electron : secrets et logique métier exposés dans l'ASAR]]
+- « une liste de domaines tirée du code dit ce que l'application peut contacter, pas ce qu'elle contacte » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rea-android-apk-2026-10-19\|REA et Android : auditer une APK avec JADX et Apktool]]
+- « une plateforme low-code propriétaire recrée la dépendance que l'on quitte » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-alternatives-windev-2026-10-16\|Alternatives à WinDev en 2026 : quels outils et langages pour remplacer l'AGL de PC SOFT ?]]
 - « à mesure que le code devient une commodité, la marge se déplace vers le jugement produit et la gouvernance » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
+- « concentrer le contexte de centaines de personnes dans un dépôt crée une cible » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-own-your-intelligence-lecture-dsi-2026-11-14\|Own Your Intelligence : la thèse de Garry Tan lue par une DSI]]
+- « l'hébergement local d'un modèle ne garantit pas l'absence de requêtes sortantes du modèle » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-qwen-cohere-connexion-sortante-agents-2026-10-27\|Qwen3.8 a tenté d'écrire vers Pékin pendant un test : ce que le cas Cohere change pour vos agents]]
+- « l'IA baisse le coût de lecture et d'écriture mais pas le temps de décision métier » (AFFIRMATION) — 0.88, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-cout-migration-windev-2026-10-16\|Combien coûte une migration WinDev en 2026 ? Coût, délais et ROI avec l'IA]]
+- « la base de GBrain est un index reconstructible, mais l'historique et l'état opérationnel exigent une sauvegarde » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-gbrain-memoire-garry-tan-2026-11-14\|GBrain : la mémoire de Garry Tan, en Markdown et sous licence MIT]]
+- « la couverture de REA baisse avec les indirections et certains angles morts ne sont pas signalés » (AFFIRMATION) — 0.88, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-rea-limites-2026-10-15\|Les limites réelles de REA : taille des sorties, coût, couverture]]
+- « la stack se décide à la gate Plan, après l'inventaire et l'extraction des règles » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-migration-windev-stack-cible-2026-10-15\|WinDev vers Java, .NET, TypeScript ou Flutter : comment choisir sa stack cible]]
+- « la structure et la logique client d'une application Electron sont lisibles par un agent en moins d'une minute » (AFFIRMATION) — 0.88, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-rea-application-electron-2026-10-15\|Ce qu'une analyse REA révèle d'une application Electron]]
+- « la transcription d'une réunion est un traitement de données personnelles au sens du RGPD » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-claude-meetings-google-meet-2026-11-15\|Claude Meetings : Claude entre dans vos réunions Google Meet comme participant]]
+- « le confinement ne règle ni les données transmises au fournisseur du modèle ni le droit d'analyser la cible » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rea-sandbox-confinement-2026-10-13\|REA n'est pas un sandbox : confiner l'analyse d'un binaire inconnu]]
+- « le facteur 13 de latence compare un temps de calcul non documenté à un aller-retour HTTPS » (AFFIRMATION) — 0.88, STATIQUE
+  - [[fiches/2026-10/sfeir-cloudflare-clef-jev-modeles-decision-2026-10-06\|Cloudflare Clef face à Jev : quel modèle de décision choisir, et ce que valent les chiffres]]
+- « le facteur limitant de l'adoption des agents partagés est organisationnel » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-dust-ia-entreprise-multiplayer-agents-2026-10-27\|Dust ou l'IA d'entreprise qui se joue à plusieurs : ce que les DSI doivent en retenir]]
+- « le score cyber mesure à la fois une capacité et une politique de refus » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-mistral-large-4-souverainete-licence-2026-10-06\|Mistral Large 4 : 1 000 milliards de paramètres en open-weights, une souveraineté qui se jugera sur la licence]]
 - « le scénario agentique, relégué en note de bas de page, pourrait invalider le cadre « assistant ponctuel » de la note » (AFFIRMATION) — 0.88, DYNAMIQUE
   - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
+- « le tout-Markdown ne couvre ni le reporting de portefeuille ni les permissions fines » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-sortir-de-jira-backlog-markdown-2026-11-13\|Sortir de Jira en 2027 : mettez vos tickets là où travaillent vos agents]]
+- « les agents rapprochent l'attaquant de la boîte blanche à partir du binaire » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-retro-ingenierie-agents-securite-2026-10-16\|Rétro-ingénierie par agents : ce que ça change pour les équipes sécurité]]
+- « les contrôles d'exécution d'un agent doivent s'appliquer hors de sa portée » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-artex-pentest-autonome-cyberarme-2026-11-17\|ARTEX : quand le pentest autonome devient une cyberarme]]
+- « les erreurs de lecture naissent presque toujours dans l'interprétation par l'agent » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rea-evidence-sortie-agent-2026-10-15\|Lire une sortie REA : preuves, pseudocode et hallucinations]]
+- « les gains annoncés par McKinsey sont des retours de cabinet sans méthode ni échantillon publiés » (AFFIRMATION) — 0.88, STATIQUE
+  - [[fiches/2026-10/sfeir-ai-operating-system-mckinsey-lecture-2026-10-15\|AI operating system : ce que McKinsey a raison de dire, et ce qu'il ne prouve pas]]
+- « les passages lus en contexte font près des trois quarts du coût de rédaction » (AFFIRMATION) — 0.88, STATIQUE
+  - [[fiches/2026-11/sfeir-cout-site-conversationnel-2026-11-15\|Combien coûte un site conversationnel : nos chiffres mesurés et leur méthode]]
+- « les tests écrits par le LLM sont le risque le plus sous-estimé » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-risques-migration-windev-2026-10-16\|Migration WinDev : les 10 risques qui font échouer un projet, et comment les maîtriser]]
+- « minification, empaquetage et compilation native gênent peu les outils d'un agent » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-editeurs-logiciel-lisible-agents-2026-10-21\|Votre logiciel est lisible par n'importe quel agent : guide pour éditeurs]]
+- « OSWorld 72,4 % est un crédit partiel, la réussite stricte est de 37,1 % » (AFFIRMATION) — 0.88, STATIQUE
+  - [[fiches/2026-10/sfeir-claude-haiku-5-5-sous-agents-2026-10-08\|Claude Haiku 5.5 : ce que le nouveau Haiku change pour vos sous-agents]]
+- « pour une application tierce, le registre des traitements repose souvent sur la seule déclaration de l'éditeur » (AFFIRMATION) — 0.88, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-rgpd-verifier-telemetrie-application-2026-10-18\|RGPD : vérifier ce qu'une application envoie vraiment]]
+- « REA n'est pas un bac à sable : tout binaire inconnu s'ouvre en environnement isolé » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-retro-ingenierie-agents-securite-2026-10-16\|Rétro-ingénierie par agents : ce que ça change pour les équipes sécurité]]
+- « REA ne cite pas Delphi parmi ses cibles et ne décode pas encore les formulaires VCL au 17 octobre 2026 » (AFFIRMATION) — 0.88, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-retro-ingenierie-delphi-2026-10-17\|Applications Delphi : ce que Ghidra et les agents permettent]]
+- « un appariement refusé désactive l'advisor sans erreur visible » (AFFIRMATION) — 0.88, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-claude-code-advisor-multi-modeles-2026-10-08\|Advisor Claude Code : qui planifie, qui édite, qui lit entre Opus, Sonnet et Haiku 5.5]]
+- « une clause de licence contraire au IV de L122-6-1 est nulle en droit français » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-decompilation-interoperabilite-dsi-2026-10-12\|Décompiler pour interopérer : l'article 6 de la directive expliqué à une DSI]]
+- « une DSI qui achète pour usage interne n'est pas fabricant mais hérite du suivi des vulnérabilités » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-cra-sbom-binaire-2026-10-17\|Cyber Resilience Act et SBOM : inventorier un binaire livré sans inventaire]]
+- « être cité par un assistant ne fait pas venir le visiteur » (AFFIRMATION) — 0.88, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-ecrire-moteurs-ia-schema-org-llms-txt-2026-11-15\|Écrire pour les moteurs et pour les IA : graphe schema.org, llms.txt et fiches de référence]]
 - « OpenAI et Anthropic, devenus sources de Bercy, produisent la donnée sur leur propre impact (biais de source non signalé) » (AFFIRMATION) — 0.87, DYNAMIQUE
   - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
+- « aucun retour public de rétro-ingénierie par agents sur une application VB6 n'a été trouvé » (AFFIRMATION) — 0.86, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-retro-ingenierie-vb6-2026-10-18\|Rétro-ingénierie d'applications VB6 : peu de retours, un workflow possible]]
+- « chaque génération de modèles relit le même code et trouve ce que la précédente avait manqué » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-bank-of-america-mythos-prestataires-correctifs-2026-10-26\|Bank of America : 1 000 prestataires pour corriger ce que Mythos a trouvé]]
+- « la séparation des rôles est difficile à démontrer quand un modèle de langage écrit le code » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-artcraft-clean-room-adobe-2026-10-09\|ArtCraft : des clones d'Adobe en clean-room revendiqué, ce que vaut l'argument]]
+- « le billet d'OpenAI ne nomme ni l'ENISA ni les CSIRT nationaux » (AFFIRMATION) — 0.86, STATIQUE
+  - [[fiches/2026-10/sfeir-divulgation-failles-ia-cadre-openai-2026-10-26\|Failles trouvées par IA : le cadre de divulgation qu'OpenAI propose après PHP2Shell]]
+- « le forfait convient mal à un premier système d'IA générative, qui se découvre en le testant » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-11/sfeir-fde-consultant-architecte-regie-2026-11-06\|FDE, consultant, architecte, régie : quelles différences ?]]
+- « le patch d'urgence par un tiers via la faille est la question la plus lourde pour une DSI » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-divulgation-failles-ia-cadre-openai-2026-10-26\|Failles trouvées par IA : le cadre de divulgation qu'OpenAI propose après PHP2Shell]]
+- « le pseudocode Ghidra d'un build PowerBuilder ignore le modèle d'objets (DataWindows, scripts d'événements) » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-retro-ingenierie-powerbuilder-nsdk-2026-10-20\|PowerBuilder et NSDK : état des lieux de la rétro-ingénierie par agents]]
+- « le règlement n'oblige pas le fabricant à transmettre sa SBOM à ses clients » (AFFIRMATION) — 0.86, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-cra-sbom-binaire-2026-10-17\|Cyber Resilience Act et SBOM : inventorier un binaire livré sans inventaire]]
+- « les chiffres de l'article sont déclarés par Anthropic sans mesure indépendante » (AFFIRMATION) — 0.86, STATIQUE
+  - [[fiches/2026-11/sfeir-verification-code-agents-claude-code-2026-11-19\|Comment l'équipe Claude Code vérifie le code écrit par ses agents]]
+- « les refus côté serveur ne protègent plus une fois les poids publiés » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-mistral-large-4-souverainete-licence-2026-10-06\|Mistral Large 4 : 1 000 milliards de paramètres en open-weights, une souveraineté qui se jugera sur la licence]]
+- « quand l'agent produit des correctifs plus vite que l'équipe ne les relit, la revue devient le goulot » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-codemender-google-agent-faille-correctif-2026-10-26\|CodeMender : Google veut que l'agent qui trouve la faille écrive aussi le correctif]]
+- « REA n'est pas un bac à sable : l'émulation et le flashage changent la nature de l'analyse » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-retro-ingenierie-firmware-iot-2026-10-21\|Firmware et objets connectés : la rétro-ingénierie par agents]]
+- « un taux de couverture élevé ne dit rien de la qualité des assertions » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-windev-golden-master-inverse-2026-10-15\|Tests de non-régression d'une migration WinDev : la méthode du golden master inversé]]
+- « une capture réseau contient elle-même des données personnelles » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rgpd-verifier-telemetrie-application-2026-10-18\|RGPD : vérifier ce qu'une application envoie vraiment]]
+- « étudier ses propres fichiers de données est un terrain plus sûr que décompiler le programme » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-formats-proprietaires-retro-documentation-2026-10-18\|Formats de fichiers propriétaires : rétro-documenter pour migrer les données]]
+- « chaque passage de relais entre modes d'intervention fait perdre du contexte » (AFFIRMATION) — 0.85, ATEMPOREL
+  - [[fiches/2026-11/sfeir-fde-consultant-architecte-regie-2026-11-06\|FDE, consultant, architecte, régie : quelles différences ?]]
+- « données, utilisateurs, infrastructure, support et rythme de livraison se copient mal » (AFFIRMATION) — 0.85, ATEMPOREL
+  - [[fiches/2026-10/sfeir-editeurs-logiciel-lisible-agents-2026-10-21\|Votre logiciel est lisible par n'importe quel agent : guide pour éditeurs]]
+- « l'asymétrie d'information créée par le choix des premiers bergers est la limite principale » (AFFIRMATION) — 0.85, STATIQUE
+  - [[fiches/2026-10/sfeir-openai-kakeya-eth-yang-mills-2026-10-27\|Kakeya, ETH, Yang-Mills : OpenAI annonce trois percées, la communauté prend le temps de goûter]]
+- « l'audience des talks suit presque l'ordre inverse de leur qualité » (AFFIRMATION) — 0.85, STATIQUE
+  - [[fiches/2026-11/sfeir-playlist-fde-worlds-fair-2026-11-10\|Forward deployed engineering : les neuf talks de l'AI Engineer World's Fair 2026, notés et classés]]
+- « la diffusion des résultats d'une analyse reste soumise à la licence » (AFFIRMATION) — 0.85, ATEMPOREL
+  - [[fiches/2026-10/sfeir-licence-retro-ingenierie-clauses-nulles-2026-10-13\|Clauses de licence et rétro-ingénierie : ce qui est nul en France]]
+- « la facturation au résultat change la façon de vendre une mission » (AFFIRMATION) — 0.85, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-playlist-fde-worlds-fair-2026-11-10\|Forward deployed engineering : les neuf talks de l'AI Engineer World's Fair 2026, notés et classés]]
+- « la page de lancement et le centre d'aide divergent sur le réglage par défaut des invités externes » (AFFIRMATION) — 0.85, STATIQUE
+  - [[fiches/2026-11/sfeir-claude-meetings-google-meet-2026-11-15\|Claude Meetings : Claude entre dans vos réunions Google Meet comme participant]]
 - « la prochaine dépendance se contracte au niveau du modèle et de l'agent, pas de l'infrastructure » (AFFIRMATION) — 0.85, ATEMPOREL
   - [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
 - « la stratégie industrielle de Mistral est encore illisible : présence simultanée B2C/B2B/modèle/infrastructure/verticalisation sans fossé défensif identifiable » (AFFIRMATION) — 0.85, DYNAMIQUE
   - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
+- « les conditions d'accès aux modèles de frontière sont un risque fournisseur » (AFFIRMATION) — 0.85, ATEMPOREL
+  - [[fiches/2026-11/sfeir-api-claude-cache-effort-migrations-2026-11-16\|Votre facture Claude est trop haute ? Anthropic vous dit par où commencer]]
+- « les montants d'exposition sont des projections mécaniques, pas des devis » (AFFIRMATION) — 0.85, STATIQUE
+  - [[fiches/2026-10/sfeir-redevance-windev-rachat-pc-soft-2026-10-16\|Redevance WinDev, rachat de PC SOFT : faut-il quitter WinDev maintenant ?]]
+- « REA vaut son coût quand l'analyse traverse les couches (renderer Electron vers add-on natif) » (AFFIRMATION) — 0.85, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-rea-limites-2026-10-15\|Les limites réelles de REA : taille des sorties, coût, couverture]]
+- « sur trois assemblies un décompilateur .NET manuel suffit ; REA sert sur un parc mixte » (AFFIRMATION) — 0.85, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rea-dotnet-2026-10-17\|Analyser des assemblies .NET avec REA]]
+- « une fonctionnalité visible de l'extérieur se réimplémente désormais en quelques semaines » (AFFIRMATION) — 0.85, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-artcraft-clean-room-adobe-2026-10-09\|ArtCraft : des clones d'Adobe en clean-room revendiqué, ce que vaut l'argument]]
+- « l'équivalent en ingénieurs dérive d'une mesure de type token maxing » (AFFIRMATION) — 0.84, STATIQUE
+  - [[fiches/2026-11/sfeir-fde-cognition-jia-wu-2026-11-10\|Cognition et son FDE : des chiffres spectaculaires, aucune méthode pour les lire]]
+- « la valeur se déplace du runtime d'agent vers identité, contexte, gouvernance et facturation » (AFFIRMATION) — 0.84, ATEMPOREL
+  - [[fiches/2026-11/sfeir-microsoft-autopilot-openclaw-ignite-2026-11-18\|Microsoft Autopilot tourne sur OpenClaw, et Ignite ne l'a pas dit]]
+- « le talk ne donne presque aucun indicateur » (AFFIRMATION) — 0.84, STATIQUE
+  - [[fiches/2026-11/sfeir-fde-decagon-sunny-rekhi-2026-11-10\|Sunny Rekhi (Decagon) : chaque demande sur mesure doit finir en libre-service]]
+- « une ESN facturée au temps passé vend des jours sans engagement de résultat » (AFFIRMATION) — 0.84, ATEMPOREL
+  - [[fiches/2026-11/sfeir-fde-sierra-natalie-meurer-2026-11-10\|« Quel millésime de FDE êtes-vous ? » : Natalie Meurer (Sierra) démonte le titre à la mode]]
+- « CodeBuddy Entreprise et WorkBuddy international stockent leurs données à Singapour » (AFFIRMATION) — 0.82, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-memoire-agent-souverainete-2026-11-14\|Mémoire d'agent et souveraineté : Git, base managée ou mémoire native de l'éditeur ?]]
+- « la clientèle mature de Cursor contredit la zone FDE de sa propre matrice » (AFFIRMATION) — 0.82, STATIQUE
+  - [[fiches/2026-11/sfeir-fde-cursor-pauline-brunet-2026-11-10\|Chez Cursor, Pauline Brunet commence par décider où ne pas envoyer de FDE]]
+- « le parseur NativeAOT de REA se limite aux cibles x64 avec métadonnées RTR 9.1 (.NET 8) » (AFFIRMATION) — 0.82, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-rea-dotnet-2026-10-17\|Analyser des assemblies .NET avec REA]]
+- « la décote au secondaire refléterait le risque d'absorption de la couche de contexte par les grands fournisseurs » (AFFIRMATION) — 0.80, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-glean-couche-de-contexte-2026-10-27\|Glean, Anthropic et la bataille de la couche de contexte]]
+- « la thèse finale étire la notion au point de la rendre peu utilisable » (AFFIRMATION) — 0.80, STATIQUE
+  - [[fiches/2026-11/sfeir-fde-sierra-natalie-meurer-2026-11-10\|« Quel millésime de FDE êtes-vous ? » : Natalie Meurer (Sierra) démonte le titre à la mode]]
 
 ### collabore_avec
 
 - [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-anthropic-revenus-t3-introduction-bourse-2026-10-15\|Anthropic : 16,8 milliards de dollars en un trimestre, ce que l'on sait avant l'introduction en Bourse]]
+  - [[fiches/2026-10/sfeir-claude-code-advisor-multi-modeles-2026-10-08\|Advisor Claude Code : qui planifie, qui édite, qui lit entre Opus, Sonnet et Haiku 5.5]]
   - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
   - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
+  - [[fiches/2026-10/sfeir-migration-windev-software-factory-10x-2026-10-15\|Migrer WinDev avec la Software Factory 10x : la méthode SFEIR en six étapes, de l'audit à la bascule]]
   - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 - [[kb/Google-Cloud\|Google Cloud]] (ORGANISATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+  - [[fiches/2026-10/sfeir-migration-windev-stack-cible-2026-10-15\|WinDev vers Java, .NET, TypeScript ou Flutter : comment choisir sa stack cible]]
+
+### converge_avec
+
+- [[kb/McKinsey\|McKinsey]] (ORGANISATION) — 0.82, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-ai-operating-system-mckinsey-lecture-2026-10-15\|AI operating system : ce que McKinsey a raison de dire, et ce qu'il ne prouve pas]]
 
 ### mesure
 
+- « 41 providers OpenRouter sur 94 passent le filtre ZDR, dont 34 sièges aux États-Unis et 3 en Europe » (MESURE) — 0.93, STATIQUE
+  - [[fiches/2026-10/sfeir-openrouter-zdr-souverainete-2026-10-19\|OpenRouter : rétention zéro ne veut pas dire souverain]]
+- « conversation : 695 interactions, 23,2 h humaines, 56 h de Claude à l'horloge, 89 heures-agent » (MESURE) — 0.93, STATIQUE
+  - [[fiches/2026-11/sfeir-construire-site-agents-phases-temps-2026-11-15\|Construire un site avec des agents IA : les phases et le temps réellement passé]]
+- « rea-agents passé de 4.0.0 à 6.7.0 entre le 5 et le 18 octobre 2026 » (MESURE) — 0.92, STATIQUE
+  - [[fiches/2026-10/sfeir-rea-deploiement-entreprise-2026-10-20\|Déployer REA en entreprise : versions, profils, conteneurs]]
 - « 1 000 personnes pour une capacité de production de 10 000 » (MESURE) — 0.90, DYNAMIQUE
   - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
+- « 2 302 $ en équivalent API pour la conversation, 2 994 $ sur le mois mesuré » (MESURE) — 0.90, STATIQUE
+  - [[fiches/2026-11/sfeir-construire-site-agents-phases-temps-2026-11-15\|Construire un site avec des agents IA : les phases et le temps réellement passé]]
+- « 25 hébergeurs du filtre servent GLM-5.3 » (MESURE) — 0.90, STATIQUE
+  - [[fiches/2026-10/sfeir-openrouter-zdr-souverainete-2026-10-19\|OpenRouter : rétention zéro ne veut pas dire souverain]]
+- « IDA Pro Essential à partir de 1 099 € par an au 23 octobre 2026 » (MESURE) — 0.90, STATIQUE
+  - [[fiches/2026-10/sfeir-rea-ghidramcp-ida-pro-mcp-2026-10-20\|REA, GhidraMCP ou ida-pro-mcp : quel MCP de rétro-ingénierie choisir]]
+- « 11 494 étoiles GhidraMCP, 13 103 ida-pro-mcp, 369 860 REA au 23 octobre 2026 » (MESURE) — 0.88, STATIQUE
+  - [[fiches/2026-10/sfeir-rea-ghidramcp-ida-pro-mcp-2026-10-20\|REA, GhidraMCP ou ida-pro-mcp : quel MCP de rétro-ingénierie choisir]]
+- « 22 modèles, tous open weights, accessibles par un siège européen du filtre » (MESURE) — 0.88, STATIQUE
+  - [[fiches/2026-10/sfeir-openrouter-zdr-souverainete-2026-10-19\|OpenRouter : rétention zéro ne veut pas dire souverain]]
+- « 2 302 $ de construction en équivalent API, soit ~1,7 million de questions rédigées » (MESURE) — 0.86, STATIQUE
+  - [[fiches/2026-11/sfeir-cout-site-conversationnel-2026-11-15\|Combien coûte un site conversationnel : nos chiffres mesurés et leur méthode]]
+- « 1 482 commits, 140 jours actifs, ~432 h d'activité, ~100 h humaines estimées » (MESURE) — 0.85, STATIQUE
+  - [[fiches/2026-11/sfeir-construire-site-agents-phases-temps-2026-11-15\|Construire un site avec des agents IA : les phases et le temps réellement passé]]
+- « CMS 2021 : ~6 mois et ~100 k€ ; agent 2025 : ~1 semaine et ~1 000 € » (MESURE) — 0.85, STATIQUE
+  - [[fiches/2026-11/sfeir-site-conversationnel-cms-conversation-2026-11-15\|Site conversationnel : comment sfeir.com est passé du CMS à la conversation]]
+- « +89 % par session d'agent sur Hydrogen (scénario Data Studios recalculé) » (MESURE) — 0.82, STATIQUE
+  - [[fiches/2026-11/sfeir-gemini-4-hydrogen-github-copilot-2026-11-15\|Gemini 4 Hydrogen arrive dans GitHub Copilot : ce que vos équipes doivent régler avant le 14 décembre]]
+- « 20 à 40 % de code mort sur un monolithe mature » (MESURE) — 0.82, ATEMPOREL
+  - [[fiches/2026-10/sfeir-windev-regles-metier-ia-2026-10-15\|Extraire les règles métier d'une application WinDev avec l'IA : la rétro-documentation spec first]]
+- « délai de retour de 29 à 39 mois pour un exemple fictif à 90 000 € » (MESURE) — 0.82, STATIQUE
+  - [[fiches/2026-10/sfeir-cout-migration-windev-2026-10-16\|Combien coûte une migration WinDev en 2026 ? Coût, délais et ROI avec l'IA]]
+- « gains de ×2 à ×10 sur la production logicielle (AI4IT, données internes non auditées) » (MESURE) — 0.80, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-ai-operating-system-mckinsey-lecture-2026-10-15\|AI operating system : ce que McKinsey a raison de dire, et ce qu'il ne prouve pas]]
 - « "− 30 % d'itérations de correction après dix cycles" (mesure interne first-party, protocole non publié) » (MESURE) — 0.78, STATIQUE
   - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
 
@@ -105,6 +402,8 @@
 
 - « 850 consultants entièrement augmentés à l'IA d'ici fin 2026 » (AFFIRMATION) — 0.85, DYNAMIQUE
   - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
+- « ≈ 12,66 $ par mois pour 10 000 questions, ≈ 112,96 $ pour 100 000 » (MESURE) — 0.85, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-cout-site-conversationnel-2026-11-15\|Combien coûte un site conversationnel : nos chiffres mesurés et leur méthode]]
 
 ### publie
 
@@ -112,8 +411,230 @@
   - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
 - [[kb/_entites-mineures#L'IA-fait-tomber-les-murs-entre-les-métiers\|L'IA fait tomber les murs entre les métiers]] (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
+- Agents always-on : les cinq primitives d'Anthropic et l'étage AX de Google (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-agents-always-on-anthropic-ax-google-2026-11-15\|Agents always-on : les cinq primitives d'Anthropic et l'étage AX de Google]]
+- Agents de code : les critères qui comptent avant le benchmark (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-agents-de-code-panorama-criteres-choix-2026-10-22\|Agents de code : les critères qui comptent avant le benchmark]]
+- AGENTS.md piégé dans Téléchargements : comment Codex et Claude Code ont été détournés, et les parades (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-agents-md-telechargements-codex-claude-code-2026-10-27\|AGENTS.md piégé dans Téléchargements : comment Codex et Claude Code ont été détournés, et les parades]]
+- AI operating system : ce que McKinsey a raison de dire, et ce qu'il ne prouve pas (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-ai-operating-system-mckinsey-lecture-2026-10-15\|AI operating system : ce que McKinsey a raison de dire, et ce qu'il ne prouve pas]]
+- Alternatives à WinDev en 2026 (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-alternatives-windev-2026-10-16\|Alternatives à WinDev en 2026 : quels outils et langages pour remplacer l'AGL de PC SOFT ?]]
+- Analyser des assemblies .NET avec REA (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-rea-dotnet-2026-10-17\|Analyser des assemblies .NET avec REA]]
+- Analyser un malware en local avec un agent, sans l'exfiltrer (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-analyse-malware-agent-local-2026-10-14\|Analyser un malware en local avec un agent, sans l'exfiltrer]]
+- Anthropic : 16,8 milliards de dollars en un trimestre, ce que l'on sait avant l'introduction en Bourse (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-anthropic-revenus-t3-introduction-bourse-2026-10-15\|Anthropic : 16,8 milliards de dollars en un trimestre, ce que l'on sait avant l'introduction en Bourse]]
+- Applications Delphi : ce que Ghidra et les agents permettent (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-retro-ingenierie-delphi-2026-10-17\|Applications Delphi : ce que Ghidra et les agents permettent]]
+- Applications Electron : secrets et logique métier exposés dans l'ASAR (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-electron-asar-secrets-2026-10-21\|Applications Electron : secrets et logique métier exposés dans l'ASAR]]
+- Applications legacy sans code source (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-legacy-sans-code-source-2026-10-16\|Applications legacy sans code source : comprendre avant de réécrire]]
+- ARTEX : quand le pentest autonome devient une cyberarme (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-artex-pentest-autonome-cyberarme-2026-11-17\|ARTEX : quand le pentest autonome devient une cyberarme]]
+- article Architecture d'un site conversationnel (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-architecture-site-conversationnel-2026-11-15\|Architecture d'un site conversationnel : ce qui se passe entre la question et la réponse]]
+- article Base de connaissances le chantier invisible (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-base-connaissances-site-conversationnel-2026-11-15\|Base de connaissances : le chantier invisible derrière un site conversationnel]]
+- article Combien coûte un site conversationnel (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-cout-site-conversationnel-2026-11-15\|Combien coûte un site conversationnel : nos chiffres mesurés et leur méthode]]
+- article Construire un site avec des agents IA (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-construire-site-agents-phases-temps-2026-11-15\|Construire un site avec des agents IA : les phases et le temps réellement passé]]
+- article Contenus écrits par des agents IA les garde-fous (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-garde-fous-site-agents-ia-2026-11-15\|Contenus écrits par des agents IA : les garde-fous qui gardent un site juste]]
+- article Site conversationnel du CMS à la conversation (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-site-conversationnel-cms-conversation-2026-11-15\|Site conversationnel : comment sfeir.com est passé du CMS à la conversation]]
+- article The components of agent memory : ce qu'Anthropic a mesuré (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-components-agent-memory-anthropic-2026-11-14\|The components of agent memory : ce qu'Anthropic a mesuré, et ce que ça change pour vos agents]]
+- article Écrire pour les moteurs et pour les IA (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-ecrire-moteurs-ia-schema-org-llms-txt-2026-11-15\|Écrire pour les moteurs et pour les IA : graphe schema.org, llms.txt et fiches de référence]]
+- Auditer un binaire fournisseur sans son code source (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-audit-binaire-fournisseur-2026-10-17\|Auditer un binaire fournisseur sans son code source]]
+- Bank of America : 1 000 prestataires pour corriger ce que Mythos a trouvé (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-bank-of-america-mythos-prestataires-correctifs-2026-10-26\|Bank of America : 1 000 prestataires pour corriger ce que Mythos a trouvé]]
+- Budgets 2027 : il faut défragiliser le SI (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-budgets-2027-dette-securite-2026-11-08\|Budgets 2027 : il faut défragiliser le SI]]
+- Ce qu'une analyse REA révèle d'une application Electron (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-rea-application-electron-2026-10-15\|Ce qu'une analyse REA révèle d'une application Electron]]
+- Claude Fable 5.2 et Mythos 5.2 : moins cher au token, plus cher à la tâche (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-claude-fable-mythos-5-2-2026-11-10\|Claude Fable 5.2 et Mythos 5.2 : moins cher au token, plus cher à la tâche si l'on pousse l'effort]]
+- Clauses de licence et rétro-ingénierie : ce qui est nul en France (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-licence-retro-ingenierie-clauses-nulles-2026-10-13\|Clauses de licence et rétro-ingénierie : ce qui est nul en France]]
+- CodeMender : Google veut que l'agent qui trouve la faille écrive aussi le correctif (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-codemender-google-agent-faille-correctif-2026-10-26\|CodeMender : Google veut que l'agent qui trouve la faille écrive aussi le correctif]]
+- Combien coûte une migration WinDev en 2026 ? (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-cout-migration-windev-2026-10-16\|Combien coûte une migration WinDev en 2026 ? Coût, délais et ROI avec l'IA]]
+- Comment l'équipe Claude Code vérifie le code écrit par ses agents (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-verification-code-agents-claude-code-2026-11-19\|Comment l'équipe Claude Code vérifie le code écrit par ses agents]]
+- CTF et crackmes : former ses équipes à la rétro-ingénierie assistée par agents (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-ctf-crackmes-formation-retro-ingenierie-2026-10-16\|CTF et crackmes : former ses équipes à la rétro-ingénierie assistée par agents]]
+- Cyber Resilience Act et SBOM : inventorier un binaire livré sans inventaire (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-cra-sbom-binaire-2026-10-17\|Cyber Resilience Act et SBOM : inventorier un binaire livré sans inventaire]]
+- Cyber-casse chez Crédit Mutuel Arkéa (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-credit-mutuel-arkea-cyber-casse-2026-11-14\|Cyber-casse chez Crédit Mutuel Arkéa : ce que 100 millions d'euros enseignent aux DSI et aux RSSI]]
+- Dust ou l'IA d'entreprise qui se joue à plusieurs : ce que les DSI doivent en retenir (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-dust-ia-entreprise-multiplayer-agents-2026-10-27\|Dust ou l'IA d'entreprise qui se joue à plusieurs : ce que les DSI doivent en retenir]]
+- Déployer REA en entreprise (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-rea-deploiement-entreprise-2026-10-20\|Déployer REA en entreprise : versions, profils, conteneurs]]
+- exploit_agent : le correctif publié devient la carte de l'attaquant (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-exploit-agent-gtig-correctif-exploit-2026-11-18\|exploit_agent : le correctif publié devient la carte de l'attaquant]]
+- Extraire les règles métier d'une application WinDev avec l'IA (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-windev-regles-metier-ia-2026-10-15\|Extraire les règles métier d'une application WinDev avec l'IA : la rétro-documentation spec first]]
+- Failles trouvées par IA : le cadre de divulgation qu'OpenAI propose après PHP2Shell (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-divulgation-failles-ia-cadre-openai-2026-10-26\|Failles trouvées par IA : le cadre de divulgation qu'OpenAI propose après PHP2Shell]]
+- Faux dépôts REA et cheval de Troie : le risque supply chain d'un outil viral (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-rea-faux-depots-supply-chain-2026-10-14\|Faux dépôts REA et cheval de Troie : le risque supply chain d'un outil viral]]
+- FDE, consultant, architecte, régie : quelles différences ? (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-fde-consultant-architecte-regie-2026-11-06\|FDE, consultant, architecte, régie : quelles différences ?]]
+- Firmware et objets connectés : la rétro-ingénierie par agents (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-retro-ingenierie-firmware-iot-2026-10-21\|Firmware et objets connectés : la rétro-ingénierie par agents]]
+- Formats de fichiers propriétaires : rétro-documenter pour migrer les données (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-formats-proprietaires-retro-documentation-2026-10-18\|Formats de fichiers propriétaires : rétro-documenter pour migrer les données]]
+- GBrain : la mémoire de Garry Tan, en Markdown et sous licence MIT (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-gbrain-memoire-garry-tan-2026-11-14\|GBrain : la mémoire de Garry Tan, en Markdown et sous licence MIT]]
+- Gemini 4 Argon : le modèle frontier de Google, à moitié prix jusqu'au 30 novembre (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-gemini-4-argon-moitie-prix-2026-10-15\|Gemini 4 Argon : le modèle frontier de Google, à moitié prix jusqu'au 30 novembre]]
+- Gemini 4 Argon Cyber Permissive : Google retire les garde-fous et verrouille la porte (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-gemini-4-argon-cyber-permissive-fairwind-2026-10-27\|Gemini 4 Argon Cyber Permissive : Google retire les garde-fous et verrouille la porte]]
+- Gemini 4 Carbon : forces, limites et usages du modèle de Google pour le code (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-gemini-4-carbon-2026-10-28\|Gemini 4 Carbon : forces, limites et usages du modèle de Google pour le code]]
+- Gemini 4 Neon : le modèle intermédiaire de Google, entre Hydrogen et Carbon (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-gemini-4-neon-2026-11-18\|Gemini 4 Neon : le modèle intermédiaire de Google, entre Hydrogen et Carbon]]
+- GitLab Orbit en disponibilité générale (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-gitlab-orbit-graphe-contexte-2026-10-29\|GitLab Orbit en disponibilité générale : ce que le graphe de contexte change pour vos agents IA]]
+- Glean, Anthropic et la bataille de la couche de contexte (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-glean-couche-de-contexte-2026-10-27\|Glean, Anthropic et la bataille de la couche de contexte]]
+- Grok Voice 3.0 : numéro un des modèles vocaux, ce qu'un centre d'appels doit vérifier (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-grok-voice-3-centre-appels-2026-10-15\|Grok Voice 3.0 : numéro un des modèles vocaux, ce qu'un centre d'appels doit vérifier]]
+- HFSQL vers PostgreSQL : migrer les données d'une application WinDev sans perte (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-hfsql-postgresql-migration-donnees-2026-10-15\|HFSQL vers PostgreSQL : migrer les données d'une application WinDev sans perte]]
+- IA, semaine du 8 au 15 octobre 2026 : cinq autres nouvelles à retenir (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-ia-semaine-8-15-octobre-2026-breves-2026-10-15\|IA, semaine du 8 au 15 octobre 2026 : cinq autres nouvelles à retenir]]
+- Kakeya, ETH, Yang-Mills : OpenAI annonce trois percées (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-openai-kakeya-eth-yang-mills-2026-10-27\|Kakeya, ETH, Yang-Mills : OpenAI annonce trois percées, la communauté prend le temps de goûter]]
+- L'exploit n'est plus le goulot : avec l'IA, le délai de correction fixe votre risque (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-exploit-goulot-delai-correction-2026-11-06\|L'exploit n'est plus le goulot : avec l'IA, le délai de correction fixe votre risque]]
+- Les limites réelles de REA (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-rea-limites-2026-10-15\|Les limites réelles de REA : taille des sorties, coût, couverture]]
+- Lire un tableau de benchmarks IA : les 18 benchmarks de frontière, famille par famille (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-lire-tableau-benchmarks-ia-2026-10-15\|Lire un tableau de benchmarks IA : les 18 benchmarks de frontière, famille par famille]]
+- Lire une sortie REA : preuves, pseudocode et hallucinations (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-rea-evidence-sortie-agent-2026-10-15\|Lire une sortie REA : preuves, pseudocode et hallucinations]]
+- Microsoft Autopilot tourne sur OpenClaw, et Ignite ne l'a pas dit (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-microsoft-autopilot-openclaw-ignite-2026-11-18\|Microsoft Autopilot tourne sur OpenClaw, et Ignite ne l'a pas dit]]
+- Migration WinDev : les 10 risques qui font échouer un projet (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-risques-migration-windev-2026-10-16\|Migration WinDev : les 10 risques qui font échouer un projet, et comment les maîtriser]]
+- Migrer WebDev et WinDev Mobile (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-migrer-webdev-windev-mobile-2026-10-16\|Migrer WebDev et WinDev Mobile : sites, applications SaaS et applications terrain]]
+- Migrer WinDev avec la Software Factory 10x : la méthode SFEIR en six étapes, de l'audit à la bascule (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-migration-windev-software-factory-10x-2026-10-15\|Migrer WinDev avec la Software Factory 10x : la méthode SFEIR en six étapes, de l'audit à la bascule]]
+- Mistral Large 4 en poids ouverts : ce que la licence permet, ce que l'auto-hébergement coûte (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-mistral-large-4-licence-auto-hebergement-2026-11-02\|Mistral Large 4 en poids ouverts : ce que la licence permet, ce que l'auto-hébergement coûte]]
+- Moderniser une application WinDev avec des agents : REA et méthode clean-room (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-windev-agents-rea-clean-room-2026-10-15\|Moderniser une application WinDev avec des agents : REA et méthode clean-room]]
+- Muse Wonder : Meta rejoint la frontière et garde son meilleur modèle pour Muse Code (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-muse-wonder-meta-muse-code-2026-10-15\|Muse Wonder : Meta rejoint la frontière et garde son meilleur modèle pour Muse Code]]
+- Mémoire d'agent et souveraineté : Git, base managée ou mémoire native de l'éditeur ? (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-memoire-agent-souverainete-2026-11-14\|Mémoire d'agent et souveraineté : Git, base managée ou mémoire native de l'éditeur ?]]
+- Obfuscation et protection du code à l'ère des agents (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-obfuscation-code-agents-2026-10-16\|Obfuscation et protection du code à l'ère des agents]]
+- OpenRouter : rétention zéro ne veut pas dire souverain (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-openrouter-zdr-souverainete-2026-10-19\|OpenRouter : rétention zéro ne veut pas dire souverain]]
+- OpenRouter en production : cache, coûts, latence et données sous contrôle (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-openrouter-production-reglages-2026-10-12\|OpenRouter en production : cache, coûts, latence et données sous contrôle]]
+- Own Your Intelligence : la thèse de Garry Tan lue par une DSI (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-own-your-intelligence-lecture-dsi-2026-11-14\|Own Your Intelligence : la thèse de Garry Tan lue par une DSI]]
+- PHP2Shell : l'IA a trouvé la faille avant les attaquants, la course au patch commence (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-php2shell-faille-php-course-au-patch-2026-10-21\|PHP2Shell : l'IA a trouvé la faille avant les attaquants, la course au patch commence]]
+- Posséder sa mémoire d'agent : le dépôt Git comme cerveau partagé (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-posseder-memoire-agent-depot-git-2026-11-14\|Posséder sa mémoire d'agent : le dépôt Git comme cerveau partagé entre tous vos agents IA]]
+- PowerBuilder et NSDK : état des lieux de la rétro-ingénierie par agents (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-retro-ingenierie-powerbuilder-nsdk-2026-10-20\|PowerBuilder et NSDK : état des lieux de la rétro-ingénierie par agents]]
+- Qwen3.8 a tenté d'écrire vers Pékin pendant un test (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-qwen-cohere-connexion-sortante-agents-2026-10-27\|Qwen3.8 a tenté d'écrire vers Pékin pendant un test : ce que le cas Cohere change pour vos agents]]
+- REA en trois schémas : architecture, fonctionnement et usage (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-rea-trois-schemas-architecture-usage-2026-10-12\|REA en trois schémas : architecture, fonctionnement et usage]]
+- REA et Android : auditer une APK (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-rea-android-apk-2026-10-19\|REA et Android : auditer une APK avec JADX et Apktool]]
+- REA n'est pas un sandbox : confiner l'analyse d'un binaire inconnu (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-rea-sandbox-confinement-2026-10-13\|REA n'est pas un sandbox : confiner l'analyse d'un binaire inconnu]]
+- REA, ArtCraft et la fin de l'avantage du code fermé (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-fin-avantage-code-ferme-2026-10-21\|REA, ArtCraft et la fin de l'avantage du code fermé]]
+- REA, GhidraMCP ou ida-pro-mcp : quel MCP de rétro-ingénierie choisir (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-rea-ghidramcp-ida-pro-mcp-2026-10-20\|REA, GhidraMCP ou ida-pro-mcp : quel MCP de rétro-ingénierie choisir]]
+- Redevance WinDev, rachat de PC SOFT (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-redevance-windev-rachat-pc-soft-2026-10-16\|Redevance WinDev, rachat de PC SOFT : faut-il quitter WinDev maintenant ?]]
+- RGPD : vérifier ce qu'une application envoie vraiment (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-rgpd-verifier-telemetrie-application-2026-10-18\|RGPD : vérifier ce qu'une application envoie vraiment]]
+- Routeur de modèles LLM : quand il bat un modèle unique, et quand il perd (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-routeur-modeles-llm-escalade-2026-10-12\|Routeur de modèles LLM : quand il bat un modèle unique, et quand il perd]]
+- Rétro-ingénierie d'applications VB6 : peu de retours, un workflow possible (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-retro-ingenierie-vb6-2026-10-18\|Rétro-ingénierie d'applications VB6 : peu de retours, un workflow possible]]
+- Rétro-ingénierie par agents : ce que ça change pour les équipes sécurité (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-retro-ingenierie-agents-securite-2026-10-16\|Rétro-ingénierie par agents : ce que ça change pour les équipes sécurité]]
+- Sortir de Jira en 2027 (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-sortir-de-jira-backlog-markdown-2026-11-13\|Sortir de Jira en 2027 : mettez vos tickets là où travaillent vos agents]]
+- Souveraineté : auditer le comportement d'un logiciel extra-européen (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-souverainete-audit-logiciel-2026-10-19\|Souveraineté : auditer le comportement d'un logiciel extra-européen]]
+- TencentDB Agent Memory v2 : une mémoire d'équipe gouvernée (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-tencentdb-agent-memory-v2-2026-11-14\|TencentDB Agent Memory v2 : une mémoire d'équipe gouvernée pour Claude Code, Codex et CodeBuddy]]
+- Tests de non-régression d'une migration WinDev (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-windev-golden-master-inverse-2026-10-15\|Tests de non-régression d'une migration WinDev : la méthode du golden master inversé]]
 - Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
+- Vers IA sur objets connectés (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-anthropic-auto-replication-iot-2026-10-15\|Vers IA sur objets connectés : ce qu'Anthropic démontre et ce qu'elle extrapole]]
+- Votre facture Claude est trop haute ? (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-api-claude-cache-effort-migrations-2026-11-16\|Votre facture Claude est trop haute ? Anthropic vous dit par où commencer]]
+- Votre logiciel est lisible par n'importe quel agent (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-editeurs-logiciel-lisible-agents-2026-10-21\|Votre logiciel est lisible par n'importe quel agent : guide pour éditeurs]]
+- WinDev vers Java, .NET, TypeScript ou Flutter : comment choisir sa stack cible (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-migration-windev-stack-cible-2026-10-15\|WinDev vers Java, .NET, TypeScript ou Flutter : comment choisir sa stack cible]]
+- WorkBuddy et CodeBuddy : la double offensive agentique de Tencent (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-workbuddy-codebuddy-tencent-2026-11-14\|WorkBuddy et CodeBuddy : la double offensive agentique de Tencent]]
+- Éditeur disparu, code source perdu (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-editeur-disparu-code-perdu-2026-10-19\|Éditeur disparu, code source perdu : plan de sauvetage d'une application critique]]
+- Être plus ambitieux avec l'IA (DOCUMENT) — 0.96, STATIQUE
+  - [[fiches/2026-10/girard-rieseberg-ambition-ia-equipe-2026-10-19\|Être plus ambitieux avec l'IA : la méthode de Felix Rieseberg, lue par une équipe d'ingénierie]]
+- Advisor Claude Code : qui planifie, qui édite, qui lit (DOCUMENT) — 0.95, STATIQUE
+  - [[fiches/2026-10/sfeir-claude-code-advisor-multi-modeles-2026-10-08\|Advisor Claude Code : qui planifie, qui édite, qui lit entre Opus, Sonnet et Haiku 5.5]]
+- ArtCraft : des clones d'Adobe en clean-room revendiqué (DOCUMENT) — 0.95, STATIQUE
+  - [[fiches/2026-10/sfeir-artcraft-clean-room-adobe-2026-10-09\|ArtCraft : des clones d'Adobe en clean-room revendiqué, ce que vaut l'argument]]
+- [[kb/classement-des-talks-FDE-du-World's-Fair-2026\|classement des talks FDE du World's Fair 2026]] (DOCUMENT) — 0.95, STATIQUE
+  - [[fiches/2026-11/sfeir-playlist-fde-worlds-fair-2026-11-10\|Forward deployed engineering : les neuf talks de l'AI Engineer World's Fair 2026, notés et classés]]
+- Claude Haiku 5.5 : ce que le nouveau Haiku change pour vos sous-agents (DOCUMENT) — 0.95, STATIQUE
+  - [[fiches/2026-10/sfeir-claude-haiku-5-5-sous-agents-2026-10-08\|Claude Haiku 5.5 : ce que le nouveau Haiku change pour vos sous-agents]]
+- Clean-room ou reverse engineering : méthode et risque juridique à l'ère des agents (DOCUMENT) — 0.95, STATIQUE
+  - [[fiches/2026-10/sfeir-clean-room-vs-reverse-engineering-2026-10-11\|Clean-room ou reverse engineering : méthode et risque juridique à l'ère des agents]]
+- Cloudflare Clef face à Jev (DOCUMENT) — 0.95, STATIQUE
+  - [[fiches/2026-10/sfeir-cloudflare-clef-jev-modeles-decision-2026-10-06\|Cloudflare Clef face à Jev : quel modèle de décision choisir, et ce que valent les chiffres]]
+- [[kb/_entites-mineures#critique-FDE-101-Kevin-Bai\|critique FDE 101 Kevin Bai]] (DOCUMENT) — 0.95, STATIQUE
+  - [[fiches/2026-11/sfeir-fde-101-kevin-bai-anthropic-2026-11-10\|Kevin Bai (Anthropic) ramène le FDE à une question : qui achète quoi ?]]
+- [[kb/_entites-mineures#critique-FDE-Cognition-Jia-Wu\|critique FDE Cognition Jia Wu]] (DOCUMENT) — 0.95, STATIQUE
+  - [[fiches/2026-11/sfeir-fde-cognition-jia-wu-2026-11-10\|Cognition et son FDE : des chiffres spectaculaires, aucune méthode pour les lire]]
+- [[kb/_entites-mineures#critique-FDE-Cursor-Pauline-Brunet\|critique FDE Cursor Pauline Brunet]] (DOCUMENT) — 0.95, STATIQUE
+  - [[fiches/2026-11/sfeir-fde-cursor-pauline-brunet-2026-11-10\|Chez Cursor, Pauline Brunet commence par décider où ne pas envoyer de FDE]]
+- [[kb/_entites-mineures#critique-FDE-Decagon-Sunny-Rekhi\|critique FDE Decagon Sunny Rekhi]] (DOCUMENT) — 0.95, STATIQUE
+  - [[fiches/2026-11/sfeir-fde-decagon-sunny-rekhi-2026-11-10\|Sunny Rekhi (Decagon) : chaque demande sur mesure doit finir en libre-service]]
+- [[kb/_entites-mineures#critique-FDE-Factory-Eno-Reyes\|critique FDE Factory Eno Reyes]] (DOCUMENT) — 0.95, STATIQUE
+  - [[fiches/2026-11/sfeir-fde-factory-eno-reyes-2026-11-10\|Factory envoie ses FDE préparer le code des clients pour les agents]]
+- [[kb/_entites-mineures#critique-FDE-Kepler-Vinoo-Ganesh\|critique FDE Kepler Vinoo Ganesh]] (DOCUMENT) — 0.95, STATIQUE
+  - [[fiches/2026-11/sfeir-fde-kepler-vinoo-ganesh-2026-11-10\|Vinoo Ganesh (Kepler) fait du FDE une stratégie produit, histoires de terrain à l'appui]]
+- [[kb/_entites-mineures#critique-FDE-Ramp-Leo-Mehr\|critique FDE Ramp Leo Mehr]] (DOCUMENT) — 0.95, STATIQUE
+  - [[fiches/2026-11/sfeir-fde-ramp-leo-mehr-2026-11-10\|Leo Mehr (Ramp) : sans cadrage, l'usine à agents devient un canon à slop]]
+- [[kb/_entites-mineures#critique-FDE-Sierra-Natalie-Meurer\|critique FDE Sierra Natalie Meurer]] (DOCUMENT) — 0.95, STATIQUE
+  - [[fiches/2026-11/sfeir-fde-sierra-natalie-meurer-2026-11-10\|« Quel millésime de FDE êtes-vous ? » : Natalie Meurer (Sierra) démonte le titre à la mode]]
+- [[kb/_entites-mineures#critique-FDE-Varick-Agents\|critique FDE Varick Agents]] (DOCUMENT) — 0.95, STATIQUE
+  - [[fiches/2026-11/sfeir-fde-varick-agents-2026-11-10\|Varick Agents construit un agent pour ses FDE, et la démonstration technique sauve le talk]]
+- Décompiler pour interopérer : l'article 6 de la directive expliqué à une DSI (DOCUMENT) — 0.95, STATIQUE
+  - [[fiches/2026-10/sfeir-decompilation-interoperabilite-dsi-2026-10-12\|Décompiler pour interopérer : l'article 6 de la directive expliqué à une DSI]]
+- Migration WinDev : réécrire vos applications PC SOFT avec l'IA (DOCUMENT) — 0.95, STATIQUE
+  - [[fiches/2026-10/sfeir-migration-windev-ia-sans-big-bang-2026-10-07\|Migration WinDev : réécrire vos applications PC SOFT avec l'IA, sans big bang]]
+- Mistral Large 4 : une souveraineté qui se jugera sur la licence (DOCUMENT) — 0.95, STATIQUE
+  - [[fiches/2026-10/sfeir-mistral-large-4-souverainete-licence-2026-10-06\|Mistral Large 4 : 1 000 milliards de paramètres en open-weights, une souveraineté qui se jugera sur la licence]]
 - [[kb/rapport-de-recherche-kill-switch\|rapport de recherche kill switch]] (DOCUMENT) — 0.95, STATIQUE
   - [[fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24\|Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes]]
 
@@ -129,39 +650,425 @@
   - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
 - « qualifier une boucle pour l'autonomie sur cinq critères de contrôle — peu coûteux, à haute fréquence, difficile à contourner, immédiat et non dérivant » (AFFIRMATION) — 0.95, ATEMPOREL
   - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
+- « aucun test dont le LLM a écrit les valeurs attendues » (AFFIRMATION) — 0.94, ATEMPOREL
+  - [[fiches/2026-10/sfeir-windev-golden-master-inverse-2026-10-15\|Tests de non-régression d'une migration WinDev : la méthode du golden master inversé]]
 - « garder la revue humaine sur l'authentification, la facturation et les contrats d'API publics, et réviser chaque interrupteur à chaque Compound » (AFFIRMATION) — 0.94, ATEMPOREL
   - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
+- « analyse statique uniquement, sans jamais exécuter l'échantillon » (AFFIRMATION) — 0.93, ATEMPOREL
+  - [[fiches/2026-10/sfeir-analyse-malware-agent-local-2026-10-14\|Analyser un malware en local avec un agent, sans l'exfiltrer]]
+- « lire un score avec version, harnais, effort, nombre d'essais, taille du jeu et auteur de la mesure » (AFFIRMATION) — 0.93, ATEMPOREL
+  - [[fiches/2026-10/sfeir-lire-tableau-benchmarks-ia-2026-10-15\|Lire un tableau de benchmarks IA : les 18 benchmarks de frontière, famille par famille]]
 - « remplacer la question "pouvons-nous nous permettre de tout scanner ?" par "que feriez-vous tourner si scanner ne coûtait presque rien ?" » (AFFIRMATION) — 0.93, ATEMPOREL
   - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+- « une cible web (API, front moderne, PostgreSQL) sauf contrainte matérielle forte » (AFFIRMATION) — 0.93, ATEMPOREL
+  - [[fiches/2026-10/sfeir-migration-windev-stack-cible-2026-10-15\|WinDev vers Java, .NET, TypeScript ou Flutter : comment choisir sa stack cible]]
+- « analyser tout binaire inconnu dans une VM ou un conteneur jetable, en lecture seule et sans secret » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rea-sandbox-confinement-2026-10-13\|REA n'est pas un sandbox : confiner l'analyse d'un binaire inconnu]]
+- « backlog d'ingénierie dans le repo, board synchronisé pour le métier, MCP GitLab pour la vue métier » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-11/sfeir-sortir-de-jira-backlog-markdown-2026-11-13\|Sortir de Jira en 2027 : mettez vos tickets là où travaillent vos agents]]
+- « bannir @latest et épingler une version tracée de REA » (AFFIRMATION) — 0.92, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-rea-deploiement-entreprise-2026-10-20\|Déployer REA en entreprise : versions, profils, conteneurs]]
+- « cinq vérifications avant d'installer un serveur MCP : propriétaire et date, paquet npm, signatures, version épinglée, aucun binaire hors sources » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rea-faux-depots-supply-chain-2026-10-14\|Faux dépôts REA et cheval de Troie : le risque supply chain d'un outil viral]]
+- « déclarer dans PostgreSQL les clés étrangères que le code WinDev gardait implicites » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-10/sfeir-hfsql-postgresql-migration-donnees-2026-10-15\|HFSQL vers PostgreSQL : migrer les données d'une application WinDev sans perte]]
+- « déplacer la logique sensible et les secrets côté serveur, traiter le client comme du code public » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-10/sfeir-fin-avantage-code-ferme-2026-10-21\|REA, ArtCraft et la fin de l'avantage du code fermé]]
+- « former à la rétro-ingénierie par agents sur des crackmes et des CTF d'entraînement » (AFFIRMATION) — 0.92, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-ctf-crackmes-formation-retro-ingenierie-2026-10-16\|CTF et crackmes : former ses équipes à la rétro-ingénierie assistée par agents]]
+- « inventorier et révoquer les identités non humaines détenues par les prestataires » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-11/sfeir-credit-mutuel-arkea-cyber-casse-2026-11-14\|Cyber-casse chez Crédit Mutuel Arkéa : ce que 100 millions d'euros enseignent aux DSI et aux RSSI]]
+- « lancer un agent depuis la racine d'un projet, jamais depuis Téléchargements, le dossier personnel ou le Bureau » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-10/sfeir-agents-md-telechargements-codex-claude-code-2026-10-27\|AGENTS.md piégé dans Téléchargements : comment Codex et Claude Code ont été détournés, et les parades]]
 - « mettre LLMD sous surveillance active plutôt que basculer en production aujourd'hui » (AFFIRMATION) — 0.92, STATIQUE
   - [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
+- « mettre à jour PHP et redémarrer tous les workers le jour même » (AFFIRMATION) — 0.92, STATIQUE
+  - [[fiches/2026-10/sfeir-php2shell-faille-php-course-au-patch-2026-10-21\|PHP2Shell : l'IA a trouvé la faille avant les attaquants, la course au patch commence]]
+- « ne jamais faire de la trace de raisonnement une frontière de sécurité » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-10/sfeir-qwen-cohere-connexion-sortante-agents-2026-10-27\|Qwen3.8 a tenté d'écrire vers Pékin pendant un test : ce que le cas Cohere change pour vos agents]]
+- « ne jamais faire remonter une affirmation inférée comme une affirmation vue » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rea-evidence-sortie-agent-2026-10-15\|Lire une sortie REA : preuves, pseudocode et hallucinations]]
+- [[kb/_entites-mineures#PostgreSQL\|PostgreSQL]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-migration-windev-stack-cible-2026-10-15\|WinDev vers Java, .NET, TypeScript ou Flutter : comment choisir sa stack cible]]
 - « router par tâche entre modèles plutôt que chercher un modèle champion » (AFFIRMATION) — 0.92, ATEMPOREL
   - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+- « Sonnet 5.5 en principal, Opus 5.5 en advisor, Haiku 5.5 en lecture seule » (AFFIRMATION) — 0.92, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-claude-code-advisor-multi-modeles-2026-10-08\|Advisor Claude Code : qui planifie, qui édite, qui lit entre Opus, Sonnet et Haiku 5.5]]
+- [[kb/_entites-mineures#stratégie-multi-harnais\|stratégie multi-harnais]] (METHODOLOGIE) — 0.92, ATEMPOREL
+  - [[fiches/2026-10/sfeir-agents-de-code-panorama-criteres-choix-2026-10-22\|Agents de code : les critères qui comptent avant le benchmark]]
+- « traiter le client comme public et ne livrer aucun secret durable dans le binaire » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-10/sfeir-editeurs-logiciel-lisible-agents-2026-10-21\|Votre logiciel est lisible par n'importe quel agent : guide pour éditeurs]]
+- « traiter tout livrable client comme public et exécuter la logique de valeur côté serveur » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-10/sfeir-obfuscation-code-agents-2026-10-16\|Obfuscation et protection du code à l'ère des agents]]
+- « une seule source de vérité, un index jetable, une maintenance planifiée » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-11/sfeir-memoire-agent-souverainete-2026-11-14\|Mémoire d'agent et souveraineté : Git, base managée ou mémoire native de l'éditeur ?]]
+- « accéder aux modèles par clé API ou passerelle interne, jamais par abonnement grand public » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-agents-de-code-panorama-criteres-choix-2026-10-22\|Agents de code : les critères qui comptent avant le benchmark]]
+- « analyser toute cible inconnue dans un conteneur ou une VM jetable » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rea-deploiement-entreprise-2026-10-20\|Déployer REA en entreprise : versions, profils, conteneurs]]
+- « aucune nouvelle fonctionnalité pendant la migration d'un module » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-migration-windev-software-factory-10x-2026-10-15\|Migrer WinDev avec la Software Factory 10x : la méthode SFEIR en six étapes, de l'audit à la bascule]]
+- « auditer d'abord le code interne en boîte blanche, en environnement confiné » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-retro-ingenierie-agents-securite-2026-10-16\|Rétro-ingénierie par agents : ce que ça change pour les équipes sécurité]]
+- « auditer le Memory Proxy comme une passerelle LLM et tester l'export avant adoption » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-11/sfeir-tencentdb-agent-memory-v2-2026-11-14\|TencentDB Agent Memory v2 : une mémoire d'équipe gouvernée pour Claude Code, Codex et CodeBuddy]]
+- « auditer un logiciel sensible avec un modèle exécuté chez soi » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-souverainete-audit-logiciel-2026-10-19\|Souveraineté : auditer le comportement d'un logiciel extra-européen]]
+- « chronométrer la reconstruction de l'index et prévoir le sort de la mémoire en fin de contrat » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-11/sfeir-memoire-agent-souverainete-2026-11-14\|Mémoire d'agent et souveraineté : Git, base managée ou mémoire native de l'éditeur ?]]
+- « confiner l'audit en VM ou conteneur dédié, en analyse statique d'abord » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-audit-binaire-fournisseur-2026-10-17\|Auditer un binaire fournisseur sans son code source]]
+- « construire un benchmark interne noté sur l'état final du SI » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-lire-tableau-benchmarks-ia-2026-10-15\|Lire un tableau de benchmarks IA : les 18 benchmarks de frontière, famille par famille]]
+- « décider par écrit information des participants, invités externes, connecteurs, conservation et contrôles avant activation » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-11/sfeir-claude-meetings-google-meet-2026-11-15\|Claude Meetings : Claude entre dans vos réunions Google Meet comme participant]]
+- « décider qui porte le résultat avant de choisir un prestataire » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-11/sfeir-fde-consultant-architecte-regie-2026-11-06\|FDE, consultant, architecte, régie : quelles différences ?]]
 - « encadrer l'adoption par le context engineering et une gouvernance de l'automatisable (éviter le workslop) » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
+- « exiger au contrat FDE un critère de mise en service, des critères d'acceptation et des jalons » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-11/sfeir-fde-consultant-architecte-regie-2026-11-06\|FDE, consultant, architecte, régie : quelles différences ?]]
+- « exiger la portabilité des index et de la mémoire des agents, exposés via MCP » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-glean-couche-de-contexte-2026-10-27\|Glean, Anthropic et la bataille de la couche de contexte]]
+- « exécuter l'application en VM dédiée, avec un compte de test et un proxy d'inspection » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rgpd-verifier-telemetrie-application-2026-10-18\|RGPD : vérifier ce qu'une application envoie vraiment]]
+- « faire de l'ancien binaire l'oracle du golden master et réécrire brique par brique » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-legacy-sans-code-source-2026-10-16\|Applications legacy sans code source : comprendre avant de réécrire]]
 - « former des ingénieurs augmentés (programmes AI Champions) face au signal juniors » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
+- « GhidraMCP sans licence commerciale, IDA MCP avec IDA Pro, REA pour un parc hétérogène » (AFFIRMATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-rea-ghidramcp-ida-pro-mcp-2026-10-20\|REA, GhidraMCP ou ida-pro-mcp : quel MCP de rétro-ingénierie choisir]]
+- « instrumenter le coût par tâche plutôt que suivre le prix au token » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-11/sfeir-claude-fable-mythos-5-2-2026-11-10\|Claude Fable 5.2 et Mythos 5.2 : moins cher au token, plus cher à la tâche si l'on pousse l'effort]]
+- « inventorier postes, sites, exécutables et versions compilées avant toute option » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-redevance-windev-rachat-pc-soft-2026-10-16\|Redevance WinDev, rachat de PC SOFT : faut-il quitter WinDev maintenant ?]]
+- « investir dans la vérification autant que dans la génération et contrôler l'énoncé, pas seulement la preuve » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-openai-kakeya-eth-yang-mills-2026-10-27\|Kakeya, ETH, Yang-Mills : OpenAI annonce trois percées, la communauté prend le temps de goûter]]
+- « juger Orbit sur le coût du contexte par changement accepté, mesuré sur ses propres tâches » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-gitlab-orbit-graphe-contexte-2026-10-29\|GitLab Orbit en disponibilité générale : ce que le graphe de contexte change pour vos agents IA]]
+- « mesurer et réduire le délai entre correctif publié et mise en production » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-11/sfeir-exploit-agent-gtig-correctif-exploit-2026-11-18\|exploit_agent : le correctif publié devient la carte de l'attaquant]]
+- « mesurer la capacité de correction hebdomadaire des vulnérabilités » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-bank-of-america-mythos-prestataires-correctifs-2026-10-26\|Bank of America : 1 000 prestataires pour corriger ce que Mythos a trouvé]]
+- « mesurer le coût par appel résolu plutôt que le prix à la minute » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-grok-voice-3-centre-appels-2026-10-15\|Grok Voice 3.0 : numéro un des modèles vocaux, ce qu'un centre d'appels doit vérifier]]
+- « ne jamais lancer l'échantillon quand la VM reste en ligne pour un modèle hébergé » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rea-sandbox-confinement-2026-10-13\|REA n'est pas un sandbox : confiner l'analyse d'un binaire inconnu]]
+- « ne pas installer de firmware réécrit par IA sans tests, revue et plan de retour arrière » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-retro-ingenierie-firmware-iot-2026-10-21\|Firmware et objets connectés : la rétro-ingénierie par agents]]
+- « partir du comportement et des données plutôt que d'une décompilation par agent » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-retro-ingenierie-powerbuilder-nsdk-2026-10-20\|PowerBuilder et NSDK : état des lieux de la rétro-ingénierie par agents]]
+- « plafonds, vélocité et mise en attente automatique sur les comptes propres » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-11/sfeir-credit-mutuel-arkea-cyber-casse-2026-11-14\|Cyber-casse chez Crédit Mutuel Arkéa : ce que 100 millions d'euros enseignent aux DSI et aux RSSI]]
+- « raisonner en coût par tâche plutôt qu'en prix du token » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-gemini-4-carbon-2026-10-28\|Gemini 4 Carbon : forces, limites et usages du modèle de Google pour le code]]
+- « remplacer les secrets du client par des jetons courts émis par le serveur » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-electron-asar-secrets-2026-10-21\|Applications Electron : secrets et logique métier exposés dans l'ASAR]]
+- « restaurer les symboles avant de faire lire le pseudocode par l'agent » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-retro-ingenierie-delphi-2026-10-17\|Applications Delphi : ce que Ghidra et les agents permettent]]
+- « revalider droits, quotas, licences et calculs tarifés côté serveur » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-editeurs-logiciel-lisible-agents-2026-10-21\|Votre logiciel est lisible par n'importe quel agent : guide pour éditeurs]]
 - « routing multi-modèles (un modèle par tâche, un modèle par contrainte) plutôt qu'un choix tranché propriétaire/open-weights » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
+- « répéter les migrations à blanc jusqu'à deux rapports consécutifs sans écart » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-hfsql-postgresql-migration-donnees-2026-10-15\|HFSQL vers PostgreSQL : migrer les données d'une application WinDev sans perte]]
+- « spécification expurgée, équipe de réécriture sur d'autres comptes et machines, journal des passages de documents » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-clean-room-vs-reverse-engineering-2026-10-11\|Clean-room ou reverse engineering : méthode et risque juridique à l'ère des agents]]
+- « stabiliser l'application avant toute réécriture » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-editeur-disparu-code-perdu-2026-10-19\|Éditeur disparu, code source perdu : plan de sauvetage d'une application critique]]
+- « suivre le délai médian de correction des failles exploitées au comité de direction » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-11/sfeir-exploit-goulot-delai-correction-2026-11-06\|L'exploit n'est plus le goulot : avec l'IA, le délai de correction fixe votre risque]]
+- « séparer au budget 2027 la ligne qui paie le choc de celle qui fait baisser la facture suivante » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-11/sfeir-budgets-2027-dette-securite-2026-11-08\|Budgets 2027 : il faut défragiliser le SI]]
 - « séparer le modèle du canal, concevoir pour sortir (Design to Exit) et router plutôt que parier » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
+- « traiter la migration d'un site WebDev public comme un projet SEO avec redirections 301 exhaustives » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-migrer-webdev-windev-mobile-2026-10-16\|Migrer WebDev et WinDev Mobile : sites, applications SaaS et applications terrain]]
+- « transformer chaque incident en contrôle » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-11/sfeir-garde-fous-site-agents-ia-2026-11-15\|Contenus écrits par des agents IA : les garde-fous qui gardent un site juste]]
+- « un pilote de six à huit semaines sur deux cas d'usage plutôt que les benchmarks d'éditeurs » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-glean-couche-de-contexte-2026-10-27\|Glean, Anthropic et la bataille de la couche de contexte]]
+- « une barre de qualité par tâche et le modèle le moins cher qui la passe avec marge » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-routeur-modeles-llm-escalade-2026-10-12\|Routeur de modèles LLM : quand il bat un modèle unique, et quand il perd]]
+- « valider la bascule sur preuve d'exécution, jamais sur la déclaration de l'agent » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-migration-windev-software-factory-10x-2026-10-15\|Migrer WinDev avec la Software Factory 10x : la méthode SFEIR en six étapes, de l'audit à la bascule]]
+- « VM dédiée sans dossier partagé, instantané restauré après chaque échantillon, aucun identifiant d'entreprise » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-analyse-malware-agent-local-2026-10-14\|Analyser un malware en local avec un agent, sans l'exfiltrer]]
+- « vérifier l'édition, la région d'hébergement au contrat et les modèles appelés » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-11/sfeir-workbuddy-codebuddy-tencent-2026-11-14\|WorkBuddy et CodeBuddy : la double offensive agentique de Tencent]]
+- « écritures d'agent en mémoire par pull request relue par un humain » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-11/sfeir-posseder-memoire-agent-depot-git-2026-11-14\|Posséder sa mémoire d'agent : le dépôt Git comme cerveau partagé entre tous vos agents IA]]
+- « activer le profil compact par défaut et interroger REA par questions ciblées » (AFFIRMATION) — 0.88, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-rea-limites-2026-10-15\|Les limites réelles de REA : taille des sorties, coût, couverture]]
+- « ajouter un scan de secrets bloquant à la chaîne de build » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-electron-asar-secrets-2026-10-21\|Applications Electron : secrets et logique métier exposés dans l'ASAR]]
+- « alerter avant 100 000 tokens et évaluer au niveau d'effort déployé » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-claude-haiku-5-5-sous-agents-2026-10-08\|Claude Haiku 5.5 : ce que le nouveau Haiku change pour vos sous-agents]]
+- [[kb/_entites-mineures#Angular\|Angular]] (TECHNOLOGIE) — 0.88, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-migration-windev-stack-cible-2026-10-15\|WinDev vers Java, .NET, TypeScript ou Flutter : comment choisir sa stack cible]]
+- « cadrer une session REA : question précise, périmètre limité, preuves conservées » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-decompilation-interoperabilite-dsi-2026-10-12\|Décompiler pour interopérer : l'article 6 de la directive expliqué à une DSI]]
+- « choisir le modèle selon la sensibilité de la cible, modèle local pour un binaire sensible » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rea-deploiement-entreprise-2026-10-20\|Déployer REA en entreprise : versions, profils, conteneurs]]
+- « commencer par l'export (catalogue, passages, empreinte) avant de choisir un modèle » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-architecture-site-conversationnel-2026-11-15\|Architecture d'un site conversationnel : ce qui se passe entre la question et la réponse]]
+- « commencer par l'inbox et mesurer le coût par tâche résolue sur son propre trafic » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-agents-always-on-anthropic-ax-google-2026-11-15\|Agents always-on : les cinq primitives d'Anthropic et l'étage AX de Google]]
+- « commencer par l'état des contenus avant le choix du modèle » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-site-conversationnel-cms-conversation-2026-11-15\|Site conversationnel : comment sfeir.com est passé du CMS à la conversation]]
+- « comparer le coût par tâche et rejouer ses tests sur le checkpoint publié » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-mistral-large-4-licence-auto-hebergement-2026-11-02\|Mistral Large 4 en poids ouverts : ce que la licence permet, ce que l'auto-hébergement coûte]]
+- « comparer les prix par million de jetons lus et écrits, pas par conversation » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-cout-site-conversationnel-2026-11-15\|Combien coûte un site conversationnel : nos chiffres mesurés et leur méthode]]
 - « concevoir des architectures modulaires découplées pour interchanger les LLM sans réécriture » (AFFIRMATION) — 0.88, ATEMPOREL
   - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
+- « confiner les agents de code chargés des correctifs » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-bank-of-america-mythos-prestataires-correctifs-2026-10-26\|Bank of America : 1 000 prestataires pour corriger ce que Mythos a trouvé]]
+- « conserver les journaux au-delà de trente jours et fixer une règle de temps humain dès le premier jour » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-construire-site-agents-phases-temps-2026-11-15\|Construire un site avec des agents IA : les phases et le temps réellement passé]]
+- « conserver une architecture capable de changer de modèle pour garder le pouvoir de négociation » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-anthropic-revenus-t3-introduction-bourse-2026-10-15\|Anthropic : 16,8 milliards de dollars en un trimestre, ce que l'on sait avant l'introduction en Bourse]]
+- « construire des chaînes de recherche de vulnérabilités remplaçables en 45 jours (prompts, tests, format de sortie indépendants du modèle) » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-gemini-4-argon-cyber-permissive-fairwind-2026-10-27\|Gemini 4 Argon Cyber Permissive : Google retire les garde-fous et verrouille la porte]]
+- « demander d'abord la documentation à l'éditeur et garder la trace des démarches » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-decompilation-interoperabilite-dsi-2026-10-12\|Décompiler pour interopérer : l'article 6 de la directive expliqué à une DSI]]
+- [[kb/Design-to-Exit\|Design to Exit]] (METHODOLOGIE) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-ai-operating-system-mckinsey-lecture-2026-10-15\|AI operating system : ce que McKinsey a raison de dire, et ce qu'il ne prouve pas]]
 - « documenter le « pourquoi » des décisions car l'IA ne génère que le « comment » » (AFFIRMATION) — 0.88, ATEMPOREL
   - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
+- « double exécution et relecture par un connaisseur de toute sortie du modèle sur du WLangage » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-risques-migration-windev-2026-10-16\|Migration WinDev : les 10 risques qui font échouer un projet, et comment les maîtriser]]
 - « démarrer par une porte de spécification et la preuve d'exécution, pas par l'achat d'outils » (AFFIRMATION) — 0.88, ATEMPOREL
   - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
+- « Fable 5.2 pour planifier et orchestrer, Opus 5.5 pour exécuter » (AFFIRMATION) — 0.88, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-claude-fable-mythos-5-2-2026-11-10\|Claude Fable 5.2 et Mythos 5.2 : moins cher au token, plus cher à la tâche si l'on pousse l'effort]]
+- « faire du graphe unique, des identifiants stables et des renvois refermés des contrôles de build » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-ecrire-moteurs-ia-schema-org-llms-txt-2026-11-15\|Écrire pour les moteurs et pour les IA : graphe schema.org, llms.txt et fiches de référence]]
+- « fixer le modèle d'une session d'agent au premier tour pour préserver le cache de préfixe » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-routeur-modeles-llm-escalade-2026-10-12\|Routeur de modèles LLM : quand il bat un modèle unique, et quand il perd]]
+- « identifier le mode de compilation (P-Code ou natif) de chaque exécutable avant toute estimation » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-retro-ingenierie-vb6-2026-10-18\|Rétro-ingénierie d'applications VB6 : peu de retours, un workflow possible]]
 - « industrialiser le Context Engineering et le Harness Engineering » (AFFIRMATION) — 0.88, ATEMPOREL
   - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+- « inventaire interrogeable en minutes et redéploiement de toute une stack en une journée » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-divulgation-failles-ia-cadre-openai-2026-10-26\|Failles trouvées par IA : le cadre de divulgation qu'OpenAI propose après PHP2Shell]]
+- « inventorier et segmenter les objets connectés, fermer ADB sur le port TCP 5555 » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-anthropic-auto-replication-iot-2026-10-15\|Vers IA sur objets connectés : ce qu'Anthropic démontre et ce qu'elle extrapole]]
+- « inventorier les postes déployés et documenter les règles métier » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-migration-windev-ia-sans-big-bang-2026-10-07\|Migration WinDev : réécrire vos applications PC SOFT avec l'IA, sans big bang]]
+- « isoler le choix du modèle derrière une couche d'abstraction » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-gemini-4-carbon-2026-10-28\|Gemini 4 Carbon : forces, limites et usages du modèle de Google pour le code]]
+- « jetons courts obtenus à l'exécution et révocables » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-fin-avantage-code-ferme-2026-10-21\|REA, ArtCraft et la fin de l'avantage du code fermé]]
+- « lire les inconnues de l'analyse comme un trou dans l'inventaire, jamais comme une absence de composant » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-cra-sbom-binaire-2026-10-17\|Cyber Resilience Act et SBOM : inventorier un binaire livré sans inventaire]]
+- « mesurer l'état des contenus avant de choisir un modèle » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-base-connaissances-site-conversationnel-2026-11-15\|Base de connaissances : le chantier invisible derrière un site conversationnel]]
+- « mesurer le coût par tâche réussie sur ses propres dépôts plutôt que le prix au token » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-gemini-4-hydrogen-github-copilot-2026-11-15\|Gemini 4 Hydrogen arrive dans GitHub Copilot : ce que vos équipes doivent régler avant le 14 décembre]]
+- « ne pas engager contractuellement avant la licence et le checkpoint final » (AFFIRMATION) — 0.88, STATIQUE
+  - [[fiches/2026-10/sfeir-mistral-large-4-souverainete-licence-2026-10-06\|Mistral Large 4 : 1 000 milliards de paramètres en open-weights, une souveraineté qui se jugera sur la licence]]
+- « nettoyer les partages excessifs avant un pilote Autopilot » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-microsoft-autopilot-openclaw-ignite-2026-11-18\|Microsoft Autopilot tourne sur OpenClaw, et Ignite ne l'a pas dit]]
+- « opérer son propre harnais : politiques de modèles, budgets, jeu de tâches, configurations sans nom de modèle figé » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-gemini-4-hydrogen-github-copilot-2026-11-15\|Gemini 4 Hydrogen arrive dans GitHub Copilot : ce que vos équipes doivent régler avant le 14 décembre]]
+- « ouvrir tout binaire d'origine incertaine en machine virtuelle ou conteneur jetable » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-windev-agents-rea-clean-room-2026-10-15\|Moderniser une application WinDev avec des agents : REA et méthode clean-room]]
+- « ouvrir tout exécutable d'origine incertaine dans une machine virtuelle ou un conteneur jetable » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-legacy-sans-code-source-2026-10-16\|Applications legacy sans code source : comprendre avant de réécrire]]
+- « piloter au coût par tâche réussie » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-api-claude-cache-effort-migrations-2026-11-16\|Votre facture Claude est trop haute ? Anthropic vous dit par où commencer]]
+- « piloter deux ou trois modèles vocaux sur les mêmes appels réels » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-grok-voice-3-centre-appels-2026-10-15\|Grok Voice 3.0 : numéro un des modèles vocaux, ce qu'un centre d'appels doit vérifier]]
+- « plafonner la couche injectée et conserver des transcripts cherchables » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-components-agent-memory-anthropic-2026-11-14\|The components of agent memory : ce qu'Anthropic a mesuré, et ce que ça change pour vos agents]]
+- « poser une question étroite et écrire sa prédiction avant de lancer l'enquête REA » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rea-trois-schemas-architecture-usage-2026-10-12\|REA en trois schémas : architecture, fonctionnement et usage]]
+- « procéder par preuve de concept sur un périmètre fonctionnel limité » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-windev-agents-rea-clean-room-2026-10-15\|Moderniser une application WinDev avec des agents : REA et méthode clean-room]]
+- « préférer un plafond max_price au suffixe :floor en production » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-openrouter-production-reglages-2026-10-12\|OpenRouter en production : cache, coûts, latence et données sous contrôle]]
+- « prévoir au contrat droit d'audit, remise d'une SBOM et notification des vulnérabilités » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-audit-binaire-fournisseur-2026-10-17\|Auditer un binaire fournisseur sans son code source]]
+- « que l'agent signale les cas jugés erronés dans une liste d'écarts au lieu de les corriger » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-windev-golden-master-inverse-2026-10-15\|Tests de non-régression d'une migration WinDev : la méthode du golden master inversé]]
+- « remplacer les clés d'API embarquées par des jetons courts révocables » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-obfuscation-code-agents-2026-10-16\|Obfuscation et protection du code à l'ère des agents]]
+- « retirer code mort, dépendances et privilèges inutiles avant d'ajouter » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-budgets-2027-dette-securite-2026-11-08\|Budgets 2027 : il faut défragiliser le SI]]
+- « signer un contrat avec l'hébergeur plutôt que se fier à une case cochée » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-openrouter-zdr-souverainete-2026-10-19\|OpenRouter : rétention zéro ne veut pas dire souverain]]
+- [[kb/_entites-mineures#Spring-Boot\|Spring Boot]] (TECHNOLOGIE) — 0.88, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-migration-windev-stack-cible-2026-10-15\|WinDev vers Java, .NET, TypeScript ou Flutter : comment choisir sa stack cible]]
+- « spécification depuis le comportement observé, équipe sans accès au code décompilé, journal de qui a vu quoi » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-artcraft-clean-room-adobe-2026-10-09\|ArtCraft : des clones d'Adobe en clean-room revendiqué, ce que vaut l'argument]]
+- « tester Argon sur 30 à 50 tâches réelles en comptant les erreurs factuelles avant le 30 novembre » (AFFIRMATION) — 0.88, STATIQUE
+  - [[fiches/2026-10/sfeir-gemini-4-argon-moitie-prix-2026-10-15\|Gemini 4 Argon : le modèle frontier de Google, à moitié prix jusqu'au 30 novembre]]
+- « traiter des poids non construits soi-même comme un binaire non signé » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-qwen-cohere-connexion-sortante-agents-2026-10-27\|Qwen3.8 a tenté d'écrire vers Pékin pendant un test : ce que le cas Cohere change pour vos agents]]
 - « traiter infrastructure, plateforme et modèle comme trois couches à garder ouvertes » (AFFIRMATION) — 0.88, ATEMPOREL
   - [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
+- « traiter la publication d'un agent partagé comme un acte de gouvernance (propriétaire, maintenance, tests) » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-dust-ia-entreprise-multiplayer-agents-2026-10-27\|Dust ou l'IA d'entreprise qui se joue à plusieurs : ce que les DSI doivent en retenir]]
+- « traiter le rapport de l'agent comme une hypothèse et vérifier les conclusions dans l'assembleur » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-analyse-malware-agent-local-2026-10-14\|Analyser un malware en local avec un agent, sans l'exfiltrer]]
+- « transformer les règles déduites par l'agent en tests de non-régression avant réécriture » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rea-dotnet-2026-10-17\|Analyser des assemblies .NET avec REA]]
+- « un test de réversibilité de l'index par trimestre » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-posseder-memoire-agent-depot-git-2026-11-14\|Posséder sa mémoire d'agent : le dépôt Git comme cerveau partagé entre tous vos agents IA]]
 - « une DSI doit instrumenter la jonction produit, exiger des spécifications exécutables et refuser le rôle de fournisseur de features » (AFFIRMATION) — 0.88, ATEMPOREL
   - [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
+- « une liste blanche de serveurs MCP autorisés tenue par la sécurité » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rea-faux-depots-supply-chain-2026-10-14\|Faux dépôts REA et cheval de Troie : le risque supply chain d'un outil viral]]
+- « une porte qui bloque sur une question de goût finit contournée » (CITATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-garde-fous-site-agents-ia-2026-11-15\|Contenus écrits par des agents IA : les garde-fous qui gardent un site juste]]
+- « une règle CLAUDE.md qui demande de consulter l'advisor aux trois moments clés » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-claude-code-advisor-multi-modeles-2026-10-08\|Advisor Claude Code : qui planifie, qui édite, qui lit entre Opus, Sonnet et Haiku 5.5]]
+- « valider le parseur sur des fichiers de référence puis tracer chaque rejet en production » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-formats-proprietaires-retro-documentation-2026-10-18\|Formats de fichiers propriétaires : rétro-documenter pour migrer les données]]
+- « vérifier à la main tout zéro dans un comptage REA » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rea-application-electron-2026-10-15\|Ce qu'une analyse REA révèle d'une application Electron]]
+  - [[fiches/2026-10/sfeir-rea-evidence-sortie-agent-2026-10-15\|Lire une sortie REA : preuves, pseudocode et hallucinations]]
+- « évaluer sur un jeu d'essai tiré des journaux avec score de Brier et courbe de couverture » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/sfeir-cloudflare-clef-jev-modeles-decision-2026-10-06\|Cloudflare Clef face à Jev : quel modèle de décision choisir, et ce que valent les chiffres]]
+- « analyser l'exécutable dans un environnement isolé » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-editeur-disparu-code-perdu-2026-10-19\|Éditeur disparu, code source perdu : plan de sauvetage d'une application critique]]
+- « analyser un binaire inconnu en environnement isolé et vérifier la provenance de l'outil » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-cra-sbom-binaire-2026-10-17\|Cyber Resilience Act et SBOM : inventorier un binaire livré sans inventaire]]
+- « arrêter les nouveaux développements WinDev pour les nouvelles applications » (AFFIRMATION) — 0.86, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-alternatives-windev-2026-10-16\|Alternatives à WinDev en 2026 : quels outils et langages pour remplacer l'AGL de PC SOFT ?]]
+- « budgéter la base de connaissances et le temps de ceux qui tranchent » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-11/sfeir-construire-site-agents-phases-temps-2026-11-15\|Construire un site avec des agents IA : les phases et le temps réellement passé]]
+- « clarifier la propriété des skills écrits par les salariés avec RH et CSE » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-11/sfeir-own-your-intelligence-lecture-dsi-2026-11-14\|Own Your Intelligence : la thèse de Garry Tan lue par une DSI]]
+- « classer les actions de ses propres agents avant que l'outil ne propose de le faire » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-11/sfeir-chatgpt-wallet-openai-paiement-2026-11-15\|ChatGPT Wallet : les agents d'OpenAI passent à la caisse, l'humain signe chaque achat]]
+- « compter les boucles de validation déterministes d'un dépôt avant d'y lâcher un agent » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-11/sfeir-fde-factory-eno-reyes-2026-11-10\|Factory envoie ses FDE préparer le code des clients pour les agents]]
+- « consulter d'abord l'éditeur Nat System, toujours actif » (AFFIRMATION) — 0.86, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-retro-ingenierie-powerbuilder-nsdk-2026-10-20\|PowerBuilder et NSDK : état des lieux de la rétro-ingénierie par agents]]
+- « dater chaque fait mouvant dans sa phrase et bannir les compteurs mouvants des titres » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-11/sfeir-ecrire-moteurs-ia-schema-org-llms-txt-2026-11-15\|Écrire pour les moteurs et pour les IA : graphe schema.org, llms.txt et fiches de référence]]
+- « dater et consigner chaque passage d'analyse dans un registre, et relancer à chaque génération de modèle » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-codemender-google-agent-faille-correctif-2026-10-26\|CodeMender : Google veut que l'agent qui trouve la faille écrive aussi le correctif]]
+- « demander la base de comparaison avant de reprendre ces chiffres » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-11/sfeir-fde-cognition-jia-wu-2026-11-10\|Cognition et son FDE : des chiffres spectaculaires, aucune méthode pour les lire]]
+- « documenter chaque écart (donnée, domaine, version, preuve) avant décision du responsable de traitement » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rgpd-verifier-telemetrie-application-2026-10-18\|RGPD : vérifier ce qu'une application envoie vraiment]]
+- [[kb/_entites-mineures#défragilisation\|défragilisation]] (METHODOLOGIE) — 0.86, ATEMPOREL
+  - [[fiches/2026-11/sfeir-artex-pentest-autonome-cyberarme-2026-11-17\|ARTEX : quand le pentest autonome devient une cyberarme]]
+  - [[fiches/2026-10/sfeir-bank-of-america-mythos-prestataires-correctifs-2026-10-26\|Bank of America : 1 000 prestataires pour corriger ce que Mythos a trouvé]]
+- « encapsuler les réglages OpenRouter dans un wrapper versionné et interdire les appels directs » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-openrouter-production-reglages-2026-10-12\|OpenRouter en production : cache, coûts, latence et données sous contrôle]]
+- « exiger contractuellement la réversibilité des modèles et mesurer le coût à l'unité de travail » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-dust-ia-entreprise-multiplayer-agents-2026-10-27\|Dust ou l'IA d'entreprise qui se joue à plusieurs : ce que les DSI doivent en retenir]]
+- « exécuter l'APK en émulateur isolé pour observer le trafic réel » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rea-android-apk-2026-10-19\|REA et Android : auditer une APK avec JADX et Apktool]]
+- « faire analyser ses propres livrables par un agent en environnement confiné » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-obfuscation-code-agents-2026-10-16\|Obfuscation et protection du code à l'ère des agents]]
+- « faire passer par une merge request les modifications de CLAUDE.md et AGENTS.md écrites par glab orbit setup » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-gitlab-orbit-graphe-contexte-2026-10-29\|GitLab Orbit en disponibilité générale : ce que le graphe de contexte change pour vos agents IA]]
+- « faire qualifier la clause sur les sociétés affiliées et le statut d'une instance infogérée » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-11/sfeir-mistral-large-4-licence-auto-hebergement-2026-11-02\|Mistral Large 4 en poids ouverts : ce que la licence permet, ce que l'auto-hébergement coûte]]
+- « faire tourner les agents vérificateurs en lecture seule dans un périmètre limité » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-divulgation-failles-ia-cadre-openai-2026-10-26\|Failles trouvées par IA : le cadre de divulgation qu'OpenAI propose après PHP2Shell]]
+- « fonder l'audit de confidentialité d'abord sur l'observation, la décompilation d'un logiciel tiers demandant l'accord de l'éditeur » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rgpd-verifier-telemetrie-application-2026-10-18\|RGPD : vérifier ce qu'une application envoie vraiment]]
+- « garder l'approbation des outils active et relire ce que l'agent veut exécuter » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rea-sandbox-confinement-2026-10-13\|REA n'est pas un sandbox : confiner l'analyse d'un binaire inconnu]]
+- « journaliser le vecteur de probabilités avec chaque décision » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-cloudflare-clef-jev-modeles-decision-2026-10-06\|Cloudflare Clef face à Jev : quel modèle de décision choisir, et ce que valent les chiffres]]
+- « lire les règles de revue depuis la branche de base, jamais depuis la PR » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-11/sfeir-verification-code-agents-claude-code-2026-11-19\|Comment l'équipe Claude Code vérifie le code écrit par ses agents]]
+- « livrer à partir de briques réutilisées d'une mission à l'autre pour mériter le titre FDE » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-11/sfeir-fde-101-kevin-bai-anthropic-2026-11-10\|Kevin Bai (Anthropic) ramène le FDE à une question : qui achète quoi ?]]
+- « mesurer par échange dès le premier jour avec des prix datés » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-11/sfeir-cout-site-conversationnel-2026-11-15\|Combien coûte un site conversationnel : nos chiffres mesurés et leur méthode]]
+- « MFA résistant au phishing, journal d'usage par utilisateur et accès limité aux équipes sécurité avant toute candidature » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-gemini-4-argon-cyber-permissive-fairwind-2026-10-27\|Gemini 4 Argon Cyber Permissive : Google retire les garde-fous et verrouille la porte]]
+- « migrer les données HFSQL vers PostgreSQL avant de réécrire l'application » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-migration-windev-ia-sans-big-bang-2026-10-07\|Migration WinDev : réécrire vos applications PC SOFT avec l'IA, sans big bang]]
+- « ne pas utiliser d'agent en CTF sans autorisation explicite de l'organisateur » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-ctf-crackmes-formation-retro-ingenierie-2026-10-16\|CTF et crackmes : former ses équipes à la rétro-ingénierie assistée par agents]]
+- « opusplan ou un subagent reviewer Opus en repli sur Google Cloud » (AFFIRMATION) — 0.86, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-claude-code-advisor-multi-modeles-2026-10-08\|Advisor Claude Code : qui planifie, qui édite, qui lit entre Opus, Sonnet et Haiku 5.5]]
+- « ouvrir tout binaire de provenance incertaine en machine virtuelle ou conteneur » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-retro-ingenierie-delphi-2026-10-17\|Applications Delphi : ce que Ghidra et les agents permettent]]
+- « piloter deux semaines sur 10 à 20 tâches réelles et décider au coût par tâche réussie » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-claude-code-advisor-multi-modeles-2026-10-08\|Advisor Claude Code : qui planifie, qui édite, qui lit entre Opus, Sonnet et Haiku 5.5]]
+- « piloter en livrables et en Rework Rate plutôt qu'en jours-homme » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-migration-windev-software-factory-10x-2026-10-15\|Migrer WinDev avec la Software Factory 10x : la méthode SFEIR en six étapes, de l'audit à la bascule]]
+- « placer fichiers d'instructions et dossiers .codex/ et .claude/ sous revue de code avec propriétaires désignés » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-agents-md-telechargements-codex-claude-code-2026-10-27\|AGENTS.md piégé dans Téléchargements : comment Codex et Claude Code ont été détournés, et les parades]]
+- « planifier le transfert de compétences dès le cadrage d'une mission FDE » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-11/sfeir-fde-consultant-architecte-regie-2026-11-06\|FDE, consultant, architecte, régie : quelles différences ?]]
+- « poser data_collection deny et zdr true et fixer l'ordre des fournisseurs » (AFFIRMATION) — 0.86, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-openrouter-zdr-souverainete-2026-10-19\|OpenRouter : rétention zéro ne veut pas dire souverain]]
+- « relire la licence avec trois questions (régime, diffusion, réécriture) avant d'analyser un logiciel tiers » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-licence-retro-ingenierie-clauses-nulles-2026-10-13\|Clauses de licence et rétro-ingénierie : ce qui est nul en France]]
+- « remplacer l'état de session WebDev par des API sans état » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-migrer-webdev-windev-mobile-2026-10-16\|Migrer WebDev et WinDev Mobile : sites, applications SaaS et applications terrain]]
+- « réimplémenter dans un compte ou conteneur sans accès à REA ni à la cible » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rea-trois-schemas-architecture-usage-2026-10-12\|REA en trois schémas : architecture, fonctionnement et usage]]
+- « rétro-documenter le format avant de choisir la stack cible » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-formats-proprietaires-retro-documentation-2026-10-18\|Formats de fichiers propriétaires : rétro-documenter pour migrer les données]]
+- « segmentation et procédures de repli manuel pour les systèmes lents à corriger » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-11/sfeir-exploit-goulot-delai-correction-2026-11-06\|L'exploit n'est plus le goulot : avec l'IA, le délai de correction fixe votre risque]]
+- « supprimer le code mort avant de documenter » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-windev-regles-metier-ia-2026-10-15\|Extraire les règles métier d'une application WinDev avec l'IA : la rétro-documentation spec first]]
+- « tester Muse Wonder sur ses tâches d'agent et sur des questions factuelles » (AFFIRMATION) — 0.86, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-muse-wonder-meta-muse-code-2026-10-15\|Muse Wonder : Meta rejoint la frontière et garde son meilleur modèle pour Muse Code]]
+- « tester Neon sur une vingtaine de tâches réelles avant la production » (AFFIRMATION) — 0.86, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-gemini-4-neon-2026-11-18\|Gemini 4 Neon : le modèle intermédiaire de Google, entre Hydrogen et Carbon]]
+- « tester soi-même ce qu'un agent lit de son propre build » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-editeurs-logiciel-lisible-agents-2026-10-21\|Votre logiciel est lisible par n'importe quel agent : guide pour éditeurs]]
+- « trier les missions autant que les exécuter » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-11/sfeir-playlist-fde-worlds-fair-2026-11-10\|Forward deployed engineering : les neuf talks de l'AI Engineer World's Fair 2026, notés et classés]]
+- « vérifier l'empreinte SHA-256 du jar jadx-headless-mcp avant usage » (AFFIRMATION) — 0.86, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-rea-android-apk-2026-10-19\|REA et Android : auditer une APK avec JADX et Apktool]]
+- « vérifier la cession écrite des droits patrimoniaux (art. L131-3 CPI) avant de réécrire » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-windev-agents-rea-clean-room-2026-10-15\|Moderniser une application WinDev avec des agents : REA et méthode clean-room]]
+- « écrire une politique d'usage de REA (utilisateurs, cibles, modèle, approbation des outils) » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rea-deploiement-entreprise-2026-10-20\|Déployer REA en entreprise : versions, profils, conteneurs]]
+- [[kb/_entites-mineures#AISecOps\|AISecOps]] (METHODOLOGIE) — 0.85, ATEMPOREL
+  - [[fiches/2026-10/sfeir-php2shell-faille-php-course-au-patch-2026-10-21\|PHP2Shell : l'IA a trouvé la faille avant les attaquants, la course au patch commence]]
+- « annexer la licence des poids à tout contrat d'API » (AFFIRMATION) — 0.85, ATEMPOREL
+  - [[fiches/2026-10/sfeir-mistral-large-4-souverainete-licence-2026-10-06\|Mistral Large 4 : 1 000 milliards de paramètres en open-weights, une souveraineté qui se jugera sur la licence]]
+- [[kb/_entites-mineures#Cloud-SQL-pour-PostgreSQL\|Cloud SQL pour PostgreSQL]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-hfsql-postgresql-migration-donnees-2026-10-15\|HFSQL vers PostgreSQL : migrer les données d'une application WinDev sans perte]]
+- « fixer un plafond budgétaire par agent » (AFFIRMATION) — 0.85, ATEMPOREL
+  - [[fiches/2026-11/sfeir-microsoft-autopilot-openclaw-ignite-2026-11-18\|Microsoft Autopilot tourne sur OpenClaw, et Ignite ne l'a pas dit]]
+- « garder l'application WinDev jusqu'à absence de divergence en shadow traffic, clôture mensuelle comprise » (AFFIRMATION) — 0.85, ATEMPOREL
+  - [[fiches/2026-10/sfeir-risques-migration-windev-2026-10-16\|Migration WinDev : les 10 risques qui font échouer un projet, et comment les maîtriser]]
+- « migrer les applications stratégiques ou à parc en croissance » (AFFIRMATION) — 0.85, ATEMPOREL
+  - [[fiches/2026-10/sfeir-redevance-windev-rachat-pc-soft-2026-10-16\|Redevance WinDev, rachat de PC SOFT : faut-il quitter WinDev maintenant ?]]
+- « retirer secrets et logique de valeur de l'archive app.asar » (AFFIRMATION) — 0.85, ATEMPOREL
+  - [[fiches/2026-10/sfeir-rea-application-electron-2026-10-15\|Ce qu'une analyse REA révèle d'une application Electron]]
+- « tester GBrain en une heure sur un dépôt privé et mesurer la reconstruction de l'index » (AFFIRMATION) — 0.85, ATEMPOREL
+  - [[fiches/2026-11/sfeir-gbrain-memoire-garry-tan-2026-11-14\|GBrain : la mémoire de Garry Tan, en Markdown et sous licence MIT]]
+- « choisir la cible de migration après la rétro-documentation, pas avant » (AFFIRMATION) — 0.84, ATEMPOREL
+  - [[fiches/2026-10/sfeir-retro-ingenierie-vb6-2026-10-18\|Rétro-ingénierie d'applications VB6 : peu de retours, un workflow possible]]
+- « commencer par Kevin Bai, Natalie Meurer puis Vinoo Ganesh pour découvrir le sujet » (AFFIRMATION) — 0.84, STATIQUE
+  - [[fiches/2026-11/sfeir-playlist-fde-worlds-fair-2026-11-10\|Forward deployed engineering : les neuf talks de l'AI Engineer World's Fair 2026, notés et classés]]
+- « Java/Spring et Angular sur Google Cloud pour la trajectoire SaaS des éditeurs WebDev » (AFFIRMATION) — 0.84, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-migrer-webdev-windev-mobile-2026-10-16\|Migrer WebDev et WinDev Mobile : sites, applications SaaS et applications terrain]]
+- « traiter une vulnérabilité découverte par divulgation coordonnée » (AFFIRMATION) — 0.84, ATEMPOREL
+  - [[fiches/2026-10/sfeir-audit-binaire-fournisseur-2026-10-17\|Auditer un binaire fournisseur sans son code source]]
+- « négocier une clause d'audit au marché pour décompiler » (AFFIRMATION) — 0.82, ATEMPOREL
+  - [[fiches/2026-10/sfeir-souverainete-audit-logiciel-2026-10-19\|Souveraineté : auditer le comportement d'un logiciel extra-européen]]
 
 ### référence
 
+- [[kb/_entites-mineures#talk-Own-Your-Intelligence\|talk Own Your Intelligence]] (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-own-your-intelligence-lecture-dsi-2026-11-14\|Own Your Intelligence : la thèse de Garry Tan lue par une DSI]]
+- [[kb/_entites-mineures#The-components-of-agent-memory\|The components of agent memory]] (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-components-agent-memory-anthropic-2026-11-14\|The components of agent memory : ce qu'Anthropic a mesuré, et ce que ça change pour vos agents]]
 - [[kb/DORA-2025\|DORA 2025]] (DOCUMENT) — 0.93, STATIQUE
   - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+- [[kb/_entites-mineures#passage-à-l'an-2000\|passage à l'an 2000]] (EVENEMENT) — 0.88, STATIQUE
+  - [[fiches/2026-10/sfeir-bank-of-america-mythos-prestataires-correctifs-2026-10-26\|Bank of America : 1 000 prestataires pour corriger ce que Mythos a trouvé]]
+- [[kb/ArtCraft-technologie\|ArtCraft]] (TECHNOLOGIE) — 0.85, STATIQUE
+  - [[fiches/2026-10/sfeir-clean-room-vs-reverse-engineering-2026-10-11\|Clean-room ou reverse engineering : méthode et risque juridique à l'ère des agents]]
 
 ### s_inspire_de
 
@@ -174,6 +1081,20 @@
   - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 - [[kb/_entites-mineures#The-End-of-Code-Review-Coding-Agents-Supersede-Human-Inspection\|The End of Code Review: Coding Agents Supersede Human Inspection]] (DOCUMENT) — 0.93, STATIQUE
   - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
+- « chiffres de productivité de Cognition présentés sans méthode de calcul » (AFFIRMATION) — 0.88, STATIQUE
+  - [[fiches/2026-11/sfeir-fde-cognition-jia-wu-2026-11-10\|Cognition et son FDE : des chiffres spectaculaires, aucune méthode pour les lire]]
+- « Haiku 5.5 au niveau d'Opus 5 (comparaison diffusée sur X) » (AFFIRMATION) — 0.85, STATIQUE
+  - [[fiches/2026-10/sfeir-claude-haiku-5-5-sous-agents-2026-10-08\|Claude Haiku 5.5 : ce que le nouveau Haiku change pour vos sous-agents]]
+- « les coûts de remédiation décroîtront une fois le stock de failles corrigé » (AFFIRMATION) — 0.85, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-bank-of-america-mythos-prestataires-correctifs-2026-10-26\|Bank of America : 1 000 prestataires pour corriger ce que Mythos a trouvé]]
+- « « notre tête est dans nos mains » attribué à Michel Serres » (CITATION) — 0.85, STATIQUE
+  - [[fiches/2026-11/sfeir-base-connaissances-site-conversationnel-2026-11-15\|Base de connaissances : le chantier invisible derrière un site conversationnel]]
+- « attribution d'exploit_agent à des hackers russes » (AFFIRMATION) — 0.84, STATIQUE
+  - [[fiches/2026-11/sfeir-exploit-agent-gtig-correctif-exploit-2026-11-18\|exploit_agent : le correctif publié devient la carte de l'attaquant]]
+- « ROI de 25 à 75 % annoncés sans définition ni client » (AFFIRMATION) — 0.84, STATIQUE
+  - [[fiches/2026-11/sfeir-fde-varick-agents-2026-11-10\|Varick Agents construit un agent pour ses FDE, et la démonstration technique sauve le talk]]
+- [[kb/_entites-mineures#verrouillage-du-client-par-le-langage\|verrouillage du client par le langage]] (CONCEPT) — 0.80, ATEMPOREL
+  - [[fiches/2026-11/sfeir-fde-kepler-vinoo-ganesh-2026-11-10\|Vinoo Ganesh (Kepler) fait du FDE une stratégie produit, histoires de terrain à l'appui]]
 
 ### soutient
 
@@ -184,6 +1105,12 @@
 
 - [[kb/_entites-mineures#Skill-Based-Organisation\|Skill Based Organisation]] (METHODOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
+- [[kb/_entites-mineures#ccusage\|ccusage]] (TECHNOLOGIE) — 0.90, STATIQUE
+  - [[fiches/2026-11/sfeir-construire-site-agents-phases-temps-2026-11-15\|Construire un site avec des agents IA : les phases et le temps réellement passé]]
+- [[kb/_entites-mineures#Leadership,-Lab,-Crowd\|Leadership, Lab, Crowd]] (METHODOLOGIE) — 0.88, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-ai-operating-system-mckinsey-lecture-2026-10-15\|AI operating system : ce que McKinsey a raison de dire, et ce qu'il ne prouve pas]]
+- [[kb/_entites-mineures#Sandwich-Team\|Sandwich Team]] (METHODOLOGIE) — 0.78, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-construire-site-agents-phases-temps-2026-11-15\|Construire un site avec des agents IA : les phases et le temps réellement passé]]
 
 ## Relations (comme objet)
 
@@ -191,6 +1118,7 @@
 - [[kb/Didier-Girard\|Didier Girard]] **travaille_chez** → SFEIR — 0.99
 - [[kb/WEnvision\|WEnvision]] **fait_partie_de** → SFEIR — 0.97
 - [[kb/_entites-mineures#Rosalie-Zandona\|Rosalie Zandona]] **travaille_chez** → SFEIR — 0.95
+- Airmessoft **concurrence** → SFEIR — 0.75
 
 ## Fiches sources
 
@@ -199,9 +1127,62 @@
 - [[fiches/2025-10/habert-ia-agentique-production-2025-10-29\|IA agentique en production : les leçons de deux ans de déploiement]]
 - [[fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01\|L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change]]
 - [[fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06\|« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique]]
+- [[fiches/2026-10/sfeir-agents-de-code-panorama-criteres-choix-2026-10-22\|Agents de code : les critères qui comptent avant le benchmark]]
+- [[fiches/2026-10/sfeir-agents-md-telechargements-codex-claude-code-2026-10-27\|AGENTS.md piégé dans Téléchargements : comment Codex et Claude Code ont été détournés, et les parades]]
 - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+- [[fiches/2026-11/sfeir-api-claude-cache-effort-migrations-2026-11-16\|Votre facture Claude est trop haute ? Anthropic vous dit par où commencer]]
 - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
+- [[fiches/2026-10/sfeir-artcraft-clean-room-adobe-2026-10-09\|ArtCraft : des clones d'Adobe en clean-room revendiqué, ce que vaut l'argument]]
+- [[fiches/2026-11/sfeir-artex-pentest-autonome-cyberarme-2026-11-17\|ARTEX : quand le pentest autonome devient une cyberarme]]
+- [[fiches/2026-10/sfeir-audit-binaire-fournisseur-2026-10-17\|Auditer un binaire fournisseur sans son code source]]
+- [[fiches/2026-10/sfeir-bank-of-america-mythos-prestataires-correctifs-2026-10-26\|Bank of America : 1 000 prestataires pour corriger ce que Mythos a trouvé]]
+- [[fiches/2026-10/sfeir-claude-code-advisor-multi-modeles-2026-10-08\|Advisor Claude Code : qui planifie, qui édite, qui lit entre Opus, Sonnet et Haiku 5.5]]
+- [[fiches/2026-10/sfeir-claude-haiku-5-5-sous-agents-2026-10-08\|Claude Haiku 5.5 : ce que le nouveau Haiku change pour vos sous-agents]]
+- [[fiches/2026-10/sfeir-clean-room-vs-reverse-engineering-2026-10-11\|Clean-room ou reverse engineering : méthode et risque juridique à l'ère des agents]]
+- [[fiches/2026-10/sfeir-cloudflare-clef-jev-modeles-decision-2026-10-06\|Cloudflare Clef face à Jev : quel modèle de décision choisir, et ce que valent les chiffres]]
+- [[fiches/2026-10/sfeir-codemender-google-agent-faille-correctif-2026-10-26\|CodeMender : Google veut que l'agent qui trouve la faille écrive aussi le correctif]]
+- [[fiches/2026-11/sfeir-components-agent-memory-anthropic-2026-11-14\|The components of agent memory : ce qu'Anthropic a mesuré, et ce que ça change pour vos agents]]
+- [[fiches/2026-10/sfeir-cra-sbom-binaire-2026-10-17\|Cyber Resilience Act et SBOM : inventorier un binaire livré sans inventaire]]
+- [[fiches/2026-10/sfeir-decompilation-interoperabilite-dsi-2026-10-12\|Décompiler pour interopérer : l'article 6 de la directive expliqué à une DSI]]
+- [[fiches/2026-10/sfeir-divulgation-failles-ia-cadre-openai-2026-10-26\|Failles trouvées par IA : le cadre de divulgation qu'OpenAI propose après PHP2Shell]]
+- [[fiches/2026-10/sfeir-dust-ia-entreprise-multiplayer-agents-2026-10-27\|Dust ou l'IA d'entreprise qui se joue à plusieurs : ce que les DSI doivent en retenir]]
+- [[fiches/2026-10/sfeir-editeur-disparu-code-perdu-2026-10-19\|Éditeur disparu, code source perdu : plan de sauvetage d'une application critique]]
+- [[fiches/2026-11/sfeir-exploit-agent-gtig-correctif-exploit-2026-11-18\|exploit_agent : le correctif publié devient la carte de l'attaquant]]
+- [[fiches/2026-10/sfeir-fin-avantage-code-ferme-2026-10-21\|REA, ArtCraft et la fin de l'avantage du code fermé]]
+- [[fiches/2026-10/sfeir-formats-proprietaires-retro-documentation-2026-10-18\|Formats de fichiers propriétaires : rétro-documenter pour migrer les données]]
+- [[fiches/2026-10/sfeir-gemini-4-argon-cyber-permissive-fairwind-2026-10-27\|Gemini 4 Argon Cyber Permissive : Google retire les garde-fous et verrouille la porte]]
+- [[fiches/2026-11/sfeir-gemini-4-neon-2026-11-18\|Gemini 4 Neon : le modèle intermédiaire de Google, entre Hydrogen et Carbon]]
 - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+- [[fiches/2026-10/sfeir-grok-voice-3-centre-appels-2026-10-15\|Grok Voice 3.0 : numéro un des modèles vocaux, ce qu'un centre d'appels doit vérifier]]
+- [[fiches/2026-10/sfeir-hfsql-postgresql-migration-donnees-2026-10-15\|HFSQL vers PostgreSQL : migrer les données d'une application WinDev sans perte]]
 - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
 - [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
+- [[fiches/2026-10/sfeir-ia-semaine-8-15-octobre-2026-breves-2026-10-15\|IA, semaine du 8 au 15 octobre 2026 : cinq autres nouvelles à retenir]]
+- [[fiches/2026-10/sfeir-lire-tableau-benchmarks-ia-2026-10-15\|Lire un tableau de benchmarks IA : les 18 benchmarks de frontière, famille par famille]]
+- [[fiches/2026-11/sfeir-memoire-agent-souverainete-2026-11-14\|Mémoire d'agent et souveraineté : Git, base managée ou mémoire native de l'éditeur ?]]
+- [[fiches/2026-11/sfeir-microsoft-autopilot-openclaw-ignite-2026-11-18\|Microsoft Autopilot tourne sur OpenClaw, et Ignite ne l'a pas dit]]
+- [[fiches/2026-10/sfeir-migration-windev-ia-sans-big-bang-2026-10-07\|Migration WinDev : réécrire vos applications PC SOFT avec l'IA, sans big bang]]
+- [[fiches/2026-10/sfeir-migration-windev-software-factory-10x-2026-10-15\|Migrer WinDev avec la Software Factory 10x : la méthode SFEIR en six étapes, de l'audit à la bascule]]
+- [[fiches/2026-10/sfeir-migration-windev-stack-cible-2026-10-15\|WinDev vers Java, .NET, TypeScript ou Flutter : comment choisir sa stack cible]]
+- [[fiches/2026-10/sfeir-mistral-large-4-souverainete-licence-2026-10-06\|Mistral Large 4 : 1 000 milliards de paramètres en open-weights, une souveraineté qui se jugera sur la licence]]
+- [[fiches/2026-10/sfeir-muse-wonder-meta-muse-code-2026-10-15\|Muse Wonder : Meta rejoint la frontière et garde son meilleur modèle pour Muse Code]]
+- [[fiches/2026-10/sfeir-openrouter-production-reglages-2026-10-12\|OpenRouter en production : cache, coûts, latence et données sous contrôle]]
+- [[fiches/2026-10/sfeir-php2shell-faille-php-course-au-patch-2026-10-21\|PHP2Shell : l'IA a trouvé la faille avant les attaquants, la course au patch commence]]
+- [[fiches/2026-11/sfeir-playlist-fde-worlds-fair-2026-11-10\|Forward deployed engineering : les neuf talks de l'AI Engineer World's Fair 2026, notés et classés]]
+- [[fiches/2026-11/sfeir-posseder-memoire-agent-depot-git-2026-11-14\|Posséder sa mémoire d'agent : le dépôt Git comme cerveau partagé entre tous vos agents IA]]
+- [[fiches/2026-10/sfeir-rea-application-electron-2026-10-15\|Ce qu'une analyse REA révèle d'une application Electron]]
+- [[fiches/2026-10/sfeir-rea-dotnet-2026-10-17\|Analyser des assemblies .NET avec REA]]
+- [[fiches/2026-10/sfeir-rea-evidence-sortie-agent-2026-10-15\|Lire une sortie REA : preuves, pseudocode et hallucinations]]
+- [[fiches/2026-10/sfeir-redevance-windev-rachat-pc-soft-2026-10-16\|Redevance WinDev, rachat de PC SOFT : faut-il quitter WinDev maintenant ?]]
+- [[fiches/2026-10/sfeir-retro-ingenierie-agents-securite-2026-10-16\|Rétro-ingénierie par agents : ce que ça change pour les équipes sécurité]]
+- [[fiches/2026-10/sfeir-retro-ingenierie-delphi-2026-10-17\|Applications Delphi : ce que Ghidra et les agents permettent]]
+- [[fiches/2026-10/sfeir-retro-ingenierie-firmware-iot-2026-10-21\|Firmware et objets connectés : la rétro-ingénierie par agents]]
+- [[fiches/2026-10/sfeir-retro-ingenierie-vb6-2026-10-18\|Rétro-ingénierie d'applications VB6 : peu de retours, un workflow possible]]
+- [[fiches/2026-10/sfeir-rgpd-verifier-telemetrie-application-2026-10-18\|RGPD : vérifier ce qu'une application envoie vraiment]]
+- [[fiches/2026-10/sfeir-risques-migration-windev-2026-10-16\|Migration WinDev : les 10 risques qui font échouer un projet, et comment les maîtriser]]
+- [[fiches/2026-10/sfeir-routeur-modeles-llm-escalade-2026-10-12\|Routeur de modèles LLM : quand il bat un modèle unique, et quand il perd]]
 - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
+- [[fiches/2026-11/sfeir-site-conversationnel-cms-conversation-2026-11-15\|Site conversationnel : comment sfeir.com est passé du CMS à la conversation]]
+- [[fiches/2026-11/sfeir-sortir-de-jira-backlog-markdown-2026-11-13\|Sortir de Jira en 2027 : mettez vos tickets là où travaillent vos agents]]
+- [[fiches/2026-11/sfeir-verification-code-agents-claude-code-2026-11-19\|Comment l'équipe Claude Code vérifie le code écrit par ses agents]]
+- [[fiches/2026-10/sfeir-windev-agents-rea-clean-room-2026-10-15\|Moderniser une application WinDev avec des agents : REA et méthode clean-room]]

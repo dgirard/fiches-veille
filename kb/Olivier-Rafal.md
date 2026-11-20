@@ -1,13 +1,18 @@
 # Olivier Rafal
 
-> **Type** : PERSONNE | 23 relations | 4 fiches sources
+> **Type** : PERSONNE | 24 relations | 5 fiches sources
 
 ## Attributs
 
 - **affiliation** : WEnvision
-- **rôle** : Analyste/conseil, auteur (WeNvision)
+- **rôle** : Auteur de stop-slop.fr (WEnvision)
 
 ## Relations (comme sujet)
+
+### a_créé
+
+- stop-slop.fr (TECHNOLOGIE) — 0.90, STATIQUE
+  - [[fiches/2026-11/sfeir-garde-fous-site-agents-ia-2026-11-15\|Contenus écrits par des agents IA : les garde-fous qui gardent un site juste]]
 
 ### affirme_que
 
@@ -73,6 +78,7 @@
 - [[kb/WEnvision\|WeNvision]] (ORGANISATION) — 0.95, DYNAMIQUE
   - [[fiches/2024-02/rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23\|L'IA générative est plus une affaire de produit technologique qu'un projet d'IA]]
   - [[fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01\|L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change]]
+  - [[fiches/2026-11/sfeir-garde-fous-site-agents-ia-2026-11-15\|Contenus écrits par des agents IA : les garde-fous qui gardent un site juste]]
 
 ## Fiches sources
 
@@ -80,3 +86,4 @@
 - [[fiches/2024-02/rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23\|L'IA générative est plus une affaire de produit technologique qu'un projet d'IA]]
 - [[fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01\|L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change]]
 - [[fiches/2026-06/rafal-wenvision-tokenomics-foundation-finops-ia-2026-06-04\|Tokenomics foundation : l'ère du FinOps appliqué à l'IA est officiellement ouverte]]
+- [[fiches/2026-11/sfeir-garde-fous-site-agents-ia-2026-11-15\|Contenus écrits par des agents IA : les garde-fous qui gardent un site juste]]

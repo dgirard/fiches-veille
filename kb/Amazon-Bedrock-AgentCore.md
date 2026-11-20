@@ -1,6 +1,6 @@
 # Amazon Bedrock AgentCore
 
-> **Type** : TECHNOLOGIE | 3 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 4 relations | 1 fiches sources
 
 ## Attributs
 
@@ -12,6 +12,11 @@
 
 - [[kb/Microsoft-Foundry\|Microsoft Foundry]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
+
+### référence
+
+- « « what is this agent allowed to do when no one is watching it act? » » (CITATION) — 0.80, STATIQUE
+  - [[fiches/2026-11/sfeir-claude-meetings-google-meet-2026-11-15\|Claude Meetings : Claude entre dans vos réunions Google Meet comme participant]]
 
 ### utilise
 

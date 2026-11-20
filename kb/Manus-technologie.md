@@ -47,7 +47,7 @@
 - [[kb/Ethan-Mollick\|Ethan Mollick]] **utilise** → Manus — 0.97
 - [[kb/_entites-mineures#@peakji\|@peakji]] **travaille_chez** → Manus — 0.96
 - [[kb/_entites-mineures#Benchmark\|Benchmark]] **soutient** → Manus — 0.95
-- [[kb/_entites-mineures#Tencent\|Tencent]] **soutient** → Manus — 0.93
+- [[kb/Tencent\|Tencent]] **soutient** → Manus — 0.93
 
 ## Fiches sources
 

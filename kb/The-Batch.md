@@ -1,6 +1,6 @@
 # The Batch
 
-> **Type** : DOCUMENT | 3 relations | 3 fiches sources
+> **Type** : DOCUMENT | 4 relations | 3 fiches sources
 
 ## Attributs
 
@@ -9,6 +9,11 @@
 - **éditeur** : DeepLearning.AI (newsletter, issue 359)
 
 ## Relations (comme sujet)
+
+### affirme_que
+
+- « Gemini 4 Argon brille en finance, fiscalité et droit sans être le meilleur choix pour le code » (AFFIRMATION) — 0.86, STATIQUE
+  - [[fiches/2026-10/sfeir-gemini-4-argon-moitie-prix-2026-10-15\|Gemini 4 Argon : le modèle frontier de Google, à moitié prix jusqu'au 30 novembre]]
 
 ### référence
 

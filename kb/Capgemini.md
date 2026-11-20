@@ -1,6 +1,6 @@
 # Capgemini
 
-> **Type** : ORGANISATION | 8 relations | 1 fiches sources
+> **Type** : ORGANISATION | 9 relations | 1 fiches sources
 
 ## Attributs
 
@@ -12,6 +12,11 @@
 - **traction commerciale T1 2026** : IA générative + agentique > 11 % des prises de commandes (vs 6 % un an avant)
 
 ## Relations (comme sujet)
+
+### collabore_avec
+
+- [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.80, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-fde-consultant-architecte-regie-2026-11-06\|FDE, consultant, architecte, régie : quelles différences ?]]
 
 ### mesure
 

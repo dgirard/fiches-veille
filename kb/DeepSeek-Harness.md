@@ -1,6 +1,6 @@
 # DeepSeek Harness
 
-> **Type** : TECHNOLOGIE | 12 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 13 relations | 1 fiches sources
 
 ## Attributs
 
@@ -49,6 +49,7 @@
 - [[kb/DeepSeek-organisation\|DeepSeek]] **publie** → DeepSeek Harness — 0.98
 - [[kb/mode-Minimal\|mode Minimal]] **fait_partie_de** → DeepSeek Harness — 0.96
 - [[kb/_entites-mineures#mode-Code\|mode Code]] **fait_partie_de** → DeepSeek Harness — 0.95
+- [[kb/TencentDB-Agent-Memory\|TencentDB Agent Memory]] **s_applique_à** → DeepSeek Harness — 0.88
 
 ## Fiches sources
 

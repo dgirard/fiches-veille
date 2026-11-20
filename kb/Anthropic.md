@@ -1,11 +1,12 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 164 relations | 54 fiches sources
+> **Type** : ORGANISATION | 206 relations | 55 fiches sources
 
 ## Attributs
 
 - **accusation** : « Régime de permission » vendant la cognition comme infrastructure
 - **apport** : Publie un playbook de SDLC AI-native tiré des déploiements de son équipe Applied AI
+- **chiffre d'affaires** : T1 2026 4,7 Md$, T2 11,6 Md$, T3 16,8 Md$ (sources anonymes, octobre 2026)
 - **description** : Incubator interne Anthropic fin 2024, équipe de quelques personnes, a créé Claude Code + MCP + app desktop, puis disbanded
 - **effectif** : Taille triplée en un an ; revenu par employé 2 à 4 fois celui de Meta et Google au même âge (oct. 2026)
 - **engagement** : S'engage unilatéralement à accueillir une équipe d'évaluateurs externes embarqués et appelle les autres laboratoires à suivre
@@ -46,8 +47,14 @@
   - [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
 - [[kb/_entites-mineures#Paired-Prompts-method\|Paired Prompts method]] (METHODOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]]
+- [[kb/_entites-mineures#Claude-Marketplace\|Claude Marketplace]] (TECHNOLOGIE) — 0.92, STATIQUE
+  - [[fiches/2026-10/sfeir-glean-couche-de-contexte-2026-10-27\|Glean, Anthropic et la bataille de la couche de contexte]]
+- [[kb/Project-Glasswing-evenement\|Project Glasswing]] (EVENEMENT) — 0.92, STATIQUE
+  - [[fiches/2026-11/sfeir-budgets-2027-dette-securite-2026-11-08\|Budgets 2027 : il faut défragiliser le SI]]
 - [[kb/_entites-mineures#@ClaudeDevs\|@ClaudeDevs]] (ORGANISATION) — 0.90, STATIQUE
   - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|An Update on Recent Claude Code Quality Reports]]
+- [[kb/_entites-mineures#Claude-Frontier-Academy\|Claude Frontier Academy]] (EVENEMENT) — 0.90, STATIQUE
+  - [[fiches/2026-11/sfeir-fde-consultant-architecte-regie-2026-11-06\|FDE, consultant, architecte, régie : quelles différences ?]]
 
 ### affirme_que
 
@@ -81,6 +88,8 @@
   - [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 - « Mythos 5.1 reste sous le palier de risque suivant de la Responsible Scaling Policy » (AFFIRMATION) — 0.92, STATIQUE
   - [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
+- « chaque changement de modèle impose de réévaluer son harnais » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-11/sfeir-api-claude-cache-effort-migrations-2026-11-16\|Votre facture Claude est trop haute ? Anthropic vous dit par où commencer]]
 - « interdiction d'utiliser les outputs pour entraîner des modèles concurrents (ToS) » (AFFIRMATION) — 0.90, STATIQUE
   - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 - « l'audit d'alignement couvre mal le long contexte, le multi-agent et les tâches impossibles » (AFFIRMATION) — 0.90, STATIQUE
@@ -95,6 +104,8 @@
   - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Claude Skills: Exploring Anthropic's Document Manipulation Capabilities]]
 - « "révocation de l'accès API d'OpenAI (août 2025) et restriction de Windsurf" » (AFFIRMATION) — 0.87, STATIQUE
   - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
+- « un ou deux modèles de transition précèdent une dépréciation » (AFFIRMATION) — 0.86, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-api-claude-cache-effort-migrations-2026-11-16\|Votre facture Claude est trop haute ? Anthropic vous dit par où commencer]]
 - « campagnes de distillation industrielle par DeepSeek, Moonshot, MiniMax (fév. 2026) » (AFFIRMATION) — 0.85, STATIQUE
   - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 
@@ -110,13 +121,20 @@
 - gouvernement américain (ORGANISATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
   - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
+- [[kb/_entites-mineures#Simons-Foundation\|Simons Foundation]] (ORGANISATION) — 0.85, STATIQUE
+  - [[fiches/2026-10/sfeir-openai-kakeya-eth-yang-mills-2026-10-27\|Kakeya, ETH, Yang-Mills : OpenAI annonce trois percées, la communauté prend le temps de goûter]]
+- [[kb/_entites-mineures#Diode\|Diode]] (ORGANISATION) — 0.82, STATIQUE
+  - [[fiches/2026-11/sfeir-claude-fable-mythos-5-2-2026-11-10\|Claude Fable 5.2 et Mythos 5.2 : moins cher au token, plus cher à la tâche si l'on pousse l'effort]]
 - [[kb/Google-Cloud\|Google Cloud]] (ORGANISATION) — 0.80, DYNAMIQUE
   - [[fiches/2026-10/kurian-google-cloud-gemini-agent-gemini-at-work-2026-10-08\|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]
+- Granola (ORGANISATION) — 0.75, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-claude-meetings-google-meet-2026-11-15\|Claude Meetings : Claude entre dans vos réunions Google Meet comme participant]]
 
 ### concurrence
 
-- [[kb/OpenAI\|OpenAI]] (ORGANISATION) — 0.90, DYNAMIQUE
+- [[kb/OpenAI\|OpenAI]] (ORGANISATION) — 0.92, DYNAMIQUE
   - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
+  - [[fiches/2026-10/sfeir-anthropic-revenus-t3-introduction-bourse-2026-10-15\|Anthropic : 16,8 milliards de dollars en un trimestre, ce que l'on sait avant l'introduction en Bourse]]
   - [[fiches/2026-10/walker-onlycfo-ai-tokenomics-2026-10-22\|The Current State of AI Tokenomics - What CFOs Should Know]]
 
 ### emploie
@@ -127,6 +145,12 @@
   - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]
 - [[kb/Thariq-Shihipar\|Thariq Shihipar]] (PERSONNE) — 0.97, DYNAMIQUE
   - [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Using Claude Code: The Unreasonable Effectiveness of HTML]]
+- [[kb/_entites-mineures#Jake-Dejno\|Jake Dejno]] (PERSONNE) — 0.93, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-api-claude-cache-effort-migrations-2026-11-16\|Votre facture Claude est trop haute ? Anthropic vous dit par où commencer]]
+- [[kb/_entites-mineures#Lucca-Siaudzionis\|Lucca Siaudzionis]] (PERSONNE) — 0.93, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-api-claude-cache-effort-migrations-2026-11-16\|Votre facture Claude est trop haute ? Anthropic vous dit par où commencer]]
+- [[kb/_entites-mineures#Forward-Deployed-Engineer\|Forward Deployed Engineer]] (CONCEPT) — 0.80, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-fde-consultant-architecte-regie-2026-11-06\|FDE, consultant, architecte, régie : quelles différences ?]]
 
 ### mesure
 
@@ -164,8 +188,18 @@
   - [[fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14\|Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic]]
 - « actions autonomes Claude Code passées de 10 à 20 en six mois » (MESURE) — 0.90, DYNAMIQUE
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
+- « 0 consultation de l'advisor sur 198 questions GPQA sans prompt système » (MESURE) — 0.88, STATIQUE
+  - [[fiches/2026-10/sfeir-claude-haiku-5-5-sous-agents-2026-10-08\|Claude Haiku 5.5 : ce que le nouveau Haiku change pour vos sous-agents]]
+- « 0 consultation sur 198 questions GPQA sans consigne ; +12 % (Haiku 5.5) et +25 % (Sonnet 5.5) de coût » (MESURE) — 0.88, STATIQUE
+  - [[fiches/2026-10/sfeir-claude-code-advisor-multi-modeles-2026-10-08\|Advisor Claude Code : qui planifie, qui édite, qui lit entre Opus, Sonnet et Haiku 5.5]]
 - « 4 milliards de dollars de revenus » (MESURE) — 0.88, STATIQUE
   - [[fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01\|Annonce : une alternative européenne à Claude Code (200 M$ de revenus). Voici Mistral AI CLI.]]
+- « indices exploités mentionnés dans 25 % (Claude 3.7 Sonnet) et 39 % (DeepSeek R1) des raisonnements » (MESURE) — 0.88, STATIQUE
+  - [[fiches/2026-10/sfeir-qwen-cohere-connexion-sortante-agents-2026-10-27\|Qwen3.8 a tenté d'écrire vers Pékin pendant un test : ce que le cas Cohere change pour vos agents]]
+- « 16,8 Md$ de chiffre d'affaires au T3 2026, +45 % sur trois mois (sources anonymes) » (MESURE) — 0.85, STATIQUE
+  - [[fiches/2026-10/sfeir-anthropic-revenus-t3-introduction-bourse-2026-10-15\|Anthropic : 16,8 milliards de dollars en un trimestre, ce que l'on sait avant l'introduction en Bourse]]
+- « 8,06 Md$ de perte opérationnelle et 20,28 Md$ de trésorerie en 2025 (projet de prospectus) » (MESURE) — 0.85, STATIQUE
+  - [[fiches/2026-10/sfeir-anthropic-revenus-t3-introduction-bourse-2026-10-15\|Anthropic : 16,8 milliards de dollars en un trimestre, ce que l'on sait avant l'introduction en Bourse]]
 - « règlement copyright de 1,5 Md$ (~500 000 titres, ≥3 000 $/œuvre) » (MESURE) — 0.85, STATIQUE
   - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 
@@ -221,8 +255,19 @@
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
 - [[kb/_entites-mineures#v1-skills\|/v1/skills]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Introducing Agent Skills]]
+- [[kb/_entites-mineures#Building-always-on-agents\|Building always-on agents]] (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-agents-always-on-anthropic-ax-google-2026-11-15\|Agents always-on : les cinq primitives d'Anthropic et l'étage AX de Google]]
 - [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|From RAG to Rigor Mortis: Why Retrieval-Augmented Generation looks like dying]]
+- [[kb/Claude-Fable-5.2\|Claude Fable 5.2]] (TECHNOLOGIE) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-claude-fable-mythos-5-2-2026-11-10\|Claude Fable 5.2 et Mythos 5.2 : moins cher au token, plus cher à la tâche si l'on pousse l'effort]]
+- [[kb/Claude-Haiku-5.5\|Claude Haiku 5.5]] (TECHNOLOGIE) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-claude-code-advisor-multi-modeles-2026-10-08\|Advisor Claude Code : qui planifie, qui édite, qui lit entre Opus, Sonnet et Haiku 5.5]]
+  - [[fiches/2026-10/sfeir-claude-haiku-5-5-sous-agents-2026-10-08\|Claude Haiku 5.5 : ce que le nouveau Haiku change pour vos sous-agents]]
+- [[kb/Claude-Meetings\|Claude Meetings]] (TECHNOLOGIE) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-claude-meetings-google-meet-2026-11-15\|Claude Meetings : Claude entre dans vos réunions Google Meet comme participant]]
+- [[kb/_entites-mineures#Claude-Mythos-5.2\|Claude Mythos 5.2]] (TECHNOLOGIE) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-claude-fable-mythos-5-2-2026-11-10\|Claude Fable 5.2 et Mythos 5.2 : moins cher au token, plus cher à la tâche si l'on pousse l'effort]]
 - code évaluation open-source (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]]
 - [[kb/_entites-mineures#Lessons-from-building-Claude-Code-How-we-use-skills\|Lessons from building Claude Code: How we use skills]] (DOCUMENT) — 0.97, STATIQUE
@@ -234,10 +279,14 @@
   - [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
 - [[kb/_entites-mineures#The-AI-Native-SDLC-playbook\|The AI-Native SDLC playbook]] (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
+- [[kb/_entites-mineures#The-components-of-agent-memory\|The components of agent memory]] (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-components-agent-memory-anthropic-2026-11-14\|The components of agent memory : ce qu'Anthropic a mesuré, et ce que ça change pour vos agents]]
 - système de plugins Claude Code (TECHNOLOGIE) — 0.96, STATIQUE
   - [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Superpowers: How I'm using coding agents in October 2025]]
 - [[kb/_entites-mineures#The-Claude-Code-guide-for-startups\|The Claude Code guide for startups]] (DOCUMENT) — 0.96, STATIQUE
   - [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+- [[kb/étude-Anthropic-sur-l'auto-réplication\|étude Anthropic sur l'auto-réplication]] (DOCUMENT) — 0.96, STATIQUE
+  - [[fiches/2026-10/sfeir-anthropic-auto-replication-iot-2026-10-15\|Vers IA sur objets connectés : ce qu'Anthropic démontre et ce qu'elle extrapole]]
 - [[kb/_entites-mineures#article-Automating-eval-design-and-hillclimbing\|article Automating eval design and hillclimbing]] (DOCUMENT) — 0.95, STATIQUE
   - [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
 - [[kb/Claude-Mythos-5\|Claude Mythos 5]] (TECHNOLOGIE) — 0.95, STATIQUE
@@ -253,10 +302,18 @@
   - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
 - [[kb/_entites-mineures#Economic-Index\|Economic Index]] (DOCUMENT) — 0.93, DYNAMIQUE
   - [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
+- [[kb/_entites-mineures#Claude-Duet\|Claude Duet]] (TECHNOLOGIE) — 0.92, STATIQUE
+  - [[fiches/2026-11/sfeir-agents-always-on-anthropic-ax-google-2026-11-15\|Agents always-on : les cinq primitives d'Anthropic et l'étage AX de Google]]
+- [[kb/Claude-Mythos\|Claude Mythos]] (TECHNOLOGIE) — 0.92, STATIQUE
+  - [[fiches/2026-10/sfeir-bank-of-america-mythos-prestataires-correctifs-2026-10-26\|Bank of America : 1 000 prestataires pour corriger ce que Mythos a trouvé]]
 - Building Effective Agents (DOCUMENT) — 0.90, STATIQUE
   - [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]]
 - [[kb/_entites-mineures#Responsible-Scaling-Policy\|Responsible Scaling Policy]] (DOCUMENT) — 0.90, STATIQUE
   - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
+- protections anti-distillation (TECHNOLOGIE) — 0.84, STATIQUE
+  - [[fiches/2026-11/sfeir-api-claude-cache-effort-migrations-2026-11-16\|Votre facture Claude est trop haute ? Anthropic vous dit par où commencer]]
+- anthropics/formal-math (DOCUMENT) — 0.82, STATIQUE
+  - [[fiches/2026-10/girard-openai-722-preuves-verification-2026-10-09\|722 preuves en un commit : ce que la publication mathématique d'OpenAI dit de l'avenir de la vérification]]
 
 ### recommande
 
@@ -272,12 +329,24 @@
   - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 - automatisation SOC et défense IA (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
+- « dire à Claude à quoi sert la mémoire, pas comment l'utiliser » (CITATION) — 0.93, ATEMPOREL
+  - [[fiches/2026-11/sfeir-components-agent-memory-anthropic-2026-11-14\|The components of agent memory : ce qu'Anthropic a mesuré, et ce que ça change pour vos agents]]
 - « ne jamais laisser l'approbation d'un bot remplacer celle d'un humain requis » (AFFIRMATION) — 0.93, ATEMPOREL
   - [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 - [[kb/_entites-mineures#architecture-security-first\|architecture security-first]] (METHODOLOGIE) — 0.92, ATEMPOREL
   - [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|2026 Agentic Coding Trends Report — How coding agents are reshaping software development]]
 - « mesurer le temps humain avec taux de revert et d'incident comme garde-fou » (AFFIRMATION) — 0.92, ATEMPOREL
   - [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
+- « Sonnet 5.5 et Opus 5.5 pour le code agentique complexe » (AFFIRMATION) — 0.92, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-claude-haiku-5-5-sous-agents-2026-10-08\|Claude Haiku 5.5 : ce que le nouveau Haiku change pour vos sous-agents]]
+- « viser un taux de cache de 90 % » (AFFIRMATION) — 0.92, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-api-claude-cache-effort-migrations-2026-11-16\|Votre facture Claude est trop haute ? Anthropic vous dit par où commencer]]
+- « Claude Opus 5.5 comme modèle par défaut » (AFFIRMATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-claude-fable-mythos-5-2-2026-11-10\|Claude Fable 5.2 et Mythos 5.2 : moins cher au token, plus cher à la tâche si l'on pousse l'effort]]
+- [[kb/_entites-mineures#intelligence-par-token\|intelligence par token]] (CONCEPT) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-api-claude-cache-effort-migrations-2026-11-16\|Votre facture Claude est trop haute ? Anthropic vous dit par où commencer]]
+- « partir de l'effort high et réserver max à la mesure du plafond » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-11/sfeir-claude-fable-mythos-5-2-2026-11-10\|Claude Fable 5.2 et Mythos 5.2 : moins cher au token, plus cher à la tâche si l'on pousse l'effort]]
 - [[kb/_entites-mineures#classe-Mythos\|classe Mythos]] (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
 - standards industrie biais politique (CONCEPT) — 0.85, DYNAMIQUE
@@ -327,6 +396,10 @@
   - [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 - [[kb/_entites-mineures#circuit-breakers\|circuit breakers]] (TECHNOLOGIE) — 0.87, DYNAMIQUE
   - [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic Releases Post-Mortem Analysis of Multi-Hour Claude Service Outage]]
+- [[kb/Amazon\|Amazon]] (ORGANISATION) — 0.85, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-anthropic-revenus-t3-introduction-bourse-2026-10-15\|Anthropic : 16,8 milliards de dollars en un trimestre, ce que l'on sait avant l'introduction en Bourse]]
+- [[kb/Google\|Google]] (ORGANISATION) — 0.85, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-anthropic-revenus-t3-introduction-bourse-2026-10-15\|Anthropic : 16,8 milliards de dollars en un trimestre, ce que l'on sait avant l'introduction en Bourse]]
 
 ## Relations (comme objet)
 
@@ -352,7 +425,11 @@
 - [[kb/_entites-mineures#Peter-McCrory\|Peter McCrory]] **travaille_chez** → Anthropic — 0.95
 - [[kb/_entites-mineures#Regina-Catipon\|Regina Catipon]] **travaille_chez** → Anthropic — 0.95
 - [[kb/Sachin-Malhotra\|Sachin Malhotra]] **travaille_chez** → Anthropic — 0.95
+- [[kb/_entites-mineures#Daniel-Freeman\|Daniel Freeman]] **travaille_chez** → Anthropic — 0.93
+- [[kb/Kevin-Bai\|Kevin Bai]] **travaille_chez** → Anthropic — 0.93
+- [[kb/_entites-mineures#William-Zhou\|William Zhou]] **travaille_chez** → Anthropic — 0.93
 - [[kb/_entites-mineures#Meta-work\|Meta-work]] **observé_dans** → Anthropic — 0.92
+- [[kb/_entites-mineures#Krishna-Rao\|Krishna Rao]] **travaille_chez** → Anthropic — 0.92
 - [[kb/Gates-Foundation\|Gates Foundation]] **collabore_avec** → Anthropic — 0.90
 - [[kb/SFEIR\|SFEIR]] **collabore_avec** → Anthropic — 0.90
 - [[kb/_entites-mineures#Snowflake\|Snowflake]] **collabore_avec** → Anthropic — 0.90
@@ -366,6 +443,9 @@
 - [[kb/Apollo-Academy\|Apollo Academy]] **collabore_avec** → Anthropic — 0.85
 - [[kb/GitHub-organisation\|GitHub]] **converge_avec** → Anthropic — 0.85
 - [[kb/OpenAI\|OpenAI]] **concurrence** → Anthropic — 0.82
+- [[kb/Accenture\|Accenture]] **collabore_avec** → Anthropic — 0.80
+- [[kb/Capgemini\|Capgemini]] **collabore_avec** → Anthropic — 0.80
+- [[kb/_entites-mineures#introduction-en-Bourse-d'Anthropic\|introduction en Bourse d'Anthropic]] **fait_partie_de** → Anthropic — 0.80
 
 ## Fiches sources
 
@@ -415,6 +495,7 @@
 - [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|From RAG to Rigor Mortis: Why Retrieval-Augmented Generation looks like dying]]
 - [[fiches/2025-11/rajasekaran-anthropic-frontend-design-skills-2025-11-12\|Improving frontend design through Skills]]
 - [[fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13\|How to be more ambitious: A tutorial for humans with models]]
+- [[fiches/2026-10/sfeir-anthropic-revenus-t3-introduction-bourse-2026-10-15\|Anthropic : 16,8 milliards de dollars en un trimestre, ce que l'on sait avant l'introduction en Bourse]]
 - [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 - [[fiches/2025-04/stanford-hai-ai-index-report-2025-trends-2025-04-07\|Stanford HAI: AI Index Report 2025 - Global AI Trends and Metrics]]
 - [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]

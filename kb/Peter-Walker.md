@@ -44,7 +44,7 @@
 
 - [[kb/_entites-mineures#Landed-cost\|Landed cost]] (CONCEPT) — 0.92, DYNAMIQUE
   - [[fiches/2026-10/walker-onlycfo-ai-tokenomics-2026-10-22\|The Current State of AI Tokenomics - What CFOs Should Know]]
-- [[kb/_entites-mineures#Zero-Data-Retention\|Zero Data Retention]] (CONCEPT) — 0.88, DYNAMIQUE
+- [[kb/Zero-Data-Retention\|Zero Data Retention]] (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2026-10/walker-onlycfo-ai-tokenomics-2026-10-22\|The Current State of AI Tokenomics - What CFOs Should Know]]
 
 ### référence
@@ -54,7 +54,7 @@
 
 ### travaille_chez
 
-- [[kb/_entites-mineures#OpenRouter\|OpenRouter]] (ORGANISATION) — 0.97, DYNAMIQUE
+- [[kb/OpenRouter-organisation\|OpenRouter]] (ORGANISATION) — 0.97, DYNAMIQUE
   - [[fiches/2026-10/walker-onlycfo-ai-tokenomics-2026-10-22\|The Current State of AI Tokenomics - What CFOs Should Know]]
 
 ## Fiches sources

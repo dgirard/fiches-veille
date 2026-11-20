@@ -1,6 +1,6 @@
 # Gemini CLI
 
-> **Type** : TECHNOLOGIE | 9 relations | 5 fiches sources
+> **Type** : TECHNOLOGIE | 10 relations | 5 fiches sources
 
 ## Attributs
 
@@ -24,6 +24,7 @@
 - [[kb/Claude-Code\|Claude Code]] **utilise** → Gemini CLI — 0.95
 - [[kb/Claude-Skills\|Claude Skills]] **s_applique_à** → Gemini CLI — 0.92
 - [[kb/Claude-Code\|Claude Code]] **surpasse** → Gemini CLI — 0.92
+- Qwen Code **est_variante_de** → Gemini CLI — 0.90
 - [[kb/MCP\|MCP]] **permet** → Gemini CLI — 0.85
 
 ## Fiches sources

@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 3139 entités avec moins de 3 triples/fiches
+> 3498 entités avec moins de 3 triples/fiches
 
-## PERSONNE (429)
+## PERSONNE (475)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -91,6 +91,17 @@
 - **a_créé** → [[kb/Mirakl\|Mirakl]] (ORGANISATION) — 0.95
 
 **Fiches** : [[fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20\|Philippe Corrot, fondateur de Mirakl]]
+
+### Aidan Gomez {#Aidan-Gomez}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : PDG de Cohere
+
+- **dirige** → [[kb/Cohere\|Cohere]] (ORGANISATION) — 0.95
+- **affirme_que** → « CoT monitoring would have been useless here » (CITATION) — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-qwen-cohere-connexion-sortante-agents-2026-10-27\|Qwen3.8 a tenté d'écrire vers Pékin pendant un test : ce que le cas Cohere change pour vos agents]]
 
 ### Aimee Donnellan {#Aimee-Donnellan}
 
@@ -203,6 +214,16 @@
 - **rôle** : Cloud Financial Operations Lead Google Cloud, Morehouse College + Wharton MBA, co-auteur DORA ROI 2026
 
 **Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|The ROI of AI-assisted Software Development]]
+
+### Andres Guadamuz {#Andres-Guadamuz}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Spécialiste de propriété intellectuelle, université du Sussex
+
+- **affirme_que** → « « We also do not know whether the claimed 'clean-room process' stands up to scrutiny » » (CITATION) — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-artcraft-clean-room-adobe-2026-10-09\|ArtCraft : des clones d'Adobe en clean-room revendiqué, ce que vaut l'argument]]
 
 ### Andrew Carton {#Andrew-Carton}
 
@@ -386,6 +407,16 @@
 
 **Fiches** : [[fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29\|The 2025 Hype Cycle for GenAI Highlights Critical Innovations]]
 
+### Arvind Jain {#Arvind-Jain}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Cofondateur et dirigeant de Glean, ex-Google, cofondateur de Rubrik
+
+- **a_créé** → [[kb/Glean-organisation\|Glean]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-10/sfeir-glean-couche-de-contexte-2026-10-27\|Glean, Anthropic et la bataille de la couche de contexte]]
+
 ### Arvind Narayanan {#Arvind-Narayanan}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -417,6 +448,16 @@
 - [[kb/_entites-mineures#Northwestern-Mutual\|Northwestern Mutual]] **emploie** → Asaf Bord — 0.95
 
 **Fiches** : [[fiches/2025-11/bord-northwestern-mutual-genbi-enterprise-2025-11-23\|Small Bets, Big Impact: Building GenBI at a Fortune 100 (Northwestern Mutual)]]
+
+### Asaf Ezra {#Asaf-Ezra}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Associé chez a16z
+
+- **travaille_chez** → [[kb/_entites-mineures#a16z\|a16z]] (ORGANISATION) — 0.92
+
+**Fiches** : [[fiches/2026-11/sfeir-exploit-goulot-delai-correction-2026-11-06\|L'exploit n'est plus le goulot : avec l'IA, le délai de correction fixe votre risque]]
 
 ### Ashish Kumar Singh {#Ashish-Kumar-Singh}
 
@@ -509,6 +550,16 @@
 - **recommande** → observabilité du code généré par IA (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]
+
+### Autumn-27 {#Autumn-27}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Pseudonyme du développeur chinois auteur d'ARTEX
+
+- **a_créé** → [[kb/ARTEX\|ARTEX]] (TECHNOLOGIE) — 0.95
+
+**Fiches** : [[fiches/2026-11/sfeir-artex-pentest-autonome-cyberarme-2026-11-17\|ARTEX : quand le pentest autonome devient une cyberarme]]
 
 ### Averroès {#Averroès}
 
@@ -700,6 +751,37 @@
 
 **Fiches** : [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|L'ère des assistants de codage IA bon marché pourrait être révolue]]
 
+### Brandon Thomas {#Brandon-Thomas}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Ingénieur à Atlanta, ex-Storyteller.ai et Square, identifié par la presse derrière ArtCraft
+
+- **a_créé** → [[kb/ArtCraft-technologie\|ArtCraft]] (TECHNOLOGIE) — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-artcraft-clean-room-adobe-2026-10-09\|ArtCraft : des clones d'Adobe en clean-room revendiqué, ce que vaut l'argument]]
+
+### Brandon Waselnuk {#Brandon-Waselnuk}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Auteur chez Unblocked, critique des hubs de mémoire d'équipe
+
+- **affirme_que** → « confident recall of stale facts is worse than no memory » (CITATION) — 0.90
+- **travaille_chez** → Unblocked (ORGANISATION) — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-posseder-memoire-agent-depot-git-2026-11-14\|Posséder sa mémoire d'agent : le dépôt Git comme cerveau partagé entre tous vos agents IA]]
+
+### Brian Crawford {#Brian-Crawford}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Co-auteur avec Patrick McClure d'un article arXiv sur les injections de prompt contre les agents de rétro-ingénierie
+
+- **a_créé** → Investigating Detection and Obfuscation of Prompt Injection Attacks Against Software Reverse Engineering AI Agents (DOCUMENT) — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-rea-sandbox-confinement-2026-10-13\|REA n'est pas un sandbox : confiner l'analyse d'un binaire inconnu]]
+
 ### Brian Fioca {#Brian-Fioca}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -723,6 +805,17 @@
 
 **Fiches** : [[fiches/2026-03/voxcomm-mediapost-redesigning-agency-value-model-billable-hours-dead-2026-03\|Redesigning the Agency Value Model (rapport VoxComm 95 pages, mars 2026) + Billable Hours Are Dead, AI Killed Them,…]]
 
+### Brian Moynihan {#Brian-Moynihan}
+
+**Type** : PERSONNE | 2 relations | 2 fiches
+
+- **rôle** : Dirigeant de Bank of America
+
+- **dirige** → [[kb/Bank-of-America\|Bank of America]] (ORGANISATION) — 0.97
+- **prédit** → « les coûts de remédiation décroîtront une fois le stock de failles corrigé » (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-bank-of-america-mythos-prestataires-correctifs-2026-10-26\|Bank of America : 1 000 prestataires pour corriger ce que Mythos a trouvé]], [[fiches/2026-11/sfeir-budgets-2027-dette-securite-2026-11-08\|Budgets 2027 : il faut défragiliser le SI]]
+
 ### Brian Scanlan {#Brian-Scanlan}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -742,6 +835,16 @@
 - **dirige** → AI Products and Platforms (ORGANISATION) — 0.97
 
 **Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Accelerating the development of life-saving treatments — Moderna case study]]
+
+### Bruno Richet {#Bruno-Richet}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Directeur général de PC SOFT
+
+- **dirige** → [[kb/PC-SOFT\|PC SOFT]] (ORGANISATION) — 0.93
+
+**Fiches** : [[fiches/2026-10/sfeir-redevance-windev-rachat-pc-soft-2026-10-16\|Redevance WinDev, rachat de PC SOFT : faut-il quitter WinDev maintenant ?]]
 
 ### Cameron Franz {#Cameron-Franz}
 
@@ -773,6 +876,16 @@
 
 **Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
 
+### Carl Franzen {#Carl-Franzen}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **support** : Journaliste, VentureBeat
+
+- **s_oppose_à** → comparaisons de code de Meta menées avec des outils différents selon les modèles (CONCEPT) — 0.82
+
+**Fiches** : [[fiches/2026-10/sfeir-muse-wonder-meta-muse-code-2026-10-15\|Muse Wonder : Meta rejoint la frontière et garde son meilleur modèle pour Muse Code]]
+
 ### Catherine Jestin {#Catherine-Jestin}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -782,6 +895,16 @@
 - **travaille_chez** → [[kb/_entites-mineures#Airbus\|Airbus]] (ORGANISATION) — 0.95
 
 **Fiches** : [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
+
+### Cathryn Lavery {#Cathryn-Lavery}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **support** : Little Might
+
+- **affirme_que** → « gbrain is not memory. It's a library. » (CITATION) — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-gbrain-memoire-garry-tan-2026-11-14\|GBrain : la mémoire de Garry Tan, en Markdown et sous licence MIT]]
 
 ### Celso Martinho {#Celso-Martinho}
 
@@ -881,6 +1004,27 @@
 
 **Fiches** : [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]]
 
+### Ciaran Martin {#Ciaran-Martin}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Ancien directeur du NCSC britannique
+
+- **s_oppose_à** → [[kb/étude-Anthropic-sur-l'auto-réplication\|étude Anthropic sur l'auto-réplication]] (DOCUMENT) — 0.86
+
+**Fiches** : [[fiches/2026-10/sfeir-anthropic-auto-replication-iot-2026-10-15\|Vers IA sur objets connectés : ce qu'Anthropic démontre et ce qu'elle extrapole]]
+
+### Claudia Buch {#Claudia-Buch}
+
+**Type** : PERSONNE | 2 relations | 2 fiches
+
+- **rôle** : Présidente du conseil de surveillance de la BCE
+
+- **publie** → [[kb/_entites-mineures#lettre-BCE-SSM-2026-0301\|lettre BCE SSM-2026-0301]] (DOCUMENT) — 0.93
+- **travaille_chez** → BCE (ORGANISATION) — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-budgets-2027-dette-securite-2026-11-08\|Budgets 2027 : il faut défragiliser le SI]], [[fiches/2026-11/sfeir-credit-mutuel-arkea-cyber-casse-2026-11-14\|Cyber-casse chez Crédit Mutuel Arkéa : ce que 100 millions d'euros enseignent aux DSI et aux RSSI]]
+
 ### Clay Bavor {#Clay-Bavor}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -910,6 +1054,16 @@
 - **a_créé** → data analytics platform (Streamlit-Snowflake) (TECHNOLOGIE) — 0.92
 
 **Fiches** : [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|2× – nine months later: We did it]]
+
+### Cédric Villani {#Cédric-Villani}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Mathématicien, médaille Fields
+
+- **affirme_que** → « « le changement le plus radical en mathématiques depuis au moins quatre siècles » » (CITATION) — 0.90
+
+**Fiches** : [[fiches/2026-10/girard-openai-722-preuves-verification-2026-10-09\|722 preuves en un commit : ce que la publication mathématique d'OpenAI dit de l'avenir de la vérification]]
 
 ### Daisy Zhao {#Daisy-Zhao}
 
@@ -952,6 +1106,16 @@
 - **publie** → étude sur Cialdini et LLMs (DOCUMENT) — 0.92
 
 **Fiches** : [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Superpowers: How I'm using coding agents in October 2025]]
+
+### Daniel Freeman {#Daniel-Freeman}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Chercheur, Frontier Red Team d'Anthropic
+
+- **travaille_chez** → [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.93
+
+**Fiches** : [[fiches/2026-10/sfeir-anthropic-auto-replication-iot-2026-10-15\|Vers IA sur objets connectés : ce qu'Anthropic démontre et ce qu'elle extrapole]]
 
 ### Daniel Goetz {#Daniel-Goetz}
 
@@ -1017,6 +1181,26 @@
 - **rôle** : Staff Data Scientist, Stack Overflow, co-auteur
 
 **Fiches** : [[fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10\|Announcing Stack Overflow for Agents]]
+
+### David Golverdingen {#David-Golverdingen}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : AI Engineering Lead chez Warmtebouw
+
+- **travaille_chez** → Warmtebouw (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-11/sfeir-sortir-de-jira-backlog-markdown-2026-11-13\|Sortir de Jira en 2027 : mettez vos tickets là où travaillent vos agents]]
+
+### David Gross {#David-Gross}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Prix Nobel de physique 2004, mène le groupe d'examen Yang-Mills/QCD
+
+- **dirige** → groupe d'examen de la preuve Yang-Mills (ORGANISATION) — 0.82
+
+**Fiches** : [[fiches/2026-10/sfeir-openai-kakeya-eth-yang-mills-2026-10-27\|Kakeya, ETH, Yang-Mills : OpenAI annonce trois percées, la communauté prend le temps de goûter]]
 
 ### David Heinemeier Hansson (DHH) {#David-Heinemeier-Hansson-(DHH)}
 
@@ -1333,6 +1517,16 @@
 
 **Fiches** : [[fiches/2025-11/google-code-wiki-accelerating-code-understanding-2025-11-13\|Introducing Code Wiki: Accelerating your code understanding]]
 
+### Flavio Copes {#Flavio-Copes}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Auteur d'une mesure indépendante de Clef via l'API REST
+
+- **mesure** → « médiane Clef-flash 191 à 205 ms via API REST » (MESURE) — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-cloudflare-clef-jev-modeles-decision-2026-10-06\|Cloudflare Clef face à Jev : quel modèle de décision choisir, et ce que valent les chiffres]]
+
 ### Florian Dèbes {#Florian-Dèbes}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1386,6 +1580,17 @@
 
 **Fiches** : [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|You will know that the AI labs believe in ASI when -they dissolve their forward deployed engineering teams-]]
 
+### Gabriel Hubert {#Gabriel-Hubert}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : CEO et cofondateur de Dust
+
+- **dirige** → [[kb/Dust\|Dust]] (ORGANISATION) — 0.95
+- **a_créé** → [[kb/Dust\|Dust]] (ORGANISATION) — 0.93
+
+**Fiches** : [[fiches/2026-10/sfeir-dust-ia-entreprise-multiplayer-agents-2026-10-27\|Dust ou l'IA d'entreprise qui se joue à plusieurs : ce que les DSI doivent en retenir]]
+
 ### Gabriel Vasquez {#Gabriel-Vasquez}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1415,16 +1620,6 @@
 - **a_créé** → Presentation Zen (METHODOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2026-02/guide-comparatif-formats-conference-narrations-deep-research-2026-02\|Traité d'Architecture Narrative et de Rhétorique de Conférence : Guide Global des Formats et des Structures de…]]
-
-### Garry Tan {#Garry-Tan}
-
-**Type** : PERSONNE | 1 relations | 1 fiches
-
-- **rôle** : Auteur de GBrain
-
-- **a_créé** → [[kb/_entites-mineures#GBrain\|GBrain]] (TECHNOLOGIE) — 0.88
-
-**Fiches** : [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
 
 ### Gaurav Goel {#Gaurav-Goel}
 
@@ -1565,6 +1760,16 @@
 
 **Fiches** : [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|The Trillion Dollar AI Software Development Stack]]
 
+### Guillaume Lample {#Guillaume-Lample}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Cofondateur de Mistral AI
+
+- **travaille_chez** → [[kb/Mistral-AI\|Mistral AI]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-10/sfeir-mistral-large-4-souverainete-licence-2026-10-06\|Mistral Large 4 : 1 000 milliards de paramètres en open-weights, une souveraineté qui se jugera sur la licence]]
+
 ### Hannes Mühleisen {#Hannes-Mühleisen}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1642,6 +1847,17 @@
 
 **Fiches** : [[fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24\|Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes]]
 
+### Hugo Duminil-Copin {#Hugo-Duminil-Copin}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Mathématicien, médaille Fields 2022
+
+- **mesure** → « 3 500 pages de manuscrits citant ses travaux contre 3 700 publiées dans sa carrière » (MESURE) — 0.86
+- **s_oppose_à** → « « cette version bulldozer… ne va pas fonctionner » » (CITATION) — 0.84
+
+**Fiches** : [[fiches/2026-10/girard-openai-722-preuves-verification-2026-10-09\|722 preuves en un commit : ce que la publication mathématique d'OpenAI dit de l'avenir de la vérification]]
+
 ### Ido Salomon {#Ido-Salomon}
 
 **Type** : PERSONNE | 2 relations | 2 fiches
@@ -1674,6 +1890,17 @@
 
 **Fiches** : [[fiches/2026-08/orosz-salmon-klaric-ramp-inspect-coding-agent-2026-08-25\|Why Ramp built its own in-house coding agent, Inspect]]
 
+### Ivan Zhang {#Ivan-Zhang}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Cofondateur de Cohere
+
+- **travaille_chez** → [[kb/Cohere\|Cohere]] (ORGANISATION) — 0.93
+- **affirme_que** → « aucune preuve ne permet de conclure que le comportement était délibéré » (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-qwen-cohere-connexion-sortante-agents-2026-10-27\|Qwen3.8 a tenté d'écrire vers Pékin pendant un test : ce que le cas Cohere change pour vos agents]]
+
 ### J.R. Storment {#J.R.-Storment}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1691,6 +1918,16 @@
 - **rôle** : Écrivain catholique anglais (1892-1973), auteur du *Seigneur des Anneaux* — cité par Léon XIV (n. 213) via les paroles de Sam dans *Le Retour du Roi* sur la responsabilité de notre génération
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
+
+### Jaana Dogan {#Jaana-Dogan}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Coauteure de l'annonce d'Agent Executor chez Google
+
+- **affirme_que** → « It's NOT an agentic framework » (CITATION) — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-agents-always-on-anthropic-ax-google-2026-11-15\|Agents always-on : les cinq primitives d'Anthropic et l'étage AX de Google]]
 
 ### Jacob Coxon {#Jacob-Coxon}
 
@@ -1711,6 +1948,16 @@
 - **travaille_chez** → ServiceNow (ORGANISATION) — 0.97
 
 **Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|The Pivotal Role Of Chief HR Officer in AI Transformation]]
+
+### Jake Dejno {#Jake-Dejno}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Ingénieur, équipe Claude Platform (Anthropic)
+
+- [[kb/Anthropic\|Anthropic]] **emploie** → Jake Dejno — 0.93
+
+**Fiches** : [[fiches/2026-11/sfeir-api-claude-cache-effort-migrations-2026-11-16\|Votre facture Claude est trop haute ? Anthropic vous dit par où commencer]]
 
 ### James Wickett {#James-Wickett}
 
@@ -1760,6 +2007,16 @@
 
 **Fiches** : [[fiches/2026-05/moon-walsh-mckinsey-rewiring-software-delivery-agentic-era-2026-05-29\|Rewiring software delivery for the agentic era]]
 
+### Jared Spataro {#Jared-Spataro}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Directeur marketing de l'IA au travail chez Microsoft
+
+- **affirme_que** → « Autopilot peut consulter l'utilisateur avant les actions importantes » (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-microsoft-autopilot-openclaw-ignite-2026-11-18\|Microsoft Autopilot tourne sur OpenClaw, et Ignite ne l'a pas dit]]
+
 ### Jasmine Sun {#Jasmine-Sun}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -1770,6 +2027,16 @@
 - **a_créé** → [[kb/_entites-mineures#Warning-shots-(AI-populism)\|Warning shots (AI populism)]] (CONCEPT) — 0.96
 
 **Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
+
+### Jason Elrod {#Jason-Elrod}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : RSSI de MultiCare Health System
+
+- **prédit** → « certains correctifs devront être appliqués en heures plutôt qu'en jours » (AFFIRMATION) — 0.84
+
+**Fiches** : [[fiches/2026-11/sfeir-exploit-agent-gtig-correctif-exploit-2026-11-18\|exploit_agent : le correctif publié devient la carte de l'attaquant]]
 
 ### Jason Hawes {#Jason-Hawes}
 
@@ -1882,6 +2149,16 @@
 
 **Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]]
 
+### Jeremy Howard {#Jeremy-Howard}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Auteur de la proposition llms.txt
+
+- **a_créé** → [[kb/_entites-mineures#llms.txt\|llms.txt]] (TECHNOLOGIE) — 0.93
+
+**Fiches** : [[fiches/2026-11/sfeir-ecrire-moteurs-ia-schema-org-llms-txt-2026-11-15\|Écrire pour les moteurs et pour les IA : graphe schema.org, llms.txt et fiches de référence]]
+
 ### Jeremy Norman {#Jeremy-Norman}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -1951,6 +2228,17 @@
 - **publie** → [[kb/_entites-mineures#toon-format-toon\|toon-format/toon]] (TECHNOLOGIE) — 0.99
 
 **Fiches** : [[fiches/2025-10/schopplich-toon-json-llm-token-optimization-2025-10-22\|TOON - Token-Oriented Object Notation: JSON for LLMs at half the token cost]]
+
+### John Mueller {#John-Mueller}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Search Advocate, Google
+
+- **travaille_chez** → [[kb/Google\|Google]] (ORGANISATION) — 0.90
+- **affirme_que** → « aucun système d'IA n'utilise llms.txt (17 juin 2025) » (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-ecrire-moteurs-ia-schema-org-llms-txt-2026-11-15\|Écrire pour les moteurs et pour les IA : graphe schema.org, llms.txt et fiches de référence]]
 
 ### John Romeo {#John-Romeo}
 
@@ -2031,6 +2319,17 @@
 - **publie** → sondage BCG dans Harvard Business Review mars 2026 (DOCUMENT) — 0.95
 
 **Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|When Using AI Leads to "Brain Fry"]], [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|« On est dans une boîte de Petri » : la Silicon Valley, ce pays où les agents IA sont déjà des collègues]]
+
+### Julien Carmona {#Julien-Carmona}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Président de Crédit Mutuel Arkéa
+
+- **dirige** → [[kb/_entites-mineures#Crédit-Mutuel-Arkéa\|Crédit Mutuel Arkéa]] (ORGANISATION) — 0.95
+- **affirme_que** → « l'attaque a très probablement été appuyée par des modèles IA de pointe » (AFFIRMATION) — 0.85
+
+**Fiches** : [[fiches/2026-11/sfeir-credit-mutuel-arkea-cyber-casse-2026-11-14\|Cyber-casse chez Crédit Mutuel Arkéa : ce que 100 millions d'euros enseignent aux DSI et aux RSSI]]
 
 ### Julien Lépine {#Julien-Lépine}
 
@@ -2174,6 +2473,16 @@
 - **rôle** : Collègue Thoughtworks, a proposé le lien avec la cybernétique
 
 **Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering for coding agent users]]
+
+### Krishna Rao {#Krishna-Rao}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Directeur financier d'Anthropic
+
+- **travaille_chez** → [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.92
+
+**Fiches** : [[fiches/2026-10/sfeir-anthropic-revenus-t3-introduction-bourse-2026-10-15\|Anthropic : 16,8 milliards de dollars en un trimestre, ce que l'on sait avant l'introduction en Bourse]]
 
 ### Laura Entis {#Laura-Entis}
 
@@ -2340,6 +2649,16 @@
 
 **Fiches** : [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Are We Building the Next AI Bubble? Insights from Bloomberg's 'OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of…]]
 
+### Liu Yi {#Liu-Yi}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Vice-président de Tencent Cloud, dirige CodeBuddy et WorkBuddy
+
+- **travaille_chez** → [[kb/Tencent-Cloud\|Tencent Cloud]] (ORGANISATION) — 0.93
+
+**Fiches** : [[fiches/2026-11/sfeir-workbuddy-codebuddy-tencent-2026-11-14\|WorkBuddy et CodeBuddy : la double offensive agentique de Tencent]]
+
 ### Logan Kilpatrick {#Logan-Kilpatrick}
 
 **Type** : PERSONNE | 2 relations | 2 fiches
@@ -2350,6 +2669,17 @@
 - **publie** → Gemini 2.5 Flash-Lite stable GA (EVENEMENT) — 0.98
 
 **Fiches** : [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]], [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie: Interactive World Models with Genie 3]]
+
+### Louis Planquart {#Louis-Planquart}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Analyste de la facturation à la session de PC SOFT (blog, juillet 2026)
+
+- **affirme_que** → « PC SOFT facture le serveur WEBDEV selon les cœurs, la mémoire et le nombre de serveurs » (AFFIRMATION) — 0.86
+- **mesure** → « session WinDev à 290 € au catalogue et 225 € dans les offres » (MESURE) — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-cout-migration-windev-2026-10-16\|Combien coûte une migration WinDev en 2026 ? Coût, délais et ROI avec l'IA]]
 
 ### Loïc Lefloch {#Loïc-Lefloch}
 
@@ -2368,6 +2698,16 @@
 - **rôle** : Designer Every (Figma designs Cora)
 
 **Fiches** : [[fiches/2025-11/klaassen-stop-coding-start-planning-every-2025-11-06\|Stop Coding and Start Planning]]
+
+### Lucca Siaudzionis {#Lucca-Siaudzionis}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Ingénieur, équipe Platform Intelligence (Anthropic)
+
+- [[kb/Anthropic\|Anthropic]] **emploie** → Lucca Siaudzionis — 0.93
+
+**Fiches** : [[fiches/2026-11/sfeir-api-claude-cache-effort-migrations-2026-11-16\|Votre facture Claude est trop haute ? Anthropic vous dit par où commencer]]
 
 ### Ludovic Letort {#Ludovic-Letort}
 
@@ -2707,16 +3047,6 @@
 
 **Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
-### Michael Truell {#Michael-Truell}
-
-**Type** : PERSONNE | 1 relations | 1 fiches
-
-- **rôle** : CEO de Cursor
-
-- **publie** → excuse publique sur la tarification (DOCUMENT) — 0.97
-
-**Fiches** : [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]
-
 ### Michal Zalewski {#Michal-Zalewski}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -2730,11 +3060,12 @@
 
 ### Michel Serres {#Michel-Serres}
 
-**Type** : PERSONNE | 1 relations | 1 fiches
+**Type** : PERSONNE | 2 relations | 1 fiches
 
 - **dates** : 1930-2019, philosophe français
 
 - **affirme_que** → « les technologies numériques externalisent des fonctions cognitives » (AFFIRMATION) — 0.96
+- **a_créé** → [[kb/_entites-mineures#Petite-Poucette\|Petite Poucette]] (DOCUMENT) — 0.95
 
 **Fiches** : [[fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11\|L'Intelligence Artificielle et le monopsychisme : Michel Serres, Averroès et Thomas d'Aquin]]
 
@@ -2760,6 +3091,16 @@
 - **travaille_chez** → [[kb/Cloudflare\|Cloudflare]] (ORGANISATION) — 0.90
 
 **Fiches** : [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]]
+
+### Mike Nolan {#Mike-Nolan}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Chercheur en politique de l'open source, cité par 404 Media
+
+- **affirme_que** → « il est devenu très facile de recréer une fonctionnalité, mais maintenir un logiciel reste un travail considérable » (AFFIRMATION) — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-retro-ingenierie-firmware-iot-2026-10-21\|Firmware et objets connectés : la rétro-ingénierie par agents]]
 
 ### Mira Murati {#Mira-Murati}
 
@@ -2992,6 +3333,17 @@
 
 **Fiches** : [[fiches/2026-01/plakar-sauvegarde-open-source-deep-research-2026-01\|Plakar : la révolution française de la sauvegarde open source]]
 
+### Omar Shahine {#Omar-Shahine}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : CVP Microsoft chargé d'Autopilot, ex-responsable de l'équipe Word
+
+- **travaille_chez** → [[kb/Microsoft\|Microsoft]] (ORGANISATION) — 0.95
+- **dirige** → [[kb/Microsoft-Autopilot\|Microsoft Autopilot]] (TECHNOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-microsoft-autopilot-openclaw-ignite-2026-11-18\|Microsoft Autopilot tourne sur OpenClaw, et Ignite ne l'a pas dit]]
+
 ### Parker Mitchell {#Parker-Mitchell}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -3024,6 +3376,17 @@
 
 **Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|The Pivotal Role Of Chief HR Officer in AI Transformation]]
 
+### Patrick Lalemand {#Patrick-Lalemand}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Président de la Wx Alliance
+
+- **dirige** → [[kb/Wx-Alliance\|Wx Alliance]] (ORGANISATION) — 0.93
+- **affirme_que** → « « Les prix explosent d'un facteur de 5, 10, parfois même 30 » » (CITATION) — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-redevance-windev-rachat-pc-soft-2026-10-16\|Redevance WinDev, rachat de PC SOFT : faut-il quitter WinDev maintenant ?]]
+
 ### Paul Buchheit {#Paul-Buchheit}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -3034,6 +3397,16 @@
 - **affirme_que** → « "if it's great, it doesn't have to be good" » (CITATION) — 0.90
 
 **Fiches** : [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|The AI-native interview]]
+
+### Paul Kuo {#Paul-Kuo}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **apport** : vérification contre sources et outils exécutables (paulkuo.tw, 17 octobre 2026)
+
+- **soutient** → [[kb/_entites-mineures#juge-extérieur\|juge extérieur]] (CONCEPT) — 0.86
+
+**Fiches** : [[fiches/2026-10/girard-rieseberg-ambition-ia-equipe-2026-10-19\|Être plus ambitieux avec l'IA : la méthode de Felix Rieseberg, lue par une équipe d'ingénierie]]
 
 ### Paul Sawers {#Paul-Sawers}
 
@@ -3144,6 +3517,16 @@
 - **recommande** → [[kb/BMAD\|BMAD]] (METHODOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2026-02/martin-bmad-method-urbanisme-ia-agentique-sdlc-2026-02-04\|BMAD-Method : le plan d'urbanisme qui apprivoise l'IA agentique dans votre SDLC]]
+
+### Pierre Stock {#Pierre-Stock}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : VP science et premier salarié de Mistral AI
+
+- **travaille_chez** → [[kb/Mistral-AI\|Mistral AI]] (ORGANISATION) — 0.94
+
+**Fiches** : [[fiches/2026-10/sfeir-mistral-large-4-souverainete-licence-2026-10-06\|Mistral Large 4 : 1 000 milliards de paramètres en open-weights, une souveraineté qui se jugera sur la licence]]
 
 ### Pierre de la Grand'rive {#Pierre-de-la-Grand'rive}
 
@@ -3419,6 +3802,16 @@
 
 **Fiches** : [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|A.I. Companies Are Eating Higher Education]]
 
+### Russell Impagliazzo {#Russell-Impagliazzo}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Coauteur de l'ETH, berger du résultat ETH
+
+- [[kb/_entites-mineures#Ryan-Williams\|Ryan Williams]] **collabore_avec** → Russell Impagliazzo — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-openai-kakeya-eth-yang-mills-2026-10-27\|Kakeya, ETH, Yang-Mills : OpenAI annonce trois percées, la communauté prend le temps de goûter]]
+
 ### Ruth Appel {#Ruth-Appel}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -3429,6 +3822,16 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
+### Ryan Harvey {#Ryan-Harvey}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Responsable de l'ingénierie IA de Compare the Market
+
+- **travaille_chez** → [[kb/Compare-the-Market\|Compare the Market]] (ORGANISATION) — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-gitlab-orbit-graphe-contexte-2026-10-29\|GitLab Orbit en disponibilité générale : ce que le graphe de contexte change pour vos agents IA]]
+
 ### Ryan Sarver {#Ryan-Sarver}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -3438,6 +3841,17 @@
 - **publie** → [[kb/article-Personal-AI-Should-Actually-Be-Personal\|article Personal AI Should Actually Be Personal]] (DOCUMENT) — 0.95
 
 **Fiches** : [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
+
+### Ryan Williams {#Ryan-Williams}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Chercheur au MIT, berger du résultat ETH
+
+- **affirme_que** → « leur implication ne vaut pas certification de la réfutation de l'ETH » (AFFIRMATION) — 0.92
+- **collabore_avec** → [[kb/_entites-mineures#Russell-Impagliazzo\|Russell Impagliazzo]] (PERSONNE) — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-openai-kakeya-eth-yang-mills-2026-10-27\|Kakeya, ETH, Yang-Mills : OpenAI annonce trois percées, la communauté prend le temps de goûter]]
 
 ### Safi Shamsi {#Safi-Shamsi}
 
@@ -3579,14 +3993,16 @@
 
 ### Shyam Sankar {#Shyam-Sankar}
 
-**Type** : PERSONNE | 2 relations | 1 fiches
+**Type** : PERSONNE | 3 relations | 2 fiches
 
-- **rôle** : CTO de Palantir ; auteur de la formule « FDEs eat pain and excrete product », pivot rhétorique et critère opérationnel de l'article
+- **rôle** : CTO de Palantir
 
 - **affirme_que** → « les forward deployed engineers digèrent de la douleur et excrètent du produit » (CITATION) — 0.95
 - **travaille_chez** → [[kb/Palantir\|Palantir]] (ORGANISATION) — 0.95
 
-**Fiches** : [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]
+- [[kb/Vinoo-Ganesh\|Vinoo Ganesh]] **s_inspire_de** → Shyam Sankar — 0.86
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-kepler-vinoo-ganesh-2026-11-10\|Vinoo Ganesh (Kepler) fait du FDE une stratégie produit, histoires de terrain à l'appui]], [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]
 
 ### Sid Bidasaria {#Sid-Bidasaria}
 
@@ -3698,6 +4114,16 @@
 
 **Fiches** : [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Are We Building the Next AI Bubble? Insights from Bloomberg's 'OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of…]]
 
+### Stanislas Polu {#Stanislas-Polu}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : CTO et cofondateur de Dust, ex-OpenAI
+
+- **travaille_chez** → [[kb/Dust\|Dust]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-10/sfeir-dust-ia-entreprise-multiplayer-agents-2026-10-27\|Dust ou l'IA d'entreprise qui se joue à plusieurs : ce que les DSI doivent en retenir]]
+
 ### StatQuest {#StatQuest}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -3720,13 +4146,14 @@
 
 ### Stephenie Zhang {#Stephenie-Zhang}
 
-**Type** : PERSONNE | 1 relations | 1 fiches
+**Type** : PERSONNE | 2 relations | 2 fiches
 
-- **rôle** : Partner Growth investing, Andreessen Horowitz (Enterprise tech)
+- **rôle** : Associée chez a16z
 
 - **publie** → One Prompt Zero Engineers (DOCUMENT) — 0.98
+- **travaille_chez** → [[kb/_entites-mineures#a16z\|a16z]] (ORGANISATION) — 0.92
 
-**Fiches** : [[fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19\|One Prompt, Zero Engineers: Your New Internal Dev]]
+**Fiches** : [[fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19\|One Prompt, Zero Engineers: Your New Internal Dev]], [[fiches/2026-11/sfeir-exploit-goulot-delai-correction-2026-11-06\|L'exploit n'est plus le goulot : avec l'IA, le délai de correction fixe votre risque]]
 
 ### Steve Jobs {#Steve-Jobs}
 
@@ -4169,6 +4596,26 @@
 
 **Fiches** : [[fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04\|Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet]]
 
+### William Hu {#William-Hu}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Auteur du guide Anthropic sur les agents always-on
+
+- **a_créé** → [[kb/_entites-mineures#Building-always-on-agents\|Building always-on agents]] (DOCUMENT) — 0.93
+
+**Fiches** : [[fiches/2026-11/sfeir-agents-always-on-anthropic-ax-google-2026-11-15\|Agents always-on : les cinq primitives d'Anthropic et l'étage AX de Google]]
+
+### William Zhou {#William-Zhou}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Chercheur, Frontier Red Team d'Anthropic
+
+- **travaille_chez** → [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.93
+
+**Fiches** : [[fiches/2026-10/sfeir-anthropic-auto-replication-iot-2026-10-15\|Vers IA sur objets connectés : ce qu'Anthropic démontre et ce qu'elle extrapole]]
+
 ### Xiao Hong {#Xiao-Hong}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -4257,6 +4704,17 @@
 
 **Fiches** : [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]]
 
+### ZachXBT {#ZachXBT}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Enquêteur blockchain indépendant
+
+- **mesure** → « 133 M$ de retraits sur plateformes crypto » (MESURE) — 0.88
+- **s_oppose_à** → « attribution de l'attaque au Lazarus Group » (AFFIRMATION) — 0.85
+
+**Fiches** : [[fiches/2026-11/sfeir-credit-mutuel-arkea-cyber-casse-2026-11-14\|Cyber-casse chez Crédit Mutuel Arkéa : ce que 100 millions d'euros enseignent aux DSI et aux RSSI]]
+
 ### Zie619 {#Zie619}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -4295,6 +4753,16 @@
 
 **Fiches** : [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Andrej Karpathy Skills for Claude Code]]
 
+### morluto {#morluto}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Compte GitHub créateur du dépôt REA
+
+- **a_créé** → [[kb/REA\|REA]] (TECHNOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-legacy-sans-code-source-2026-10-16\|Applications legacy sans code source : comprendre avant de réécrire]]
+
 ### techygarg {#techygarg}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -4317,7 +4785,17 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (336)
+### Évariste Galois {#Évariste-Galois}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Mathématicien (1811-1832), mémoire de 1831 publié en 1846 par Liouville
+
+- [[kb/Didier-Girard\|Didier Girard]] **s_inspire_de** → Évariste Galois — 0.85
+
+**Fiches** : [[fiches/2026-10/girard-openai-722-preuves-verification-2026-10-09\|722 preuves en un commit : ce que la publication mathématique d'OpenAI dit de l'avenir de la vérification]]
+
+## ORGANISATION (367)
 
 ### 10x {#10x}
 
@@ -4404,6 +4882,16 @@
 
 **Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 
+### AGMAI {#AGMAI}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **définition** : Advisory Group on Mathematics and AI, hébergé par l'IAS, neuf membres, indépendant des labos
+
+- **recommande** → « déposer hors du contrôle des labos, formaliser et financer la lecture humaine » (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-10/girard-openai-722-preuves-verification-2026-10-09\|722 preuves en un commit : ce que la publication mathématique d'OpenAI dit de l'avenir de la vérification]]
+
 ### AI Index Steering Committee {#AI-Index-Steering-Committee}
 
 **Type** : ORGANISATION | 3 relations | 1 fiches
@@ -4428,15 +4916,17 @@
 
 ### ANSSI {#ANSSI}
 
-**Type** : ORGANISATION | 2 relations | 1 fiches
+**Type** : ORGANISATION | 3 relations | 2 fiches
 
 - **rôle** : Autorité nationale sécurité systèmes information
+- **secteur** : Agence nationale de la sécurité des systèmes d'information (France)
 
 - **a_créé** → [[kb/SecNumCloud\|SecNumCloud]] (CONCEPT) — 0.98
+- **publie** → [[kb/_entites-mineures#Sécuriser-un-système-IA-agentique\|Sécuriser un système IA agentique]] (DOCUMENT) — 0.90
 
 - [[kb/Vincent-Strubel\|Vincent Strubel]] **dirige** → ANSSI — 0.98
 
-**Fiches** : [[fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06\|SecNumCloud en (pas si) bref]]
+**Fiches** : [[fiches/2026-11/sfeir-chatgpt-wallet-openai-paiement-2026-11-15\|ChatGPT Wallet : les agents d'OpenAI passent à la caisse, l'humain signe chaque achat]], [[fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06\|SecNumCloud en (pas si) bref]]
 
 ### ARC {#ARC}
 
@@ -4516,11 +5006,12 @@
 
 ### Ahrefs {#Ahrefs}
 
-**Type** : ORGANISATION | 2 relations | 1 fiches
+**Type** : ORGANISATION | 3 relations | 1 fiches
 
 - **secteur** : SEO / content marketing (outil de référence)
 
 - **s_oppose_à** → scale massif du contenu (CONCEPT) — 0.90
+- **mesure** → « 97 % des fichiers llms.txt sans aucune requête en mai 2026, sur 137 210 domaines » (MESURE) — 0.88
 
 - [[kb/Ryan-Law\|Ryan Law]] **travaille_chez** → Ahrefs — 0.97
 
@@ -4561,13 +5052,17 @@
 
 ### Alibaba {#Alibaba}
 
-**Type** : ORGANISATION | 1 relations | 1 fiches
+**Type** : ORGANISATION | 3 relations | 2 fiches
 
 - **rôle** : Plus grande campagne de distillation mesurée (GTG-16005) : 151 M d'échanges, 3 500 comptes, cible Qwen 3.5 à 3.7
+- **statut** : Aucune réaction publique au 27 octobre 2026
 
 - **utilise** → [[kb/_entites-mineures#distillation-illicite\|distillation illicite]] (CONCEPT) — 0.96
+- **a_créé** → [[kb/_entites-mineures#Qwen3.8-Flash-Next\|Qwen3.8-Flash-Next]] (TECHNOLOGIE) — 0.95
 
-**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+- [[kb/Cohere\|Cohere]] **concurrence** → Alibaba — 0.85
+
+**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]], [[fiches/2026-10/sfeir-qwen-cohere-connexion-sortante-agents-2026-10-27\|Qwen3.8 a tenté d'écrire vers Pékin pendant un test : ce que le cas Cohere change pour vos agents]]
 
 ### Allianz {#Allianz}
 
@@ -4623,6 +5118,16 @@
 
 **Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
 
+### Analytics Vidhya {#Analytics-Vidhya}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Site technique, test de REA sur Obsidian (18 octobre 2026)
+
+- **mesure** → « enquête sur le sélecteur rapide d'Obsidian en 7 minutes pour 1,83 $ » (MESURE) — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-rea-trois-schemas-architecture-usage-2026-10-12\|REA en trois schémas : architecture, fonctionnement et usage]]
+
 ### Anthropic Institute {#Anthropic-Institute}
 
 **Type** : ORGANISATION | 2 relations | 1 fiches
@@ -4644,13 +5149,25 @@
 
 ### Anysphere {#Anysphere}
 
-**Type** : ORGANISATION | 1 relations | 1 fiches
+**Type** : ORGANISATION | 2 relations | 1 fiches
 
 - **rôle** : Société propriétaire de Cursor ; tour de 2 milliards à 50 milliards de valorisation préempté par l'accord
 
 - **a_créé** → [[kb/Cursor-technologie\|Cursor]] (TECHNOLOGIE) — 0.94
+- **fait_partie_de** → [[kb/SpaceX\|SpaceX]] (ORGANISATION) — 0.90
 
 **Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
+
+### Appeon {#Appeon}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **rôle** : reprend développement, vente et support de PowerBuilder (accord SAP du 5 juillet 2016)
+
+- **collabore_avec** → [[kb/_entites-mineures#SAP\|SAP]] (ORGANISATION) — 0.92
+- **publie** → [[kb/_entites-mineures#PowerBuilder\|PowerBuilder]] (TECHNOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-retro-ingenierie-powerbuilder-nsdk-2026-10-20\|PowerBuilder et NSDK : état des lieux de la rétro-ingénierie par agents]]
 
 ### Archie {#Archie}
 
@@ -4749,6 +5266,16 @@
 - **publie** → modèles biologiques open source (TECHNOLOGIE) — 0.90
 
 **Fiches** : [[fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10\|The Future is for Everyone: The Path to a Positive AI Future]]
+
+### Bitquery {#Bitquery}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Analyse on-chain
+
+- **mesure** → « 126 M$ sortis en 28 heures » (MESURE) — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-credit-mutuel-arkea-cyber-casse-2026-11-14\|Cyber-casse chez Crédit Mutuel Arkéa : ce que 100 millions d'euros enseignent aux DSI et aux RSSI]]
 
 ### Black Forest Labs {#Black-Forest-Labs}
 
@@ -4926,6 +5453,18 @@
 
 **Fiches** : [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
 
+### Character.ai {#Character.ai}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **statut** : Chapter 11 volontaire depuis le 12 octobre 2026, PDG Colin Adams
+
+- **mesure** → « actifs estimés entre 50 et 100 M$ au dépôt du Chapter 11 » (MESURE) — 0.88
+
+- Disney **collabore_avec** → Character.ai — 0.82
+
+**Fiches** : [[fiches/2026-10/sfeir-ia-semaine-8-15-octobre-2026-breves-2026-10-15\|IA, semaine du 8 au 15 octobre 2026 : cinq autres nouvelles à retenir]]
+
 ### Cielo {#Cielo}
 
 **Type** : ORGANISATION | 2 relations | 2 fiches
@@ -4993,19 +5532,6 @@
 - [[kb/_entites-mineures#Roy-Lee\|Roy Lee]] **a_créé** → Cluely — 0.98
 
 **Fiches** : [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|A.I. Companies Are Eating Higher Education]]
-
-### Cognition {#Cognition}
-
-**Type** : ORGANISATION | 2 relations | 2 fiches
-
-- **apport** : Pose comme mode de vie que ce qui est construit sera probablement mis au rebut sous six à douze mois
-- **produit_phare** : Devin
-
-- **affirme_que** → « ce qui est construit aujourd'hui sera très probablement mis au rebut sous six à douze mois » (CITATION) — 0.91
-
-- [[kb/Windsurf-organisation\|Windsurf]] **fait_partie_de** → Cognition — 0.97
-
-**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]], [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]
 
 ### Cognizant {#Cognizant}
 
@@ -5140,6 +5666,17 @@
 
 **Fiches** : [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Our evaluation of OpenAI's GPT-5.5 cyber capabilities]]
 
+### Crédit Mutuel Arkéa {#Crédit-Mutuel-Arkéa}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **secteur** : Banque (Brest), filiale Fortuneo
+
+- [[kb/cyberattaque-de-Crédit-Mutuel-Arkéa\|cyberattaque de Crédit Mutuel Arkéa]] **observé_dans** → Crédit Mutuel Arkéa — 0.97
+- [[kb/_entites-mineures#Julien-Carmona\|Julien Carmona]] **dirige** → Crédit Mutuel Arkéa — 0.95
+
+**Fiches** : [[fiches/2026-11/sfeir-credit-mutuel-arkea-cyber-casse-2026-11-14\|Cyber-casse chez Crédit Mutuel Arkéa : ce que 100 millions d'euros enseignent aux DSI et aux RSSI]]
+
 ### Cua AI {#Cua-AI}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -5170,11 +5707,12 @@
 
 ### DSI {#DSI}
 
-**Type** : ORGANISATION | 1 relations | 2 fiches
+**Type** : ORGANISATION | 2 relations | 2 fiches
 
 - **contexte** : grande entreprise, intégrateur de BMAD
 
 - [[kb/BMAD\|BMAD]] **s_applique_à** → DSI — 0.90
+- [[kb/_entites-mineures#contexte-possédé\|contexte possédé]] **s_applique_à** → DSI — 0.85
 
 **Fiches** : [[fiches/2026-02/martin-bmad-method-urbanisme-ia-agentique-sdlc-2026-02-04\|BMAD-Method : le plan d'urbanisme qui apprivoise l'IA agentique dans votre SDLC]], [[fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15\|STRUCTURER LA TRANSFORMATION AI-FIRST EN 15 QUESTIONS]]
 
@@ -5228,6 +5766,16 @@
 
 **Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Google's Design.md is a design team in a file (Greg Isenberg × Meng To)]]
 
+### Diode {#Diode}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Fabricant de circuits imprimés, partenaire des démonstrations matérielles
+
+- [[kb/Anthropic\|Anthropic]] **collabore_avec** → Diode — 0.82
+
+**Fiches** : [[fiches/2026-11/sfeir-claude-fable-mythos-5-2-2026-11-10\|Claude Fable 5.2 et Mythos 5.2 : moins cher au token, plus cher à la tâche si l'on pousse l'effort]]
+
 ### DocsHound {#DocsHound}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -5237,6 +5785,29 @@
 - **utilise** → [[kb/Gemini-2.5-Flash-Lite\|Gemini 2.5 Flash-Lite]] (TECHNOLOGIE) — 0.97
 
 **Fiches** : [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]]
+
+### Doctolib {#Doctolib}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **actionnariat** : Nvidia actionnaire minoritaire sans siège au conseil
+
+- **affirme_que** → « Doctolib développera ses propres modèles sans dépendre d'OpenAI ni d'Anthropic » (AFFIRMATION) — 0.85
+
+- [[kb/Nvidia\|Nvidia]] **collabore_avec** → Doctolib — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-ia-semaine-8-15-octobre-2026-breves-2026-10-15\|IA, semaine du 8 au 15 octobre 2026 : cinq autres nouvelles à retenir]]
+
+### DotFix Software {#DotFix-Software}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **rôle** : Éditeur de VB Decompiler
+
+- **a_créé** → [[kb/_entites-mineures#VB-Decompiler\|VB Decompiler]] (TECHNOLOGIE) — 0.92
+- **mesure** → « près de 85 % du code récupéré en P-Code comme en natif (revendication éditeur) » (MESURE) — 0.78
+
+**Fiches** : [[fiches/2026-10/sfeir-retro-ingenierie-vb6-2026-10-18\|Rétro-ingénierie d'applications VB6 : peu de retours, un workflow possible]]
 
 ### Dotwork {#Dotwork}
 
@@ -5311,16 +5882,6 @@
 - [[kb/Charley-Stoney\|Charley Stoney]] **dirige** → EACA (European Association of Communication Agencies) — 0.95
 
 **Fiches** : [[fiches/2026-03/voxcomm-mediapost-redesigning-agency-value-model-billable-hours-dead-2026-03\|Redesigning the Agency Value Model (rapport VoxComm 95 pages, mars 2026) + Billable Hours Are Dead, AI Killed Them,…]]
-
-### ENISA {#ENISA}
-
-**Type** : ORGANISATION | 1 relations | 1 fiches
-
-- **catégorie** : Agence européenne cybersécurité
-
-- **remplace** → autorités nationales de protection des données (ORGANISATION) — 0.88
-
-**Fiches** : [[fiches/2025-11/derouet-rgpd-revision-discrete-digital-omnibus-2025-11-13\|Enquête : la révision discrète du RGPD – qui y gagne, qui y perd ?]]
 
 ### EXL {#EXL}
 
@@ -5403,16 +5964,6 @@
 - **catégorie** : École d'informatique, France
 
 **Fiches** : [[fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03\|The Human Layer with Gilles Chehade: Building Trust Through Transparency]]
-
-### Epoch AI {#Epoch-AI}
-
-**Type** : ORGANISATION | 1 relations | 1 fiches
-
-- **rôle** : Institut de recherche cité comme contre-expertise indépendante : chiffre un datacenter IA d'un gigawatt à environ 38 milliards de dollars de capex initial, serveurs et GPU en tête
-
-- **mesure** → « environ 38 milliards de dollars de capex initial pour un datacenter IA d'un gigawatt, serveurs et GPU représentant la majorité du coût » (MESURE) — 0.92
-
-**Fiches** : [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
 
 ### Equal Experts {#Equal-Experts}
 
@@ -5534,6 +6085,16 @@
 
 **Fiches** : [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|From RAG to Rigor Mortis: Why Retrieval-Augmented Generation looks like dying]]
 
+### Forge Global {#Forge-Global}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Fournisseur du Forge Price, estimation de prix sur le marché privé
+
+- **mesure** → « Forge Price de Glean à 38,90 $, −36,23 % sur un an » (MESURE) — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-glean-couche-de-contexte-2026-10-27\|Glean, Anthropic et la bataille de la couche de contexte]]
+
 ### Forrester {#Forrester}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -5629,26 +6190,6 @@
 
 **Fiches** : [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]], [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Signal over noise: rethinking what "contribution" means in the age of AI slop]]
 
-### GitLab {#GitLab}
-
-**Type** : ORGANISATION | 1 relations | 1 fiches
-
-- **positionnement** : Éditeur DevSecOps pariant sur une plateforme neutre en modèle et en cloud plutôt que sur un modèle propriétaire
-
-- **publie** → [[kb/_entites-mineures#When-code-is-abundant\|When code is abundant]] (DOCUMENT) — 0.97
-
-**Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
-
-### Glean {#Glean}
-
-**Type** : ORGANISATION | 1 relations | 1 fiches
-
-- **description** : Plateforme agentic enterprise search & coordination cross-function (citée Bain comme exemple cross-workflow decision context)
-
-- Cross-function employee request coordination **observé_dans** → Glean — 0.93
-
-**Fiches** : [[fiches/2026-05/bain-100b-saas-opportunity-cross-system-labor-agentic-ai-2026-05\|The $100-Billion SaaS Opportunity Hiding in Cross-System Labor]]
-
 ### Google Cloud Developer & Experiences {#Google-Cloud-Developer-&-Experiences}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -5692,6 +6233,17 @@
 - [[kb/_entites-mineures#Kath-Korevec\|Kath Korevec]] **travaille_chez** → Google Labs — 0.98
 
 **Fiches** : [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie: Interactive World Models with Genie 3]], [[fiches/2025-11/korevec-google-proactive-agents-jules-2025-11-23\|Proactive Agents: Doing the Dishes Without Being Asked]]
+
+### Google Threat Intelligence Group {#Google-Threat-Intelligence-Group}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **rôle** : Renseignement sur les menaces de Google (GTIG)
+
+- **publie** → [[kb/GTIG-AI-Threat-Tracker\|GTIG AI Threat Tracker]] (DOCUMENT) — 0.96
+- **collabore_avec** → [[kb/_entites-mineures#Mandiant\|Mandiant]] (ORGANISATION) — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-exploit-agent-gtig-correctif-exploit-2026-11-18\|exploit_agent : le correctif publié devient la carte de l'attaquant]]
 
 ### Google X {#Google-X}
 
@@ -5744,6 +6296,16 @@
 
 **Fiches** : [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
+### GreyNoise {#GreyNoise}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Observatoire du trafic d'attaque, documente la campagne PaperCut
+
+- **référence** → [[kb/campagne-PaperCut\|campagne PaperCut]] (EVENEMENT) — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-exploit-goulot-delai-correction-2026-11-06\|L'exploit n'est plus le goulot : avec l'IA, le délai de correction fixe votre risque]]
+
 ### HEC Paris {#HEC-Paris}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -5793,6 +6355,17 @@
 
 **Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
+### Hex-Rays {#Hex-Rays}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **produit** : éditeur d'IDA Pro
+
+- **a_créé** → [[kb/_entites-mineures#IDA-Pro\|IDA Pro]] (TECHNOLOGIE) — 0.95
+- **publie** → [[kb/_entites-mineures#IDA-MCP\|IDA MCP]] (TECHNOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-rea-ghidramcp-ida-pro-mcp-2026-10-20\|REA, GhidraMCP ou ida-pro-mcp : quel MCP de rétro-ingénierie choisir]]
+
 ### HeyGen {#HeyGen}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -5823,11 +6396,12 @@
 
 ### Hugging Face {#Hugging-Face}
 
-**Type** : ORGANISATION | 2 relations | 2 fiches
+**Type** : ORGANISATION | 3 relations | 2 fiches
 
 - **statut adoption** : Tous les spaces exposés MCP-UI
 
 - **utilise** → [[kb/MCP-UI\|MCP-UI]] (TECHNOLOGIE) — 0.95
+- **mesure** → « modèles chinois à 41 % des téléchargements sur un an » (MESURE) — 0.85
 
 - [[kb/Voxtral\|Voxtral]] **observé_dans** → Hugging Face — 0.96
 
@@ -5894,6 +6468,16 @@
 
 **Fiches** : [[fiches/2026-03/voxcomm-mediapost-redesigning-agency-value-model-billable-hours-dead-2026-03\|Redesigning the Agency Value Model (rapport VoxComm 95 pages, mars 2026) + Billable Hours Are Dead, AI Killed Them,…]]
 
+### Inceptron {#Inceptron}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **siège** : Suède
+
+- [[kb/OpenRouter-technologie\|OpenRouter]] **utilise** → Inceptron — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-openrouter-zdr-souverainete-2026-10-19\|OpenRouter : rétention zéro ne veut pas dire souverain]]
+
 ### Instinct {#Instinct}
 
 **Type** : ORGANISATION | 2 relations | 2 fiches
@@ -5955,6 +6539,17 @@
 
 **Fiches** : [[fiches/2026-10/gohel-knowledge-context-procedural-graph-2026-10-25\|Knowledge Graph. Context Graph. Procedural Graph. — What's true → What matters now → What do I do next]]
 
+### Jacar Systems {#Jacar-Systems}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **secteur** : Conseil / publication technique (jacar.es)
+
+- Les limites réelles de REA **référence** → Jacar Systems — 0.92
+- [[kb/Javier-Cañete-Arroyo\|Javier Cañete Arroyo]] **travaille_chez** → Jacar Systems — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-rea-limites-2026-10-15\|Les limites réelles de REA : taille des sorties, coût, couverture]]
+
 ### KPMG {#KPMG}
 
 **Type** : ORGANISATION | 2 relations | 1 fiches
@@ -5965,6 +6560,16 @@
 - **publie** → données adoption agents (DOCUMENT) — 0.90
 
 **Fiches** : [[fiches/2025-11/nlw-ai-daily-brief-enterprise-adoption-roi-2025-11-23\|Enterprise AI Adoption Status & ROI: Trends from the Ground]]
+
+### Kepler {#Kepler}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **statut** : Start-up où Vinoo Ganesh construit la fonction FDE
+
+- [[kb/Vinoo-Ganesh\|Vinoo Ganesh]] **dirige** → Kepler — 0.92
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-kepler-vinoo-ganesh-2026-11-10\|Vinoo Ganesh (Kepler) fait du FDE une stratégie produit, histoires de terrain à l'appui]]
 
 ### Keyrus {#Keyrus}
 
@@ -6216,6 +6821,18 @@
 
 **Fiches** : [[fiches/2025-05/seale-philosophy-eats-ai-ontological-core-2025-05-30\|Philosophy Eats AI: Why Your Business Needs an Ontological Core]]
 
+### Mandiant {#Mandiant}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **rôle** : Google Threat Intelligence, suivi du time-to-exploit et M-Trends 2026
+
+- **mesure** → « délai moyen correctif → exploitation de 63 jours (2018-2019) à −7 jours estimés en 2025 » (MESURE) — 0.90
+
+- [[kb/_entites-mineures#Google-Threat-Intelligence-Group\|Google Threat Intelligence Group]] **collabore_avec** → Mandiant — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-exploit-goulot-delai-correction-2026-11-06\|L'exploit n'est plus le goulot : avec l'IA, le délai de correction fixe votre risque]]
+
 ### Maximor {#Maximor}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -6366,15 +6983,17 @@
 
 ### Mistral {#Mistral}
 
-**Type** : ORGANISATION | 2 relations | 1 fiches
+**Type** : ORGANISATION | 3 relations | 2 fiches
 
+- **politique OpenRouter** : rétention par défaut à 30 jours, hors filtre ZDR
 - **secteur** : IA / modèles de langage (Europe)
 
 - **mesure** → « levée de fonds visée de 6 milliards de dollars » (MESURE) — 0.90
+- **utilise** → [[kb/GLM-5.3\|GLM-5.3]] (TECHNOLOGIE) — 0.85
 
 - [[kb/Mirakl\|Mirakl]] **utilise** → Mistral — 0.90
 
-**Fiches** : [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
+**Fiches** : [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]], [[fiches/2026-10/sfeir-openrouter-zdr-souverainete-2026-10-19\|OpenRouter : rétention zéro ne veut pas dire souverain]]
 
 ### Modern Data 101 {#Modern-Data-101}
 
@@ -6459,6 +7078,27 @@
 
 **Fiches** : [[fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11\|The Gen AI Playbook for Organizations]]
 
+### Nat System {#Nat-System}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **secteur** : éditeur français, offre de TMA NatStar, Java et NS-DK
+
+- **a_créé** → [[kb/_entites-mineures#NatStar\|NatStar]] (TECHNOLOGIE) — 0.93
+- **a_créé** → [[kb/_entites-mineures#NS-DK\|NS-DK]] (TECHNOLOGIE) — 0.93
+
+**Fiches** : [[fiches/2026-10/sfeir-retro-ingenierie-powerbuilder-nsdk-2026-10-20\|PowerBuilder et NSDK : état des lieux de la rétro-ingénierie par agents]]
+
+### Nebius Token Factory {#Nebius-Token-Factory}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **siège** : Pays-Bas
+
+- [[kb/OpenRouter-technologie\|OpenRouter]] **utilise** → Nebius Token Factory — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-openrouter-zdr-souverainete-2026-10-19\|OpenRouter : rétention zéro ne veut pas dire souverain]]
+
 ### Neuralink {#Neuralink}
 
 **Type** : ORGANISATION | 5 relations | 1 fiches
@@ -6510,13 +7150,15 @@
 
 ### Notion {#Notion}
 
-**Type** : ORGANISATION | 2 relations | 2 fiches
+**Type** : ORGANISATION | 3 relations | 2 fiches
 
 - **secteur** : Productivité / IA
 - **évolution produit** : Ouvre en alpha un modèle déclaratif de construction d'espace de travail, explicitement conçu pour être piloté par un agent de codage autant que par un humain
 
 - **publie** → [[kb/Notion-as-Code\|Notion as Code]] (TECHNOLOGIE) — 0.96
 - **affirme_que** → « Agent Skills accélère passage de questions à actions » (AFFIRMATION) — 0.89
+
+- [[kb/agent-d'accueil-des-demandes-FDE\|agent d'accueil des demandes FDE]] **utilise** → Notion — 0.88
 
 **Fiches** : [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Introducing Agent Skills]], [[fiches/2026-08/notion-as-code-2026-08-03\|How to use Notion as Code]]
 
@@ -6649,18 +7291,15 @@
 
 **Fiches** : [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
 
-### OpenRouter {#OpenRouter}
+### OpenClaw Foundation {#OpenClaw-Foundation}
 
-**Type** : ORGANISATION | 3 relations | 1 fiches
+**Type** : ORGANISATION | 1 relations | 1 fiches
 
-- **secteur** : Passerelle et marketplace d'inférence donnant accès à des centaines de LLM par un seul compte
+- **rôle** : Fondation gardienne d'OpenClaw depuis février 2026
 
-- **utilise** → [[kb/_entites-mineures#Landed-cost\|Landed cost]] (CONCEPT) — 0.90
-- **améliore** → « taux de succès des requêtes de 92,8 % à 96,9 % par bascule automatique » (MESURE) — 0.88
+- [[kb/Microsoft\|Microsoft]] **collabore_avec** → OpenClaw Foundation — 0.90
 
-- [[kb/Peter-Walker\|Peter Walker]] **travaille_chez** → OpenRouter — 0.97
-
-**Fiches** : [[fiches/2026-10/walker-onlycfo-ai-tokenomics-2026-10-22\|The Current State of AI Tokenomics - What CFOs Should Know]]
+**Fiches** : [[fiches/2026-11/sfeir-microsoft-autopilot-openclaw-ignite-2026-11-18\|Microsoft Autopilot tourne sur OpenClaw, et Ignite ne l'a pas dit]]
 
 ### Oracle {#Oracle}
 
@@ -6733,6 +7372,16 @@
 - **mesure** → « environ un travailleur américain sur cinq utilise l'IA au travail » (MESURE) — 0.90
 
 **Fiches** : [[fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04\|AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.]]
+
+### Pew Research Center {#Pew-Research-Center}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Institut de recherche et d'enquêtes
+
+- **mesure** → « 8 % de clics sur un résultat avec résumé d'IA contre 15 % sans (juillet 2025) » (MESURE) — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-ecrire-moteurs-ia-schema-org-llms-txt-2026-11-15\|Écrire pour les moteurs et pour les IA : graphe schema.org, llms.txt et fiches de référence]]
 
 ### PlayerZero {#PlayerZero}
 
@@ -6850,6 +7499,16 @@
 
 **Fiches** : [[fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11\|L'Intelligence Artificielle et le monopsychisme : Michel Serres, Averroès et Thomas d'Aquin]]
 
+### Riftmap {#Riftmap}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Analyse d'impact entre dépôts, concurrent d'Orbit
+
+- **concurrence** → [[kb/GitLab\|GitLab]] (ORGANISATION) — 0.80
+
+**Fiches** : [[fiches/2026-10/sfeir-gitlab-orbit-graphe-contexte-2026-10-29\|GitLab Orbit en disponibilité générale : ce que le graphe de contexte change pour vos agents IA]]
+
 ### Rilla {#Rilla}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -6881,6 +7540,16 @@
 
 **Fiches** : [[fiches/2026-10/taylor-bavor-sierra-personal-agent-protocol-2026-10-06\|Introducing Personal Agent Protocol]]
 
+### RuntimeWire {#RuntimeWire}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Média ayant commenté l'écart entre slogan et données
+
+- **s_oppose_à** → « « frontier-grade defensive AI » n'est pas établi par les données d'Aikido » (AFFIRMATION) — 0.82
+
+**Fiches** : [[fiches/2026-10/girard-aikido-altar-securite-air-gap-2026-10-01\|Aikido Altar : un modèle de sécurité open-weight taillé pour l'air gap]]
+
 ### S3NS {#S3NS}
 
 **Type** : ORGANISATION | 4 relations | 1 fiches
@@ -6897,14 +7566,27 @@
 
 ### SAP {#SAP}
 
-**Type** : ORGANISATION | 2 relations | 1 fiches
+**Type** : ORGANISATION | 3 relations | 1 fiches
 
 - **secteur** : Éditeur ERP / Cloud
 
 - **mesure** → « hausse tarifaire 3.3-5% » (MESURE) — 0.92
 - **améliore** → modèle de leadership pour l'IA (METHODOLOGIE) — 0.90
 
+- [[kb/_entites-mineures#Appeon\|Appeon]] **collabore_avec** → SAP — 0.92
+
 **Fiches** : [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud : l'ère des prédateurs pour vos budgets IT]]
+
+### SFEIR Institute {#SFEIR-Institute}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **secteur** : Organisme de formation du groupe SFEIR
+
+- **mesure** → « 50 développeurs formés et certifiés à Claude Code en moins de deux mois » (MESURE) — 0.86
+- **s_applique_à** → [[kb/_entites-mineures#formation-à-la-rétro-ingénierie-assistée-par-agents\|formation à la rétro-ingénierie assistée par agents]] (METHODOLOGIE) — 0.80
+
+**Fiches** : [[fiches/2026-10/sfeir-alternatives-windev-2026-10-16\|Alternatives à WinDev en 2026 : quels outils et langages pour remplacer l'AGL de PC SOFT ?]]
 
 ### SambaNova Systems {#SambaNova-Systems}
 
@@ -6926,6 +7608,16 @@
 - [[kb/OpenAI\|OpenAI]] **collabore_avec** → Samsung — 0.88
 
 **Fiches** : [[fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22\|Luc Julia's Controversial Statements on AI Spark Industry Debate]]
+
+### Samsung Electronics {#Samsung-Electronics}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Chef de file de la Series D de Mistral AI
+
+- **collabore_avec** → [[kb/Mistral-AI\|Mistral AI]] (ORGANISATION) — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-mistral-large-4-souverainete-licence-2026-10-06\|Mistral Large 4 : 1 000 milliards de paramètres en open-weights, une souveraineté qui se jugera sur la licence]]
 
 ### Satlyt {#Satlyt}
 
@@ -6968,6 +7660,18 @@
 
 **Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|The Pivotal Role Of Chief HR Officer in AI Transformation]]
 
+### Sealog {#Sealog}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **position** : Recommande la phase transitoire et un outil de migration écrit en WinDev
+
+- **affirme_que** → « les clés de HFSQL sont parfois implicites ou gérées de façon non stricte par l'application » (CITATION) — 0.90
+
+- [[kb/_entites-mineures#phase-transitoire-WinDev-sur-PostgreSQL\|phase transitoire WinDev sur PostgreSQL]] **s_inspire_de** → Sealog — 0.80
+
+**Fiches** : [[fiches/2026-10/sfeir-hfsql-postgresql-migration-donnees-2026-10-15\|HFSQL vers PostgreSQL : migrer les données d'une application WinDev sans perte]]
+
 ### Sears Home Services {#Sears-Home-Services}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -7007,6 +7711,17 @@
 - **utilise** → [[kb/_entites-mineures#vibe-hacking\|vibe hacking]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+
+### Simons Foundation {#Simons-Foundation}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **initiative** : 15 M$ pour accompagner les mathématiciens face à l'IA, lancée le 15 octobre 2026
+
+- [[kb/OpenAI\|OpenAI]] **collabore_avec** → Simons Foundation — 0.88
+- [[kb/Anthropic\|Anthropic]] **collabore_avec** → Simons Foundation — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-openai-kakeya-eth-yang-mills-2026-10-27\|Kakeya, ETH, Yang-Mills : OpenAI annonce trois percées, la communauté prend le temps de goûter]]
 
 ### SitePoint {#SitePoint}
 
@@ -7052,15 +7767,16 @@
 
 ### Sonatype {#Sonatype}
 
-**Type** : ORGANISATION | 2 relations | 1 fiches
+**Type** : ORGANISATION | 3 relations | 2 fiches
 
-- **secteur** : Éditeur de sécurité de la chaîne d'approvisionnement logicielle
+- **secteur** : Sécurité de la chaîne logicielle
 
 - **publie** → [[kb/_entites-mineures#Securing-Software-at-the-Speed-of-AI\|Securing Software at the Speed of AI]] (DOCUMENT) — 0.97
+- **mesure** → « 14,14 → 54,3 vulnérabilités critiques et élevées par application (2022-2026) » (MESURE) — 0.82
 
 - [[kb/Sonatype-Research-Labs\|Sonatype Research Labs]] **fait_partie_de** → Sonatype — 0.92
 
-**Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]]
+**Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]], [[fiches/2026-10/sfeir-retro-ingenierie-agents-securite-2026-10-16\|Rétro-ingénierie par agents : ce que ça change pour les équipes sécurité]]
 
 ### Sourcegraph {#Sourcegraph}
 
@@ -7127,6 +7843,18 @@
 
 **Fiches** : [[fiches/2025-04/stanford-hai-ai-index-report-2025-trends-2025-04-07\|Stanford HAI: AI Index Report 2025 - Global AI Trends and Metrics]]
 
+### Starlink {#Starlink}
+
+**Type** : ORGANISATION | 2 relations | 2 fiches
+
+- **volume** : 20 000 appels/jour traités par Grok Voice selon SpaceXSI
+
+- **fait_partie_de** → [[kb/SpaceX\|SpaceX]] (ORGANISATION) — 0.92
+
+- [[kb/Grok-Voice-3.0\|Grok Voice 3.0]] **observé_dans** → Starlink — 0.88
+
+**Fiches** : [[fiches/2026-06/nyt-musk-promises-spacex-ipo-track-record-2026-06-02\|Elon Musk Promises. Here's How Often He Delivers.]], [[fiches/2026-10/sfeir-grok-voice-3-centre-appels-2026-10-15\|Grok Voice 3.0 : numéro un des modèles vocaux, ce qu'un centre d'appels doit vérifier]]
+
 ### Startups AI-native {#Startups-AI-native}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -7147,6 +7875,16 @@
 - [[kb/_entites-mineures#Commerce-Department\|Commerce Department]] **collabore_avec** → State Department — 0.95
 
 **Fiches** : [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|White House Unveils Americas AI Action Plan – The White House]]
+
+### Storm-0940 {#Storm-0940}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **profil** : Acteur aligné sur l'État chinois (Microsoft)
+
+- **utilise** → [[kb/ARTEX\|ARTEX]] (TECHNOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-artex-pentest-autonome-cyberarme-2026-11-17\|ARTEX : quand le pentest autonome devient une cyberarme]]
 
 ### Strategize Your Career {#Strategize-Your-Career}
 
@@ -7232,15 +7970,15 @@
 
 **Fiches** : [[fiches/2026-06/tokenomics-foundation-linux-finops-token-economics-about-2026-06-03\|About — Tokenomics Foundation (a Linux Foundation project)]]
 
-### Tencent {#Tencent}
+### Tencent AI {#Tencent-AI}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
 
-- **secteur** : Technologie / Investissement
+- **support** : Compte X @TencentAI_News
 
-- **soutient** → [[kb/Manus-organisation\|Manus]] (ORGANISATION) — 0.93
+- **affirme_que** → « Model + Harness = Agent ; We'd add one more term: Memory » (CITATION) — 0.88
 
-**Fiches** : [[fiches/2026-01/ahrens-meta-manus-acquisition-agentic-ai-2026-01-01\|The Meta-Manus Deal: How a $2B AI Gamble Redefines Tech Borders and Our Digital Future]]
+**Fiches** : [[fiches/2026-11/sfeir-tencentdb-agent-memory-v2-2026-11-14\|TencentDB Agent Memory v2 : une mémoire d'équipe gouvernée pour Claude Code, Codex et CodeBuddy]]
 
 ### Tennessee {#Tennessee}
 
@@ -7379,6 +8117,16 @@
 
 **Fiches** : [[fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14\|The Evaporation of Software Engineering (and the Rise of the Agentic Builder)]]
 
+### TradingKey {#TradingKey}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Média d'analyse financière (Yulia Zeng)
+
+- **mesure** → « valorisation visée de 27 à 30 fois le chiffre d'affaires annualisé » (MESURE) — 0.84
+
+**Fiches** : [[fiches/2026-10/sfeir-anthropic-revenus-t3-introduction-bourse-2026-10-15\|Anthropic : 16,8 milliards de dollars en un trimestre, ce que l'on sait avant l'introduction en Bourse]]
+
 ### Translucent {#Translucent}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -7411,15 +8159,16 @@
 
 ### TypeSafe AI {#TypeSafe-AI}
 
-**Type** : ORGANISATION | 2 relations | 1 fiches
+**Type** : ORGANISATION | 2 relations | 2 fiches
 
+- **rôle** : Créateur de Jev et de la catégorie System One Models
 - **secteur** : Modèles de décision pour l'automatisation
 
 - **publie** → [[kb/Jev\|Jev]] (TECHNOLOGIE) — 0.98
 
 - [[kb/_entites-mineures#Diogo-Almeida\|Diogo Almeida]] **travaille_chez** → TypeSafe AI — 0.96
 
-**Fiches** : [[fiches/2026-09/almeida-system-one-models-jev-2026-09-15\|Introducing System One Models & Jev]]
+**Fiches** : [[fiches/2026-09/almeida-system-one-models-jev-2026-09-15\|Introducing System One Models & Jev]], [[fiches/2026-10/sfeir-cloudflare-clef-jev-modeles-decision-2026-10-06\|Cloudflare Clef face à Jev : quel modèle de décision choisir, et ce que valent les chiffres]]
 
 ### UK AI Security Institute {#UK-AI-Security-Institute}
 
@@ -7471,6 +8220,16 @@
 
 **Fiches** : [[fiches/2025-11/mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26\|MIT study finds AI can already replace 11.7% of U.S. workforce]]
 
+### VAPOR PANDA {#VAPOR-PANDA}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **profil** : Adversaire d'espionnage lié à la Chine (CrowdStrike)
+
+- **utilise** → [[kb/ARTEX\|ARTEX]] (TECHNOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-artex-pentest-autonome-cyberarme-2026-11-17\|ARTEX : quand le pentest autonome devient une cyberarme]]
+
 ### VSORA {#VSORA}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -7493,6 +8252,30 @@
 
 **Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Writing the AI-HR Playbook with Ethan Mollick]]
 
+### Veracode {#Veracode}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **rôle** : Éditeur de sécurité applicative, rapport State of Software Security 2026
+
+- **mesure** → « 82 % des organisations portent une dette de sécurité, 60 % une dette critique » (MESURE) — 0.88
+- **mesure** → « faille dans 38 % des tâches de génération de code par IA en octobre 2026 » (MESURE) — 0.86
+
+**Fiches** : [[fiches/2026-11/sfeir-budgets-2027-dette-securite-2026-11-08\|Budgets 2027 : il faut défragiliser le SI]]
+
+### Volaris Group {#Volaris-Group}
+
+**Type** : ORGANISATION | 3 relations | 2 fiches
+
+- **rôle** : Acquéreur de PC SOFT fin 2024
+
+- **fait_partie_de** → Constellation Software (ORGANISATION) — 0.93
+- **dirige** → [[kb/PC-SOFT\|PC SOFT]] (ORGANISATION) — 0.88
+
+- [[kb/PC-SOFT\|PC SOFT]] **fait_partie_de** → Volaris Group — 0.93
+
+**Fiches** : [[fiches/2026-10/sfeir-migration-windev-ia-sans-big-bang-2026-10-07\|Migration WinDev : réécrire vos applications PC SOFT avec l'IA, sans big bang]], [[fiches/2026-10/sfeir-redevance-windev-rachat-pc-soft-2026-10-16\|Redevance WinDev, rachat de PC SOFT : faut-il quitter WinDev maintenant ?]]
+
 ### VoxComm {#VoxComm}
 
 **Type** : ORGANISATION | 2 relations | 1 fiches
@@ -7504,6 +8287,16 @@
 - [[kb/Charley-Stoney\|Charley Stoney]] **dirige** → VoxComm — 0.96
 
 **Fiches** : [[fiches/2026-03/voxcomm-mediapost-redesigning-agency-value-model-billable-hours-dead-2026-03\|Redesigning the Agency Value Model (rapport VoxComm 95 pages, mars 2026) + Billable Hours Are Dead, AI Killed Them,…]]
+
+### VulnCheck {#VulnCheck}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Renseignement sur l'exploitation, 884 vulnérabilités exploitées recensées en 2025
+
+- **mesure** → « 28,96 % des 884 vulnérabilités exploitées en 2025 l'ont été au plus tard le jour de la CVE » (MESURE) — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-exploit-goulot-delai-correction-2026-11-06\|L'exploit n'est plus le goulot : avec l'IA, le délai de correction fixe votre risque]]
 
 ### WAICO {#WAICO}
 
@@ -7552,6 +8345,16 @@
 - [[kb/_entites-mineures#Angela-Duckworth\|Angela Duckworth]] **collabore_avec** → Wharton GAIL — 0.95
 
 **Fiches** : [[fiches/2025-07/persuading-ai-cialdini-wharton-2025-07-18\|Call Me A Jerk: Persuading AI to Comply with Objectionable Requests]]
+
+### Winfall {#Winfall}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Prestataire de migration WinDev vers C# / .NET
+
+- **soutient** → [[kb/golden-master-inversé\|golden master inversé]] (METHODOLOGIE) — 0.80
+
+**Fiches** : [[fiches/2026-10/sfeir-windev-golden-master-inverse-2026-10-15\|Tests de non-régression d'une migration WinDev : la méthode du golden master inversé]]
 
 ### Workday {#Workday}
 
@@ -7603,13 +8406,15 @@
 
 ### Y Combinator {#Y-Combinator}
 
-**Type** : ORGANISATION | 2 relations | 2 fiches
+**Type** : ORGANISATION | 3 relations | 2 fiches
 
 - **rôle** : Média podcast (The Light Cone)
 - **type** : Accélérateur de startups
 
 - **soutient** → [[kb/Weave\|Weave]] (ORGANISATION) — 0.98
 - **soutient** → [[kb/_entites-mineures#Vorflux\|Vorflux]] (TECHNOLOGIE) — 0.97
+
+- [[kb/Garry-Tan\|Garry Tan]] **dirige** → Y Combinator — 0.95
 
 **Fiches** : [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]], [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Workweave: The Loom of AI Team Communication]]
 
@@ -7620,6 +8425,16 @@
 - **rôle** : source média financier
 
 **Fiches** : [[fiches/2025-06/salesforce-ai-30-50-percent-work-benioff-2025-06-26\|AI is doing 30% to 50% of the work at Salesforce now]]
+
+### Yield Studio {#Yield-Studio}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Prestataire de développement et de migration
+
+- **prédit** → « 50 000 € par an de redevance pour un éditeur à 200 postes » (MESURE) — 0.80
+
+**Fiches** : [[fiches/2026-10/sfeir-cout-migration-windev-2026-10-16\|Combien coûte une migration WinDev en 2026 ? Coût, délais et ROI avec l'IA]]
 
 ### Zhipu AI {#Zhipu-AI}
 
@@ -7661,6 +8476,19 @@
 - **utilise** → workforce agentique en production (CONCEPT) — 0.80
 
 **Fiches** : [[fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]], [[fiches/2025-11/ia-production-logicielle-six-domaines-cles-2025-11-16\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]]
+
+### a16z {#a16z}
+
+**Type** : ORGANISATION | 3 relations | 1 fiches
+
+- **secteur** : Fonds de capital-risque Andreessen Horowitz
+
+- **publie** → [[kb/_entites-mineures#The-Exploit-Was-the-Bottleneck\|The Exploit Was the Bottleneck]] (DOCUMENT) — 0.95
+
+- [[kb/_entites-mineures#Asaf-Ezra\|Asaf Ezra]] **travaille_chez** → a16z — 0.92
+- [[kb/_entites-mineures#Stephenie-Zhang\|Stephenie Zhang]] **travaille_chez** → a16z — 0.92
+
+**Fiches** : [[fiches/2026-11/sfeir-exploit-goulot-delai-correction-2026-11-06\|L'exploit n'est plus le goulot : avec l'IA, le délai de correction fixe votre risque]]
 
 ### cURL {#cURL}
 
@@ -7774,7 +8602,22 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (689)
+## TECHNOLOGIE (795)
+
+### .NET {#.NET}
+
+**Type** : TECHNOLOGIE | 4 relations | 2 fiches
+
+- **catégorie** : Plateforme de développement Microsoft (code managé CIL)
+- **rôle** : Cible la plus directe pour un SI Microsoft desktop (WPF, WinForms)
+
+- **s_applique_à** → SI 100 % Microsoft avec application desktop (CONCEPT) — 0.90
+- **concurrence** → [[kb/WinDev\|WinDev]] (TECHNOLOGIE) — 0.88
+
+- [[kb/REA\|REA]] **s_applique_à** → .NET — 0.92
+- [[kb/_entites-mineures#NativeAOT\|NativeAOT]] **fait_partie_de** → .NET — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-migration-windev-stack-cible-2026-10-15\|WinDev vers Java, .NET, TypeScript ou Flutter : comment choisir sa stack cible]], [[fiches/2026-10/sfeir-rea-dotnet-2026-10-17\|Analyser des assemblies .NET avec REA]]
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7968,6 +8811,19 @@
 
 **Fiches** : [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 
+### AI Cyber {#AI-Cyber}
+
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
+
+- **catégorie** : Offre SFEIR de défragilisation du code en boîte blanche par agents
+- **rôle** : Offre SFEIR : relecture du code existant et confinement des agents, sans pentest
+
+- **utilise** → [[kb/_entites-mineures#confinement-des-agents\|confinement des agents]] (METHODOLOGIE) — 0.84
+
+- [[kb/SFEIR\|SFEIR]] **a_créé** → AI Cyber — 0.82
+
+**Fiches** : [[fiches/2026-11/sfeir-artex-pentest-autonome-cyberarme-2026-11-17\|ARTEX : quand le pentest autonome devient une cyberarme]], [[fiches/2026-10/sfeir-retro-ingenierie-agents-securite-2026-10-16\|Rétro-ingénierie par agents : ce que ça change pour les équipes sécurité]]
+
 ### AI Daily Brief {#AI-Daily-Brief}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -8024,6 +8880,16 @@
 - [[kb/Google\|Google]] **publie** → AI Studio — 0.95
 
 **Fiches** : [[fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27\|The Top 100 Gen AI Consumer Apps - 5th Edition - Andreessen Horowitz]]
+
+### AI Threat Defense {#AI-Threat-Defense}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Plateforme de sécurité Google orchestrée par Wiz
+
+- [[kb/CodeMender\|CodeMender]] **fait_partie_de** → AI Threat Defense — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-codemender-google-agent-faille-correctif-2026-10-26\|CodeMender : Google veut que l'agent qui trouve la faille écrive aussi le correctif]]
 
 ### AI Toolkit {#AI-Toolkit}
 
@@ -8093,6 +8959,17 @@
 
 **Fiches** : [[fiches/2026-02/lancemartin-anthropic-prompt-auto-caching-claude-2026-02\|Prompt auto-caching with Claude]]
 
+### API Dreams {#API-Dreams}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **statut** : Research preview sur demande depuis le 6 mai 2026, 1 à 100 sessions
+
+- **fait_partie_de** → [[kb/_entites-mineures#Claude-Managed-Agents\|Claude Managed Agents]] (TECHNOLOGIE) — 0.85
+- **mesure** → « non éligible HIPAA ni Zero Data Retention hors Managed Agents auto-hébergés » (MESURE) — 0.85
+
+**Fiches** : [[fiches/2026-11/sfeir-components-agent-memory-anthropic-2026-11-14\|The components of agent memory : ce qu'Anthropic a mesuré, et ce que ça change pour vos agents]]
+
 ### APM {#APM}
 
 **Type** : TECHNOLOGIE | 3 relations | 1 fiches
@@ -8105,6 +8982,16 @@
 - [[kb/Microsoft\|Microsoft]] **publie** → APM — 0.92
 
 **Fiches** : [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)]]
+
+### ASAR {#ASAR}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **définition** : format d'archive de packaging d'Electron (app.asar), non chiffré
+
+- **fait_partie_de** → [[kb/_entites-mineures#Electron\|Electron]] (TECHNOLOGIE) — 0.92
+
+**Fiches** : [[fiches/2026-10/sfeir-electron-asar-secrets-2026-10-21\|Applications Electron : secrets et logique métier exposés dans l'ASAR]]
 
 ### ASI (Artificial Super Intelligence) {#ASI-(Artificial-Super-Intelligence)}
 
@@ -8135,11 +9022,13 @@
 
 ### Adobe Photoshop {#Adobe-Photoshop}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **catégorie** : Outil de retouche photo
 
 - **utilise** → [[kb/IA-générative\|IA générative]] (TECHNOLOGIE) — 0.92
+
+- [[kb/PhotoCraft\|PhotoCraft]] **concurrence** → Adobe Photoshop — 0.88
 
 **Fiches** : [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
 
@@ -8228,6 +9117,19 @@
 - **permet** → construction agents sans code (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12\|Live Agent Tracker - AI Agents we're building for our customers]]
+
+### Agent Substrate {#Agent-Substrate}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **catégorie** : Couche Kubernetes séparant état d'acteur et calcul, donnée à la CNCF (Sandbox)
+
+- **fait_partie_de** → CNCF (ORGANISATION) — 0.88
+- **utilise** → gVisor (TECHNOLOGIE) — 0.88
+
+- [[kb/Agent-Executor\|Agent Executor]] **utilise** → Agent Substrate — 0.92
+
+**Fiches** : [[fiches/2026-11/sfeir-agents-always-on-anthropic-ax-google-2026-11-15\|Agents always-on : les cinq primitives d'Anthropic et l'étage AX de Google]]
 
 ### Agent bibliothécaire {#Agent-bibliothécaire}
 
@@ -8354,6 +9256,16 @@
 
 **Fiches** : [[fiches/2026-04/law-ahrefs-content-engineering-claude-code-2026-04-28\|How I Do Content Engineering With Claude Code]]
 
+### Aikido Machine {#Aikido-Machine}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Appliance de pentest autonome, serveur 4U installé chez le client, fonctionne en air gap
+
+- **utilise** → [[kb/Altar\|Altar]] (TECHNOLOGIE) — 0.94
+
+**Fiches** : [[fiches/2026-10/girard-aikido-altar-securite-air-gap-2026-10-01\|Aikido Altar : un modèle de sécurité open-weight taillé pour l'air gap]]
+
 ### Akzidenz-Grotesk Next Pro {#Akzidenz-Grotesk-Next-Pro}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -8381,6 +9293,28 @@
 - [[kb/_entites-mineures#Allianz\|Allianz]] **a_créé** → AllianzGPT — 0.93
 
 **Fiches** : [[fiches/2026-01/simon-sogpt-copilot-faux-debat-souverainete-ia-2026-01-15\|SoGPT "IA interne" vs Solutions du marché "Copilot" : le faux débat qui nous fait perdre la vraie bataille]]
+
+### AlloyDB {#AlloyDB}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **usage** : Relais pour workloads analytiques ou transactionnels plus lourds
+
+- **est_variante_de** → [[kb/_entites-mineures#PostgreSQL\|PostgreSQL]] (TECHNOLOGIE) — 0.80
+
+**Fiches** : [[fiches/2026-10/sfeir-hfsql-postgresql-migration-donnees-2026-10-15\|HFSQL vers PostgreSQL : migrer les données d'une application WinDev sans perte]]
+
+### AlphaProof Nexus {#AlphaProof-Nexus}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Recherche de preuves formelles de Google DeepMind, publiée dans Science le 8 octobre 2026
+
+- **mesure** → « 9 problèmes d'Erdős résolus sur 353 et 44 conjectures OEIS sur 492 » (MESURE) — 0.88
+
+- [[kb/Google-DeepMind\|Google DeepMind]] **a_créé** → AlphaProof Nexus — 0.92
+
+**Fiches** : [[fiches/2026-10/sfeir-openai-kakeya-eth-yang-mills-2026-10-27\|Kakeya, ETH, Yang-Mills : OpenAI annonce trois percées, la communauté prend le temps de goûter]]
 
 ### Amazon Astro {#Amazon-Astro}
 
@@ -8434,6 +9368,16 @@
 
 **Fiches** : [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]]
 
+### Angular {#Angular}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Front pour écrans de gestion denses
+
+- [[kb/SFEIR\|SFEIR]] **recommande** → Angular — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-migration-windev-stack-cible-2026-10-15\|WinDev vers Java, .NET, TypeScript ou Flutter : comment choisir sa stack cible]]
+
 ### Antigravity {#Antigravity}
 
 **Type** : TECHNOLOGIE | 4 relations | 2 fiches
@@ -8458,6 +9402,16 @@
 - [[kb/_entites-mineures#extension-Iceberg-de-DuckDB\|extension Iceberg de DuckDB]] **utilise** → Apache Iceberg — 0.95
 
 **Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
+
+### Apktool {#Apktool}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : décodage des ressources et du manifeste d'une APK
+
+- [[kb/REA\|REA]] **utilise** → Apktool — 0.92
+
+**Fiches** : [[fiches/2026-10/sfeir-rea-android-apk-2026-10-19\|REA et Android : auditer une APK avec JADX et Apktool]]
 
 ### App d'apprentissage du clavier {#App-d'apprentissage-du-clavier}
 
@@ -8561,6 +9515,19 @@
 
 **Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
 
+### Auto Router {#Auto-Router}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **critère** : Dépense de la communauté OpenRouter par type de tâche, cost_tier de « low » à « max »
+
+- **fait_partie_de** → [[kb/OpenRouter-technologie\|OpenRouter]] (TECHNOLOGIE) — 0.92
+- **utilise** → dépense communautaire sur sept jours glissants (CONCEPT) — 0.88
+
+- [[kb/_entites-mineures#GPT-6-Astra\|GPT-6 Astra]] **surpasse** → Auto Router — 0.82
+
+**Fiches** : [[fiches/2026-10/sfeir-routeur-modeles-llm-escalade-2026-10-12\|Routeur de modèles LLM : quand il bat un modèle unique, et quand il perd]]
+
 ### Auto mode {#Auto-mode}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -8626,6 +9593,28 @@
 
 **Fiches** : [[fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25\|Augmented Coding: Beyond the Vibes - by Kent Beck]]
 
+### BaaRai/ARTEX {#BaaRai-ARTEX}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **statut** : Fork public en anglais, v0.6.0 le 11 novembre 2026
+
+- **est_variante_de** → [[kb/ARTEX\|ARTEX]] (TECHNOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-artex-pentest-autonome-cyberarme-2026-11-17\|ARTEX : quand le pentest autonome devient une cyberarme]]
+
+### Backlog.md {#Backlog-md}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Tracker Markdown dans le repo (MIT), CLI + MCP, score agent 4,5/5
+
+- **surpasse** → [[kb/_entites-mineures#Jira-Cloud\|Jira Cloud]] (TECHNOLOGIE) — 0.80
+
+- Alex Gavrilescu **a_créé** → Backlog.md — 0.95
+
+**Fiches** : [[fiches/2026-11/sfeir-sortir-de-jira-backlog-markdown-2026-11-13\|Sortir de Jira en 2027 : mettez vos tickets là où travaillent vos agents]]
+
 ### Bard {#Bard}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -8656,6 +9645,18 @@
 
 **Fiches** : [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]
 
+### Beads {#Beads}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Tracker natif agent en graphe de dépendances, backend Dolt, score agent 4,4/5
+
+- **utilise** → Dolt (TECHNOLOGIE) — 0.93
+
+- [[kb/Steve-Yegge\|Steve Yegge]] **a_créé** → Beads — 0.95
+
+**Fiches** : [[fiches/2026-11/sfeir-sortir-de-jira-backlog-markdown-2026-11-13\|Sortir de Jira en 2027 : mettez vos tickets là où travaillent vos agents]]
+
 ### BigQuery {#BigQuery}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -8665,6 +9666,16 @@
 - [[kb/Claude-Code\|Claude Code]] **utilise** → BigQuery — 0.94
 
 **Fiches** : [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
+
+### Binwalk {#Binwalk}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Inspection des régions d'une image firmware (3.1.x)
+
+- [[kb/REA\|REA]] **utilise** → Binwalk — 0.95
+
+**Fiches** : [[fiches/2026-10/sfeir-retro-ingenierie-firmware-iot-2026-10-21\|Firmware et objets connectés : la rétro-ingénierie par agents]]
 
 ### Bloggrify {#Bloggrify}
 
@@ -8708,6 +9719,16 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
+### CLAUDE_CONFIG_DIR {#CLAUDE_CONFIG_DIR}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : variable d'environnement de Claude Code isolant un profil d'agent
+
+- **permet** → profil d'agent dédié aux analyses (CONCEPT) — 0.86
+
+**Fiches** : [[fiches/2026-10/sfeir-rea-deploiement-entreprise-2026-10-20\|Déployer REA en entreprise : versions, profils, conteneurs]]
+
 ### CLAUDE_PLUGIN_DATA {#CLAUDE_PLUGIN_DATA}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -8727,6 +9748,17 @@
 - **mesure** → « 51,80 % sur SWE-bench Pro (fév. 2026) » (MESURE) — 0.88
 
 **Fiches** : [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|How AI Changes the SDLC: A Six-Stage Guide]]
+
+### CTI-REALM {#CTI-REALM}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Benchmark open source de Microsoft : rapports de menace vers règles de détection
+
+- [[kb/Cohere\|Cohere]] **utilise** → CTI-REALM — 0.92
+- [[kb/Microsoft\|Microsoft]] **a_créé** → CTI-REALM — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-qwen-cohere-connexion-sortante-agents-2026-10-27\|Qwen3.8 a tenté d'écrire vers Pékin pendant un test : ce que le cas Cohere change pour vos agents]]
 
 ### Call Evaluation {#Call-Evaluation}
 
@@ -8858,22 +9890,83 @@
 
 **Fiches** : [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
 
-### Claude Fable {#Claude-Fable}
+### Claude Duet {#Claude-Duet}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **statut** : Produit grand public d'agent proactif, research preview depuis le 21 octobre 2026
+
+- [[kb/Anthropic\|Anthropic]] **publie** → Claude Duet — 0.92
+
+**Fiches** : [[fiches/2026-11/sfeir-agents-always-on-anthropic-ax-google-2026-11-15\|Agents always-on : les cinq primitives d'Anthropic et l'étage AX de Google]]
+
+### Claude Fable {#Claude-Fable}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
 
 - **incident** : Dégradation silencieuse des requêtes de dev IA concurrent, puis walk-back
 
 - **observé_dans** → « dégradation silencieuse des requêtes de dev IA concurrent (incident Fable) » (AFFIRMATION) — 0.88
+- **fait_partie_de** → [[kb/GitHub-Copilot\|GitHub Copilot]] (TECHNOLOGIE) — 0.80
+
+- [[kb/Claude-Mythos\|Claude Mythos]] **est_variante_de** → Claude Fable — 0.88
 
 **Fiches** : [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 
+### Claude Haiku 4.5 {#Claude-Haiku-4.5}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **statut** : Prédécesseur, 1 $ / 5 $, contexte 200K
+
+- [[kb/Claude-Haiku-5.5\|Claude Haiku 5.5]] **remplace** → Claude Haiku 4.5 — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-claude-haiku-5-5-sous-agents-2026-10-08\|Claude Haiku 5.5 : ce que le nouveau Haiku change pour vos sous-agents]]
+
+### Claude Managed Agents {#Claude-Managed-Agents}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **statut** : Offre d'agents hébergés, en bêta
+
+- **utilise** → memory stores (TECHNOLOGIE) — 0.90
+- **fait_partie_de** → Claude Platform (TECHNOLOGIE) — 0.85
+
+- [[kb/_entites-mineures#API-Dreams\|API Dreams]] **fait_partie_de** → Claude Managed Agents — 0.85
+
+**Fiches** : [[fiches/2026-11/sfeir-api-claude-cache-effort-migrations-2026-11-16\|Votre facture Claude est trop haute ? Anthropic vous dit par où commencer]]
+
+### Claude Marketplace {#Claude-Marketplace}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Place de marché d'Anthropic, ouverte largement le 23 septembre 2026
+
+- [[kb/Glean-technologie\|Glean]] **fait_partie_de** → Claude Marketplace — 0.95
+- [[kb/Anthropic\|Anthropic]] **a_créé** → Claude Marketplace — 0.92
+
+**Fiches** : [[fiches/2026-10/sfeir-glean-couche-de-contexte-2026-10-27\|Glean, Anthropic et la bataille de la couche de contexte]]
+
+### Claude Mythos 5.2 {#Claude-Mythos-5.2}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **accès** : Mêmes poids que Fable 5.2, sans garde-fous ; programmes de vérification ou Claude Security
+
+- **est_variante_de** → [[kb/Claude-Fable-5.2\|Claude Fable 5.2]] (TECHNOLOGIE) — 0.90
+
+- [[kb/Anthropic\|Anthropic]] **publie** → Claude Mythos 5.2 — 0.97
+
+**Fiches** : [[fiches/2026-11/sfeir-claude-fable-mythos-5-2-2026-11-10\|Claude Fable 5.2 et Mythos 5.2 : moins cher au token, plus cher à la tâche si l'on pousse l'effort]]
+
 ### Claude Mythos Preview {#Claude-Mythos-Preview}
 
-**Type** : TECHNOLOGIE | 2 relations | 2 fiches
+**Type** : TECHNOLOGIE | 3 relations | 2 fiches
 
 - **catégorie** : Modèle d'Anthropic à diffusion limitée, exploits autonomes
 - **statut** : Remplacé par Mythos 5
+
+- **réduit** → « virement frauduleux de 1,5 M$ bloqué dans une banque Glasswing » (MESURE) — 0.80
 
 - [[kb/Claude-Mythos-5\|Claude Mythos 5]] **remplace** → Claude Mythos Preview — 0.92
 - [[kb/GLM-5.3\|GLM-5.3]] **converge_avec** → Claude Mythos Preview — 0.85
@@ -8882,7 +9975,7 @@
 
 ### Claude Opus {#Claude-Opus}
 
-**Type** : TECHNOLOGIE | 7 relations | 2 fiches
+**Type** : TECHNOLOGIE | 8 relations | 2 fiches
 
 - **statut** : Versions 4.6, 4.7 et 4.8 ciblées par les campagnes de distillation ; Opus 5 rédige une demande de subvention orthopoxvirus sans blocage
 - **versions citées** : Opus 4.8 (départ), Opus 5.5 (effort bas : 87,8 % à 1,9 centime par ticket)
@@ -8892,6 +9985,7 @@
 
 - [[kb/_entites-mineures#PSR-(Project-Security-Review)\|PSR (Project Security Review)]] **utilise** → Claude Opus — 0.94
 - [[kb/hyperresearch\|hyperresearch]] **utilise** → Claude Opus — 0.93
+- [[kb/Claude-Code\|Claude Code]] **utilise** → Claude Opus — 0.92
 - [[kb/Kiro\|Kiro]] **utilise** → Claude Opus — 0.90
 - [[kb/_entites-mineures#Qwen\|Qwen]] **est_basé_sur** → Claude Opus — 0.88
 - [[kb/Kimi-K3\|Kimi K3]] **concurrence** → Claude Opus — 0.75
@@ -8940,25 +10034,17 @@
 
 **Fiches** : [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Building a C Compiler with a Team of Parallel Claudes]]
 
-### Claude Opus 5.5 {#Claude-Opus-5.5}
-
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
-
-- **catégorie** : Modèle fermé comparé sur le test cyber
-
-- [[kb/Mistral-Large-4\|Mistral Large 4]] **surpasse** → Claude Opus 5.5 — 0.85
-
-**Fiches** : [[fiches/2026-10/mistral-large-4-le-chonk-2026-10-06\|Introducing Mistral Large 4]]
-
 ### Claude Security {#Claude-Security}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
+- **catégorie** : Offre Anthropic donnant aux clients Enterprise accès à Mythos 5.2
 - **rôle** : Scan de vulnérabilités et suggestion de correctifs, propulsé par Mythos 5.1
 
 - **utilise** → [[kb/Claude-Mythos-5.1\|Claude Mythos 5.1]] (TECHNOLOGIE) — 0.90
+- **permet** → accès des clients Claude Enterprise à Claude Mythos 5.2 (CONCEPT) — 0.85
 
-**Fiches** : [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
+**Fiches** : [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]], [[fiches/2026-11/sfeir-claude-fable-mythos-5-2-2026-11-10\|Claude Fable 5.2 et Mythos 5.2 : moins cher au token, plus cher à la tâche si l'on pousse l'effort]]
 
 ### Claude Sonnet {#Claude-Sonnet}
 
@@ -8988,6 +10074,16 @@
 
 **Fiches** : [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]], [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft researchers tried to manipulate AI agents - and only one resisted all attempts]]
 
+### Claude Sonnet 5.5 {#Claude-Sonnet-5.5}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Modèle principal recommandé pour éditer et tester
+
+- **surpasse** → « Terminal-Bench 4.0 : 70,6 % contre 39,2 % pour Haiku 5.5 » (MESURE) — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-claude-code-advisor-multi-modeles-2026-10-08\|Advisor Claude Code : qui planifie, qui édite, qui lit entre Opus, Sonnet et Haiku 5.5]]
+
 ### Claude.ai {#Claude.ai}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -8997,18 +10093,6 @@
 - [[kb/Anthropic-Interviewer\|Anthropic Interviewer]] **fait_partie_de** → Claude.ai — 0.90
 
 **Fiches** : [[fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04\|Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI]]
-
-### Clef-flash {#Clef-flash}
-
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
-
-- **catégorie** : Variante rapide de Clef pour décisions critiques en latence
-
-- **est_variante_de** → [[kb/Clef\|Clef]] (TECHNOLOGIE) — 0.93
-
-- [[kb/Cloudflare\|Cloudflare]] **publie** → Clef-flash — 0.98
-
-**Fiches** : [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]]
 
 ### Cloud Foundry {#Cloud-Foundry}
 
@@ -9027,6 +10111,16 @@
 - **historique** : Nés chez Heroku (2011) → projet Pivotal+Heroku (janv. 2018) → accepté CNCF (oct. 2018) ; « une idée PaaS a survécu à la plateforme qui l'a produite »
 
 **Fiches** : [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
+
+### Cloud SQL pour PostgreSQL {#Cloud-SQL-pour-PostgreSQL}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **usage** : Service managé Google Cloud pour la plupart des applications de gestion
+
+- [[kb/SFEIR\|SFEIR]] **recommande** → Cloud SQL pour PostgreSQL — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-hfsql-postgresql-migration-donnees-2026-10-15\|HFSQL vers PostgreSQL : migrer les données d'une application WinDev sans perte]]
 
 ### Cloudflare Agents SDK {#Cloudflare-Agents-SDK}
 
@@ -9125,6 +10219,28 @@
 
 **Fiches** : [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 
+### Code-Graph {#Code-Graph}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Graphe de symboles, chaînes d'appel et impact des modifications
+
+- [[kb/TencentDB-Agent-Memory\|TencentDB Agent Memory]] **utilise** → Code-Graph — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-tencentdb-agent-memory-v2-2026-11-14\|TencentDB Agent Memory v2 : une mémoire d'équipe gouvernée pour Claude Code, Codex et CodeBuddy]]
+
+### CodeBuddy {#CodeBuddy}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **catégorie** : Agent de code Tencent ; CLI depuis le 9 septembre 2025
+
+- [[kb/Tencent\|Tencent]] **a_créé** → CodeBuddy — 0.97
+- [[kb/TencentDB-Agent-Memory\|TencentDB Agent Memory]] **s_applique_à** → CodeBuddy — 0.90
+- [[kb/WorkBuddy\|WorkBuddy]] **utilise** → CodeBuddy — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-workbuddy-codebuddy-tencent-2026-11-14\|WorkBuddy et CodeBuddy : la double offensive agentique de Tencent]]
+
 ### Codex CLI {#Codex-CLI}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -9144,6 +10260,16 @@
 - **fait_partie_de** → [[kb/_entites-mineures#Harness-as-a-Service\|Harness-as-a-Service]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
+
+### Codex memory v2 {#Codex-memory-v2}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **version** : Moteur de mémoire de la CLI Codex depuis 0.165.0 (27 octobre 2026)
+
+- **fait_partie_de** → [[kb/Codex\|Codex]] (TECHNOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-posseder-memoire-agent-depot-git-2026-11-14\|Posséder sa mémoire d'agent : le dépôt Git comme cerveau partagé entre tous vos agents IA]]
 
 ### Cognite {#Cognite}
 
@@ -9332,6 +10458,16 @@
 
 **Fiches** : [[fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12\|ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »]], [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]]
 
+### Crush {#Crush}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **licence** : FSL-1.1-MIT : usage concurrent exclu, MIT deux ans après chaque version
+
+- **utilise** → Functional Source License (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-agents-de-code-panorama-criteres-choix-2026-10-22\|Agents de code : les critères qui comptent avant le benchmark]]
+
 ### Cursor YOLO mode {#Cursor-YOLO-mode}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -9395,6 +10531,18 @@
 - **surpasse** → modèles OpenAI (×2) (TECHNOLOGIE) — 0.91
 
 **Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|AI didn't make our engineers just faster. It made them different.]]
+
+### DSpark {#DSpark}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Tête de décodage spéculatif par blocs de 3 tokens embarquée dans le checkpoint
+
+- **améliore** → « jusqu'à 1,9 fois plus de débit sans changement des sorties » (MESURE) — 0.85
+
+- [[kb/Mistral-Large-4\|Mistral Large 4]] **utilise** → DSpark — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-mistral-large-4-licence-auto-hebergement-2026-11-02\|Mistral Large 4 en poids ouverts : ce que la licence permet, ce que l'auto-hébergement coûte]]
 
 ### Data Agent Kit {#Data-Agent-Kit}
 
@@ -9466,6 +10614,28 @@
 - **permet** → collaboration temps réel (CONCEPT) — 0.97
 
 **Fiches** : [[fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07\|Deepnote: the data notebook for the AI era]]
+
+### DefinedTerm {#DefinedTerm}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Type schema.org d'une fiche de concept, rangée dans un DefinedTermSet
+
+- [[kb/_entites-mineures#graphe-schema.org-par-page\|graphe schema.org par page]] **utilise** → DefinedTerm — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-ecrire-moteurs-ia-schema-org-llms-txt-2026-11-15\|Écrire pour les moteurs et pour les IA : graphe schema.org, llms.txt et fiches de référence]]
+
+### Delphi {#Delphi}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **catégorie** : Environnement de développement Pascal objet (VCL), fréquent dans les applications de gestion legacy
+
+- [[kb/DelphiReSym\|DelphiReSym]] **s_applique_à** → Delphi — 0.92
+- [[kb/_entites-mineures#formulaires-VCL\|formulaires VCL]] **fait_partie_de** → Delphi — 0.88
+- [[kb/rétro-documentation\|rétro-documentation]] **s_applique_à** → Delphi — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-retro-ingenierie-delphi-2026-10-17\|Applications Delphi : ce que Ghidra et les agents permettent]]
 
 ### Demand Gen {#Demand-Gen}
 
@@ -9549,13 +10719,14 @@
 
 ### Docker {#Docker}
 
-**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+**Type** : TECHNOLOGIE | 4 relations | 1 fiches
 
 - **usage** : Déploiement multi-plateforme (amd64, arm64)
 
 - [[kb/agents-parallèles\|agents parallèles]] **utilise** → Docker — 0.98
 - [[kb/_entites-mineures#Solomon-Hykes\|Solomon Hykes]] **a_créé** → Docker — 0.97
 - [[kb/n8n-workflows\|n8n-workflows]] **utilise** → Docker — 0.93
+- [[kb/docker-reverse-engineer-anything\|docker-reverse-engineer-anything]] **utilise** → Docker — 0.90
 
 **Fiches** : [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|Collection de workflows N8n pour création d'agents IA]]
 
@@ -9593,12 +10764,14 @@
 
 ### Droid {#Droid}
 
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+**Type** : TECHNOLOGIE | 4 relations | 1 fiches
 
 - **catégorie** : Agent de codage de Factory, multi-surface (terminal, revue, sandbox)
 
 - **utilise** → [[kb/_entites-mineures#routeur-de-modèles\|routeur de modèles]] (TECHNOLOGIE) — 0.88
+- **mesure** → « 30 à 40 % des manques de validation comblés seul » (MESURE) — 0.78
 
+- [[kb/Factory\|Factory]] **a_créé** → Droid — 0.95
 - [[kb/Factory\|Factory]] **publie** → Droid — 0.95
 
 **Fiches** : [[fiches/2026-09/reyes-factory-building-machine-software-2026-09-22\|Building the Machine That Builds the Software - Eno Reyes, Co-Founder & CTO of Factory]]
@@ -9623,6 +10796,19 @@
 
 **Fiches** : [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]
 
+### Dust Skills {#Dust-Skills}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **définition** : Paquets réutilisables d'instructions, connaissances et outils ; auto-amélioration proposée depuis juillet 2026
+
+- **permet** → mutualisation d'instructions, connaissances et outils entre agents (CONCEPT) — 0.90
+- **s_applique_à** → [[kb/context-engineering\|context engineering]] (METHODOLOGIE) — 0.80
+
+- [[kb/Dust\|Dust]] **a_créé** → Dust Skills — 0.92
+
+**Fiches** : [[fiches/2026-10/sfeir-dust-ia-entreprise-multiplayer-agents-2026-10-27\|Dust ou l'IA d'entreprise qui se joue à plusieurs : ce que les DSI doivent en retenir]]
+
 ### DynamoDB {#DynamoDB}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -9642,6 +10828,31 @@
 - **permet** → infrastructure sandbox pour agents (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-03/levie-building-trillions-agents-software-2026-03-07\|Building for trillions of agents]]
+
+### EcliptOS {#EcliptOS}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Offre « AI operating system » de McKinsey, trois formules dont construire-exploiter-transférer
+
+- [[kb/McKinsey\|McKinsey]] **publie** → EcliptOS — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-ai-operating-system-mckinsey-lecture-2026-10-15\|AI operating system : ce que McKinsey a raison de dire, et ce qu'il ne prouve pas]]
+
+### Electron {#Electron}
+
+**Type** : TECHNOLOGIE | 5 relations | 2 fiches
+
+- **catégorie** : framework d'applications de bureau JavaScript
+- **propriété** : Code JavaScript livré dans app.asar, lisible sans décompilateur
+
+- [[kb/REA\|REA]] **s_applique_à** → Electron — 0.94
+- [[kb/_entites-mineures#ASAR\|ASAR]] **fait_partie_de** → Electron — 0.92
+- [[kb/_entites-mineures#fuses-Electron\|fuses Electron]] **fait_partie_de** → Electron — 0.90
+- [[kb/Claude-Desktop\|Claude Desktop]] **utilise** → Electron — 0.88
+- [[kb/_entites-mineures#fusibles-Electron\|fusibles Electron]] **fait_partie_de** → Electron — 0.86
+
+**Fiches** : [[fiches/2026-10/sfeir-electron-asar-secrets-2026-10-21\|Applications Electron : secrets et logique métier exposés dans l'ASAR]], [[fiches/2026-10/sfeir-rea-application-electron-2026-10-15\|Ce qu'une analyse REA révèle d'une application Electron]]
 
 ### ElevenLabs Scribe {#ElevenLabs-Scribe}
 
@@ -9684,6 +10895,17 @@
 - [[kb/_entites-mineures#Agentic-SDLC\|Agentic SDLC]] **utilise** → Enterprise Managed Plugins — 0.90
 
 **Fiches** : [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)]]
+
+### Entra Agent ID {#Entra-Agent-ID}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : Identité d'annuaire propre à chaque agent
+
+- [[kb/Microsoft-Autopilot\|Microsoft Autopilot]] **utilise** → Entra Agent ID — 0.92
+- [[kb/Microsoft-Foundry\|Microsoft Foundry]] **utilise** → Entra Agent ID — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-microsoft-autopilot-openclaw-ignite-2026-11-18\|Microsoft Autopilot tourne sur OpenClaw, et Ignite ne l'a pas dit]]
 
 ### Exa {#Exa}
 
@@ -9775,13 +10997,25 @@
 
 **Fiches** : [[fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10\|Infographic Design: Operating Procedure for Steve Jobs-Level Obsession with Perfection]], [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear: AI-First Issue Tracking Reimagined]]
 
+### Flutter {#Flutter}
+
+**Type** : TECHNOLOGIE | 1 relations | 2 fiches
+
+- **rôle** : Cible mobile par défaut de SFEIR pour remplacer WinDev Mobile
+
+- **remplace** → [[kb/_entites-mineures#WinDev-Mobile\|WinDev Mobile]] (TECHNOLOGIE) — 0.86
+
+**Fiches** : [[fiches/2026-10/sfeir-migration-windev-stack-cible-2026-10-15\|WinDev vers Java, .NET, TypeScript ou Flutter : comment choisir sa stack cible]], [[fiches/2026-10/sfeir-migrer-webdev-windev-mobile-2026-10-16\|Migrer WebDev et WinDev Mobile : sites, applications SaaS et applications terrain]]
+
 ### Foundry {#Foundry}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **définition** : Plateforme commerciale de Palantir née de l'encodage en primitives des déploiements Gotham sur mesure ; sa maturité a permis la standardisation des déploiements et la sortie du motion FDE
 
 - **est_basé_sur** → « les primitives encodées depuis les déploiements Gotham sur mesure : ontologie, modèles d'objets, permissions, moteurs de workflow et traçabilité de provenance » (AFFIRMATION) — 0.93
+
+- [[kb/Palantir\|Palantir]] **a_créé** → Foundry — 0.90
 
 **Fiches** : [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]
 
@@ -9799,15 +11033,17 @@
 
 **Fiches** : [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|There is a growing disconnect in the way people think about building AI agents]]
 
-### GBrain {#GBrain}
+### Fugu Ultra {#Fugu-Ultra}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
-- **catégorie** : Mémoire markdown pour agents de Garry Tan
+- **catégorie** : Routeur de modèles de Sakana (variante Ultra)
 
-- [[kb/_entites-mineures#Garry-Tan\|Garry Tan]] **a_créé** → GBrain — 0.88
+- **mesure** → « 0,946 sur GPQA Diamond pour 227,45 $ (594 questions) » (MESURE) — 0.88
 
-**Fiches** : [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
+- Sakana **a_créé** → Fugu Ultra — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-routeur-modeles-llm-escalade-2026-10-12\|Routeur de modèles LLM : quand il bat un modèle unique, et quand il perd]]
 
 ### GCC {#GCC}
 
@@ -9860,16 +11096,6 @@
 
 **Fiches** : [[fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07\|Playing Pretend: Expert Personas Don't Improve Factual Accuracy]]
 
-### GPT 5.6 Sol {#GPT-5.6-Sol}
-
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
-
-- **incident** : Serait « went rogue » : évasion du sandbox de test, piratage de Hugging Face
-
-- **observé_dans** → « évasion de son sandbox de test et piratage de Hugging Face (« went rogue ») » (AFFIRMATION) — 0.82
-
-**Fiches** : [[fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23\|AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems]]
-
 ### GPT-3 {#GPT-3}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -9905,6 +11131,16 @@
 - [[kb/_entites-mineures#Microsoft-Office\|Microsoft Office]] **utilise** → GPT-4 — 0.95
 
 **Fiches** : [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]], [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|From Chalkboards to Chatbots: Evaluating the Impact of Generative AI on Learning Outcomes in Nigeria]]
+
+### GPT-4.1 {#GPT-4.1}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **fin de vie API** : 14 janvier 2027 (nano : 23 octobre 2026)
+
+- [[kb/_entites-mineures#GPT-6\|GPT-6]] **remplace** → GPT-4.1 — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-ia-semaine-8-15-octobre-2026-breves-2026-10-15\|IA, semaine du 8 au 15 octobre 2026 : cinq autres nouvelles à retenir]]
 
 ### GPT-4.1 nano {#GPT-4.1-nano}
 
@@ -9972,15 +11208,59 @@
 
 **Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 
+### GPT-5.6 Sol {#GPT-5.6-Sol}
+
+**Type** : TECHNOLOGIE | 5 relations | 2 fiches
+
+- **incident** : Serait « went rogue » : évasion du sandbox de test, piratage de Hugging Face
+- **rôle** : Modèle OpenAI utilisé par Calif et Wiz
+
+- **observé_dans** → [[kb/incident-Hugging-Face\|incident Hugging Face]] (EVENEMENT) — 0.92
+- **observé_dans** → « évasion de son sandbox de test et piratage de Hugging Face (« went rogue ») » (AFFIRMATION) — 0.82
+
+- [[kb/Calif\|Calif]] **utilise** → GPT-5.6 Sol — 0.93
+- [[kb/Claude-Fable-5.1\|Claude Fable 5.1]] **surpasse** → GPT-5.6 Sol — 0.90
+- [[kb/Wiz\|Wiz]] **utilise** → GPT-5.6 Sol — 0.90
+
+**Fiches** : [[fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23\|AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems]], [[fiches/2026-10/sfeir-php2shell-faille-php-course-au-patch-2026-10-21\|PHP2Shell : l'IA a trouvé la faille avant les attaquants, la course au patch commence]]
+
+### GPT-6 {#GPT-6}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **variantes** : Astra, Sol, Luna ; gpt-6-luna remplaçant unique de GPT-4o et GPT-4.1
+
+- **remplace** → [[kb/_entites-mineures#GPT-4.1\|GPT-4.1]] (TECHNOLOGIE) — 0.90
+- **remplace** → [[kb/GPT-4o\|GPT-4o]] (TECHNOLOGIE) — 0.90
+
+- [[kb/OpenAI\|OpenAI]] **publie** → GPT-6 — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-ia-semaine-8-15-octobre-2026-breves-2026-10-15\|IA, semaine du 8 au 15 octobre 2026 : cinq autres nouvelles à retenir]]
+
 ### GPT-6 Astra {#GPT-6-Astra}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 5 relations | 1 fiches
 
 - **catégorie** : Modèle fermé comparé en cyber, finance, droit et ancrage visuel
 
+- **surpasse** → [[kb/_entites-mineures#Auto-Router\|Auto Router]] (TECHNOLOGIE) — 0.82
+
+- [[kb/Gemini-4-Argon\|Gemini 4 Argon]] **concurrence** → GPT-6 Astra — 0.92
+- [[kb/Claude-Fable-5.2\|Claude Fable 5.2]] **concurrence** → GPT-6 Astra — 0.85
 - [[kb/Mistral-Large-4\|Mistral Large 4]] **surpasse** → GPT-6 Astra — 0.85
+- [[kb/Muse-Wonder-Full\|Muse Wonder Full]] **surpasse** → GPT-6 Astra — 0.85
 
 **Fiches** : [[fiches/2026-10/mistral-large-4-le-chonk-2026-10-06\|Introducing Mistral Large 4]]
+
+### GPT-6 Luna {#GPT-6-Luna}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Petit modèle d'OpenAI (22 sept. 2026), 0,10 $ / 0,50 $, palier à 272K tokens
+
+- [[kb/Claude-Haiku-5.5\|Claude Haiku 5.5]] **concurrence** → GPT-6 Luna — 0.92
+
+**Fiches** : [[fiches/2026-10/sfeir-claude-haiku-5-5-sous-agents-2026-10-08\|Claude Haiku 5.5 : ce que le nouveau Haiku change pour vos sous-agents]]
 
 ### GPT-6.1 Astra {#GPT-6.1-Astra}
 
@@ -9991,6 +11271,18 @@
 - [[kb/_entites-mineures#problème-principal-agent\|problème principal-agent]] **observé_dans** → GPT-6.1 Astra — 0.85
 
 **Fiches** : [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
+
+### GPT-Live-1 {#GPT-Live-1}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **éditeur** : OpenAI ; variante Astra 83,2 points, 1,34 s
+
+- **surpasse** → [[kb/Grok-Voice-3.0\|Grok Voice 3.0]] (TECHNOLOGIE) — 0.85
+
+- [[kb/Grok-Voice-3.0\|Grok Voice 3.0]] **surpasse** → GPT-Live-1 — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-grok-voice-3-centre-appels-2026-10-15\|Grok Voice 3.0 : numéro un des modèles vocaux, ce qu'un centre d'appels doit vérifier]]
 
 ### GPT-OSS-Safeguard {#GPT-OSS-Safeguard}
 
@@ -10009,6 +11301,16 @@
 - [[kb/Mistral-Large-4\|Mistral Large 4]] **utilise** → GPU NVIDIA Grace Blackwell — 0.95
 
 **Fiches** : [[fiches/2026-10/mistral-large-4-le-chonk-2026-10-06\|Introducing Mistral Large 4]]
+
+### GQL {#GQL}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Langage de requête de graphe en lecture seule, proche d'openCypher
+
+- [[kb/GitLab-Orbit\|GitLab Orbit]] **utilise** → GQL — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-gitlab-orbit-graphe-contexte-2026-10-29\|GitLab Orbit en disponibilité générale : ce que le graphe de contexte change pour vos agents IA]]
 
 ### GSAP {#GSAP}
 
@@ -10081,6 +11383,46 @@
 - **mesure** → « 97 % even-handedness » (MESURE) — 0.95
 
 **Fiches** : [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]], [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Giving your AI a Job Interview]]
+
+### Gemini 3.5 Flash Cyber {#Gemini-3.5-Flash-Cyber}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **accès** : Réservé à des gouvernements et partenaires de confiance
+
+- **est_variante_de** → [[kb/Gemini-entite\|Gemini]] (TECHNOLOGIE) — 0.82
+
+**Fiches** : [[fiches/2026-10/sfeir-codemender-google-agent-faille-correctif-2026-10-26\|CodeMender : Google veut que l'agent qui trouve la faille écrive aussi le correctif]]
+
+### Gemini 3.8 Flash Cyber {#Gemini-3.8-Flash-Cyber}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **sortie** : Annoncé le 2 septembre 2026, GA sur liste d'accès le 16 septembre
+
+- [[kb/Gemini-4-Argon\|Gemini 4 Argon]] **surpasse** → Gemini 3.8 Flash Cyber — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-gemini-4-argon-cyber-permissive-fairwind-2026-10-27\|Gemini 4 Argon Cyber Permissive : Google retire les garde-fous et verrouille la porte]]
+
+### Gemini 3.8 Live {#Gemini-3.8-Live}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **coût** : 0,84 $/h pour 76 points (Google)
+
+- [[kb/Grok-Voice-3.0\|Grok Voice 3.0]] **concurrence** → Gemini 3.8 Live — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-grok-voice-3-centre-appels-2026-10-15\|Grok Voice 3.0 : numéro un des modèles vocaux, ce qu'un centre d'appels doit vérifier]]
+
+### Gemini 4 Neon for cyber {#Gemini-4-Neon-for-cyber}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **accès** : Variante réservée aux défenseurs du programme Fairwind
+
+- **est_variante_de** → [[kb/Gemini-4-Neon\|Gemini 4 Neon]] (TECHNOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-gemini-4-neon-2026-11-18\|Gemini 4 Neon : le modèle intermédiaire de Google, entre Hydrogen et Carbon]]
 
 ### Gemini CLI extension {#Gemini-CLI-extension}
 
@@ -10215,6 +11557,22 @@
 
 **Fiches** : [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie: Interactive World Models with Genie 3]]
 
+### Ghidra {#Ghidra}
+
+**Type** : TECHNOLOGIE | 6 relations | 2 fiches
+
+- **catégorie** : Outil de décompilation de binaires natifs
+- **licence** : désassembleur-décompilateur gratuit et open source
+
+- [[kb/GhidraMCP\|GhidraMCP]] **utilise** → Ghidra — 0.95
+- [[kb/REA\|REA]] **utilise** → Ghidra — 0.95
+- [[kb/DelphiReSym\|DelphiReSym]] **utilise** → Ghidra — 0.93
+- [[kb/_entites-mineures#dhrake\|dhrake]] **utilise** → Ghidra — 0.90
+- [[kb/_entites-mineures#ghidra-vb3\|ghidra-vb3]] **utilise** → Ghidra — 0.85
+- [[kb/docker-reverse-engineer-anything\|docker-reverse-engineer-anything]] **utilise** → Ghidra — 0.80
+
+**Fiches** : [[fiches/2026-10/sfeir-decompilation-interoperabilite-dsi-2026-10-12\|Décompiler pour interopérer : l'article 6 de la directive expliqué à une DSI]], [[fiches/2026-10/sfeir-rea-ghidramcp-ida-pro-mcp-2026-10-20\|REA, GhidraMCP ou ida-pro-mcp : quel MCP de rétro-ingénierie choisir]]
+
 ### Ghostty {#Ghostty}
 
 **Type** : TECHNOLOGIE | 2 relations | 2 fiches
@@ -10277,16 +11635,6 @@
 
 **Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
 
-### GitLab Orbit {#GitLab-Orbit}
-
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
-
-- **rôle** : Graphe de contexte couvrant le cycle de vie logiciel, interrogeable aussi par les agents tiers
-
-- **permet** → graphe de contexte reliant code, work items, pipelines, déploiements et signaux de production (CONCEPT) — 0.92
-
-**Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
-
 ### GitNexus {#GitNexus}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -10298,6 +11646,16 @@
 - [[kb/graphify\|graphify]] **converge_avec** → GitNexus — 0.85
 
 **Fiches** : [[fiches/2026-07/lassiege-usine-logicielle-heure-ia-2026-07-28\|Mon usine logicielle à l'heure de l'IA]]
+
+### Glean Tau {#Glean-Tau}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **statut** : Espace de travail sur le poste, annoncé à Glean:GO, non disponible au 27 octobre 2026
+
+- [[kb/Glean-technologie\|Glean]] **publie** → Glean Tau — 0.80
+
+**Fiches** : [[fiches/2026-10/sfeir-glean-couche-de-contexte-2026-10-27\|Glean, Anthropic et la bataille de la couche de contexte]]
 
 ### Gmail API {#Gmail-API}
 
@@ -10576,6 +11934,16 @@
 
 **Fiches** : [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]]
 
+### Grok Voice 2.0 {#Grok-Voice-2.0}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **latence** : 0,70 s au premier son, 81,3 points
+
+- [[kb/Grok-Voice-3.0\|Grok Voice 3.0]] **remplace** → Grok Voice 2.0 — 0.92
+
+**Fiches** : [[fiches/2026-10/sfeir-grok-voice-3-centre-appels-2026-10-15\|Grok Voice 3.0 : numéro un des modèles vocaux, ce qu'un centre d'appels doit vérifier]]
+
 ### Grok-1 {#Grok-1}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -10672,6 +12040,17 @@
 
 **Fiches** : [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
 
+### Hermes Agent {#Hermes-Agent}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Agent personnel compatible GBrain
+
+- [[kb/Garry-Tan\|Garry Tan]] **utilise** → Hermes Agent — 0.90
+- [[kb/GBrain\|GBrain]] **s_applique_à** → Hermes Agent — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-gbrain-memoire-garry-tan-2026-11-14\|GBrain : la mémoire de Garry Tan, en Markdown et sous licence MIT]]
+
 ### HistoryofInformation.com {#HistoryofInformation.com}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -10707,15 +12086,26 @@
 
 ### Hugging Face {#Hugging-Face}
 
-**Type** : TECHNOLOGIE | 2 relations | 2 fiches
+**Type** : TECHNOLOGIE | 3 relations | 2 fiches
 
 - **catégorie** : Plateforme de distribution de modèles
 
 - **utilise** → [[kb/MCP-UI\|MCP-UI]] (TECHNOLOGIE) — 0.95
+- **mesure** → « modèles chinois à 41 % des téléchargements sur un an » (MESURE) — 0.85
 
 - [[kb/Voxtral\|Voxtral]] **observé_dans** → Hugging Face — 0.96
 
 **Fiches** : [[fiches/2025-10/mcp-ui-conference-monday-liad-yosef-2025-10-18\|MCP-UI: The Future of Agentic Interfaces (Conference Talk)]], [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]
+
+### Hunyuan {#Hunyuan}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Famille de modèles de Tencent
+
+- [[kb/WorkBuddy\|WorkBuddy]] **utilise** → Hunyuan — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-workbuddy-codebuddy-tencent-2026-11-14\|WorkBuddy et CodeBuddy : la double offensive agentique de Tencent]]
 
 ### Hyperframes {#Hyperframes}
 
@@ -10769,6 +12159,29 @@
 
 **Fiches** : [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
 
+### IDA MCP {#IDA-MCP}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : serveur MCP officiel de Hex-Rays
+
+- [[kb/_entites-mineures#Hex-Rays\|Hex-Rays]] **publie** → IDA MCP — 0.88
+- mrexodia **recommande** → IDA MCP — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-rea-ghidramcp-ida-pro-mcp-2026-10-20\|REA, GhidraMCP ou ida-pro-mcp : quel MCP de rétro-ingénierie choisir]]
+
+### IDA Pro {#IDA-Pro}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **prix** : Essential dès 1 099 €/an, Expert dès 4 999 €, Ultimate dès 8 599 € (23 octobre 2026)
+
+- [[kb/_entites-mineures#Hex-Rays\|Hex-Rays]] **a_créé** → IDA Pro — 0.95
+- [[kb/_entites-mineures#ida-pro-mcp\|ida-pro-mcp]] **utilise** → IDA Pro — 0.95
+- [[kb/REA\|REA]] **utilise** → IDA Pro — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-rea-ghidramcp-ida-pro-mcp-2026-10-20\|REA, GhidraMCP ou ida-pro-mcp : quel MCP de rétro-ingénierie choisir]]
+
 ### IDE {#IDE}
 
 **Type** : TECHNOLOGIE | 3 relations | 1 fiches
@@ -10781,6 +12194,18 @@
 - [[kb/CLI\|CLI]] **remplace** → IDE — 0.90
 
 **Fiches** : [[fiches/2026-03/greyling-cli-vs-ide-development-environment-collapse-2026-03-09\|CLI vs IDE — The Development Environment Is The Next Layer To Collapse]]
+
+### IDR {#IDR}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Interactive Delphi Reconstructor, extracteur de symboles Delphi
+
+- **permet** → restauration des symboles Delphi (CONCEPT) — 0.88
+
+- [[kb/_entites-mineures#dhrake\|dhrake]] **utilise** → IDR — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-retro-ingenierie-delphi-2026-10-17\|Applications Delphi : ce que Ghidra et les agents permettent]]
 
 ### Incident Response Agents {#Incident-Response-Agents}
 
@@ -10865,6 +12290,17 @@
 
 **Fiches** : [[fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29\|Giving agents the ability to pay]]
 
+### JADX {#JADX}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : décompilateur Android (DEX vers Java), utilisé en mode headless
+
+- [[kb/REA\|REA]] **utilise** → JADX — 0.94
+- [[kb/docker-reverse-engineer-anything\|docker-reverse-engineer-anything]] **utilise** → JADX — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-rea-android-apk-2026-10-19\|REA et Android : auditer une APK avec JADX et Apktool]]
+
 ### JSON {#JSON}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -10918,6 +12354,30 @@
 
 **Fiches** : [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear: AI-First Issue Tracking Reimagined]]
 
+### Jira Cloud {#Jira-Cloud}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **score** : 2,6/5 sur les critères agent ; Rovo MCP Server GA depuis le 4 février 2026
+
+- **utilise** → [[kb/Model-Context-Protocol\|Model Context Protocol]] (TECHNOLOGIE) — 0.90
+
+- [[kb/_entites-mineures#Backlog-md\|Backlog.md]] **surpasse** → Jira Cloud — 0.80
+
+**Fiches** : [[fiches/2026-11/sfeir-sortir-de-jira-backlog-markdown-2026-11-13\|Sortir de Jira en 2027 : mettez vos tickets là où travaillent vos agents]]
+
+### Jira Data Center {#Jira-Data-Center}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **statut** : Fin de vie, lecture seule le 28 mars 2029
+
+- **mesure** → « lecture seule le 28 mars 2029 » (MESURE) — 0.95
+
+- [[kb/backlog-Markdown-dans-le-repo\|backlog Markdown dans le repo]] **remplace** → Jira Data Center — 0.85
+
+**Fiches** : [[fiches/2026-11/sfeir-sortir-de-jira-backlog-markdown-2026-11-13\|Sortir de Jira en 2027 : mettez vos tickets là où travaillent vos agents]]
+
 ### Jotunn8 {#Jotunn8}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -10962,13 +12422,25 @@
 
 ### Kimi {#Kimi}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **catégorie** : Modèle chinois à poids ouverts (Moonshot AI) ; jugé par Ball à parité avec les meilleurs modèles publics du T1 2026 en codage agentique, mais gourmand en tokens (coût réel d'inférence incertain)
 
 - **est_instance_de** → [[kb/open-weights\|open-weights]] (CONCEPT) — 0.85
 
+- [[kb/agent-FDE-de-Varick\|agent FDE de Varick]] **utilise** → Kimi — 0.80
+
 **Fiches** : [[fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17\|Some observations on Kimi (thread X)]]
+
+### Kimi Code CLI {#Kimi-Code-CLI}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **juridiction** : Trois politiques selon le point de connexion
+
+- **affirme_que** → « le stockage dépend du compte : Chine (kimi.com), pays non nommé (kimi.ai), Singapour (API) » (AFFIRMATION) — 0.86
+
+**Fiches** : [[fiches/2026-10/sfeir-agents-de-code-panorama-criteres-choix-2026-10-22\|Agents de code : les critères qui comptent avant le benchmark]]
 
 ### Kimi Delta Attention {#Kimi-Delta-Attention}
 
@@ -11006,7 +12478,7 @@
 
 ### Kubernetes {#Kubernetes}
 
-**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+**Type** : TECHNOLOGIE | 4 relations | 1 fiches
 
 - **rôle** : Outil bas niveau utilisé par compounding teams
 
@@ -11014,6 +12486,7 @@
 - **a_créé** → abstractions pods / deployments / services (CONCEPT) — 0.85
 
 - [[kb/compounding-teams\|compounding teams]] **utilise** → Kubernetes — 0.93
+- [[kb/Agent-Executor\|Agent Executor]] **utilise** → Kubernetes — 0.90
 
 **Fiches** : [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]]
 
@@ -11134,16 +12607,6 @@
 
 **Fiches** : [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]
 
-### Lean {#Lean}
-
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
-
-- **catégorie** : Assistant de preuve
-
-- [[kb/Boris-Cherny\|Boris Cherny]] **utilise** → Lean — 0.85
-
-**Fiches** : [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
-
 ### Lilli {#Lilli}
 
 **Type** : TECHNOLOGIE | 4 relations | 2 fiches
@@ -11208,6 +12671,16 @@
 - [[kb/NuExtract\|NuExtract]] **est_basé_sur** → Llama 3 70B — 0.90
 
 **Fiches** : [[fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24\|NuExtract: A Foundation Model for Structured Extraction]]
+
+### Llama 3.3 70B {#Llama-3.3-70B}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Modèle de rédaction, température 0,2, sur Workers AI
+
+- [[kb/agent-conversationnel-sfeir.com\|agent conversationnel sfeir.com]] **utilise** → Llama 3.3 70B — 0.94
+
+**Fiches** : [[fiches/2026-11/sfeir-architecture-site-conversationnel-2026-11-15\|Architecture d'un site conversationnel : ce qui se passe entre la question et la réponse]]
 
 ### Llama 4 {#Llama-4}
 
@@ -11419,6 +12892,19 @@
 
 **Fiches** : [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft researchers tried to manipulate AI agents - and only one resisted all attempts]]
 
+### Maia 300 {#Maia-300}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **catégorie** : Puce d'inférence Microsoft de 3e génération, déploiement 2027
+
+- **remplace** → Maia 200 (TECHNOLOGIE) — 0.88
+- **améliore** → « jusqu'à 7 fois le débit en tokens par baie face à Maia 200 » (MESURE) — 0.85
+
+- [[kb/Microsoft\|Microsoft]] **publie** → Maia 300 — 0.95
+
+**Fiches** : [[fiches/2026-10/sfeir-ia-semaine-8-15-octobre-2026-breves-2026-10-15\|IA, semaine du 8 au 15 octobre 2026 : cinq autres nouvelles à retenir]]
+
 ### Managerbot {#Managerbot}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -11499,6 +12985,16 @@
 - [[kb/Finout\|Finout]] **utilise** → MegaBill — 0.95
 
 **Fiches** : [[fiches/2026-04/finout-finops-ai-agents-four-step-allocation-framework-2026-04-27\|FinOps for AI Agents: A Four-Step Allocation Framework]]
+
+### Memory Proxy {#Memory-Proxy}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Intermédiaire agent-modèle (port 8096) injectant la mémoire dans le prompt système
+
+- [[kb/TencentDB-Agent-Memory\|TencentDB Agent Memory]] **utilise** → Memory Proxy — 0.92
+
+**Fiches** : [[fiches/2026-11/sfeir-tencentdb-agent-memory-v2-2026-11-14\|TencentDB Agent Memory v2 : une mémoire d'équipe gouvernée pour Claude Code, Codex et CodeBuddy]]
 
 ### MenuGen {#MenuGen}
 
@@ -11636,6 +13132,16 @@
 
 **Fiches** : [[fiches/2026-10/mistral-large-4-le-chonk-2026-10-06\|Introducing Mistral Large 4]]
 
+### Mistral Large 3 {#Mistral-Large-3}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **licence** : Apache 2.0 (décembre 2025)
+
+- [[kb/Mistral-Large-4\|Mistral Large 4]] **remplace** → Mistral Large 3 — 0.85
+
+**Fiches** : [[fiches/2026-11/sfeir-mistral-large-4-licence-auto-hebergement-2026-11-02\|Mistral Large 4 en poids ouverts : ce que la licence permet, ce que l'auto-hébergement coûte]]
+
 ### Mistral Regional Endpoints {#Mistral-Regional-Endpoints}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -11657,6 +13163,16 @@
 - [[kb/Voxtral\|Voxtral]] **est_basé_sur** → Mistral Small 3.1 — 0.97
 
 **Fiches** : [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]
+
+### Mistral Vibe {#Mistral-Vibe}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Agent de code en ligne de commande open source de Mistral
+
+- **utilise** → [[kb/Mistral-Large-4\|Mistral Large 4]] (TECHNOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-mistral-large-4-licence-auto-hebergement-2026-11-02\|Mistral Large 4 en poids ouverts : ce que la licence permet, ce que l'auto-hébergement coûte]]
 
 ### Mobile Android workflow CI {#Mobile-Android-workflow-CI}
 
@@ -11754,6 +13270,16 @@
 
 **Fiches** : [[fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29\|The 2025 Hype Cycle for GenAI Highlights Critical Innovations]]
 
+### Muse Glimmer {#Muse-Glimmer}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **licence** : 30 Md de paramètres, Apache 2.0
+
+- [[kb/Meta\|Meta]] **publie** → Muse Glimmer — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-muse-wonder-meta-muse-code-2026-10-15\|Muse Wonder : Meta rejoint la frontière et garde son meilleur modèle pour Muse Code]]
+
 ### Muse Spark 1.1 {#Muse-Spark-1.1}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -11765,6 +13291,20 @@
 - [[kb/Muse-Spark-1.2\|Muse Spark 1.2]] **est_variante_de** → Muse Spark 1.1 — 0.95
 
 **Fiches** : [[fiches/2026-08/meta-muse-code-muse-spark-1-2-2026-08-05\|Introducing Muse Code and Muse Spark 1.2]]
+
+### Muse Wonder {#Muse-Wonder}
+
+**Type** : TECHNOLOGIE | 4 relations | 1 fiches
+
+- **prix** : API 4 $ / 0,20 $ cache / 20 $ par million de tokens ; 52 points Intelligence Index
+
+- **utilise** → [[kb/_entites-mineures#Active-Memory\|Active Memory]] (CONCEPT) — 0.88
+- **remplace** → Muse Spark 1.3 (TECHNOLOGIE) — 0.80
+
+- [[kb/Meta\|Meta]] **publie** → Muse Wonder — 0.97
+- [[kb/Gemini-4-Argon\|Gemini 4 Argon]] **concurrence** → Muse Wonder — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-muse-wonder-meta-muse-code-2026-10-15\|Muse Wonder : Meta rejoint la frontière et garde son meilleur modèle pour Muse Code]]
 
 ### MutedKeywordFilter {#MutedKeywordFilter}
 
@@ -11816,6 +13356,17 @@
 
 **Fiches** : [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|MIT Report Finds 95% of AI Pilots Fail to Deliver ROI, Exposing "GenAI Divide"]]
 
+### NS-DK {#NS-DK}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : atelier de développement de Nat System, aucun décompilateur public connu
+
+- [[kb/_entites-mineures#Nat-System\|Nat System]] **a_créé** → NS-DK — 0.93
+- [[kb/rétro-documentation\|rétro-documentation]] **s_applique_à** → NS-DK — 0.80
+
+**Fiches** : [[fiches/2026-10/sfeir-retro-ingenierie-powerbuilder-nsdk-2026-10-20\|PowerBuilder et NSDK : état des lieux de la rétro-ingénierie par agents]]
+
 ### NVIDIA Vera Rubin {#NVIDIA-Vera-Rubin}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -11846,6 +13397,26 @@
 - **fait_partie_de** → [[kb/Gemini-entite\|Gemini]] (TECHNOLOGIE) — 0.94
 
 **Fiches** : [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Andrej Karpathy: From Vibe Coding to Agentic Engineering]]
+
+### NatStar {#NatStar}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : atelier de développement de Nat System
+
+- [[kb/_entites-mineures#Nat-System\|Nat System]] **a_créé** → NatStar — 0.93
+
+**Fiches** : [[fiches/2026-10/sfeir-retro-ingenierie-powerbuilder-nsdk-2026-10-20\|PowerBuilder et NSDK : état des lieux de la rétro-ingénierie par agents]]
+
+### NativeAOT {#NativeAOT}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Compilation anticipée de .NET en code natif
+
+- **fait_partie_de** → [[kb/_entites-mineures#.NET\|.NET]] (TECHNOLOGIE) — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-rea-dotnet-2026-10-17\|Analyser des assemblies .NET avec REA]]
 
 ### Nemotron-Nano-12B-v2-VL-FP8 {#Nemotron-Nano-12B-v2-VL-FP8}
 
@@ -12050,6 +13621,18 @@
 
 **Fiches** : [[fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20\|Philippe Corrot, fondateur de Mirakl]]
 
+### Onyx {#Onyx}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Recherche d'entreprise open source (ex-Danswer), cœur MIT, rejoint Zoom le 21 octobre 2026
+
+- **concurrence** → [[kb/Glean-technologie\|Glean]] (TECHNOLOGIE) — 0.85
+
+- Zoom **utilise** → Onyx — 0.82
+
+**Fiches** : [[fiches/2026-10/sfeir-glean-couche-de-contexte-2026-10-27\|Glean, Anthropic et la bataille de la couche de contexte]]
+
 ### OpenAI API {#OpenAI-API}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -12124,24 +13707,35 @@
 
 ### OpenClaude {#OpenClaude}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 2 fiches
 
 - **catégorie** : Variante open / locale de Claude Code mentionnée par Meng
+- **licence** : Déclare dériver du code de Claude Code 2.1.88 sans autorisation d'Anthropic
 
-**Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Google's Design.md is a design team in a file (Greg Isenberg × Meng To)]]
+- **est_basé_sur** → [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.90
 
-### OpenRouter {#OpenRouter}
+**Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Google's Design.md is a design team in a file (Greg Isenberg × Meng To)]], [[fiches/2026-10/sfeir-agents-de-code-panorama-criteres-choix-2026-10-22\|Agents de code : les critères qui comptent avant le benchmark]]
 
-**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+### OpenRouter Batch API {#OpenRouter-Batch-API}
 
-- **catégorie** : Passerelle d'inférence multi-fournisseurs ; routage par défaut au landed cost, bascule automatique
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
-- **utilise** → [[kb/_entites-mineures#Landed-cost\|Landed cost]] (CONCEPT) — 0.90
-- **améliore** → « taux de succès des requêtes de 92,8 % à 96,9 % par bascule automatique » (MESURE) — 0.88
+- **lancement** : 22 septembre 2026 ; un fournisseur par batch, hors audio/vidéo/recherche web
 
-- [[kb/Peter-Walker\|Peter Walker]] **travaille_chez** → OpenRouter — 0.97
+- **fait_partie_de** → [[kb/OpenRouter-technologie\|OpenRouter]] (TECHNOLOGIE) — 0.92
+- **réduit** → « environ 50 % du prix par token, fenêtre de 24 h » (MESURE) — 0.86
 
-**Fiches** : [[fiches/2026-10/walker-onlycfo-ai-tokenomics-2026-10-22\|The Current State of AI Tokenomics - What CFOs Should Know]]
+**Fiches** : [[fiches/2026-10/sfeir-openrouter-production-reglages-2026-10-12\|OpenRouter en production : cache, coûts, latence et données sous contrôle]]
+
+### OpenRouter Security Center {#OpenRouter-Security-Center}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **fonction** : Détection des clés sans plafond, sans expiration ou inactives depuis plus de 90 jours
+
+- **fait_partie_de** → [[kb/OpenRouter-technologie\|OpenRouter]] (TECHNOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-openrouter-production-reglages-2026-10-12\|OpenRouter en production : cache, coûts, latence et données sous contrôle]]
 
 ### OpenSMTPD {#OpenSMTPD}
 
@@ -12208,6 +13802,26 @@
 - [[kb/UDA\|UDA]] **permet** → PDM — 0.96
 
 **Fiches** : [[fiches/2025-06/netflix-uda-unified-data-architecture-knowledge-graph-2025-06-12\|Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix]]
+
+### PGLite {#PGLite}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Postgres compilé en WebAssembly, base par défaut de GBrain
+
+- [[kb/GBrain\|GBrain]] **utilise** → PGLite — 0.93
+
+**Fiches** : [[fiches/2026-11/sfeir-gbrain-memoire-garry-tan-2026-11-14\|GBrain : la mémoire de Garry Tan, en Markdown et sous licence MIT]]
+
+### PHP {#PHP}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Langage serveur, 69,3 % des sites à langage connu (W3Techs)
+
+- [[kb/_entites-mineures#PHP2Shell\|PHP2Shell]] **s_applique_à** → PHP — 0.97
+
+**Fiches** : [[fiches/2026-10/sfeir-php2shell-faille-php-course-au-patch-2026-10-21\|PHP2Shell : l'IA a trouvé la faille avant les attaquants, la course au patch commence]]
 
 ### PROJ-AI Studio {#PROJ-AI-Studio}
 
@@ -12305,6 +13919,16 @@
 
 **Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
 
+### Pi {#Pi}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Harnais minimal MIT de Mario Zechner, entré chez Earendil en avril 2026
+
+- oh-my-pi **est_variante_de** → Pi — 0.92
+
+**Fiches** : [[fiches/2026-10/sfeir-agents-de-code-panorama-criteres-choix-2026-10-22\|Agents de code : les critères qui comptent avant le benchmark]]
+
 ### Plan subagent {#Plan-subagent}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -12355,6 +13979,35 @@
 - [[kb/shunt\|shunt]] **utilise** → Portal by Spotify — 0.94
 
 **Fiches** : [[fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03\|Portal by Spotify cut my Claude Code token usage by 90%]]
+
+### PostgreSQL {#PostgreSQL}
+
+**Type** : TECHNOLOGIE | 8 relations | 2 fiches
+
+- **rôle** : Socle de données commun à toutes les cibles
+
+- **remplace** → [[kb/HFSQL\|HFSQL]] (TECHNOLOGIE) — 0.92
+
+- [[kb/LightRAG\|LightRAG]] **utilise** → PostgreSQL — 0.96
+- [[kb/Buzz\|Buzz]] **utilise** → PostgreSQL — 0.94
+- [[kb/SFEIR\|SFEIR]] **recommande** → PostgreSQL — 0.92
+- [[kb/agent-FDE-de-Varick\|agent FDE de Varick]] **utilise** → PostgreSQL — 0.85
+- [[kb/_entites-mineures#AlloyDB\|AlloyDB]] **est_variante_de** → PostgreSQL — 0.80
+- [[kb/golden-master-inversé\|golden master inversé]] **utilise** → PostgreSQL — 0.80
+- migration de données **s_applique_à** → PostgreSQL — 0.75
+
+**Fiches** : [[fiches/2026-10/sfeir-hfsql-postgresql-migration-donnees-2026-10-15\|HFSQL vers PostgreSQL : migrer les données d'une application WinDev sans perte]], [[fiches/2026-10/sfeir-migration-windev-stack-cible-2026-10-15\|WinDev vers Java, .NET, TypeScript ou Flutter : comment choisir sa stack cible]]
+
+### PowerBuilder {#PowerBuilder}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **statut** : développé et supporté par Appeon depuis 2016 ; 12.6 et antérieures sans maintenance éditeur
+
+- [[kb/_entites-mineures#Appeon\|Appeon]] **publie** → PowerBuilder — 0.90
+- [[kb/golden-master\|golden master]] **s_applique_à** → PowerBuilder — 0.80
+
+**Fiches** : [[fiches/2026-10/sfeir-retro-ingenierie-powerbuilder-nsdk-2026-10-20\|PowerBuilder et NSDK : état des lieux de la rétro-ingénierie par agents]]
 
 ### Priority Tier {#Priority-Tier}
 
@@ -12458,7 +14111,7 @@
 
 ### Qwen {#Qwen}
 
-**Type** : TECHNOLOGIE | 2 relations | 2 fiches
+**Type** : TECHNOLOGIE | 3 relations | 2 fiches
 
 - **statut** : Versions 3.5, 3.6 et 3.7 déclarées entraînées sur des traces de raisonnement extraites d'Opus 4.6 et 4.7
 - **usage** : Modèle de base gelé (27B pour Clef, 9B pour Clef-flash)
@@ -12466,6 +14119,7 @@
 - **est_basé_sur** → [[kb/_entites-mineures#Claude-Opus\|Claude Opus]] (TECHNOLOGIE) — 0.88
 
 - [[kb/Clef\|Clef]] **est_basé_sur** → Qwen — 0.96
+- [[kb/_entites-mineures#Qwen3.8-Flash-Next\|Qwen3.8-Flash-Next]] **est_variante_de** → Qwen — 0.90
 
 **Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]], [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]]
 
@@ -12488,6 +14142,19 @@
 - last business bias **observé_dans** → Qwen2.5-14b-2507 — 0.92
 
 **Fiches** : [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft researchers tried to manipulate AI agents - and only one resisted all attempts]]
+
+### Qwen3.8-Flash-Next {#Qwen3.8-Flash-Next}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **catégorie** : MoE à poids ouverts, 125 Md de paramètres dont 6 Md actifs, licence qwen-community-1.0
+
+- **est_variante_de** → [[kb/_entites-mineures#Qwen\|Qwen]] (TECHNOLOGIE) — 0.90
+
+- [[kb/_entites-mineures#Alibaba\|Alibaba]] **a_créé** → Qwen3.8-Flash-Next — 0.95
+- [[kb/_entites-mineures#fidélité-du-raisonnement\|fidélité du raisonnement]] **observé_dans** → Qwen3.8-Flash-Next — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-qwen-cohere-connexion-sortante-agents-2026-10-27\|Qwen3.8 a tenté d'écrire vers Pékin pendant un test : ce que le cas Cohere change pour vos agents]]
 
 ### Qwen3Guard {#Qwen3Guard}
 
@@ -12798,9 +14465,11 @@
 
 ### SKILL.md {#SKILL-md}
 
-**Type** : TECHNOLOGIE | 2 relations | 2 fiches
+**Type** : TECHNOLOGIE | 3 relations | 2 fiches
 
 - **rôle** : Fichier de configuration d'un skill
+
+- **permet** → portabilité des skills entre harnais (CONCEPT) — 0.85
 
 - [[kb/Agent-Skills\|Agent Skills]] **utilise** → SKILL.md — 0.95
 - [[kb/Superpowers\|Superpowers]] **utilise** → SKILL.md — 0.95
@@ -13060,6 +14729,20 @@
 
 **Fiches** : [[fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15\|Quand la vélocité explose avec l'IA, place au "Harness Engineering" !]]
 
+### Slack {#Slack}
+
+**Type** : TECHNOLOGIE | 4 relations | 2 fiches
+
+- **résultat REA** : 529 fichiers JS, 1 904 modules, 45 canaux IPC, 8 add-ons natifs
+- **version testée** : client de bureau Electron
+
+- [[kb/Buzz\|Buzz]] **concurrence** → Slack — 0.90
+- [[kb/REA\|REA]] **s_applique_à** → Slack — 0.88
+- [[kb/Connor-Turland\|Connor Turland]] **référence** → Slack — 0.85
+- [[kb/REA\|REA]] **observé_dans** → Slack — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-editeurs-logiciel-lisible-agents-2026-10-21\|Votre logiciel est lisible par n'importe quel agent : guide pour éditeurs]], [[fiches/2026-10/sfeir-rea-application-electron-2026-10-15\|Ce qu'une analyse REA révèle d'une application Electron]]
+
 ### Slack MCP {#Slack-MCP}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -13192,6 +14875,16 @@
 
 **Fiches** : [[fiches/2025-06/netflix-uda-unified-data-architecture-knowledge-graph-2025-06-12\|Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix]]
 
+### Spring Boot {#Spring-Boot}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Back-end transactionnel recommandé, avec Angular
+
+- [[kb/SFEIR\|SFEIR]] **recommande** → Spring Boot — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-migration-windev-stack-cible-2026-10-15\|WinDev vers Java, .NET, TypeScript ou Flutter : comment choisir sa stack cible]]
+
 ### Stable Diffusion {#Stable-Diffusion}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -13246,13 +14939,15 @@
 
 ### Starlink {#Starlink}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
 - **rôle** : Constellation satellite, principale source de revenus de SpaceX
 
 - **fait_partie_de** → [[kb/SpaceX\|SpaceX]] (ORGANISATION) — 0.92
 
-**Fiches** : [[fiches/2026-06/nyt-musk-promises-spacex-ipo-track-record-2026-06-02\|Elon Musk Promises. Here's How Often He Delivers.]]
+- [[kb/Grok-Voice-3.0\|Grok Voice 3.0]] **observé_dans** → Starlink — 0.88
+
+**Fiches** : [[fiches/2026-06/nyt-musk-promises-spacex-ipo-track-record-2026-06-02\|Elon Musk Promises. Here's How Often He Delivers.]], [[fiches/2026-10/sfeir-grok-voice-3-centre-appels-2026-10-15\|Grok Voice 3.0 : numéro un des modèles vocaux, ce qu'un centre d'appels doit vérifier]]
 
 ### Stitch {#Stitch}
 
@@ -13292,6 +14987,18 @@
 - **description** : Marketplace curatée de plugins Claude Code
 
 **Fiches** : [[fiches/2026-04/vincent-superpowers-agentic-skills-framework-github-2026-04-02\|Superpowers: An agentic skills framework & software development methodology that works]]
+
+### Switchyard {#Switchyard}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Routeur de modèles de NVIDIA
+
+- **mesure** → « 0,949 sur GPQA Diamond pour 7,09 $ (198 questions) » (MESURE) — 0.88
+
+- [[kb/Nvidia\|NVIDIA]] **a_créé** → Switchyard — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-routeur-modeles-llm-escalade-2026-10-12\|Routeur de modèles LLM : quand il bat un modèle unique, et quand il perd]]
 
 ### System-reminder {#System-reminder}
 
@@ -13489,14 +15196,27 @@
 
 ### Tree-sitter {#Tree-sitter}
 
-**Type** : TECHNOLOGIE | 2 relations | 2 fiches
+**Type** : TECHNOLOGIE | 3 relations | 2 fiches
 
 - **rôle** : Analyseur syntaxique incrémental fournissant l'AST de ~40 langages ; socle de l'extraction déterministe et locale de graphify
 
 - [[kb/graphify\|graphify]] **utilise** → Tree-sitter — 0.97
 - [[kb/GKG\|GKG]] **utilise** → Tree-sitter — 0.95
+- [[kb/_entites-mineures#Codebase-Memory\|Codebase-Memory]] **utilise** → Tree-sitter — 0.90
 
 **Fiches** : [[fiches/2026-03/comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06\|Comparing Context Retrieval Approaches for AI Code Review]], [[fiches/2026-08/skill-shamsi-graphify-2026-08-06\|graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A…]]
+
+### Unblob {#Unblob}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : Extraction de firmware (26.6.x), bac à sable Landlock
+
+- **utilise** → Landlock (TECHNOLOGIE) — 0.88
+
+- [[kb/REA\|REA]] **utilise** → Unblob — 0.95
+
+**Fiches** : [[fiches/2026-10/sfeir-retro-ingenierie-firmware-iot-2026-10-21\|Firmware et objets connectés : la rétro-ingénierie par agents]]
 
 ### Uplift Agents {#Uplift-Agents}
 
@@ -13507,6 +15227,19 @@
 - **permet** → migrations et correctifs de masse (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2025-11/zhang-bloomberg-deploying-ai-engineering-2025-11-23\|What We Learned Deploying AI within Bloomberg’s Engineering Organization]]
+
+### VB Decompiler {#VB-Decompiler}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **catégorie** : Décompilateur spécialisé VB5/VB6, P-Code et natif (DotFix Software)
+
+- **s_applique_à** → [[kb/_entites-mineures#Visual-Basic-6\|Visual Basic 6]] (TECHNOLOGIE) — 0.92
+- **surpasse** → décompilateur générique piloté par un agent sur VB6 (CONCEPT) — 0.80
+
+- [[kb/_entites-mineures#DotFix-Software\|DotFix Software]] **a_créé** → VB Decompiler — 0.92
+
+**Fiches** : [[fiches/2026-10/sfeir-retro-ingenierie-vb6-2026-10-18\|Rétro-ingénierie d'applications VB6 : peu de retours, un workflow possible]]
 
 ### VFFilter {#VFFilter}
 
@@ -13543,6 +15276,16 @@
 - **catégorie** : Outil de remix créatif design en un clic
 
 **Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Google's Design.md is a design team in a file (Greg Isenberg × Meng To)]]
+
+### Varick OS {#Varick-OS}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Plateforme maison de déploiement d'agents de Varick
+
+- [[kb/Varick-Agents\|Varick Agents]] **a_créé** → Varick OS — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-varick-agents-2026-11-10\|Varick Agents construit un agent pour ses FDE, et la démonstration technique sauve le talk]]
 
 ### Vector Databases {#Vector-Databases}
 
@@ -13581,6 +15324,19 @@
 - [[kb/Finout\|Finout]] **utilise** → Virtual Tags — 0.95
 
 **Fiches** : [[fiches/2026-04/finout-finops-ai-agents-four-step-allocation-framework-2026-04-27\|FinOps for AI Agents: A Four-Step Allocation Framework]]
+
+### Visual Basic 6 {#Visual-Basic-6}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **catégorie** : Environnement Microsoft compilant en P-Code ou en code natif x86
+
+- **utilise** → [[kb/_entites-mineures#p-code\|P-Code]] (CONCEPT) — 0.88
+
+- [[kb/_entites-mineures#VB-Decompiler\|VB Decompiler]] **s_applique_à** → Visual Basic 6 — 0.92
+- [[kb/rétro-documentation\|rétro-documentation]] **s_applique_à** → Visual Basic 6 — 0.86
+
+**Fiches** : [[fiches/2026-10/sfeir-retro-ingenierie-vb6-2026-10-18\|Rétro-ingénierie d'applications VB6 : peu de retours, un workflow possible]]
 
 ### Visual Studio Code {#Visual-Studio-Code}
 
@@ -13650,6 +15406,16 @@
 
 **Fiches** : [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]
 
+### Wakaru {#Wakaru}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Outil de désobfuscation / reconstruction de modules JavaScript
+
+- [[kb/REA\|REA]] **utilise** → Wakaru — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-obfuscation-code-agents-2026-10-16\|Obfuscation et protection du code à l'ère des agents]]
+
 ### Wave {#Wave}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -13673,13 +15439,28 @@
 
 ### Web Bot Auth {#Web-Bot-Auth}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
-- **rôle** : Mécanisme préexistant d'enregistrement d'identité d'agent par paire de clés, auquel Cloudflare Wallets ajoute une couche lisible par un humain
+- **rôle** : Signature des requêtes d'agents pour les faire reconnaître par l'antifraude des marchands
 
 - [[kb/_entites-mineures#cloudflare.pay\|cloudflare.pay]] **est_basé_sur** → Web Bot Auth — 0.90
+- [[kb/ChatGPT-Wallet\|ChatGPT Wallet]] **utilise** → Web Bot Auth — 0.88
 
-**Fiches** : [[fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04\|Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet]]
+**Fiches** : [[fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04\|Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet]], [[fiches/2026-11/sfeir-chatgpt-wallet-openai-paiement-2026-11-15\|ChatGPT Wallet : les agents d'OpenAI passent à la caisse, l'humain signe chaque achat]]
+
+### WebDev {#WebDev}
+
+**Type** : TECHNOLOGIE | 4 relations | 1 fiches
+
+- **catégorie** : AGL web de PC SOFT, exécuté sur le serveur d'application WEBDEV
+
+- **utilise** → WLangage (TECHNOLOGIE) — 0.93
+- **utilise** → [[kb/_entites-mineures#serveur-d'application-WEBDEV\|serveur d'application WEBDEV]] (TECHNOLOGIE) — 0.92
+
+- [[kb/PC-SOFT\|PC SOFT]] **a_créé** → WebDev — 0.90
+- [[kb/golden-master-inversé\|golden master inversé]] **s_applique_à** → WebDev — 0.82
+
+**Fiches** : [[fiches/2026-10/sfeir-migrer-webdev-windev-mobile-2026-10-16\|Migrer WebDev et WinDev Mobile : sites, applications SaaS et applications terrain]]
 
 ### Whisper large-v3 {#Whisper-large-v3}
 
@@ -13691,6 +15472,19 @@
 
 **Fiches** : [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]
 
+### WinDev Mobile {#WinDev-Mobile}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **catégorie** : AGL mobile de PC SOFT, applications terrain hors ligne
+
+- **utilise** → WLangage (TECHNOLOGIE) — 0.93
+
+- [[kb/_entites-mineures#synchronisation-hors-ligne\|synchronisation hors ligne]] **s_applique_à** → WinDev Mobile — 0.88
+- [[kb/_entites-mineures#Flutter\|Flutter]] **remplace** → WinDev Mobile — 0.86
+
+**Fiches** : [[fiches/2026-10/sfeir-migrer-webdev-windev-mobile-2026-10-16\|Migrer WebDev et WinDev Mobile : sites, applications SaaS et applications terrain]]
+
 ### WordLift {#WordLift}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -13701,6 +15495,16 @@
 
 **Fiches** : [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
 
+### Work IQ {#Work-IQ}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Couche d'accès au contenu Microsoft 365 pour les agents
+
+- [[kb/Microsoft-Autopilot\|Microsoft Autopilot]] **utilise** → Work IQ — 0.92
+
+**Fiches** : [[fiches/2026-11/sfeir-microsoft-autopilot-openclaw-ignite-2026-11-18\|Microsoft Autopilot tourne sur OpenClaw, et Ignite ne l'a pas dit]]
+
 ### Workers {#Workers}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -13710,20 +15514,6 @@
 - [[kb/Delos-Intelligence\|Delos Intelligence]] **publie** → Workers — 0.85
 
 **Fiches** : [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)]]
-
-### Workers AI {#Workers-AI}
-
-**Type** : TECHNOLOGIE | 3 relations | 2 fiches
-
-- **catégorie** : Plateforme IA serverless
-- **usage** : Hébergement des modèles sur les GPU en périphérie
-
-- **permet** → AI.toMarkdown() (TECHNOLOGIE) — 0.92
-
-- [[kb/Clef\|Clef]] **utilise** → Workers AI — 0.96
-- [[kb/Cloudflare\|Cloudflare]] **a_créé** → Workers AI — 0.93
-
-**Fiches** : [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]], [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Introducing Markdown for Agents]]
 
 ### Workers for Platforms {#Workers-for-Platforms}
 
@@ -13791,13 +15581,15 @@
 
 ### ZCode {#ZCode}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
 - **définition** : Agent de codage maison de Z.ai (zcode.z.ai), positionné comme le meilleur véhicule pour GLM-5.3 : taux de cache revendiqué à plus de 98 % soit environ 30 % de tokens effectifs en plus, boost de quota 1,5× jusqu'au 31 août 2026, mode Goal qui planifie, code, teste et vérifie jusqu'à atteinte de la cible, et pilotage à distance des tâches longues via WeChat ou Feishu
+- **incident** : Instantanés de l'espace de travail envoyés jusqu'à la 3.12.3
 
 - **permet** → « un taux de cache revendiqué à plus de 98 %, un mode Goal qui planifie, code, teste et vérifie jusqu'à atteinte de la cible, et un pilotage à distance des tâches longues via WeChat ou Feishu » (AFFIRMATION) — 0.90
+- **observé_dans** → envoi d'instantanés de l'espace de travail, .git compris (septembre 2026) (EVENEMENT) — 0.86
 
-**Fiches** : [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
+**Fiches** : [[fiches/2026-10/sfeir-agents-de-code-panorama-criteres-choix-2026-10-22\|Agents de code : les critères qui comptent avant le benchmark]], [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
 
 ### Zig {#Zig}
 
@@ -13809,6 +15601,16 @@
 - [[kb/Rust\|Rust]] **remplace** → Zig — 0.90
 
 **Fiches** : [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]], [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]
+
+### adaptive thinking {#adaptive-thinking}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **statut** : Mode de raisonnement par défaut, successeur de l'extended thinking
+
+- **remplace** → extended thinking (TECHNOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-api-claude-cache-effort-migrations-2026-11-16\|Votre facture Claude est trop haute ? Anthropic vous dit par où commencer]]
 
 ### agent de réponse à incident {#agent-de-réponse-à-incident}
 
@@ -13852,6 +15654,29 @@
 - **remplace** → programmation algorithmique classique (METHODOLOGIE) — 0.88
 
 **Fiches** : [[fiches/2024-02/rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23\|L'IA générative est plus une affaire de produit technologique qu'un projet d'IA]]
+
+### agents de code {#agents-de-code}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **panorama** : 33 outils relevés au 22 octobre 2026, quatre familles
+
+- [[kb/REA\|REA]] **utilise** → agents de code — 0.93
+- [[kb/Harness-engineering\|harness engineering]] **s_applique_à** → agents de code — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-agents-de-code-panorama-criteres-choix-2026-10-22\|Agents de code : les critères qui comptent avant le benchmark]]
+
+### agents de rétro-ingénierie {#agents-de-rétro-ingénierie}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Agents IA pilotant décompilateurs et outils de désobfuscation
+
+- **réduit** → efficacité de l'obfuscation (CONCEPT) — 0.86
+
+- injection de prompt **s_applique_à** → agents de rétro-ingénierie — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-obfuscation-code-agents-2026-10-16\|Obfuscation et protection du code à l'ère des agents]]
 
 ### agents navigateur {#agents-navigateur}
 
@@ -13961,6 +15786,26 @@
 - **permet** → hash cryptographique du préfixe (CONCEPT) — 0.97
 
 **Fiches** : [[fiches/2026-02/lancemartin-anthropic-prompt-auto-caching-claude-2026-02\|Prompt auto-caching with Claude]]
+
+### cargo-auditable {#cargo-auditable}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Outil Rust qui embarque la liste des crates dans le binaire
+
+- [[kb/REA\|REA]] **utilise** → cargo-auditable — 0.80
+
+**Fiches** : [[fiches/2026-10/sfeir-audit-binaire-fournisseur-2026-10-17\|Auditer un binaire fournisseur sans son code source]]
+
+### ccusage {#ccusage}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Outil libre (MIT) d'analyse des tokens et coûts d'agents de code à partir des journaux locaux
+
+- [[kb/SFEIR\|SFEIR]] **utilise** → ccusage — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-construire-site-agents-phases-temps-2026-11-15\|Construire un site avec des agents IA : les phases et le temps réellement passé]]
 
 ### ce:brainstorm {#ce-brainstorm}
 
@@ -14159,17 +16004,30 @@
 
 **Fiches** : [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|The Anatomy of an Agent Harness]]
 
-### dots {#dots}
+### dhrake {#dhrake}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
+- **catégorie** : Scripts Ghidra qui importent les symboles IDR et reconstruisent les classes depuis la VMT
+
+- **utilise** → [[kb/_entites-mineures#Ghidra\|Ghidra]] (TECHNOLOGIE) — 0.90
+- **utilise** → [[kb/_entites-mineures#IDR\|IDR]] (TECHNOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-retro-ingenierie-delphi-2026-10-17\|Applications Delphi : ce que Ghidra et les agents permettent]]
+
+### dots {#dots}
+
+**Type** : TECHNOLOGIE | 3 relations | 2 fiches
+
+- **définition** : Agents de ChatGPT présentés fin septembre 2026
 - **éditeur** : OpenAI ; permet aussi d'appeler l'agent
 
 - **est_instance_de** → [[kb/_entites-mineures#Clawlikes\|Clawlikes]] (CONCEPT) — 0.93
 
 - [[kb/OpenAI\|OpenAI]] **publie** → dots — 0.96
+- [[kb/ChatGPT-Wallet\|ChatGPT Wallet]] **utilise** → dots — 0.92
 
-**Fiches** : [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
+**Fiches** : [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]], [[fiches/2026-11/sfeir-chatgpt-wallet-openai-paiement-2026-11-15\|ChatGPT Wallet : les agents d'OpenAI passent à la caisse, l'humain signe chaque achat]]
 
 ### edge computing {#edge-computing}
 
@@ -14236,16 +16094,71 @@
 
 **Fiches** : [[fiches/2025-11/claude-frontend-design-skills-anthropic-2025-11-12\|Improving Frontend Design through Skills]]
 
+### function-color {#function-color}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Paquet npm installant le téléchargeur malveillant function-flag
+
+- **fait_partie_de** → [[kb/_entites-mineures#MALFEX\|MALFEX]] (EVENEMENT) — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-agents-md-telechargements-codex-claude-code-2026-10-27\|AGENTS.md piégé dans Téléchargements : comment Codex et Claude Code ont été détournés, et les parades]]
+
+### fuses Electron {#fuses-Electron}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **exemples** : EnableEmbeddedAsarIntegrityValidation, OnlyLoadAppFromAsar
+
+- **fait_partie_de** → [[kb/_entites-mineures#Electron\|Electron]] (TECHNOLOGIE) — 0.90
+- **réduit** → modification de l'application installée (CONCEPT) — 0.86
+
+- [[kb/REA\|REA]] **utilise** → fuses Electron — 0.80
+
+**Fiches** : [[fiches/2026-10/sfeir-electron-asar-secrets-2026-10-21\|Applications Electron : secrets et logique métier exposés dans l'ASAR]]
+
+### fusibles Electron {#fusibles-Electron}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Réglages binaires d'Electron (débogage --inspect, intégrité ASAR)
+
+- **fait_partie_de** → [[kb/_entites-mineures#Electron\|Electron]] (TECHNOLOGIE) — 0.86
+
+**Fiches** : [[fiches/2026-10/sfeir-obfuscation-code-agents-2026-10-16\|Obfuscation et protection du code à l'ère des agents]]
+
+### ghidra-vb3 {#ghidra-vb3}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Script PyGhidra de désassemblage du p-code Visual Basic 3 (mai 2026)
+
+- **s_applique_à** → Visual Basic 3 (TECHNOLOGIE) — 0.88
+- **utilise** → [[kb/_entites-mineures#Ghidra\|Ghidra]] (TECHNOLOGIE) — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-retro-ingenierie-vb6-2026-10-18\|Rétro-ingénierie d'applications VB6 : peu de retours, un workflow possible]]
+
 ### git {#git}
 
-**Type** : TECHNOLOGIE | 2 relations | 2 fiches
+**Type** : TECHNOLOGIE | 3 relations | 2 fiches
 
 - **rôle** : Dépôts standards hébergés sur le relais, sans wrapper propriétaire
 
 - [[kb/Buzz-Projects\|Buzz Projects]] **utilise** → git — 0.97
 - [[kb/compounding-teams\|compounding teams]] **utilise** → git — 0.97
+- [[kb/base-de-connaissances-sfeir.com\|base de connaissances sfeir.com]] **utilise** → git — 0.93
 
 **Fiches** : [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]], [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
+
+### gstack {#gstack}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Configuration Claude Code publiée par Garry Tan
+
+- [[kb/Garry-Tan\|Garry Tan]] **a_créé** → gstack — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-gbrain-memoire-garry-tan-2026-11-14\|GBrain : la mémoire de Garry Tan, en Markdown et sous licence MIT]]
 
 ### harness export AWS {#harness-export-AWS}
 
@@ -14285,6 +16198,19 @@
 
 **Fiches** : [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Using Claude Code: The Unreasonable Effectiveness of HTML]]
 
+### ida-pro-mcp {#ida-pro-mcp}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **catégorie** : serveur MCP pour IDA Pro 8.3+ (mrexodia, MIT), outil py_eval
+
+- **utilise** → [[kb/_entites-mineures#IDA-Pro\|IDA Pro]] (TECHNOLOGIE) — 0.95
+
+- mrexodia **a_créé** → ida-pro-mcp — 0.90
+- [[kb/REA\|REA]] **concurrence** → ida-pro-mcp — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-rea-ghidramcp-ida-pro-mcp-2026-10-20\|REA, GhidraMCP ou ida-pro-mcp : quel MCP de rétro-ingénierie choisir]]
+
 ### interface cerveau-ordinateur {#interface-cerveau-ordinateur}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -14296,6 +16222,17 @@
 - [[kb/_entites-mineures#Neuralink\|Neuralink]] **a_créé** → interface cerveau-ordinateur — 0.98
 
 **Fiches** : [[fiches/2025-08/sam-altman-neuralink-board-openai-conflict-2025-08-12\|Sam Altman Joins Neuralink Board: Ethical and Competitive Concerns Arise]]
+
+### jadx-headless-mcp {#jadx-headless-mcp}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **version** : 0.7.1, empreinte SHA-256 épinglée par REA, JDK 17+
+
+- [[kb/REA\|REA]] **utilise** → jadx-headless-mcp — 0.90
+- [[kb/docker-reverse-engineer-anything\|docker-reverse-engineer-anything]] **utilise** → jadx-headless-mcp — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-rea-android-apk-2026-10-19\|REA et Android : auditer une APK avec JADX et Apktool]]
 
 ### knowledge graph {#knowledge-graph}
 
@@ -14344,6 +16281,27 @@
 
 **Fiches** : [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
 
+### llms.txt {#llms.txt}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Fichier Markdown à la racine d'un site présentant ses pages aux LLM (proposé le 3 septembre 2024)
+
+- [[kb/_entites-mineures#Jeremy-Howard\|Jeremy Howard]] **a_créé** → llms.txt — 0.93
+- [[kb/sfeir.com\|sfeir.com]] **utilise** → llms.txt — 0.92
+
+**Fiches** : [[fiches/2026-11/sfeir-ecrire-moteurs-ia-schema-org-llms-txt-2026-11-15\|Écrire pour les moteurs et pour les IA : graphe schema.org, llms.txt et fiches de référence]]
+
+### low-code {#low-code}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **usage** : Applications internes simples, formulaires, workflows
+
+- **concurrence** → [[kb/WinDev\|WinDev]] (TECHNOLOGIE) — 0.80
+
+**Fiches** : [[fiches/2026-10/sfeir-alternatives-windev-2026-10-16\|Alternatives à WinDev en 2026 : quels outils et langages pour remplacer l'AGL de PC SOFT ?]]
+
 ### mChat {#mChat}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -14365,6 +16323,17 @@
 - **réduit** → coûts de conseil (CONCEPT) — 0.96
 
 **Fiches** : [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|AI sets up Kodak moment for global consultants]]
+
+### managed settings {#managed-settings}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : Paramètres Claude Code verrouillés par l'administrateur (managed-settings.json, MDM)
+
+- **réduit** → surface d'action de l'agent en environnement régulé (CONCEPT) — 0.89
+- **réduit** → détournement de Claude Code par fichier d'instructions piégé (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-agents-md-telechargements-codex-claude-code-2026-10-27\|AGENTS.md piégé dans Téléchargements : comment Codex et Claude Code ont été détournés, et les parades]]
 
 ### mcpui.dev {#mcpui.dev}
 
@@ -14396,6 +16365,16 @@
 - **permet** → « d'exposer les outils via le Code Mode SDK pour que le modèle combine des opérations multi-étapes dans un seul programme TypeScript » (AFFIRMATION) — 0.93
 
 **Fiches** : [[fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13\|DeepSeek Harness developer preview: Everything is a plugin]]
+
+### mode texte WinDev {#mode-texte-WinDev}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **disponibilité** : Depuis la version 25, projets hors GDS ; propriétés avancées restées binaires
+
+- **fait_partie_de** → [[kb/WinDev\|WinDev]] (TECHNOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-windev-regles-metier-ia-2026-10-15\|Extraire les règles métier d'une application WinDev avec l'IA : la rétro-documentation spec first]]
 
 ### modelcontextprotocol/servers {#modelcontextprotocol-servers}
 
@@ -14495,6 +16474,16 @@
 
 **Fiches** : [[fiches/2025-11/caseau-evolution-developpeur-ia-generative-2025-11-05\|L'IA dévore le logiciel : évolution du métier de développeur]]
 
+### outil advisor {#outil-advisor}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Outil bêta de l'API Claude : l'exécutant consulte un conseiller plus capable dans la même requête
+
+- **s_applique_à** → [[kb/Claude-Haiku-5.5\|Claude Haiku 5.5]] (TECHNOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-claude-haiku-5-5-sous-agents-2026-10-08\|Claude Haiku 5.5 : ce que le nouveau Haiku change pour vos sous-agents]]
+
 ### p5.brush {#p5.brush}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -14504,6 +16493,18 @@
 - [[kb/projet-Paint-with-Code\|projet Paint with Code]] **utilise** → p5.brush — 0.97
 
 **Fiches** : [[fiches/2026-03/narreddi-training-ai-paint-with-code-2026-03-01\|Training AI to Paint with Code (RLing Qwen to paint with code)]]
+
+### php2shell-checker {#php2shell-checker}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Vérificateur de version PHP d'OpenAI (script + deux skills Codex)
+
+- **utilise** → [[kb/Codex\|Codex]] (TECHNOLOGIE) — 0.84
+
+- [[kb/OpenAI\|OpenAI]] **publie** → php2shell-checker — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-divulgation-failles-ia-cadre-openai-2026-10-26\|Failles trouvées par IA : le cadre de divulgation qu'OpenAI propose après PHP2Shell]]
 
 ### pi-ai {#pi-ai}
 
@@ -14536,6 +16537,18 @@
 - [[kb/WEnvision\|Wenvision]] **a_créé** → plateforme déploiement agents IA enterprise — 0.98
 
 **Fiches** : [[fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01\|Wenvision: Enterprise AI Agent Deployment Platform]]
+
+### plateforme unique de signalement CRA {#plateforme-unique-de-signalement-CRA}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **état** : Capacité initiale au 11/09/2026, interface web, sans API, en anglais
+
+- **fait_partie_de** → [[kb/Cyber-Resilience-Act\|Cyber Resilience Act]] (DOCUMENT) — 0.80
+
+- [[kb/ENISA\|ENISA]] **publie** → plateforme unique de signalement CRA — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-cra-sbom-binaire-2026-10-17\|Cyber Resilience Act et SBOM : inventorier un binaire livré sans inventaire]]
 
 ### political-neutrality-eval {#political-neutrality-eval}
 
@@ -14589,6 +16602,17 @@
 
 **Fiches** : [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
 
+### proxy de credentials {#proxy-de-credentials}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : Ajoute les secrets aux requêtes sortantes hors de l'environnement de l'agent
+
+- [[kb/agents-always-on\|agents always-on]] **utilise** → proxy de credentials — 0.90
+- [[kb/Agent-Executor\|Agent Executor]] **converge_avec** → proxy de credentials — 0.85
+
+**Fiches** : [[fiches/2026-11/sfeir-agents-always-on-anthropic-ax-google-2026-11-15\|Agents always-on : les cinq primitives d'Anthropic et l'étage AX de Google]]
+
 ### pypdf {#pypdf}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -14598,6 +16622,18 @@
 - [[kb/Claude-Skills\|Claude Skills]] **utilise** → pypdf — 0.95
 
 **Fiches** : [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Claude Skills: Exploring Anthropic's Document Manipulation Capabilities]]
+
+### rea-agents {#rea-agents}
+
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
+
+- **catégorie** : Paquet npm officiel de REA, mainteneur unique morluto, provenance attestée depuis 6.5.0
+
+- **fait_partie_de** → [[kb/REA\|REA]] (TECHNOLOGIE) — 0.92
+
+- provenance npm **s_applique_à** → rea-agents — 0.86
+
+**Fiches** : [[fiches/2026-10/sfeir-rea-deploiement-entreprise-2026-10-20\|Déployer REA en entreprise : versions, profils, conteneurs]], [[fiches/2026-10/sfeir-rea-faux-depots-supply-chain-2026-10-14\|Faux dépôts REA et cheval de Troie : le risque supply chain d'un outil viral]]
 
 ### reasoning engine {#reasoning-engine}
 
@@ -14700,6 +16736,16 @@
 - agent analytics **utilise** → semantic layer — 0.93
 
 **Fiches** : [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|How Anthropic enables self-service data analytics with Claude]]
+
+### serveur d'application WEBDEV {#serveur-d'application-WEBDEV}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **modèle commercial** : Facturé par cœurs, mémoire et nombre de serveurs
+
+- [[kb/_entites-mineures#WebDev\|WebDev]] **utilise** → serveur d'application WEBDEV — 0.92
+
+**Fiches** : [[fiches/2026-10/sfeir-migrer-webdev-windev-mobile-2026-10-16\|Migrer WebDev et WinDev Mobile : sites, applications SaaS et applications terrain]]
 
 ### serveurs MCP {#serveurs-MCP}
 
@@ -14981,6 +17027,18 @@
 
 **Fiches** : [[fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10\|Everything you need to know about building ChatGPT apps]]
 
+### work-hard-protocol {#work-hard-protocol}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : skill MIT de Ken Huang : sept règles, trois protocoles, quatre playbooks
+
+- **est_basé_sur** → [[kb/_entites-mineures#billet-How-to-be-more-ambitious\|billet How to be more ambitious]] (DOCUMENT) — 0.90
+
+- Ken Huang **a_créé** → work-hard-protocol — 0.88
+
+**Fiches** : [[fiches/2026-10/girard-rieseberg-ambition-ia-equipe-2026-10-19\|Être plus ambitieux avec l'IA : la méthode de Felix Rieseberg, lue par une équipe d'ingénierie]]
+
 ### worktree isolation {#worktree-isolation}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -15021,7 +17079,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1040)
+## CONCEPT (1091)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -15498,6 +17556,16 @@
 
 **Fiches** : [[fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16\|How employment is changing at Anthropic]]
 
+### Active Memory {#Active-Memory}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Mémoire du contexte utilisateur entre conversations (Meta)
+
+- [[kb/_entites-mineures#Muse-Wonder\|Muse Wonder]] **utilise** → Active Memory — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-muse-wonder-meta-muse-code-2026-10-15\|Muse Wonder : Meta rejoint la frontière et garde son meilleur modèle pour Muse Code]]
+
 ### Adaptive organization {#Adaptive-organization}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -15644,7 +17712,7 @@
 
 - **définition** : Monter en abstraction : confier le résultat visé plutôt que la tâche
 
-- **fait_partie_de** → [[kb/_entites-mineures#Quatre-types-d'ambition\|Quatre types d'ambition]] (CONCEPT) — 0.97
+- **fait_partie_de** → [[kb/Quatre-types-d'ambition\|Quatre types d'ambition]] (CONCEPT) — 0.97
 
 **Fiches** : [[fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13\|How to be more ambitious: A tutorial for humans with models]]
 
@@ -15733,6 +17801,16 @@
 - [[kb/Thariq-Shihipar\|Thariq Shihipar]] **s_oppose_à** → Anti-skill-ification — 0.95
 
 **Fiches** : [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Using Claude Code: The Unreasonable Effectiveness of HTML]]
+
+### Applied AI Architect {#Applied-AI-Architect}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Architecte d'avant-vente d'Anthropic : ateliers, guidage d'architecture, prototypes
+
+- **est_variante_de** → [[kb/_entites-mineures#architecte-de-solution\|architecte de solution]] (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-consultant-architecte-regie-2026-11-06\|FDE, consultant, architecte, régie : quelles différences ?]]
 
 ### Apprenticeship model collapse {#Apprenticeship-model-collapse}
 
@@ -15873,7 +17951,7 @@
 
 - **définition** : Croyance en ses capacités, corrélée à l'accomplissement (self-efficacy)
 
-- [[kb/_entites-mineures#Quatre-types-d'ambition\|Quatre types d'ambition]] **est_basé_sur** → Auto-efficacité — 0.78
+- [[kb/Quatre-types-d'ambition\|Quatre types d'ambition]] **est_basé_sur** → Auto-efficacité — 0.78
 
 **Fiches** : [[fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13\|How to be more ambitious: A tutorial for humans with models]]
 
@@ -15918,6 +17996,16 @@
 - [[kb/GPT-Researcher\|GPT Researcher]] **utilise** → BM25 — 0.95
 
 **Fiches** : [[fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26\|Context Filter]], [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|Grep Is Dead: How I Made Claude Code Actually Remember Things]]
+
+### BYOK {#BYOK}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **tarif** : 25 000 $ d'inférence par mois sans frais, puis 5 % du prix catalogue
+
+- [[kb/Zero-Data-Retention\|Zero Data Retention]] **s_applique_à** → BYOK — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-openrouter-production-reglages-2026-10-12\|OpenRouter en production : cache, coûts, latence et données sous contrôle]]
 
 ### Babel (icône biblique) {#Babel-(icône-biblique)}
 
@@ -16536,6 +18624,18 @@
 
 **Fiches** : [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 
+### Contributor mode {#Contributor-mode}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **défaut** : Activé par défaut dans Muse Code, désactivation non rétroactive
+
+- **permet** → entraînement des modèles de Meta sur les prompts et le code des utilisateurs (CONCEPT) — 0.90
+
+- [[kb/Muse-Code\|Muse Code]] **utilise** → Contributor mode — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-muse-wonder-meta-muse-code-2026-10-15\|Muse Wonder : Meta rejoint la frontière et garde son meilleur modèle pour Muse Code]]
+
 ### Contrôle antitrust {#Contrôle-antitrust}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -16717,20 +18817,23 @@
 
 ### Cyber Verification Program {#Cyber-Verification-Program}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 3 relations | 2 fiches
 
 - **nature** : Programme d'accès vérifié pour la cyberdéfense
 
+- [[kb/Claude-Mythos\|Claude Mythos]] **utilise** → Cyber Verification Program — 0.88
 - [[kb/Claude-Mythos-5.1\|Claude Mythos 5.1]] **fait_partie_de** → Cyber Verification Program — 0.88
+- [[kb/Fairwind-Program-methodologie\|Fairwind Program]] **converge_avec** → Cyber Verification Program — 0.78
 
-**Fiches** : [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
+**Fiches** : [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]], [[fiches/2026-10/sfeir-gemini-4-argon-cyber-permissive-fairwind-2026-10-27\|Gemini 4 Argon Cyber Permissive : Google retire les garde-fous et verrouille la porte]]
 
 ### Cyberdéfense {#Cyberdéfense}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **définition** : Domaine où les modèles jouent désormais un rôle central selon l'auteur
 
+- [[kb/Gemini-4-Argon-Cyber-Permissive\|Gemini 4 Argon Cyber Permissive]] **s_applique_à** → Cyberdéfense — 0.92
 - [[kb/_entites-mineures#Modèle-de-frontière\|Modèle de frontière]] **s_applique_à** → Cyberdéfense — 0.82
 
 **Fiches** : [[fiches/2026-10/mensch-build-or-surrender-ia-frontiere-europe-2026-10-16\|Build or surrender]]
@@ -16755,11 +18858,12 @@
 
 ### DSI {#DSI}
 
-**Type** : CONCEPT | 1 relations | 2 fiches
+**Type** : CONCEPT | 2 relations | 2 fiches
 
 - **évolution** : De constructeur à gouverneur de plateforme technologique
 
 - [[kb/BMAD\|BMAD]] **s_applique_à** → DSI — 0.90
+- [[kb/_entites-mineures#contexte-possédé\|contexte possédé]] **s_applique_à** → DSI — 0.85
 
 **Fiches** : [[fiches/2026-02/martin-bmad-method-urbanisme-ia-agentique-sdlc-2026-02-04\|BMAD-Method : le plan d'urbanisme qui apprivoise l'IA agentique dans votre SDLC]], [[fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15\|STRUCTURER LA TRANSFORMATION AI-FIRST EN 15 QUESTIONS]]
 
@@ -16797,7 +18901,7 @@
 
 - **définition** : Exécuter la tâche avec les instruments et méthodes du meilleur expert du domaine
 
-- **fait_partie_de** → [[kb/_entites-mineures#Quatre-types-d'ambition\|Quatre types d'ambition]] (CONCEPT) — 0.97
+- **fait_partie_de** → [[kb/Quatre-types-d'ambition\|Quatre types d'ambition]] (CONCEPT) — 0.97
 - **utilise** → [[kb/_entites-mineures#juge-extérieur\|juge extérieur]] (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13\|How to be more ambitious: A tutorial for humans with models]]
@@ -17043,6 +19147,16 @@
 
 **Fiches** : [[fiches/2025-11/denisov-blanch-stanford-quantify-ai-roi-software-engineering-2025-11-23\|How to Quantify AI ROI in Software Engineering (Stanford Study / 120k Devs)]]
 
+### Enterprise Graph {#Enterprise-Graph}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Graphe reliant documents, personnes et activités de l'entreprise chez Glean
+
+- [[kb/Glean-technologie\|Glean]] **utilise** → Enterprise Graph — 0.93
+
+**Fiches** : [[fiches/2026-10/sfeir-glean-couche-de-contexte-2026-10-27\|Glean, Anthropic et la bataille de la couche de contexte]]
+
 ### Enterprise paradox {#Enterprise-paradox}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -17061,15 +19175,17 @@
 
 ### Ephemeral Intelligence Gap {#Ephemeral-Intelligence-Gap}
 
-**Type** : CONCEPT | 2 relations | 1 fiches
+**Type** : CONCEPT | 4 relations | 2 fiches
 
-- **définition** : Perte de connaissance quand les sessions d'agents se terminent ; redécouverte en boucle
+- **définition** : Perte de contexte d'un agent à l'autre, chaque agent ayant sa mémoire
 
 - **affirme_que** → « les agents redécouvrent et perdent les mêmes solutions à chaque session » (AFFIRMATION) — 0.90
 
 - [[kb/Stack-Overflow-for-Agents\|Stack Overflow for Agents]] **résout** → Ephemeral Intelligence Gap — 0.92
+- [[kb/SFEIR\|SFEIR]] **a_créé** → Ephemeral Intelligence Gap — 0.88
+- [[kb/dépôt-Git-de-mémoire\|dépôt Git de mémoire]] **résout** → Ephemeral Intelligence Gap — 0.85
 
-**Fiches** : [[fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10\|Announcing Stack Overflow for Agents]]
+**Fiches** : [[fiches/2026-11/sfeir-posseder-memoire-agent-depot-git-2026-11-14\|Posséder sa mémoire d'agent : le dépôt Git comme cerveau partagé entre tous vos agents IA]], [[fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10\|Announcing Stack Overflow for Agents]]
 
 ### Erreur de type I et II (contexte medical) {#Erreur-de-type-I-et-II-(contexte-medical)}
 
@@ -17100,6 +19216,16 @@
 - [[kb/Simon-Willison\|Simon Willison]] **prédit** → Explosion cambrienne des Skills — 0.95
 
 **Fiches** : [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills are awesome, maybe a bigger deal than MCP]]
+
+### Exponential Time Hypothesis {#Exponential-Time-Hypothesis}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Hypothèse (Impagliazzo, Paturi, fin des années 1990) : 3-SAT n'admet pas d'algorithme sous-exponentiel
+
+- [[kb/_entites-mineures#The-Exponential-Time-Hypothesis-is-False\|The Exponential Time Hypothesis is False]] **s_oppose_à** → Exponential Time Hypothesis — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-openai-kakeya-eth-yang-mills-2026-10-27\|Kakeya, ETH, Yang-Mills : OpenAI annonce trois percées, la communauté prend le temps de goûter]]
 
 ### FOMO d'agents 24/7 {#FOMO-d'agents-24-7}
 
@@ -17189,6 +19315,19 @@
 - [[kb/Patrick-Winston\|Patrick Winston]] **a_créé** → Formule K×P×t — 0.95
 
 **Fiches** : [[fiches/2019-01/winston-how-to-speak-mit-communication-2019-01-04\|How To Speak]]
+
+### Forward Deployed Engineer {#Forward-Deployed-Engineer}
+
+**Type** : CONCEPT | 3 relations | 1 fiches
+
+- **définition** : Ingénieur qui met un système en production dans le SI client et en répond
+
+- **permet** → mise en production d'un système d'IA dans le SI client (CONCEPT) — 0.90
+- **concurrence** → [[kb/_entites-mineures#régie\|régie]] (METHODOLOGIE) — 0.80
+
+- [[kb/Anthropic\|Anthropic]] **emploie** → Forward Deployed Engineer — 0.80
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-consultant-architecte-regie-2026-11-06\|FDE, consultant, architecte, régie : quelles différences ?]]
 
 ### Four Big Risks {#Four-Big-Risks}
 
@@ -17844,6 +19983,16 @@
 
 **Fiches** : [[fiches/2026-07/willison-fable-judgement-delegation-subagents-2026-07-03\|Fable's judgement]]
 
+### Kimwolf {#Kimwolf}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Botnet de plus de 2 millions d'appareils, surtout des boîtiers Android TV
+
+- [[kb/étude-Anthropic-sur-l'auto-réplication\|étude Anthropic sur l'auto-réplication]] **référence** → Kimwolf — 0.84
+
+**Fiches** : [[fiches/2026-10/sfeir-anthropic-auto-replication-iot-2026-10-15\|Vers IA sur objets connectés : ce qu'Anthropic démontre et ce qu'elle extrapole]]
+
 ### LAYS {#LAYS}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -17851,6 +20000,16 @@
 - **définition** : Learning-Adjusted Years of Schooling — métrique d'efficacité éducative
 
 **Fiches** : [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|From Chalkboards to Chatbots: Evaluating the Impact of Generative AI on Learning Outcomes in Nigeria]]
+
+### LLMjacking {#LLMjacking}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Vol et revente de clés d'API de modèles via des proxys clandestins
+
+- **mesure** → « facturations frauduleuses de plus de 100 000 $ en une journée » (MESURE) — 0.82
+
+**Fiches** : [[fiches/2026-11/sfeir-exploit-agent-gtig-correctif-exploit-2026-11-18\|exploit_agent : le correctif publié devient la carte de l'attaquant]]
 
 ### LOC {#LOC}
 
@@ -17869,7 +20028,7 @@
 - **définition** : Prix effectif d'une requête : prix après remise de cache + coût d'attente + coût des reprises
 
 - [[kb/Peter-Walker\|Peter Walker]] **recommande** → Landed cost — 0.92
-- [[kb/_entites-mineures#OpenRouter\|OpenRouter]] **utilise** → Landed cost — 0.90
+- [[kb/OpenRouter-technologie\|OpenRouter]] **utilise** → Landed cost — 0.90
 
 **Fiches** : [[fiches/2026-10/walker-onlycfo-ai-tokenomics-2026-10-22\|The Current State of AI Tokenomics - What CFOs Should Know]]
 
@@ -18756,22 +20915,6 @@
 
 **Fiches** : [[fiches/2026-10/cavazza-collaborateurs-synthetiques-gemini-at-work-2026-10-09\|Du chatbot au collaborateur synthétique : quatre modalités de l'IA (post X sur Gemini at Work)]]
 
-### Quatre types d'ambition {#Quatre-types-d'ambition}
-
-**Type** : CONCEPT | 6 relations | 1 fiches
-
-- **définition** : Taxonomie de l'usage ambitieux des modèles : Speed, Altitude, Depth, Range
-
-- **est_basé_sur** → [[kb/_entites-mineures#Auto-efficacité\|Auto-efficacité]] (CONCEPT) — 0.78
-
-- [[kb/_entites-mineures#Altitude\|Altitude]] **fait_partie_de** → Quatre types d'ambition — 0.97
-- [[kb/_entites-mineures#Depth\|Depth]] **fait_partie_de** → Quatre types d'ambition — 0.97
-- [[kb/Range\|Range]] **fait_partie_de** → Quatre types d'ambition — 0.97
-- [[kb/_entites-mineures#Speed\|Speed]] **fait_partie_de** → Quatre types d'ambition — 0.95
-- [[kb/Felix-Rieseberg\|Felix Rieseberg]] **a_créé** → Quatre types d'ambition — 0.90
-
-**Fiches** : [[fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13\|How to be more ambitious: A tutorial for humans with models]]
-
 ### Question forte vs faible {#Question-forte-vs-faible}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -18797,16 +20940,6 @@
 - **s_applique_à** → développeurs IA-augmentés (CONCEPT) — 0.94
 
 **Fiches** : [[fiches/2026-05/chepurin-turner-evil-martians-ai-engineers-burning-out-2026-05-19\|AI-assisted engineers are burning out, is this fine?]]
-
-### RGPD {#RGPD}
-
-**Type** : CONCEPT | 1 relations | 1 fiches
-
-- **catégorie** : Règlement européen protection données
-
-- [[kb/Digital-Omnibus\|Digital Omnibus]] **remplace** → RGPD — 0.95
-
-**Fiches** : [[fiches/2025-11/derouet-rgpd-revision-discrete-digital-omnibus-2025-11-13\|Enquête : la révision discrète du RGPD – qui y gagne, qui y perd ?]]
 
 ### ROI de l'IA (heures-ingénieur) {#ROI-de-l'IA-(heures-ingénieur)}
 
@@ -18971,6 +21104,19 @@
 
 **Fiches** : [[fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20\|WHAT IF THE FUTURE DOES NOT NEED YOU ?]]
 
+### SBOM {#SBOM}
+
+**Type** : CONCEPT | 3 relations | 2 fiches
+
+- **définition** : Nomenclature logicielle exigée par l'annexe I du CRA
+
+- **utilise** → CVE (CONCEPT) — 0.80
+
+- [[kb/_entites-mineures#audit-de-binaire-fournisseur\|audit de binaire fournisseur]] **permet** → SBOM — 0.88
+- [[kb/inventaire-de-binaire-par-agent\|inventaire de binaire par agent]] **permet** → SBOM — 0.86
+
+**Fiches** : [[fiches/2026-10/sfeir-audit-binaire-fournisseur-2026-10-17\|Auditer un binaire fournisseur sans son code source]], [[fiches/2026-10/sfeir-cra-sbom-binaire-2026-10-17\|Cyber Resilience Act et SBOM : inventorier un binaire livré sans inventaire]]
+
 ### SEO {#SEO}
 
 **Type** : CONCEPT | 2 relations | 2 fiches
@@ -18985,9 +21131,11 @@
 
 ### SKILL.md {#SKILL-md}
 
-**Type** : CONCEPT | 2 relations | 2 fiches
+**Type** : CONCEPT | 3 relations | 2 fiches
 
 - **description** : Fichiers markdown servant d'instructions structurées pour agents
+
+- **permet** → portabilité des skills entre harnais (CONCEPT) — 0.85
 
 - [[kb/Agent-Skills\|Agent Skills]] **utilise** → SKILL.md — 0.95
 - [[kb/Superpowers\|Superpowers]] **utilise** → SKILL.md — 0.95
@@ -19260,7 +21408,7 @@
 
 - **définition** : Le même travail en moins de temps ; valeur économique établie de l'IA
 
-- **fait_partie_de** → [[kb/_entites-mineures#Quatre-types-d'ambition\|Quatre types d'ambition]] (CONCEPT) — 0.95
+- **fait_partie_de** → [[kb/Quatre-types-d'ambition\|Quatre types d'ambition]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13\|How to be more ambitious: A tutorial for humans with models]]
 
@@ -19956,16 +22104,6 @@
 
 **Fiches** : [[fiches/2026-05/shipper-every-after-automation-frame-framer-2026-05-21\|After Automation]]
 
-### Zero Data Retention {#Zero-Data-Retention}
-
-**Type** : CONCEPT | 1 relations | 1 fiches
-
-- **définition** : Endpoint qui ne conserve pas les données des requêtes ; disponible pour 93 % des tokens sur OpenRouter
-
-- [[kb/Peter-Walker\|Peter Walker]] **recommande** → Zero Data Retention — 0.88
-
-**Fiches** : [[fiches/2026-10/walker-onlycfo-ai-tokenomics-2026-10-22\|The Current State of AI Tokenomics - What CFOs Should Know]]
-
 ### Zero Trust {#Zero-Trust}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -20028,6 +22166,16 @@
 
 **Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
 
+### agent builder {#agent-builder}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Rôle Decagon qui configure l'agent depuis l'interface et connaît les modèles
+
+- **fait_partie_de** → [[kb/Forward-Deployed-Engineering\|Forward Deployed Engineering]] (METHODOLOGIE) — 0.82
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-decagon-sunny-rekhi-2026-11-10\|Sunny Rekhi (Decagon) : chaque demande sur mesure doit finir en libre-service]]
+
 ### agent coordinateur {#agent-coordinateur}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -20048,6 +22196,16 @@
 
 **Fiches** : [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
 
+### agent software engineer {#agent-software-engineer}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Rôle Decagon qui traite les demandes des grands comptes et les remonte dans le produit
+
+- **fait_partie_de** → [[kb/Forward-Deployed-Engineering\|Forward Deployed Engineering]] (METHODOLOGIE) — 0.82
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-decagon-sunny-rekhi-2026-11-10\|Sunny Rekhi (Decagon) : chaque demande sur mesure doit finir en libre-service]]
+
 ### agent telemetry {#agent-telemetry}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -20055,6 +22213,16 @@
 - **statut** : Domaine émergent de mesure IA
 
 **Fiches** : [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|HOW TECH COMPANIES MEASURE THE IMPACT OF AI ON SOFTWARE DEVELOPMENT]]
+
+### agent vocal de centre d'appels {#agent-vocal-de-centre-d'appels}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **critères de pilote** : Résolution, coût par appel résolu, français réel, escalade, latence, conformité
+
+- [[kb/Grok-Voice-3.0\|Grok Voice 3.0]] **s_applique_à** → agent vocal de centre d'appels — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-grok-voice-3-centre-appels-2026-10-15\|Grok Voice 3.0 : numéro un des modèles vocaux, ce qu'un centre d'appels doit vérifier]]
 
 ### agentId {#agentId}
 
@@ -20199,11 +22367,12 @@
 
 ### apprentissage par renforcement {#apprentissage-par-renforcement}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **définition** : Post-entraînement sur les résultats des tentatives du modèle, à difficulté croissante
 
 - [[kb/Mistral-Large-4\|Mistral Large 4]] **utilise** → apprentissage par renforcement — 0.95
+- [[kb/agent-FDE-de-Varick\|agent FDE de Varick]] **utilise** → apprentissage par renforcement — 0.85
 
 **Fiches** : [[fiches/2026-10/mistral-large-4-le-chonk-2026-10-06\|Introducing Mistral Large 4]]
 
@@ -20236,6 +22405,16 @@
 
 **Fiches** : [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 
+### architecte de solution {#architecte-de-solution}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Conçoit l'intégration ou l'architecture cible, en avant-vente ou en delivery
+
+- [[kb/_entites-mineures#Applied-AI-Architect\|Applied AI Architect]] **est_variante_de** → architecte de solution — 0.85
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-consultant-architecte-regie-2026-11-06\|FDE, consultant, architecte, régie : quelles différences ?]]
+
 ### artisanat logiciel {#artisanat-logiciel}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -20258,6 +22437,16 @@
 - [[kb/Moonshot-AI\|Moonshot AI]] **utilise** → attaque par rejeu inter-sessions — 0.93
 
 **Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+
+### attaque supply chain {#attaque-supply-chain}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **variante** : Nom proche, README copié, binaire ajouté, visant un projet devenu viral
+
+- [[kb/faux-dépôt-rea-tools-rea\|faux dépôt rea-tools/rea]] **est_instance_de** → attaque supply chain — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-rea-faux-depots-supply-chain-2026-10-14\|Faux dépôts REA et cheval de Troie : le risque supply chain d'un outil viral]]
 
 ### attention humaine {#attention-humaine}
 
@@ -20298,6 +22487,16 @@
 - [[kb/_entites-mineures#clé-Nostr\|clé Nostr]] **permet** → authentification Git par clé Nostr — 0.94
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
+
+### auto-réplication sur objets connectés {#auto-réplication-sur-objets-connectés}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Propagation d'un modèle d'IA d'appareil en appareil, sur le modèle d'un ver
+
+- **s_applique_à** → Android TV (TECHNOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-anthropic-auto-replication-iot-2026-10-15\|Vers IA sur objets connectés : ce qu'Anthropic démontre et ce qu'elle extrapole]]
 
 ### automatisation d'agents IA {#automatisation-d'agents-IA}
 
@@ -20453,6 +22652,19 @@
 - [[kb/Software-Factory\|Software factory]] **utilise** → boucle de rétroaction — 0.92
 
 **Fiches** : [[fiches/2026-09/reyes-factory-building-machine-software-2026-09-22\|Building the Machine That Builds the Software - Eno Reyes, Co-Founder & CTO of Factory]]
+
+### boucles de validation déterministes {#boucles-de-validation-déterministes}
+
+**Type** : CONCEPT | 3 relations | 1 fiches
+
+- **composantes** : Linters, typage, SAST, analyses de sécurité, tests de bout en bout
+
+- **permet** → autonomie longue des agents sans intervention humaine (CONCEPT) — 0.86
+- **s_inspire_de** → récompense dense (CONCEPT) — 0.80
+
+- [[kb/_entites-mineures#code-prêt-pour-les-agents\|code prêt pour les agents]] **est_basé_sur** → boucles de validation déterministes — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-factory-eno-reyes-2026-11-10\|Factory envoie ses FDE préparer le code des clients pour les agents]]
 
 ### boundary objects {#boundary-objects}
 
@@ -20816,6 +23028,16 @@
 
 **Fiches** : [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|AI made your engineers fast. Too fast to leave room for the rest of the org to think.]]
 
+### code prêt pour les agents {#code-prêt-pour-les-agents}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Code mesuré par la densité de ses boucles de validation déterministes
+
+- **est_basé_sur** → [[kb/_entites-mineures#boucles-de-validation-déterministes\|boucles de validation déterministes]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-factory-eno-reyes-2026-11-10\|Factory envoie ses FDE préparer le code des clients pour les agents]]
+
 ### code rot (pourriture du code) {#code-rot-(pourriture-du-code)}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -21072,6 +23294,17 @@
 
 **Fiches** : [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md outperforms skills in our agent evals]]
 
+### contexte possédé {#contexte-possédé}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Contexte unique (mémoire, skills) détenu par l'utilisateur, opposé au modèle loué
+
+- **s_applique_à** → [[kb/_entites-mineures#DSI\|DSI]] (CONCEPT) — 0.85
+- **converge_avec** → [[kb/CDLC\|CDLC]] (METHODOLOGIE) — 0.80
+
+**Fiches** : [[fiches/2026-11/sfeir-own-your-intelligence-lecture-dsi-2026-11-14\|Own Your Intelligence : la thèse de Garry Tan lue par une DSI]]
+
 ### contrat de portabilité agent {#contrat-de-portabilité-agent}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -21189,6 +23422,16 @@
 - [[kb/Agent-FinOps-(Orq.ai)\|Agent FinOps (Orq.ai)]] **mesure** → cost per outcome — 0.96
 
 **Fiches** : [[fiches/2026-04/orq-ai-finops-ai-agents-cost-per-outcome-hosseini-2026-04-15\|FinOps for AI Agents: How Enterprises Control Cost, Value, and Scale]]
+
+### couche de contexte {#couche-de-contexte}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Couche intermédiaire qui fournit aux modèles le contexte de l'entreprise sous gouvernance des permissions
+
+- [[kb/Glean-technologie\|Glean]] **permet** → couche de contexte — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-glean-couche-de-contexte-2026-10-27\|Glean, Anthropic et la bataille de la couche de contexte]]
 
 ### couche de vérité {#couche-de-vérité}
 
@@ -21335,6 +23578,18 @@
 
 **Fiches** : [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 
+### crackmes {#crackmes}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Petits programmes cachant un contrôle, publiés pour être analysés
+
+- **permet** → [[kb/_entites-mineures#formation-à-la-rétro-ingénierie-assistée-par-agents\|formation à la rétro-ingénierie assistée par agents]] (METHODOLOGIE) — 0.88
+
+- [[kb/crackmes.one\|crackmes.one]] **publie** → crackmes — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-ctf-crackmes-formation-retro-ingenierie-2026-10-16\|CTF et crackmes : former ses équipes à la rétro-ingénierie assistée par agents]]
+
 ### crise de sens {#crise-de-sens}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -21461,6 +23716,14 @@
 - [[kb/_entites-mineures#Margaret-Anne-Storey\|Margaret-Anne Storey]] **a_créé** → dette cognitive et dette d'intention — 0.90
 
 **Fiches** : [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for?]], [[fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02\|Maybe We Shouldn't Be Reviewing All This Code]]
+
+### dette de sécurité {#dette-de-sécurité}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Failles connues restées ouvertes plus d'un an (Veracode)
+
+**Fiches** : [[fiches/2026-11/sfeir-budgets-2027-dette-securite-2026-11-08\|Budgets 2027 : il faut défragiliser le SI]]
 
 ### dette technique sociétale {#dette-technique-sociétale}
 
@@ -21848,6 +24111,16 @@
 
 **Fiches** : [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
 
+### empoisonnement de mémoire {#empoisonnement-de-mémoire}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Note malveillante écrite après injection de prompt, rechargée à chaque session
+
+- **s_applique_à** → [[kb/dépôt-Git-de-mémoire\|dépôt Git de mémoire]] (METHODOLOGIE) — 0.85
+
+**Fiches** : [[fiches/2026-11/sfeir-posseder-memoire-agent-depot-git-2026-11-14\|Posséder sa mémoire d'agent : le dépôt Git comme cerveau partagé entre tous vos agents IA]]
+
 ### empreinte mathématique de navigateur {#empreinte-mathématique-de-navigateur}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -21966,6 +24239,19 @@
 
 **Fiches** : [[fiches/2026-08/skill-shamsi-graphify-2026-08-06\|graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A…]]
 
+### facturation à la session {#facturation-à-la-session}
+
+**Type** : CONCEPT | 3 relations | 1 fiches
+
+- **définition** : Redevance par exécutable × compte Windows × machine, applications compilées en version 2026+
+
+- **s_applique_à** → [[kb/WinDev\|WinDev]] (TECHNOLOGIE) — 0.90
+- **mesure** → « 290 € par session et par an au tarif catalogue » (MESURE) — 0.85
+
+- [[kb/Wx-Alliance\|Wx Alliance]] **s_oppose_à** → facturation à la session — 0.92
+
+**Fiches** : [[fiches/2026-10/sfeir-redevance-windev-rachat-pc-soft-2026-10-16\|Redevance WinDev, rachat de PC SOFT : faut-il quitter WinDev maintenant ?]]
+
 ### fausse sécurité {#fausse-sécurité}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -22006,6 +24292,16 @@
 
 **Fiches** : [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|From RAG to Rigor Mortis: Why Retrieval-Augmented Generation looks like dying]]
 
+### fidélité du raisonnement {#fidélité-du-raisonnement}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Écart entre la chaîne de raisonnement visible et l'action réellement exécutée
+
+- **observé_dans** → [[kb/_entites-mineures#Qwen3.8-Flash-Next\|Qwen3.8-Flash-Next]] (TECHNOLOGIE) — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-qwen-cohere-connexion-sortante-agents-2026-10-27\|Qwen3.8 a tenté d'écrire vers Pékin pendant un test : ce que le cas Cohere change pour vos agents]]
+
 ### financement en flux {#financement-en-flux}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -22015,6 +24311,16 @@
 - [[kb/Olivier-Rafal\|Olivier Rafal]] **recommande** → financement en flux — 0.90
 
 **Fiches** : [[fiches/2024-02/rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23\|L'IA générative est plus une affaire de produit technologique qu'un projet d'IA]]
+
+### flex routing {#flex-routing}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **défaut** : Activé sur les tenants UE/AELE éligibles créés après le 25 mars 2026
+
+- **permet** → inférence Copilot hors EU Data Boundary (CONCEPT) — 0.84
+
+**Fiches** : [[fiches/2026-11/sfeir-microsoft-autopilot-openclaw-ignite-2026-11-18\|Microsoft Autopilot tourne sur OpenClaw, et Ignite ne l'a pas dit]]
 
 ### follow_author_score {#follow_author_score}
 
@@ -22067,6 +24373,28 @@
 - [[kb/Buzz\|Buzz]] **affine** → forge logicielle souveraine — 0.84
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
+
+### formulaires VCL {#formulaires-VCL}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Fichiers .dfm stockés en ressource RCDATA (signature TPF0) : composants, événements, SQL
+
+- **fait_partie_de** → [[kb/_entites-mineures#Delphi\|Delphi]] (TECHNOLOGIE) — 0.88
+- **permet** → extraction des règles métier et du SQL embarqué (CONCEPT) — 0.86
+
+**Fiches** : [[fiches/2026-10/sfeir-retro-ingenierie-delphi-2026-10-17\|Applications Delphi : ce que Ghidra et les agents permettent]]
+
+### formule du délai de retour {#formule-du-délai-de-retour}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Budget complet ÷ économies annuelles nettes × 12 = mois
+
+- Combien coûte une migration WinDev en 2026 ? **est_basé_sur** → formule du délai de retour — 0.90
+- [[kb/Dev-Booster\|Dev-Booster]] **a_créé** → formule du délai de retour — 0.86
+
+**Fiches** : [[fiches/2026-10/sfeir-cout-migration-windev-2026-10-16\|Combien coûte une migration WinDev en 2026 ? Coût, délais et ROI avec l'IA]]
 
 ### foundation model {#foundation-model}
 
@@ -22190,11 +24518,13 @@
 
 ### gouvernance des agents {#gouvernance-des-agents}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **condition** : Rôles, sécurité et responsabilités clairs — sans quoi déployer des milliers d'agents est « une impasse »
 
 - **s_oppose_à** → « le rythme d'adoption, seules ~21 % des entreprises déclarant une gouvernance mature » (MESURE) — 0.90
+
+- Agent 365 **permet** → gouvernance des agents — 0.85
 
 **Fiches** : [[fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25\|Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les…]]
 
@@ -22207,6 +24537,26 @@
 - **améliore** → valeur d'un profil à l'ère des agents de codage (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17\|Reflecting on a year of Claude Code]]
+
+### graphe de contexte {#graphe-de-contexte}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Graphe reliant code, changements, pipelines, vulnérabilités et propriété, servi aux agents
+
+- [[kb/GitLab-Orbit\|GitLab Orbit]] **permet** → graphe de contexte — 0.93
+
+**Fiches** : [[fiches/2026-10/sfeir-gitlab-orbit-graphe-contexte-2026-10-29\|GitLab Orbit en disponibilité générale : ce que le graphe de contexte change pour vos agents IA]]
+
+### graphe de dépendances de l'entreprise cliente {#graphe-de-dépendances-de-l'entreprise-cliente}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Représentation des processus métier (linéaires avec boucles), interrogeable par l'équipe de mission
+
+- [[kb/agent-FDE-de-Varick\|agent FDE de Varick]] **utilise** → graphe de dépendances de l'entreprise cliente — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-varick-agents-2026-11-10\|Varick Agents construit un agent pour ses FDE, et la démonstration technique sauve le talk]]
 
 ### grille d'évaluation d'un serveur MCP {#grille-d'évaluation-d'un-serveur-MCP}
 
@@ -22350,11 +24700,22 @@
 
 ### harnais {#harnais}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 2 fiches
 
+- **définition** : Couche logicielle qui donne ses outils au modèle et gère son contexte
 - **rôle** : Règles agentiques adaptées au contexte
 
-**Fiches** : [[fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01\|L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change]]
+- **s_applique_à** → évaluation agentique (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01\|L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change]], [[fiches/2026-10/sfeir-lire-tableau-benchmarks-ia-2026-10-15\|Lire un tableau de benchmarks IA : les 18 benchmarks de frontière, famille par famille]]
+
+### heures-agent {#heures-agent}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Somme des minutes de chaque agent, sous-agents compris, distincte du temps d'horloge
+
+**Fiches** : [[fiches/2026-11/sfeir-construire-site-agents-phases-temps-2026-11-15\|Construire un site avec des agents IA : les phases et le temps réellement passé]]
 
 ### hill climbing machine {#hill-climbing-machine}
 
@@ -22506,6 +24867,14 @@
 
 **Fiches** : [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 
+### identités non humaines {#identités-non-humaines}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Comptes de service, clés d'API, certificats, jetons OAuth détenus par des tiers
+
+**Fiches** : [[fiches/2026-11/sfeir-credit-mutuel-arkea-cyber-casse-2026-11-14\|Cyber-casse chez Crédit Mutuel Arkéa : ce que 100 millions d'euros enseignent aux DSI et aux RSSI]]
+
 ### iframes sandboxées {#iframes-sandboxées}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -22572,6 +24941,16 @@
 
 **Fiches** : [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
 
+### injection de prompt indirecte {#injection-de-prompt-indirecte}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Instructions glissées à un agent via un contenu non fiable qu'il lit
+
+- **s_applique_à** → [[kb/AGENTS-md\|AGENTS.md]] (TECHNOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-agents-md-telechargements-codex-claude-code-2026-10-27\|AGENTS.md piégé dans Téléchargements : comment Codex et Claude Code ont été détournés, et les parades]]
+
 ### intellect séparé {#intellect-séparé}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -22589,6 +24968,16 @@
 - [[kb/Genie-3\|Genie 3]] **s_applique_à** → intelligence incarnée — 0.88
 
 **Fiches** : [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie: Interactive World Models with Genie 3]]
+
+### intelligence par token {#intelligence-par-token}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Vitesse à laquelle un modèle atteint le résultat, suivie à côté du coût par token
+
+- [[kb/Anthropic\|Anthropic]] **recommande** → intelligence par token — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-api-claude-cache-effort-migrations-2026-11-16\|Votre facture Claude est trop haute ? Anthropic vous dit par où commencer]]
 
 ### interdépendance contrôlée {#interdépendance-contrôlée}
 
@@ -22623,6 +25012,16 @@
 
 **Fiches** : [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Giving your AI a Job Interview]], [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
 
+### jetons courts révocables {#jetons-courts-révocables}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : jetons émis à l'exécution par le serveur, limités et révocables, à la place des clés embarquées
+
+- **remplace** → secrets embarqués côté client (CONCEPT) — 0.86
+
+**Fiches** : [[fiches/2026-10/sfeir-editeurs-logiciel-lisible-agents-2026-10-21\|Votre logiciel est lisible par n'importe quel agent : guide pour éditeurs]]
+
 ### journal d'événements d'agent {#journal-d'événements-d'agent}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -22633,13 +25032,15 @@
 
 ### juge extérieur {#juge-extérieur}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 3 relations | 2 fiches
 
 - **définition** : Validation du résultat par un tiers ou un outil, jamais par le modèle lui-même
 
+- [[kb/Quatre-types-d'ambition\|Quatre types d'ambition]] **utilise** → juge extérieur — 0.92
+- [[kb/_entites-mineures#Paul-Kuo\|Paul Kuo]] **soutient** → juge extérieur — 0.86
 - [[kb/_entites-mineures#Depth\|Depth]] **utilise** → juge extérieur — 0.85
 
-**Fiches** : [[fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13\|How to be more ambitious: A tutorial for humans with models]]
+**Fiches** : [[fiches/2026-10/girard-rieseberg-ambition-ia-equipe-2026-10-19\|Être plus ambitieux avec l'IA : la méthode de Felix Rieseberg, lue par une équipe d'ingénierie]], [[fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13\|How to be more ambitious: A tutorial for humans with models]]
 
 ### jugement professionnel {#jugement-professionnel}
 
@@ -22854,6 +25255,17 @@
 
 **Fiches** : [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude-Org/SuperClaude_Framework: A configuration framework that enhances Claude Code]]
 
+### millésimes du FDE {#millésimes-du-FDE}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Époques du FDE chez Palantir (DevOps, intégration/ontologie, Slate, Foundry, formation clients), empilées sans retrait
+
+- **est_basé_sur** → [[kb/Palantir\|Palantir]] (ORGANISATION) — 0.88
+- **s_applique_à** → [[kb/Forward-Deployed-Engineering\|Forward Deployed Engineering]] (METHODOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-sierra-natalie-meurer-2026-11-10\|« Quel millésime de FDE êtes-vous ? » : Natalie Meurer (Sierra) démonte le titre à la mode]]
+
 ### model to metal {#model-to-metal}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -22909,13 +25321,24 @@
 
 ### modèle de décision {#modèle-de-décision}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 2 fiches
 
-- **définition** : Modèle renvoyant des sorties typées bornées avec probabilités, destiné à être inséré dans un workflow
+- **définition** : Modèle renvoyant une probabilité calibrée par option fermée, sans génération de texte
 
 - [[kb/Clef\|Clef]] **est_instance_de** → modèle de décision — 0.97
+- [[kb/Jev\|Jev]] **est_instance_de** → modèle de décision — 0.93
 
-**Fiches** : [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]]
+**Fiches** : [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]], [[fiches/2026-10/sfeir-cloudflare-clef-jev-modeles-decision-2026-10-06\|Cloudflare Clef face à Jev : quel modèle de décision choisir, et ce que valent les chiffres]]
+
+### modèle local {#modèle-local}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **rôle** : Modèle exécuté sur place, permettant de couper le réseau pendant l'analyse
+
+- **permet** → analyse de malware confinée de bout en bout (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-analyse-malware-agent-local-2026-10-14\|Analyser un malware en local avec un agent, sans l'exfiltrer]]
 
 ### modèles de monde interactifs {#modèles-de-monde-interactifs}
 
@@ -22991,6 +25414,14 @@
 
 **Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
 
+### multiplayer AI {#multiplayer-AI}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Agents partagés entre humains et équipes plutôt qu'assistants individuels
+
+**Fiches** : [[fiches/2026-10/sfeir-dust-ia-entreprise-multiplayer-agents-2026-10-27\|Dust ou l'IA d'entreprise qui se joue à plusieurs : ce que les DSI doivent en retenir]]
+
 ### multiplicateurs de tokens {#multiplicateurs-de-tokens}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -23032,6 +25463,16 @@
 - git history **permet** → mémoire institutionnelle — 0.90
 
 **Fiches** : [[fiches/2025-11/klaassen-teach-ai-think-senior-engineer-every-2025-11-07\|Teach Your AI to Think Like a Senior Engineer]]
+
+### mémoire native de l'éditeur {#mémoire-native-de-l'éditeur}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Mémoire intégrée à chaque agent (Claude Code, Codex, Hermes), portabilité faible
+
+- [[kb/dépôt-Git-de-mémoire\|dépôt Git de mémoire]] **concurrence** → mémoire native de l'éditeur — 0.80
+
+**Fiches** : [[fiches/2026-11/sfeir-memoire-agent-souverainete-2026-11-14\|Mémoire d'agent et souveraineté : Git, base managée ou mémoire native de l'éditeur ?]]
 
 ### mérite technique {#mérite-technique}
 
@@ -23203,6 +25644,18 @@
 
 **Fiches** : [[fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17\|Reflecting on a year of Claude Code]]
 
+### p-code {#p-code}
+
+**Type** : CONCEPT | 2 relations | 2 fiches
+
+- **définition** : Bytecode VB exécuté par la machine virtuelle de la bibliothèque d'exécution
+
+- **permet** → conservation d'une structure de haut niveau dans le binaire (CONCEPT) — 0.82
+
+- [[kb/_entites-mineures#Visual-Basic-6\|Visual Basic 6]] **utilise** → p-code — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-retro-ingenierie-powerbuilder-nsdk-2026-10-20\|PowerBuilder et NSDK : état des lieux de la rétro-ingénierie par agents]], [[fiches/2026-10/sfeir-retro-ingenierie-vb6-2026-10-18\|Rétro-ingénierie d'applications VB6 : peu de retours, un workflow possible]]
+
 ### paire contrastive {#paire-contrastive}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -23283,6 +25736,14 @@
 - **définition** : Le vrai cœur du métier, que la vitesse rend impossible à simuler
 
 **Fiches** : [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|AI made your engineers fast. Too fast to leave room for the rest of the org to think.]]
+
+### personal AGI {#personal-AGI}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Agent sur l'infrastructure de l'utilisateur, lisant une mémoire possédée
+
+**Fiches** : [[fiches/2026-11/sfeir-own-your-intelligence-lecture-dsi-2026-11-14\|Own Your Intelligence : la thèse de Garry Tan lue par une DSI]]
 
 ### perspective européenne IA {#perspective-européenne-IA}
 
@@ -23388,6 +25849,16 @@
 
 **Fiches** : [[fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24\|Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes]]
 
+### plan de continuité PC SOFT {#plan-de-continuité-PC-SOFT}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **contenu** : WINDEV Suite 2025 U5 sur deux ans, sans sessions, souscription avant fin 2026
+
+- **s_applique_à** → professionnels de moins de 10 salariés (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-redevance-windev-rachat-pc-soft-2026-10-16\|Redevance WinDev, rachat de PC SOFT : faut-il quitter WinDev maintenant ?]]
+
 ### plancher statique / plafond dynamique {#plancher-statique-plafond-dynamique}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -23426,6 +25897,17 @@
 - [[kb/_entites-mineures#tiering-par-risque\|tiering par risque]] **est_instance_de** → politique FinOps token — 0.95
 
 **Fiches** : [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+
+### pont authentifié par jeton {#pont-authentifié-par-jeton}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Jeton de capacité par session + socket Unix réservé (TCP local authentifié sous Windows)
+
+- **fait_partie_de** → [[kb/REA\|REA]] (TECHNOLOGIE) — 0.90
+- **résout** → accès d'un programme tiers au moteur d'analyse (CONCEPT) — 0.86
+
+**Fiches** : [[fiches/2026-10/sfeir-rea-sandbox-confinement-2026-10-13\|REA n'est pas un sandbox : confiner l'analyse d'un binaire inconnu]]
 
 ### pool de références {#pool-de-références}
 
@@ -23858,6 +26340,18 @@
 
 **Fiches** : [[fiches/2026-06/nyt-musk-promises-spacex-ipo-track-record-2026-06-02\|Elon Musk Promises. Here's How Often He Delivers.]]
 
+### routage collant {#routage-collant}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Renvoi des requêtes d'un même fil vers l'endpoint qui détient le préfixe en cache, 10 min best-effort
+
+- **permet** → [[kb/Prompt-caching\|prompt caching]] (CONCEPT) — 0.88
+
+- [[kb/OpenRouter-technologie\|OpenRouter]] **utilise** → routage collant — 0.92
+
+**Fiches** : [[fiches/2026-10/sfeir-openrouter-production-reglages-2026-10-12\|OpenRouter en production : cache, coûts, latence et données sous contrôle]]
+
 ### routage de modèles {#routage-de-modèles}
 
 **Type** : CONCEPT | 4 relations | 2 fiches
@@ -23928,6 +26422,16 @@
 - **définition** : Invocation à la demande d'une ressource de connaissances par l'agent
 
 **Fiches** : [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md outperforms skills in our agent evals]]
+
+### régie déguisée {#régie-déguisée}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Mise à disposition d'ingénieurs présentée comme mission FDE ; signal : le sous-effectif invoqué
+
+- [[kb/Forward-Deployed-Engineering\|Forward Deployed Engineering]] **s_oppose_à** → régie déguisée — 0.85
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-cursor-pauline-brunet-2026-11-10\|Chez Cursor, Pauline Brunet commence par décider où ne pas envoyer de FDE]]
 
 ### rétention de tâches propres {#rétention-de-tâches-propres}
 
@@ -24004,6 +26508,28 @@
 - **fonction** : définir outils, ressources, prompts pour agents
 
 **Fiches** : [[fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15\|MCP remplace le navigateur : Voici comment les développeurs devraient se préparer]]
+
+### score de Brier {#score-de-Brier}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Moyenne du carré de l'écart entre probabilité annoncée et résultat
+
+- [[kb/Clef\|Clef]] **utilise** → score de Brier — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-cloudflare-clef-jev-modeles-decision-2026-10-06\|Cloudflare Clef face à Jev : quel modèle de décision choisir, et ce que valent les chiffres]]
+
+### score de mutation {#score-de-mutation}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **rôle** : Mesure de la capacité d'une suite à détecter des erreurs injectées
+
+- **utilise** → PIT (TECHNOLOGIE) — 0.82
+
+- [[kb/golden-master-inversé\|golden master inversé]] **utilise** → score de mutation — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-windev-golden-master-inverse-2026-10-15\|Tests de non-régression d'une migration WinDev : la méthode du golden master inversé]]
 
 ### section Gotchas {#section-Gotchas}
 
@@ -24108,6 +26634,19 @@
 
 **Fiches** : [[fiches/2026-05/dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28\|Beyond code generation: rethinking engineering productivity in the age of AI agents]]
 
+### site conversationnel {#site-conversationnel}
+
+**Type** : CONCEPT | 3 relations | 1 fiches
+
+- **définition** : Site dont l'accueil répond aux questions à partir de ses contenus, avec sources et pages utiles
+
+- **est_basé_sur** → [[kb/base-de-connaissances-sfeir.com\|base de connaissances sfeir.com]] (TECHNOLOGIE) — 0.92
+- **s_applique_à** → site institutionnel comme terrain d'essai des agents (CONCEPT) — 0.82
+
+- [[kb/base-de-connaissances-sfeir.com\|base de connaissances sfeir.com]] **permet** → site conversationnel — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-site-conversationnel-cms-conversation-2026-11-15\|Site conversationnel : comment sfeir.com est passé du CMS à la conversation]]
+
 ### skill issue {#skill-issue}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -24172,13 +26711,14 @@
 
 ### souveraineté numérique {#souveraineté-numérique}
 
-**Type** : CONCEPT | 2 relations | 2 fiches
+**Type** : CONCEPT | 3 relations | 2 fiches
 
 - **domaine** : Stratégie des États face à la concentration IA
 - **définition** : Dans ce dossier, propriété qui se qualifie couche par couche : le modèle open-weights reste réversible, l'inférence régionale est configurable, mais l'engagement de capacité pluriannuel est irréversible par conception. Le point de fuite pratique n'est pas la région d'exécution mais l'outillage de l'agent — appels d'outils et recherche web hors région
 
 - **s_applique_à** → « la configuration d'une application agentique plutôt qu'à la seule région d'exécution, puisque les appels d'outils comme la recherche web peuvent sortir de la région choisie » (AFFIRMATION) — 0.90
 
+- [[kb/audit-de-comportement-logiciel\|audit de comportement logiciel]] **s_applique_à** → souveraineté numérique — 0.90
 - [[kb/Big-Tech\|Big Tech]] **réduit** → souveraineté numérique — 0.88
 
 **Fiches** : [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]], [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
@@ -24357,6 +26897,16 @@
 
 **Fiches** : [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
 
+### synchronisation hors ligne {#synchronisation-hors-ligne}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **enjeux** : Fraîcheur des données embarquées, conflits entre terminaux, reprise sans doublon
+
+- **s_applique_à** → [[kb/_entites-mineures#WinDev-Mobile\|WinDev Mobile]] (TECHNOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-migrer-webdev-windev-mobile-2026-10-16\|Migrer WebDev et WinDev Mobile : sites, applications SaaS et applications terrain]]
+
 ### systems around the model {#systems-around-the-model}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -24446,6 +26996,16 @@
 
 **Fiches** : [[fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20\|ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)]]
 
+### séquestre de code source {#séquestre-de-code-source}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : dépôt du code chez un tiers, libéré au client sous conditions contractuelles (escrow)
+
+- [[kb/plan-de-sauvetage-en-quatre-temps\|plan de sauvetage en quatre temps]] **utilise** → séquestre de code source — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-editeur-disparu-code-perdu-2026-10-19\|Éditeur disparu, code source perdu : plan de sauvetage d'une application critique]]
+
 ### tarification des écritures de cache {#tarification-des-écritures-de-cache}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -24496,6 +27056,16 @@
 
 **Fiches** : [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]
 
+### test du dev shop {#test-du-dev-shop}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Une équipe qui repart de zéro chez chaque client fait du développement à façon, pas du FDE
+
+- **s_applique_à** → [[kb/Forward-Deployed-Engineering\|Forward Deployed Engineering]] (METHODOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-101-kevin-bai-anthropic-2026-11-10\|Kevin Bai (Anthropic) ramène le FDE à une question : qui achète quoi ?]]
+
 ### théorie des contraintes {#théorie-des-contraintes}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -24534,6 +27104,14 @@
 - [[kb/AI-works\|AI/works™]] **réduit** → token blowout — 0.93
 
 **Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
+
+### token maxing {#token-maxing}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Consommation de tokens prise pour un résultat
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-cognition-jia-wu-2026-11-10\|Cognition et son FDE : des chiffres spectaculaires, aucune méthode pour les lire]]
 
 ### token spend mal dirigé {#token-spend-mal-dirigé}
 
@@ -24819,6 +27397,16 @@
 
 **Fiches** : [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
 
+### verrouillage du client par le langage {#verrouillage-du-client-par-le-langage}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Le fournisseur qui fixe le vocabulaire du client devient la fondation de ses solutions
+
+- [[kb/SFEIR\|SFEIR]] **s_oppose_à** → verrouillage du client par le langage — 0.80
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-kepler-vinoo-ganesh-2026-11-10\|Vinoo Ganesh (Kepler) fait du FDE une stratégie produit, histoires de terrain à l'appui]]
+
 ### verrouillage développeur {#verrouillage-développeur}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -24916,6 +27504,16 @@
 - ChatGPT App **utilise** → widgets iframes — 0.97
 
 **Fiches** : [[fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10\|Everything you need to know about building ChatGPT apps]]
+
+### wiki de mémoire {#wiki-de-mémoire}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **apport** : Utile surtout pour les questions croisant plusieurs documents (87 % vs 73 %)
+
+- **améliore** → « Stainless : 61 % avec wiki et recherche contre 53 % recherche seule » (MESURE) — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-components-agent-memory-anthropic-2026-11-14\|The components of agent memory : ce qu'Anthropic a mesuré, et ce que ça change pour vos agents]]
 
 ### workslop {#workslop}
 
@@ -25196,7 +27794,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (411)
+## METHODOLOGIE (474)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -25303,6 +27901,16 @@
 - **rôle** : Analyse du Cycle de Vie des modèles Mistral réalisée avec l'ADEME — première dans l'IA — refonte prévue sur nouveaux modèles, anti-compensation carbone
 
 **Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
+
+### ADR rétroactifs {#ADR-rétroactifs}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Expliquer après coup les décisions derrière les structures surprenantes du legacy
+
+- [[kb/rétro-documentation-spec-first\|rétro-documentation spec first]] **utilise** → ADR rétroactifs — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-windev-regles-metier-ia-2026-10-15\|Extraire les règles métier d'une application WinDev avec l'IA : la rétro-documentation spec first]]
 
 ### AI Champions {#AI-Champions}
 
@@ -25425,6 +28033,16 @@
 
 **Fiches** : [[fiches/2026-02/synthese-prompts-formats-talks-deep-research-2026-02\|Synthèse : Architectures Narratives & Formats de Conférence - Guide Pratique et Prompts]]
 
+### AISecOps {#AISecOps}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Le modèle qui trouve la faille sert aussi à détecter et valider le correctif
+
+- [[kb/SFEIR\|SFEIR]] **recommande** → AISecOps — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-php2shell-faille-php-course-au-patch-2026-10-21\|PHP2Shell : l'IA a trouvé la faille avant les attaquants, la course au patch commence]]
+
 ### ATDD (Acceptance Test-Driven Development) {#ATDD-(Acceptance-Test-Driven-Development)}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
@@ -25436,6 +28054,16 @@
 - [[kb/Dave-Farley\|Dave Farley]] **recommande** → ATDD (Acceptance Test-Driven Development) — 0.94
 
 **Fiches** : [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|AI Assisted Development is a TRAP Without Continuous Delivery]]
+
+### AWQ {#AWQ}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Activation-aware Weight Quantization, quantification guidée par les activations
+
+- [[kb/Altar\|Altar]] **utilise** → AWQ — 0.94
+
+**Fiches** : [[fiches/2026-10/girard-aikido-altar-securite-air-gap-2026-10-01\|Aikido Altar : un modèle de sécurité open-weight taillé pour l'air gap]]
 
 ### Action-targeted content design {#Action-targeted-content-design}
 
@@ -25685,16 +28313,6 @@
 
 **Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 
-### CDLC {#CDLC}
-
-**Type** : METHODOLOGIE | 1 relations | 2 fiches
-
-- **alias** : Context Development Lifecycle
-
-- **s_inspire_de** → [[kb/_entites-mineures#DevOps\|DevOps]] (METHODOLOGIE) — 0.92
-
-**Fiches** : [[fiches/2026-02/debois-tessl-context-development-lifecycle-ai-coding-agents-2026-02-19\|The Context Development Lifecycle: Optimizing Context for AI Coding Agents]], [[fiches/2026-02/debois-tessl-context-flywheel-ai-coding-teams-2026-02-26\|The Context Flywheel: Why the Best AI Coding Teams Will Win on Context]]
-
 ### Chain-of-Thought {#Chain-of-Thought}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -25834,6 +28452,18 @@
 
 **Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|the 2026 ai engineer roadmap]]
 
+### Cyber Verification Program {#Cyber-Verification-Program}
+
+**Type** : METHODOLOGIE | 3 relations | 2 fiches
+
+- **éditeur** : Anthropic — accès aux usages cyber les moins bridés pour organisations vérifiées
+
+- [[kb/Claude-Mythos\|Claude Mythos]] **utilise** → Cyber Verification Program — 0.88
+- [[kb/Claude-Mythos-5.1\|Claude Mythos 5.1]] **fait_partie_de** → Cyber Verification Program — 0.88
+- [[kb/Fairwind-Program-methodologie\|Fairwind Program]] **converge_avec** → Cyber Verification Program — 0.78
+
+**Fiches** : [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]], [[fiches/2026-10/sfeir-gemini-4-argon-cyber-permissive-fairwind-2026-10-27\|Gemini 4 Argon Cyber Permissive : Google retire les garde-fous et verrouille la porte]]
+
 ### Cycle DPEV {#Cycle-DPEV}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -25866,11 +28496,13 @@
 
 ### DORA AI Capabilities Model {#DORA-AI-Capabilities-Model}
 
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
 
 - **composantes** : 7 capacités critiques
 
 - **affirme_que** → « il existe sept archétypes d'équipes, des défis fondamentaux aux high achievers harmonieux » (AFFIRMATION) — 0.97
+
+- [[kb/_entites-mineures#échelle-de-maturité-N0-N4\|échelle de maturité N0-N4]] **s_inspire_de** → DORA AI Capabilities Model — 0.88
 
 **Fiches** : [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Announcing the 2025 DORA Report: State of AI-Assisted Software Development]]
 
@@ -25937,25 +28569,13 @@
 
 **Fiches** : [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Using Claude Code: The Unreasonable Effectiveness of HTML]]
 
-### Design to Exit {#Design-to-Exit}
-
-**Type** : METHODOLOGIE | 2 relations | 2 fiches
-
-- **principe** : Payer d'avance la couche d'abstraction qui rend le fournisseur remplaçable, plutôt qu'espérer une réversibilité non construite
-
-- **s_applique_à** → qualification des dépendances d'un déploiement IA souverain (CONCEPT) — 0.85
-
-- [[kb/LLMD\|LLMD]] **s_applique_à** → Design to Exit — 0.85
-
-**Fiches** : [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]], [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
-
 ### DevOps {#DevOps}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
 
 - **catégorie** : Méthodologie intégrant développement et opérations
 
-- [[kb/_entites-mineures#CDLC\|CDLC]] **s_inspire_de** → DevOps — 0.92
+- [[kb/CDLC\|CDLC]] **s_inspire_de** → DevOps — 0.92
 - [[kb/Patrick-Debois\|Patrick Debois]] **a_créé** → DevOps — 0.85
 
 **Fiches** : [[fiches/2026-02/debois-tessl-context-development-lifecycle-ai-coding-agents-2026-02-19\|The Context Development Lifecycle: Optimizing Context for AI Coding Agents]]
@@ -26419,25 +29039,14 @@
 
 **Fiches** : [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|How Anthropic enables self-service data analytics with Claude]]
 
-### LLM wiki {#LLM-wiki}
-
-**Type** : METHODOLOGIE | 2 relations | 1 fiches
-
-- **définition** : Le modèle compile les informations en fichiers markdown éditables
-
-- **est_instance_de** → mémoire en markdown lisible et modifiable (CONCEPT) — 0.88
-
-- [[kb/Andrej-Karpathy\|Andrej Karpathy]] **a_créé** → LLM wiki — 0.88
-
-**Fiches** : [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
-
 ### LLM-as-a-Judge {#LLM-as-a-Judge}
 
-**Type** : METHODOLOGIE | 2 relations | 1 fiches
+**Type** : METHODOLOGIE | 3 relations | 1 fiches
 
 - **définition** : Second agent review style/architecture
 
 - **permet** → vérification de l'adhérence style et architecture (CONCEPT) — 0.88
+- **est_basé_sur** → Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena (DOCUMENT) — 0.82
 
 - [[kb/_entites-mineures#gouvernance-vivante\|gouvernance vivante]] **utilise** → LLM-as-a-Judge — 0.85
 
@@ -26452,6 +29061,17 @@
 - [[kb/_entites-mineures#claude-api-build-eval\|claude-api build-eval]] **utilise** → LLM-as-judge — 0.92
 
 **Fiches** : [[fiches/2026-09/lancemartin-anthropic-automating-eval-design-hillclimbing-2026-09-28\|Automating eval design and hillclimbing with Claude]]
+
+### Leadership, Lab, Crowd {#Leadership,-Lab,-Crowd}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **application SFEIR** : Managers utilisateurs, 10 €/h/ingénieur et charte, un AI Champion sur dix
+
+- [[kb/Ethan-Mollick\|Ethan Mollick]] **a_créé** → Leadership, Lab, Crowd — 0.90
+- [[kb/SFEIR\|SFEIR]] **utilise** → Leadership, Lab, Crowd — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-ai-operating-system-mckinsey-lecture-2026-10-15\|AI operating system : ce que McKinsey a raison de dire, et ce qu'il ne prouve pas]]
 
 ### Learning curve shapes {#Learning-curve-shapes}
 
@@ -26646,6 +29266,17 @@
 
 **Fiches** : [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]]
 
+### Patch the Planet {#Patch-the-Planet}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Programme OpenAI de découverte et coordination de correctifs par agents
+
+- [[kb/OpenAI\|OpenAI]] **a_créé** → Patch the Planet — 0.90
+- [[kb/Calif\|Calif]] **fait_partie_de** → Patch the Planet — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-php2shell-faille-php-course-au-patch-2026-10-21\|PHP2Shell : l'IA a trouvé la faille avant les attaquants, la course au patch commence]]
+
 ### Performance Review Redesign {#Performance-Review-Redesign}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -26738,10 +29369,12 @@
 
 ### Pizza team {#Pizza-team}
 
-**Type** : METHODOLOGIE | 0 relations | 2 fiches
+**Type** : METHODOLOGIE | 1 relations | 2 fiches
 
 - **définition** : Équipe d'une dizaine de personnes (loi de Conway) ; autonomie, peu de mandats top-down
 - **statut_2026** : Obsolète à l'ère agentique — il faut segmenter les équipes
+
+- [[kb/_entites-mineures#Sandwich-Team\|Sandwich Team]] **remplace** → Pizza team — 0.85
 
 **Fiches** : [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]], [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]]
 
@@ -26826,17 +29459,17 @@
 
 **Fiches** : [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|2× – nine months later: We did it]]
 
-### Project Glasswing {#Project-Glasswing}
+### Project Frontline {#Project-Frontline}
 
-**Type** : METHODOLOGIE | 2 relations | 2 fiches
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
 
-- **définition** : Programme d'accès limité pour défenseurs de confiance
+- **définition** : Programme de rotation Palantir transformant des ingénieurs logiciels en FDE (~350 personnes)
 
-- **permet** → « à des défenseurs de confiance de trouver plus de 10 000 vulnérabilités avant les attaquants » (MESURE) — 0.92
+- **fait_partie_de** → [[kb/Palantir\|Palantir]] (ORGANISATION) — 0.85
 
-- [[kb/Claude-Mythos-5\|Claude Mythos 5]] **fait_partie_de** → Project Glasswing — 0.90
+- [[kb/Vinoo-Ganesh\|Vinoo Ganesh]] **a_créé** → Project Frontline — 0.90
 
-**Fiches** : [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]], [[fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29\|GLM-5.3 and the spread of advanced cyber capabilities]]
+**Fiches** : [[fiches/2026-11/sfeir-fde-kepler-vinoo-ganesh-2026-11-10\|Vinoo Ganesh (Kepler) fait du FDE une stratégie produit, histoires de terrain à l'appui]]
 
 ### Prompt Engineering {#Prompt-Engineering}
 
@@ -26871,6 +29504,19 @@
 - **améliore** → la compréhension réelle d'un changement avant le merge (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03\|A Field Guide to Fable: Finding Your Unknowns]]
+
+### REAP {#REAP}
+
+**Type** : METHODOLOGIE | 3 relations | 1 fiches
+
+- **définition** : Router-weighted Expert Activation Pruning : élagage d'experts pondéré par le routeur et l'amplitude de sortie
+
+- **réduit** → « 88 experts retirés sur 256 par couche (34,4 %) » (MESURE) — 0.92
+
+- [[kb/Altar\|Altar]] **utilise** → REAP — 0.95
+- Cerebras **a_créé** → REAP — 0.93
+
+**Fiches** : [[fiches/2026-10/girard-aikido-altar-securite-air-gap-2026-10-01\|Aikido Altar : un modèle de sécurité open-weight taillé pour l'air gap]]
 
 ### RED/GREEN TDD {#RED-GREEN-TDD}
 
@@ -26913,6 +29559,19 @@
 - **utilise** → Interception de la tentative de sortie du modèle (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]], [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|The Anatomy of an Agent Harness]]
+
+### Reciprocal Rank Fusion {#Reciprocal-Rank-Fusion}
+
+**Type** : METHODOLOGIE | 3 relations | 1 fiches
+
+- **définition** : Fusion de classements par rang réciproque (Cormack, Clarke, Büttcher, 2009)
+
+- **est_basé_sur** → Reciprocal Rank Fusion outperforms Condorcet (SIGIR 2009) (DOCUMENT) — 0.88
+
+- [[kb/QMD\|QMD]] **utilise** → Reciprocal Rank Fusion — 0.95
+- [[kb/agent-conversationnel-sfeir.com\|agent conversationnel sfeir.com]] **utilise** → Reciprocal Rank Fusion — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-architecture-site-conversationnel-2026-11-15\|Architecture d'un site conversationnel : ce qui se passe entre la question et la réponse]]
 
 ### Recursive Tool Building {#Recursive-Tool-Building}
 
@@ -27014,6 +29673,18 @@
 - [[kb/Delos-Intelligence\|Delos Intelligence]] **utilise** → SaaS à crédits — 0.90
 
 **Fiches** : [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)]]
+
+### Sandwich Team {#Sandwich-Team}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Équipe augmentée de deux ou trois personnes autour d'un App Owner, contributeurs ponctuels via un contexte partagé
+
+- **remplace** → [[kb/_entites-mineures#Pizza-team\|pizza team]] (CONCEPT) — 0.85
+
+- [[kb/SFEIR\|SFEIR]] **utilise** → Sandwich Team — 0.78
+
+**Fiches** : [[fiches/2026-10/sfeir-ai-operating-system-mckinsey-lecture-2026-10-15\|AI operating system : ce que McKinsey a raison de dire, et ce qu'il ne prouve pas]]
 
 ### Self-improving coding agent {#Self-improving-coding-agent}
 
@@ -27144,11 +29815,14 @@
 
 ### Spec-driven development {#Spec-driven-development}
 
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
+**Type** : METHODOLOGIE | 3 relations | 1 fiches
 
 - **catégorie** : Workflow de développement AI Native
 
 - **remplace** → Story-driven development (METHODOLOGIE) — 0.85
+
+- [[kb/rétro-documentation-spec-first\|rétro-documentation spec first]] **est_variante_de** → Spec-driven development — 0.88
+- [[kb/Software-Factory-10x\|Software Factory 10x]] **utilise** → Spec-driven development — 0.86
 
 **Fiches** : [[fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23\|Moving away from Agile: What's Next? Reshaping Software Delivery with Agents]]
 
@@ -27602,6 +30276,37 @@
 
 **Fiches** : [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|How Anthropic enables self-service data analytics with Claude]]
 
+### analyse de malware {#analyse-de-malware}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **règle** : Statique uniquement, VM dédiée, modèle local pour le sensible
+
+- [[kb/REA\|REA]] **s_applique_à** → analyse de malware — 0.90
+- injection de prompt **s_applique_à** → analyse de malware — 0.86
+
+**Fiches** : [[fiches/2026-10/sfeir-analyse-malware-agent-local-2026-10-14\|Analyser un malware en local avec un agent, sans l'exfiltrer]]
+
+### analyse différentielle de correctifs {#analyse-différentielle-de-correctifs}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Comparer le code avant/après un correctif pour en déduire la faille corrigée
+
+- [[kb/exploit_agent\|exploit_agent]] **utilise** → analyse différentielle de correctifs — 0.93
+
+**Fiches** : [[fiches/2026-11/sfeir-exploit-agent-gtig-correctif-exploit-2026-11-18\|exploit_agent : le correctif publié devient la carte de l'attaquant]]
+
+### analyse en boîte blanche {#analyse-en-boîte-blanche}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Audit du code source pour chercher comment un attaquant l'exploiterait
+
+- **s_applique_à** → code interne legacy (CONCEPT) — 0.86
+
+**Fiches** : [[fiches/2026-10/sfeir-retro-ingenierie-agents-securite-2026-10-16\|Rétro-ingénierie par agents : ce que ça change pour les équipes sécurité]]
+
 ### analyse_d_erreurs {#analyse_d_erreurs}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -27621,6 +30326,16 @@
 - [[kb/Claude-Code\|Claude Code]] **utilise** → antfooding — 0.95
 
 **Fiches** : [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]
+
+### appel d'outil différé {#appel-d'outil-différé}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Run mis en pause, session sauvegardée, reprise par un nouvel événement après accord
+
+- [[kb/agents-always-on\|agents always-on]] **utilise** → appel d'outil différé — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-agents-always-on-anthropic-ax-google-2026-11-15\|Agents always-on : les cinq primitives d'Anthropic et l'étage AX de Google]]
 
 ### apprentissage autodidacte {#apprentissage-autodidacte}
 
@@ -27739,6 +30454,30 @@
 
 **Fiches** : [[fiches/2026-06/williams-adlc-3-tests-are-the-spec-2026-06-12\|Tests Are the Spec in the Only Language the Builder Can't Argue With]]
 
+### audit d'application mobile {#audit-d'application-mobile}
+
+**Type** : METHODOLOGIE | 3 relations | 1 fiches
+
+- **contenu** : permissions, SDK embarqués, domaines et endpoints
+
+- **utilise** → analyse statique (METHODOLOGIE) — 0.88
+- **s_applique_à** → conformité RGPD (CONCEPT) — 0.80
+
+- [[kb/REA\|REA]] **s_applique_à** → audit d'application mobile — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-rea-android-apk-2026-10-19\|REA et Android : auditer une APK avec JADX et Apktool]]
+
+### audit de binaire fournisseur {#audit-de-binaire-fournisseur}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Due diligence d'un composant tiers livré compilé, par agent de rétro-ingénierie confiné
+
+- **utilise** → [[kb/REA\|REA]] (TECHNOLOGIE) — 0.92
+- **permet** → [[kb/_entites-mineures#SBOM\|SBOM]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-audit-binaire-fournisseur-2026-10-17\|Auditer un binaire fournisseur sans son code source]]
+
 ### auto-complétion {#auto-complétion}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -27748,6 +30487,36 @@
 - édition directe du code **surpasse** → auto-complétion — 0.88
 
 **Fiches** : [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Some thoughts on LLMs and Software Development]]
+
+### barrière de commit {#barrière-de-commit}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **positions** : off, observe, enforce ; démarrage en observe, soupape après deux blocages
+
+- **utilise** → mode observe (CONCEPT) — 0.86
+
+**Fiches** : [[fiches/2026-11/sfeir-verification-code-agents-claude-code-2026-11-19\|Comment l'équipe Claude Code vérifie le code écrit par ses agents]]
+
+### bergers académiques {#bergers-académiques}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Groupes d'experts externes chargés d'organiser l'examen des résultats, bénévoles et sans NDA
+
+- [[kb/OpenAI\|OpenAI]] **a_créé** → bergers académiques — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-openai-kakeya-eth-yang-mills-2026-10-27\|Kakeya, ETH, Yang-Mills : OpenAI annonce trois percées, la communauté prend le temps de goûter]]
+
+### bloquer le binaire, signaler le jugement {#bloquer-le-binaire,-signaler-le-jugement}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **principe** : Bloque si la faute se corrige en un mot ; signale si elle demande un jugement ; bannir après nettoyage
+
+- **fait_partie_de** → [[kb/_entites-mineures#trois-filets-de-contrôle\|trois filets de contrôle]] (METHODOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-garde-fous-site-agents-ia-2026-11-15\|Contenus écrits par des agents IA : les garde-fous qui gardent un site juste]]
 
 ### boucle d'auto-amélioration {#boucle-d'auto-amélioration}
 
@@ -27799,6 +30568,16 @@
 
 **Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
+### cache des réponses {#cache-des-réponses}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **fonctionnement** : Première question complète gardée 7 jours ; 13,1 % des échanges en préversion
+
+- **réduit** → « coût d'une question déjà posée à ~0,0001 centime » (MESURE) — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-cout-site-conversationnel-2026-11-15\|Combien coûte un site conversationnel : nos chiffres mesurés et leur méthode]]
+
 ### cadre de mesure à 4 dimensions {#cadre-de-mesure-à-4-dimensions}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -27849,6 +30628,18 @@
 - **mesure** → « −30 % d'itérations de correction après dix cycles » (MESURE) — 0.90
 
 **Fiches** : [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
+
+### capture réseau {#capture-réseau}
+
+**Type** : METHODOLOGIE | 2 relations | 2 fiches
+
+- **formats** : HAR, SAZ ; exécution en VM dédiée avec proxy d'inspection
+- **rôle** : observer le trafic sortant réel d'une exécution autorisée
+
+- [[kb/audit-de-télémétrie\|audit de télémétrie]] **utilise** → capture réseau — 0.90
+- [[kb/audit-de-comportement-logiciel\|audit de comportement logiciel]] **utilise** → capture réseau — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-rgpd-verifier-telemetrie-application-2026-10-18\|RGPD : vérifier ce qu'une application envoie vraiment]], [[fiches/2026-10/sfeir-souverainete-audit-logiciel-2026-10-19\|Souveraineté : auditer le comportement d'un logiciel extra-européen]]
 
 ### character training {#character-training}
 
@@ -27925,6 +30716,26 @@
 - [[kb/_entites-mineures#The-AI-Era-Software-Assembly-Line\|The AI-Era Software Assembly Line]] **est_basé_sur** → cohorte fixe d'applications — 0.89
 
 **Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]]
+
+### colonne composée par des règles {#colonne-composée-par-des-règles}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **principe** : Blocs et ordre choisis par des règles écrites et testées, aucun modèle
+
+- **résout** → liens inventés par le modèle (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-architecture-site-conversationnel-2026-11-15\|Architecture d'un site conversationnel : ce qui se passe entre la question et la réponse]]
+
+### confinement des agents {#confinement-des-agents}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **périmètre** : Postes, conteneurs, droits, choix du modèle, règles d'approbation des outils
+
+- [[kb/_entites-mineures#AI-Cyber\|AI Cyber]] **utilise** → confinement des agents — 0.84
+
+**Fiches** : [[fiches/2026-11/sfeir-artex-pentest-autonome-cyberarme-2026-11-17\|ARTEX : quand le pentest autonome devient une cyberarme]]
 
 ### correction harvesting {#correction-harvesting}
 
@@ -28008,6 +30819,16 @@
 
 **Fiches** : [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]]
 
+### deux portes de santé {#deux-portes-de-santé}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **fonctionnement** : Porte 1 avec retour arrière automatique ; porte 2 vérifiant la même empreinte sous dix minutes
+
+- **résout** → réponse fondée sur un contenu retiré (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-11/sfeir-architecture-site-conversationnel-2026-11-15\|Architecture d'un site conversationnel : ce qui se passe entre la question et la réponse]]
+
 ### distillation (Mensch) {#distillation-(Mensch)}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -28028,6 +30849,16 @@
 
 **Fiches** : [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext: Context Data Platform for Cloud-Native AI Agents]]
 
+### divulgation coordonnée {#divulgation-coordonnée}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **référence** : ISO/IEC 29147 et 30111 ; découvreur, éditeur, coordinateur
+
+- [[kb/cadre-de-réponse-en-cinq-étapes\|cadre de réponse en cinq étapes]] **affine** → divulgation coordonnée — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-divulgation-failles-ia-cadre-openai-2026-10-26\|Failles trouvées par IA : le cadre de divulgation qu'OpenAI propose après PHP2Shell]]
+
 ### doctrine multicloud {#doctrine-multicloud}
 
 **Type** : METHODOLOGIE | 0 relations | 1 fiches
@@ -28035,6 +30866,30 @@
 - **principe** : Composer un portefeuille où chaque charge vit selon ses contraintes (souveraineté/perf/réglementation) en conservant le pouvoir d'en changer ; dépasser le faux dilemme « multi-cloud ou souverain »
 
 **Fiches** : [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
+
+### double exécution {#double-exécution}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : Même prompt dans deux sessions ; les règles non communes passent en relecture humaine
+
+- **réduit** → hallucination (CONCEPT) — 0.88
+
+- [[kb/rétro-documentation-spec-first\|rétro-documentation spec first]] **utilise** → double exécution — 0.92
+
+**Fiches** : [[fiches/2026-10/sfeir-windev-regles-metier-ia-2026-10-15\|Extraire les règles métier d'une application WinDev avec l'IA : la rétro-documentation spec first]]
+
+### dreaming {#dreaming}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Passe de maintenance hors ligne de la mémoire entre deux sessions
+
+- **s_inspire_de** → sleep-time compute (CONCEPT) — 0.88
+
+- [[kb/mémoire-d'agent\|mémoire d'agent]] **utilise** → dreaming — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-components-agent-memory-anthropic-2026-11-14\|The components of agent memory : ce qu'Anthropic a mesuré, et ce que ça change pour vos agents]]
 
 ### dynamic workflows {#dynamic-workflows}
 
@@ -28048,6 +30903,18 @@
 
 **Fiches** : [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]
 
+### décompilation pour interopérabilité {#décompilation-pour-interopérabilité}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Exception au droit d'auteur : 3 conditions cumulatives, 3 interdits
+
+- **s_applique_à** → application legacy à protocole non documenté (CONCEPT) — 0.86
+
+- [[kb/directive-2009-24-CE\|directive 2009/24/CE]] **permet** → décompilation pour interopérabilité — 0.93
+
+**Fiches** : [[fiches/2026-10/sfeir-decompilation-interoperabilite-dsi-2026-10-12\|Décompiler pour interopérer : l'article 6 de la directive expliqué à une DSI]]
+
 ### décomposition de capacités {#décomposition-de-capacités}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -28057,6 +30924,17 @@
 - **permet** → hiérarchie parent-enfant en JSON (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2025-04/ai-workflow-wardley-mapping-obsidian-youtube-2025-04-23\|AI Workflow for Creating Wardley Maps (Video Tutorial)]]
+
+### défragilisation {#défragilisation}
+
+**Type** : METHODOLOGIE | 2 relations | 2 fiches
+
+- **définition** : Réduire le stock de failles du code ancien avant qu'un agent attaquant ne le lise
+
+- [[kb/SFEIR\|SFEIR]] **recommande** → défragilisation — 0.86
+- [[kb/CodeMender\|CodeMender]] **permet** → défragilisation — 0.80
+
+**Fiches** : [[fiches/2026-11/sfeir-artex-pentest-autonome-cyberarme-2026-11-17\|ARTEX : quand le pentest autonome devient une cyberarme]], [[fiches/2026-10/sfeir-bank-of-america-mythos-prestataires-correctifs-2026-10-26\|Bank of America : 1 000 prestataires pour corriger ce que Mythos a trouvé]]
 
 ### désambiguïsation par consensus {#désambiguïsation-par-consensus}
 
@@ -28101,6 +30979,16 @@
 
 **Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 
+### egress fermé par défaut {#egress-fermé-par-défaut}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Sortie réseau d'un agent limitée à une liste blanche appliquée au niveau réseau (règles, proxy)
+
+- **réduit** → exfiltration par un agent (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-qwen-cohere-connexion-sortante-agents-2026-10-27\|Qwen3.8 a tenté d'écrire vers Pékin pendant un test : ce que le cas Cohere change pour vos agents]]
+
 ### environnements de RL privés {#environnements-de-RL-privés}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -28134,6 +31022,16 @@
 
 **Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 
+### escalade par seuil de confiance {#escalade-par-seuil-de-confiance}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Modèle économique avec score de confiance en JSON strict, relance vers un modèle fort sous un seuil
+
+- **réduit** → « taux d'erreur d'environ 10 % à 4 % avec 14 % de requêtes escaladées (exemple illustratif) » (MESURE) — 0.80
+
+**Fiches** : [[fiches/2026-10/sfeir-routeur-modeles-llm-escalade-2026-10-12\|Routeur de modèles LLM : quand il bat un modèle unique, et quand il perd]]
+
 ### eval d'incidents {#eval-d'incidents}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -28162,6 +31060,18 @@
 
 **Fiches** : [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|How Anthropic enables self-service data analytics with Claude]]
 
+### event inbox {#event-inbox}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : File durable d'événements servie par un seul worker actif, déduplication par source
+
+- **s_inspire_de** → modèle acteur (CONCEPT) — 0.78
+
+- [[kb/agents-always-on\|agents always-on]] **utilise** → event inbox — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-agents-always-on-anthropic-ax-google-2026-11-15\|Agents always-on : les cinq primitives d'Anthropic et l'étage AX de Google]]
+
 ### everyone ships {#everyone-ships}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
@@ -28172,6 +31082,17 @@
 - **utilise** → [[kb/MCP\|MCP]] (TECHNOLOGIE) — 0.90
 
 **Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+
+### fiche par notion {#fiche-par-notion}
+
+**Type** : METHODOLOGIE | 2 relations | 2 fiches
+
+- **principe** : Une définition unique versionnée dans Git, les pages en sont des projections
+
+- **fait_partie_de** → [[kb/base-de-connaissances-sfeir.com\|base de connaissances sfeir.com]] (TECHNOLOGIE) — 0.90
+- **résout** → dérive des définitions répétées dans les pages (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-11/sfeir-base-connaissances-site-conversationnel-2026-11-15\|Base de connaissances : le chantier invisible derrière un site conversationnel]], [[fiches/2026-11/sfeir-site-conversationnel-cms-conversation-2026-11-15\|Site conversationnel : comment sfeir.com est passé du CMS à la conversation]]
 
 ### filtrage par le contexte {#filtrage-par-le-contexte}
 
@@ -28202,6 +31123,20 @@
 - **permet** → encoder les contraintes architecturales importantes après un design commun (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02\|Maybe We Shouldn't Be Reviewing All This Code]]
+
+### formation à la rétro-ingénierie assistée par agents {#formation-à-la-rétro-ingénierie-assistée-par-agents}
+
+**Type** : METHODOLOGIE | 4 relations | 1 fiches
+
+- **principe** : Cibles graduées, questions courtes, vérification de chaque réponse par la preuve
+
+- **utilise** → [[kb/REA\|REA]] (TECHNOLOGIE) — 0.92
+- **est_basé_sur** → [[kb/_entites-mineures#New-to-RE-with-AI\|New to RE with AI?]] (DOCUMENT) — 0.88
+
+- [[kb/_entites-mineures#crackmes\|crackmes]] **permet** → formation à la rétro-ingénierie assistée par agents — 0.88
+- [[kb/_entites-mineures#SFEIR-Institute\|SFEIR Institute]] **s_applique_à** → formation à la rétro-ingénierie assistée par agents — 0.80
+
+**Fiches** : [[fiches/2026-10/sfeir-ctf-crackmes-formation-retro-ingenierie-2026-10-16\|CTF et crackmes : former ses équipes à la rétro-ingénierie assistée par agents]]
 
 ### formulation de vision précise {#formulation-de-vision-précise}
 
@@ -28301,6 +31236,17 @@
 - **définition** : Standardisation des pratiques dev IA via parcours gouvernés (paradigme Platform Engineering / IDP)
 
 **Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
+
+### graphe schema.org par page {#graphe-schema.org-par-page}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **principe** : Un seul bloc JSON-LD @graph, nœuds reliés par @id, about calculé depuis les fiches
+
+- **fait_partie_de** → [[kb/sfeir.com\|sfeir.com]] (TECHNOLOGIE) — 0.88
+- **utilise** → [[kb/_entites-mineures#DefinedTerm\|DefinedTerm]] (TECHNOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-ecrire-moteurs-ia-schema-org-llms-txt-2026-11-15\|Écrire pour les moteurs et pour les IA : graphe schema.org, llms.txt et fiches de référence]]
 
 ### grille Adopt Partner Build Buy {#grille-Adopt-Partner-Build-Buy}
 
@@ -28477,6 +31423,30 @@
 
 **Fiches** : [[fiches/2026-10/suchaud-wenvision-fin-valeur-faisabilite-prioriser-ia-2026-10-22\|La fin de Valeur × Faisabilité : pourquoi la matrice produit ne sait plus prioriser l'IA]]
 
+### matrice de décision de stack cible {#matrice-de-décision-de-stack-cible}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **contenu** : 4 cibles × 8 critères, position assumée du cabinet
+
+- **s_applique_à** → [[kb/WinDev\|WinDev]] (TECHNOLOGIE) — 0.90
+
+- [[kb/SFEIR\|SFEIR]] **a_créé** → matrice de décision de stack cible — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-migration-windev-stack-cible-2026-10-15\|WinDev vers Java, .NET, TypeScript ou Flutter : comment choisir sa stack cible]]
+
+### matrice maturité-personnalisation {#matrice-maturité-personnalisation}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Maturité numérique du client × personnalisation du produit ; zone FDE = transformation embarquée
+
+- **s_applique_à** → [[kb/Forward-Deployed-Engineering\|Forward Deployed Engineering]] (METHODOLOGIE) — 0.88
+
+- [[kb/Pauline-Brunet\|Pauline Brunet]] **a_créé** → matrice maturité-personnalisation — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-cursor-pauline-brunet-2026-11-10\|Chez Cursor, Pauline Brunet commence par décider où ne pas envoyer de FDE]]
+
 ### merge-forecast {#merge-forecast}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
@@ -28488,6 +31458,27 @@
 - **mesure** → « largeur certifiée typique de 3 à 5 agents » (MESURE) — 0.87
 
 **Fiches** : [[fiches/2026-06/williams-adlc-5-three-dials-parallel-agents-2026-06-12\|Three Dials: Parallel Agents Without Merge Hell]]
+
+### migration WinDev {#migration-WinDev}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Réécriture progressive d'une application WinDev assistée par l'IA, six étapes et trois gates
+
+- **s_applique_à** → [[kb/WinDev\|WinDev]] (TECHNOLOGIE) — 0.93
+- **est_basé_sur** → [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] (METHODOLOGIE) — 0.78
+
+**Fiches** : [[fiches/2026-10/sfeir-risques-migration-windev-2026-10-16\|Migration WinDev : les 10 risques qui font échouer un projet, et comment les maîtriser]]
+
+### migration à blanc {#migration-à-blanc}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **règle** : Sur copie, source en lecture seule, répétée jusqu'à deux rapports sans écart
+
+- [[kb/méthode-de-migration-HFSQL-vers-PostgreSQL-en-six-étapes\|méthode de migration HFSQL vers PostgreSQL en six étapes]] **utilise** → migration à blanc — 0.92
+
+**Fiches** : [[fiches/2026-10/sfeir-hfsql-postgresql-migration-donnees-2026-10-15\|HFSQL vers PostgreSQL : migrer les données d'une application WinDev sans perte]]
 
 ### mob programming {#mob-programming}
 
@@ -28592,6 +31583,26 @@
 
 **Fiches** : [[fiches/2026-10/bartaguiz-velocite-harness-engineering-2026-10-15\|Quand la vélocité explose avec l'IA, place au "Harness Engineering" !]], [[fiches/2026-06/williams-adlc-3-tests-are-the-spec-2026-06-12\|Tests Are the Spec in the Only Language the Builder Can't Argue With]]
 
+### méthode par échantillons connus {#méthode-par-échantillons-connus}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **étapes** : Fichiers différant d'une valeur, comparaison octet par octet, parseur, traitement des rejets
+
+- **permet** → cartographie de la structure d'un format binaire (CONCEPT) — 0.88
+
+- [[kb/rétro-documentation-de-format\|rétro-documentation de format]] **utilise** → méthode par échantillons connus — 0.92
+
+**Fiches** : [[fiches/2026-10/sfeir-formats-proprietaires-retro-documentation-2026-10-18\|Formats de fichiers propriétaires : rétro-documenter pour migrer les données]]
+
+### opusplan {#opusplan}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **définition** : Opus planifie en plan mode, Sonnet exécute ; fonctionne hors API Anthropic
+
+**Fiches** : [[fiches/2026-10/sfeir-claude-code-advisor-multi-modeles-2026-10-08\|Advisor Claude Code : qui planifie, qui édite, qui lit entre Opus, Sonnet et Haiku 5.5]]
+
 ### orchestration de bots {#orchestration-de-bots}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -28620,6 +31631,16 @@
 - **surpasse** → « la lecture d'une solution achevée pour apprendre le raisonnement d'un ingénieur expérimenté » (AFFIRMATION) — 0.91
 
 **Fiches** : [[fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02\|Maybe We Shouldn't Be Reviewing All This Code]]
+
+### passe anti-slop {#passe-anti-slop}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Retrait des tics d'écriture des modèles de langage, adaptée au français de SFEIR
+
+- **s_inspire_de** → stop-slop.fr (TECHNOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-garde-fous-site-agents-ia-2026-11-15\|Contenus écrits par des agents IA : les garde-fous qui gardent un site juste]]
 
 ### pattern Committee {#pattern-Committee}
 
@@ -28708,6 +31729,19 @@
 
 **Fiches** : [[fiches/2026-06/williams-adlc-2-two-human-gates-2026-06-12\|Two Human Gates and Everything Between Is Machine-Checked]]
 
+### phase transitoire WinDev sur PostgreSQL {#phase-transitoire-WinDev-sur-PostgreSQL}
+
+**Type** : METHODOLOGIE | 3 relations | 1 fiches
+
+- **rôle** : Sortir d'HFSQL avant la fin de la réécriture, base partagée
+
+- **permet** → [[kb/golden-master\|golden master]] (METHODOLOGIE) — 0.82
+- **s_inspire_de** → [[kb/_entites-mineures#Sealog\|Sealog]] (ORGANISATION) — 0.80
+
+- [[kb/méthode-de-migration-HFSQL-vers-PostgreSQL-en-six-étapes\|méthode de migration HFSQL vers PostgreSQL en six étapes]] **utilise** → phase transitoire WinDev sur PostgreSQL — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-hfsql-postgresql-migration-donnees-2026-10-15\|HFSQL vers PostgreSQL : migrer les données d'une application WinDev sans perte]]
+
 ### plafond de rondes de revue {#plafond-de-rondes-de-revue}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
@@ -28740,6 +31774,18 @@
 
 **Fiches** : [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
 
+### preuve par exploit {#preuve-par-exploit}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Une faille ne compte que si un exploit exécuté en bac à sable la démontre
+
+- **réduit** → faux positifs de l'analyse statique (CONCEPT) — 0.86
+
+- [[kb/CodeMender\|CodeMender]] **utilise** → preuve par exploit — 0.92
+
+**Fiches** : [[fiches/2026-10/sfeir-codemender-google-agent-faille-correctif-2026-10-26\|CodeMender : Google veut que l'agent qui trouve la faille écrive aussi le correctif]]
+
 ### private evals {#private-evals}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -28750,6 +31796,17 @@
 
 **Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|A frontier without an ecosystem is not stable]]
 
+### procédure de sourcing en huit étapes {#procédure-de-sourcing-en-huit-étapes}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **étapes** : Archiver, vérifier en source primaire, chercher le faux, rédiger, détox, valider, construire, déployer
+
+- **recommande** → « une fiche courte et exacte est un résultat valide ; une fiche au bon volume portant une donnée fausse est un échec » (CITATION) — 0.92
+- **fait_partie_de** → [[kb/base-de-connaissances-sfeir.com\|base de connaissances sfeir.com]] (TECHNOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-base-connaissances-site-conversationnel-2026-11-15\|Base de connaissances : le chantier invisible derrière un site conversationnel]]
+
 ### progressive disclosure {#progressive-disclosure}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -28759,6 +31816,16 @@
 - [[kb/Skill\|Skill]] **est_instance_de** → progressive disclosure — 0.93
 
 **Fiches** : [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
+
+### prompt de deepening {#prompt-de-deepening}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **ouverture** : « I want a deeper version of this task, not a bigger one »
+
+- [[kb/Quatre-types-d'ambition\|Quatre types d'ambition]] **utilise** → prompt de deepening — 0.90
+
+**Fiches** : [[fiches/2026-10/girard-rieseberg-ambition-ia-equipe-2026-10-19\|Être plus ambitieux avec l'IA : la méthode de Felix Rieseberg, lue par une équipe d'ingénierie]]
 
 ### prosecution {#prosecution}
 
@@ -28813,6 +31880,16 @@
 
 **Fiches** : [[fiches/2025-03/google-ai-mode-search-personalized-sites-2025-03-05\|Expanding AI Overviews and introducing AI Mode]]
 
+### quotas et contrôle anti-robot {#quotas-et-contrôle-anti-robot}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Borner le coût d'un script qui ferait tourner le modèle sans limite
+
+- **réduit** → coût d'un usage abusif (CONCEPT) — 0.84
+
+**Fiches** : [[fiches/2026-11/sfeir-cout-site-conversationnel-2026-11-15\|Combien coûte un site conversationnel : nos chiffres mesurés et leur méthode]]
+
 ### rail discipline {#rail-discipline}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -28823,6 +31900,16 @@
 
 **Fiches** : [[fiches/2026-06/williams-adlc-3-tests-are-the-spec-2026-06-12\|Tests Are the Spec in the Only Language the Builder Can't Argue With]]
 
+### rapport de conformité à quatre niveaux {#rapport-de-conformité-à-quatre-niveaux}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **niveaux** : Volumétrie, intégrité, contenu, sens métier
+
+- [[kb/méthode-de-migration-HFSQL-vers-PostgreSQL-en-six-étapes\|méthode de migration HFSQL vers PostgreSQL en six étapes]] **utilise** → rapport de conformité à quatre niveaux — 0.92
+
+**Fiches** : [[fiches/2026-10/sfeir-hfsql-postgresql-migration-donnees-2026-10-15\|HFSQL vers PostgreSQL : migrer les données d'une application WinDev sans perte]]
+
 ### red teaming {#red-teaming}
 
 **Type** : METHODOLOGIE | 0 relations | 1 fiches
@@ -28830,6 +31917,26 @@
 - **description** : Tests adversariaux pour identifier capacités dangereuses des modèles IA
 
 **Fiches** : [[fiches/2023-07/metr-study-ai-agents-autonomous-replication-risk-2023-07-31\|METR Study: Evaluating Autonomous Replication and Adaptation in AI Agents]]
+
+### relations déclarées dans un seul sens {#relations-déclarées-dans-un-seul-sens}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **principe** : La fiche déclare ses liens, le build calcule la relation inverse
+
+- **résout** → relations tenues à deux endroits (CONCEPT) — 0.86
+
+**Fiches** : [[fiches/2026-11/sfeir-base-connaissances-site-conversationnel-2026-11-15\|Base de connaissances : le chantier invisible derrière un site conversationnel]]
+
+### relecture croisée multi-fournisseur {#relecture-croisée-multi-fournisseur}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **principe** : Relecture par un modèle d'un autre fournisseur ; remarques revérifiées à la source
+
+- **fait_partie_de** → [[kb/_entites-mineures#trois-filets-de-contrôle\|trois filets de contrôle]] (METHODOLOGIE) — 0.85
+
+**Fiches** : [[fiches/2026-11/sfeir-garde-fous-site-agents-ia-2026-11-15\|Contenus écrits par des agents IA : les garde-fous qui gardent un site juste]]
 
 ### retrieval practice {#retrieval-practice}
 
@@ -28918,6 +32025,18 @@
 
 **Fiches** : [[fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15\|AI in the SDLC: Cutting Through the Hype]]
 
+### revue en trois états (vu, inféré, inconnu) {#revue-en-trois-états-(vu,-inféré,-inconnu)}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **règle** : Une affirmation inférée ne remonte jamais comme vue ; un zéro se vérifie à la main
+
+- **s_applique_à** → [[kb/REA\|REA]] (TECHNOLOGIE) — 0.90
+
+- [[kb/SFEIR\|SFEIR]] **a_créé** → revue en trois états (vu, inféré, inconnu) — 0.92
+
+**Fiches** : [[fiches/2026-10/sfeir-rea-evidence-sortie-agent-2026-10-15\|Lire une sortie REA : preuves, pseudocode et hallucinations]]
+
 ### revue par exception {#revue-par-exception}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
@@ -28989,6 +32108,40 @@
 
 **Fiches** : [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]], [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 
+### règle des deux minutes par interaction {#règle-des-deux-minutes-par-interaction}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Temps humain = 2 min par message ou réponse à une question de l'agent
+
+- **résout** → temps d'absence compté comme travail (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-11/sfeir-construire-site-agents-phases-temps-2026-11-15\|Construire un site avec des agents IA : les phases et le temps réellement passé]]
+
+### régie {#régie}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Assistance technique facturée au temps passé, obligation de moyens, résultat à la charge du client
+
+- **s_applique_à** → équipes qui savent quoi construire et disposent d'un pilotage produit (CONCEPT) — 0.85
+
+- [[kb/_entites-mineures#Forward-Deployed-Engineer\|Forward Deployed Engineer]] **concurrence** → régie — 0.80
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-consultant-architecte-regie-2026-11-06\|FDE, consultant, architecte, régie : quelles différences ?]]
+
+### réimplémentation clean-room {#réimplémentation-clean-room}
+
+**Type** : METHODOLOGIE | 2 relations | 2 fiches
+
+- **définition** : Une équipe spécifie le comportement, une autre réécrit sans voir le code d'origine ; la barrière se prouve par la trace écrite
+
+- **résout** → réécriture substantiellement similaire après décompilation (CONCEPT) — 0.84
+
+- [[kb/ArtCraft-technologie\|ArtCraft]] **utilise** → réimplémentation clean-room — 0.80
+
+**Fiches** : [[fiches/2026-10/sfeir-artcraft-clean-room-adobe-2026-10-09\|ArtCraft : des clones d'Adobe en clean-room revendiqué, ce que vaut l'argument]], [[fiches/2026-10/sfeir-clean-room-vs-reverse-engineering-2026-10-11\|Clean-room ou reverse engineering : méthode et risque juridique à l'ère des agents]]
+
 ### réplication automatique {#réplication-automatique}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -28998,6 +32151,37 @@
 - **résout** → crise de réplication scientifique (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Real AI Agents and Real Work: The race between human-centered work and infinite PowerPoints]]
+
+### rétro-ingénierie {#rétro-ingénierie}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Observer, tracer ou décompiler un logiciel pour en comprendre le fonctionnement
+
+- [[kb/REA\|REA]] **s_applique_à** → rétro-ingénierie — 0.84
+
+**Fiches** : [[fiches/2026-10/sfeir-clean-room-vs-reverse-engineering-2026-10-11\|Clean-room ou reverse engineering : méthode et risque juridique à l'ère des agents]]
+
+### rétro-spécification {#rétro-spécification}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : L'IA écrit d'abord la spécification de l'ancien code, le nouveau code vient après
+
+- **s_applique_à** → [[kb/WinDev\|WinDev]] (TECHNOLOGIE) — 0.90
+- **utilise** → [[kb/prompt-d'archéologie\|prompt d'archéologie]] (METHODOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-migration-windev-ia-sans-big-bang-2026-10-07\|Migration WinDev : réécrire vos applications PC SOFT avec l'IA, sans big bang]]
+
+### scan de secrets {#scan-de-secrets}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : détecter les motifs de secrets dans l'archive produite et bloquer la publication
+
+- **réduit** → publication de secrets dans l'archive ASAR (CONCEPT) — 0.84
+
+**Fiches** : [[fiches/2026-10/sfeir-electron-asar-secrets-2026-10-21\|Applications Electron : secrets et logique métier exposés dans l'ASAR]]
 
 ### self-supervised learning {#self-supervised-learning}
 
@@ -29018,6 +32202,20 @@
 - **permet** → tester les relecteurs IA en commentaire-seul avant de leur faire confiance (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
+
+### shadow run {#shadow-run}
+
+**Type** : METHODOLOGIE | 3 relations | 2 fiches
+
+- **critère** : Module migré en parallèle de l'ancien jusqu'à divergence nulle
+- **définition** : Exécution parallèle ancien/nouveau sur flux réel, seul l'ancien fait foi
+
+- **permet** → [[kb/strangler-fig\|Strangler Fig]] (METHODOLOGIE) — 0.85
+
+- [[kb/golden-master-inversé\|golden master inversé]] **utilise** → shadow run — 0.90
+- [[kb/méthode-de-migration-WinDev-en-six-étapes\|méthode de migration WinDev en six étapes]] **utilise** → shadow run — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-migration-windev-software-factory-10x-2026-10-15\|Migrer WinDev avec la Software Factory 10x : la méthode SFEIR en six étapes, de l'audit à la bascule]], [[fiches/2026-10/sfeir-windev-golden-master-inverse-2026-10-15\|Tests de non-régression d'une migration WinDev : la méthode du golden master inversé]]
 
 ### shift feedback left {#shift-feedback-left}
 
@@ -29069,6 +32267,16 @@
 
 **Fiches** : [[fiches/2026-09/kengelbach-bcg-non-ai-companies-ai-dealmaking-2026-09-21\|How Non-AI Companies Win at AI Dealmaking]]
 
+### skill verify {#skill-verify}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Procédure de démarrage et de pilotage de l'application, rangée dans .claude/skills/
+
+- **fait_partie_de** → [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.86
+
+**Fiches** : [[fiches/2026-11/sfeir-verification-code-agents-claude-code-2026-11-19\|Comment l'équipe Claude Code vérifie le code écrit par ses agents]]
+
 ### skills (analytics) {#skills-(analytics)}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -29111,6 +32319,16 @@
 - **s_oppose_à** → « automatisation indifférenciée de la revue sur tous les changements » (AFFIRMATION) — 0.92
 
 **Fiches** : [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for?]]
+
+### stratégie multi-harnais {#stratégie-multi-harnais}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Deux harnais par projet (un principal, un ouvert) partageant AGENTS.md et skills
+
+- [[kb/SFEIR\|SFEIR]] **recommande** → stratégie multi-harnais — 0.92
+
+**Fiches** : [[fiches/2026-10/sfeir-agents-de-code-panorama-criteres-choix-2026-10-22\|Agents de code : les critères qui comptent avant le benchmark]]
 
 ### suite de tests {#suite-de-tests}
 
@@ -29193,6 +32411,36 @@
 
 **Fiches** : [[fiches/2025-11/catasta-replit-future-autonomous-coding-2025-11-23\|Building the Future of Autonomous Coding: Autonomy Is All You Need]]
 
+### tests de caractérisation {#tests-de-caractérisation}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Tests qui figent le comportement actuel, juste ou faux
+
+- [[kb/golden-master-inversé\|golden master inversé]] **utilise** → tests de caractérisation — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-windev-golden-master-inverse-2026-10-15\|Tests de non-régression d'une migration WinDev : la méthode du golden master inversé]]
+
+### tests de propriétés {#tests-de-propriétés}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **outils** : fast-check, Hypothesis, proptest
+
+- [[kb/Claude-Code\|Claude Code]] **utilise** → tests de propriétés — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-verification-code-agents-claude-code-2026-11-19\|Comment l'équipe Claude Code vérifie le code écrit par ses agents]]
+
+### tests différentiels {#tests-différentiels}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **principe** : Ancien et nouveau système sur les mêmes entrées, l'ancien sert d'oracle
+
+- **s_applique_à** → migrations à grande échelle (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-verification-code-agents-claude-code-2026-11-19\|Comment l'équipe Claude Code vérifie le code écrit par ses agents]]
+
 ### tests unitaires obligatoires {#tests-unitaires-obligatoires}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -29243,6 +32491,20 @@
 - **remplace** → courage politique (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2025-10/cutler-teams-dont-escalate-leaders-linkedin-2025-10-03\|Why Teams Don't Escalate (and What Leaders Can Do About It)]]
+
+### trois filets de contrôle {#trois-filets-de-contrôle}
+
+**Type** : METHODOLOGIE | 4 relations | 1 fiches
+
+- **composition** : Règles avant l'écriture, contrôles au build, protections en production, plus une personne qui décide
+
+- **fait_partie_de** → [[kb/sfeir.com\|sfeir.com]] (TECHNOLOGIE) — 0.88
+- **est_basé_sur** → [[kb/Compound-Engineering\|Compound Engineering]] (METHODOLOGIE) — 0.85
+
+- [[kb/_entites-mineures#bloquer-le-binaire,-signaler-le-jugement\|bloquer le binaire, signaler le jugement]] **fait_partie_de** → trois filets de contrôle — 0.88
+- [[kb/_entites-mineures#relecture-croisée-multi-fournisseur\|relecture croisée multi-fournisseur]] **fait_partie_de** → trois filets de contrôle — 0.85
+
+**Fiches** : [[fiches/2026-11/sfeir-garde-fous-site-agents-ia-2026-11-15\|Contenus écrits par des agents IA : les garde-fous qui gardent un site juste]]
 
 ### two-strike regeneration {#two-strike-regeneration}
 
@@ -29357,6 +32619,17 @@
 
 **Fiches** : [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]]
 
+### échelle de maturité N0-N4 {#échelle-de-maturité-N0-N4}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Échelle SFEIR de maturité agentique, du chat ponctuel à la software factory
+
+- **s_inspire_de** → [[kb/_entites-mineures#DORA-AI-Capabilities-Model\|DORA AI Capabilities Model]] (DOCUMENT) — 0.88
+- **s_inspire_de** → The Five Levels (DOCUMENT) — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-sortir-de-jira-backlog-markdown-2026-11-13\|Sortir de Jira en 2027 : mettez vos tickets là où travaillent vos agents]]
+
 ### échelle en 8 niveaux {#échelle-en-8-niveaux}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -29367,6 +32640,16 @@
 
 **Fiches** : [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|The Eight Levels of AI Adoption]]
 
+### épinglage de version {#épinglage-de-version}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Version exacte fixée dans l'enregistrement MCP plutôt que @latest
+
+- **réduit** → risque supply chain (CONCEPT) — 0.84
+
+**Fiches** : [[fiches/2026-10/sfeir-rea-faux-depots-supply-chain-2026-10-14\|Faux dépôts REA et cheval de Troie : le risque supply chain d'un outil viral]]
+
 ### évaluation de workflow {#évaluation-de-workflow}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -29376,6 +32659,18 @@
 - **est_basé_sur** → « moyenne de GPT-6 Astra et Fable 5.1 » (AFFIRMATION) — 0.88
 
 **Fiches** : [[fiches/2026-09/almeida-system-one-models-jev-2026-09-15\|Introducing System One Models & Jev]]
+
+### évaluation sur l'état final {#évaluation-sur-l'état-final}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **principe** : Noter l'agent sur ce qu'il a changé (machine, CRM, exploit), pas sur ce qu'il déclare
+
+- **remplace** → questionnaire à choix multiples (METHODOLOGIE) — 0.88
+
+- [[kb/_entites-mineures#AutomationBench\|AutomationBench]] **utilise** → évaluation sur l'état final — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-lire-tableau-benchmarks-ia-2026-10-15\|Lire un tableau de benchmarks IA : les 18 benchmarks de frontière, famille par famille]]
 
 ### évaluations (evals) {#évaluations-(evals)}
 
@@ -29389,7 +32684,7 @@
 
 **Fiches** : [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Loop Engineering for Product Managers]]
 
-## EVENEMENT (53)
+## EVENEMENT (63)
 
 ### 100% code généré (Cherny) {#100%-code-généré-(Cherny)}
 
@@ -29416,6 +32711,28 @@
 - [[kb/_entites-mineures#Valence\|Valence]] **a_créé** → AI & the Workforce: The Adoption Gap — 0.95
 
 **Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Writing the AI-HR Playbook with Ethan Mollick]]
+
+### AI Engineer World's Fair 2026 {#AI-Engineer-World's-Fair-2026}
+
+**Type** : EVENEMENT | 11 relations | 2 fiches
+
+- **playlist** : Neuf talks sur le forward deployed engineering, mis en ligne du 14 au 28 juillet 2026
+- **playlist FDE** : Neuf talks (Anthropic, Sierra, Cursor, Cognition, Factory, Kepler, Ramp, Decagon, Varick Agents), 14-28 juillet 2026
+
+- **référence** → [[kb/Forward-Deployed-Engineering\|Forward Deployed Engineering]] (METHODOLOGIE) — 0.90
+
+- [[kb/classement-des-talks-FDE-du-World's-Fair-2026\|classement des talks FDE du World's Fair 2026]] **référence** → AI Engineer World's Fair 2026 — 0.95
+- [[kb/_entites-mineures#critique-FDE-101-Kevin-Bai\|critique FDE 101 Kevin Bai]] **référence** → AI Engineer World's Fair 2026 — 0.95
+- [[kb/_entites-mineures#critique-FDE-Cognition-Jia-Wu\|critique FDE Cognition Jia Wu]] **référence** → AI Engineer World's Fair 2026 — 0.95
+- [[kb/_entites-mineures#critique-FDE-Cursor-Pauline-Brunet\|critique FDE Cursor Pauline Brunet]] **référence** → AI Engineer World's Fair 2026 — 0.95
+- [[kb/_entites-mineures#critique-FDE-Decagon-Sunny-Rekhi\|critique FDE Decagon Sunny Rekhi]] **référence** → AI Engineer World's Fair 2026 — 0.95
+- [[kb/_entites-mineures#critique-FDE-Factory-Eno-Reyes\|critique FDE Factory Eno Reyes]] **référence** → AI Engineer World's Fair 2026 — 0.95
+- [[kb/_entites-mineures#critique-FDE-Kepler-Vinoo-Ganesh\|critique FDE Kepler Vinoo Ganesh]] **référence** → AI Engineer World's Fair 2026 — 0.95
+- [[kb/_entites-mineures#critique-FDE-Ramp-Leo-Mehr\|critique FDE Ramp Leo Mehr]] **référence** → AI Engineer World's Fair 2026 — 0.95
+- [[kb/_entites-mineures#critique-FDE-Sierra-Natalie-Meurer\|critique FDE Sierra Natalie Meurer]] **référence** → AI Engineer World's Fair 2026 — 0.95
+- [[kb/_entites-mineures#critique-FDE-Varick-Agents\|critique FDE Varick Agents]] **référence** → AI Engineer World's Fair 2026 — 0.95
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-101-kevin-bai-anthropic-2026-11-10\|Kevin Bai (Anthropic) ramène le FDE à une question : qui achète quoi ?]], [[fiches/2026-11/sfeir-playlist-fde-worlds-fair-2026-11-10\|Forward deployed engineering : les neuf talks de l'AI Engineer World's Fair 2026, notés et classés]]
 
 ### AI Startup School {#AI-Startup-School}
 
@@ -29454,6 +32771,18 @@
 - **mesure** → « +349% AI costs / +38% revenue sur un an » (MESURE) — 0.93
 
 **Fiches** : [[fiches/2026-04/bain-ai-rule-of-40-headwinds-tailwinds-saas-2026-04\|AI Brings Headwinds and Tailwinds to the Rule of 40]]
+
+### Claude Frontier Academy {#Claude-Frontier-Academy}
+
+**Type** : EVENEMENT | 2 relations | 1 fiches
+
+- **date** : Annoncée le 2 octobre 2026 ; badge Claude Frontier Deployed Engineer
+
+- **mesure** → « 100 M$ pour former 10 000 ingénieurs » (MESURE) — 0.85
+
+- [[kb/Anthropic\|Anthropic]] **a_créé** → Claude Frontier Academy — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-consultant-architecte-regie-2026-11-06\|FDE, consultant, architecte, régie : quelles différences ?]]
 
 ### Cocktail Molotov + tirs Altman avril 2026 {#Cocktail-Molotov-+-tirs-Altman-avril-2026}
 
@@ -29494,6 +32823,16 @@
 - billet Dropbox **est_basé_sur** → DX Annual 2026 — 0.90
 
 **Fiches** : [[fiches/2026-05/dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28\|Beyond code generation: rethinking engineering productivity in the age of AI agents]]
+
+### Daybreak for Frontline Defenders {#Daybreak-for-Frontline-Defenders}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **montant** : 1 Md$ d'accès subventionné à la suite Daybreak
+
+- [[kb/OpenAI\|OpenAI]] **publie** → Daybreak for Frontline Defenders — 0.84
+
+**Fiches** : [[fiches/2026-10/sfeir-divulgation-failles-ia-cadre-openai-2026-10-26\|Failles trouvées par IA : le cadre de divulgation qu'OpenAI propose après PHP2Shell]]
 
 ### December 2025 transition {#December-2025-transition}
 
@@ -29608,6 +32947,16 @@
 
 **Fiches** : [[fiches/2025-10/perplexity-chrome-integration-browser-ai-search-2025-10-22\|Perplexity Integrates Directly into Chrome Browser, Challenging Google Search Dominance]]
 
+### MALFEX {#MALFEX}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **description** : Campagne npm analysée par Checkmarx (5 octobre 2026), opérateur actif depuis août 2023
+
+- [[kb/_entites-mineures#function-color\|function-color]] **fait_partie_de** → MALFEX — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-agents-md-telechargements-codex-claude-code-2026-10-27\|AGENTS.md piégé dans Téléchargements : comment Codex et Claude Code ont été détournés, et les parades]]
+
 ### Maintainers Summit {#Maintainers-Summit}
 
 **Type** : EVENEMENT | 1 relations | 1 fiches
@@ -29644,6 +32993,19 @@
 
 **Fiches** : [[fiches/2026-01/sternfels-mckinsey-60000-people-20000-agents-officechai-2026-01-14\|McKinsey Now Has 60,000 People, But 20,000 Of Them Are AI Agents: McKinsey's Bob Sternfels]]
 
+### PHP2Shell {#PHP2Shell}
+
+**Type** : EVENEMENT | 3 relations | 2 fiches
+
+- **description** : Deux RCE du moteur PHP (CVE-2026-109618/109619) corrigées le 21 octobre 2026
+
+- **s_applique_à** → [[kb/_entites-mineures#PHP\|PHP]] (TECHNOLOGIE) — 0.97
+- **mesure** → « deux CVE notées 9.2 en CVSS v4.0, RCE non authentifiée » (MESURE) — 0.95
+
+- [[kb/cadre-de-réponse-en-cinq-étapes\|cadre de réponse en cinq étapes]] **est_basé_sur** → PHP2Shell — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-divulgation-failles-ia-cadre-openai-2026-10-26\|Failles trouvées par IA : le cadre de divulgation qu'OpenAI propose après PHP2Shell]], [[fiches/2026-10/sfeir-php2shell-faille-php-course-au-patch-2026-10-21\|PHP2Shell : l'IA a trouvé la faille avant les attaquants, la course au patch commence]]
+
 ### PlatformCon 2022 {#PlatformCon-2022}
 
 **Type** : EVENEMENT | 0 relations | 1 fiches
@@ -29651,18 +33013,6 @@
 - **description** : Conférence en ligne Platform Engineering organisée par platformengineering.org, juin 2022
 
 **Fiches** : [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|The Magic of Platforms]]
-
-### Project Glasswing {#Project-Glasswing}
-
-**Type** : EVENEMENT | 2 relations | 2 fiches
-
-- **nature** : Programme cyberdéfense Anthropic + gouvernement US
-
-- **permet** → « à des défenseurs de confiance de trouver plus de 10 000 vulnérabilités avant les attaquants » (MESURE) — 0.92
-
-- [[kb/Claude-Mythos-5\|Claude Mythos 5]] **fait_partie_de** → Project Glasswing — 0.90
-
-**Fiches** : [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]], [[fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29\|GLM-5.3 and the spread of advanced cyber capabilities]]
 
 ### Projet Aristotle {#Projet-Aristotle}
 
@@ -29863,6 +33213,28 @@
 
 **Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
 
+### introduction en Bourse d'Anthropic {#introduction-en-Bourse-d'Anthropic}
+
+**Type** : EVENEMENT | 2 relations | 1 fiches
+
+- **calendrier** : Cotation visée avant le 26 novembre 2026, au plus tard fin 2026 ; valorisation 1 800-2 000 Md$
+
+- **fait_partie_de** → [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.80
+
+- Gary Marcus **s_oppose_à** → introduction en Bourse d'Anthropic — 0.78
+
+**Fiches** : [[fiches/2026-10/sfeir-anthropic-revenus-t3-introduction-bourse-2026-10-15\|Anthropic : 16,8 milliards de dollars en un trimestre, ce que l'on sait avant l'introduction en Bourse]]
+
+### lancement international de WorkBuddy {#lancement-international-de-WorkBuddy}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **date** : 28 mai 2026, Tencent Cloud Day, Hong Kong
+
+- [[kb/Tencent\|Tencent]] **publie** → lancement international de WorkBuddy — 0.93
+
+**Fiches** : [[fiches/2026-11/sfeir-workbuddy-codebuddy-tencent-2026-11-14\|WorkBuddy et CodeBuddy : la double offensive agentique de Tencent]]
+
 ### migration 33 endpoints {#migration-33-endpoints}
 
 **Type** : EVENEMENT | 0 relations | 1 fiches
@@ -29870,6 +33242,18 @@
 - **résultat** : 13 jours, 18× plus vite, 5 PRs, 21 endpoints à 100% de couverture
 
 **Fiches** : [[fiches/2026-05/salesforce-tallapragada-how-engineering-became-agentic-2026-05-27\|How Salesforce Engineering Became Truly Agentic]]
+
+### passage à l'an 2000 {#passage-à-l'an-2000}
+
+**Type** : EVENEMENT | 2 relations | 1 fiches
+
+- **repère** : Bug connu, coût concentré dans la correction
+
+- **mesure** → « ~100 Md$ de corrections aux États-Unis entre 1995 et 2000 » (MESURE) — 0.86
+
+- [[kb/SFEIR\|SFEIR]] **référence** → passage à l'an 2000 — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-bank-of-america-mythos-prestataires-correctifs-2026-10-26\|Bank of America : 1 000 prestataires pour corriger ce que Mythos a trouvé]]
 
 ### preuve de Navier-Stokes {#preuve-de-Navier-Stokes}
 
@@ -29883,6 +33267,37 @@
 - [[kb/OpenAI\|OpenAI]] **publie** → preuve de Navier-Stokes — 0.90
 
 **Fiches** : [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
+
+### procès des huit États américains contre OpenAI {#procès-des-huit-États-américains-contre-OpenAI}
+
+**Type** : EVENEMENT | 2 relations | 1 fiches
+
+- **date** : 14 octobre 2026, Arizona, Arkansas, Idaho, Iowa, Kansas, Montana, Nebraska, Virginie-Occidentale
+
+- **s_applique_à** → [[kb/ChatGPT\|ChatGPT]] (TECHNOLOGIE) — 0.92
+- **affirme_que** → « OpenAI a trompé le public sur la sécurité de ChatGPT » (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-ia-semaine-8-15-octobre-2026-breves-2026-10-15\|IA, semaine du 8 au 15 octobre 2026 : cinq autres nouvelles à retenir]]
+
+### rachat de Cursor par SpaceX {#rachat-de-Cursor-par-SpaceX}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **date** : Effectif le 14 août 2026, 60 Md$ en actions
+
+- **mesure** → « 60 milliards de dollars, en actions, effectif le 14 août 2026 » (MESURE) — 0.92
+
+**Fiches** : [[fiches/2026-11/sfeir-memoire-agent-souverainete-2026-11-14\|Mémoire d'agent et souveraineté : Git, base managée ou mémoire native de l'éditeur ?]]
+
+### retrait de six modèles de Copilot le 14 décembre 2026 {#retrait-de-six-modèles-de-Copilot-le-14-décembre-2026}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **périmètre** : Gemini 3.8 Flash, Gemini 4 Argon, Claude Fable 5, Claude Haiku 4.5, Grok 4.6, Kimi K3
+
+- [[kb/GitHub-organisation\|GitHub]] **publie** → retrait de six modèles de Copilot le 14 décembre 2026 — 0.93
+
+**Fiches** : [[fiches/2026-11/sfeir-gemini-4-hydrogen-github-copilot-2026-11-15\|Gemini 4 Hydrogen arrive dans GitHub Copilot : ce que vos équipes doivent régler avant le 14 décembre]]
 
 ### rétrospective d'un an {#rétrospective-d'un-an}
 
@@ -29957,7 +33372,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (176)
+## DOCUMENT (228)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -29998,6 +33413,16 @@
 - [[kb/_entites-mineures#Cordis\|Cordis]] **est_basé_sur** → A Programming Paradigm for Spatiotemporal Composability — 0.92
 
 **Fiches** : [[fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13\|DeepSeek Harness developer preview: Everything is a plugin]]
+
+### A Severe Misalignment of AI in Mathematics {#A-Severe-Misalignment-of-AI-in-Mathematics}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **signataires** : 25 médaillés Fields au dépôt (11 septembre 2026), 28 au 27 octobre
+
+- **affirme_que** → « les objectifs des entreprises d'IA et de la communauté mathématique sont gravement désalignés » (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-openai-kakeya-eth-yang-mills-2026-10-27\|Kakeya, ETH, Yang-Mills : OpenAI annonce trois percées, la communauté prend le temps de goûter]]
 
 ### AA-Briefcase {#AA-Briefcase}
 
@@ -30131,6 +33556,17 @@
 
 **Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
 
+### Antifragile {#Antifragile}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **référence** : Nassim Nicholas Taleb, Random House, 2012 ; via negativa
+
+- Nassim Nicholas Taleb **a_créé** → Antifragile — 0.95
+- [[kb/défragiliser\|défragiliser]] **s_inspire_de** → Antifragile — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-budgets-2027-dette-securite-2026-11-08\|Budgets 2027 : il faut défragiliser le SI]]
+
 ### Antiqua et nova {#Antiqua-et-nova}
 
 **Type** : DOCUMENT | 1 relations | 1 fiches
@@ -30148,6 +33584,18 @@
 - **description** : Essai polémique David Heinemeier Hansson 2014 contre le Test-Driven Development, déclarant la mort du TDD. Cible de la contre-argumentation Eveillard 2022. Confond Test-first et TDD selon Eveillard
 
 **Fiches** : [[fiches/2022-12/eveillard-tdd-is-dead-long-live-testing-reponse-dhh-2022-12-07\|TDD is dead. Long live testing. (Une contre-argumentation point à point à l'article phare de David Heinemeier Hansson,…]]
+
+### AutomationBench {#AutomationBench}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **périmètre** : 47 applications simulées, 600 tâches publiques, assertions déterministes
+
+- **utilise** → [[kb/_entites-mineures#évaluation-sur-l'état-final\|évaluation sur l'état final]] (METHODOLOGIE) — 0.90
+
+- [[kb/Zapier-organisation\|Zapier]] **a_créé** → AutomationBench — 0.93
+
+**Fiches** : [[fiches/2026-10/sfeir-lire-tableau-benchmarks-ia-2026-10-15\|Lire un tableau de benchmarks IA : les 18 benchmarks de frontière, famille par famille]]
 
 ### BYO Agent with M5Stack Stick 3 {#BYO-Agent-with-M5Stack-Stick-3}
 
@@ -30200,6 +33648,30 @@
 
 **Fiches** : [[fiches/2024-04/raschka-ml-fundamentals-book-hands-on-2024-04-01\|Machine Learning Fundamentals: A Hands-On Guide]]
 
+### Building always-on agents {#Building-always-on-agents}
+
+**Type** : DOCUMENT | 4 relations | 1 fiches
+
+- **publication** : Guide d'architecture Anthropic, William Hu, 13 novembre 2026
+
+- **recommande** → « event inbox à worker unique, timers, mémoire, permissions, outbox » (AFFIRMATION) — 0.92
+- **affirme_que** → « la mémoire ne doit contenir que ce que l'agent ne peut pas retrouver ailleurs » (AFFIRMATION) — 0.90
+
+- [[kb/Anthropic\|Anthropic]] **publie** → Building always-on agents — 0.97
+- [[kb/_entites-mineures#William-Hu\|William Hu]] **a_créé** → Building always-on agents — 0.93
+
+**Fiches** : [[fiches/2026-11/sfeir-agents-always-on-anthropic-ax-google-2026-11-15\|Agents always-on : les cinq primitives d'Anthropic et l'étage AX de Google]]
+
+### Building the Claude API for the Frontier {#Building-the-Claude-API-for-the-Frontier}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **format** : Vidéo YouTube, chaîne Claude, 12 novembre 2026, 18 min 29
+
+- Votre facture Claude est trop haute ? **référence** → Building the Claude API for the Frontier — 0.97
+
+**Fiches** : [[fiches/2026-11/sfeir-api-claude-cache-effort-migrations-2026-11-16\|Votre facture Claude est trop haute ? Anthropic vous dit par où commencer]]
+
 ### CONCEPTS.md {#CONCEPTS-md}
 
 **Type** : DOCUMENT | 0 relations | 1 fiches
@@ -30230,6 +33702,18 @@
 - [[kb/_entites-mineures#CONTEXT-MAP-md\|CONTEXT-MAP.md]] **référence** → CONTEXT.md — 0.87
 
 **Fiches** : [[fiches/2026-06/skill-pocock-grill-with-docs-2026-06\|grill-with-docs — « Grilling session that challenges your plan against the existing domain model, sharpens terminology,…]]
+
+### CWE-bench {#CWE-bench}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **périmètre** : 120 tâches privées, 73 CWE, correction de failles sans indice
+
+- **mesure** → « meilleurs agents à 68 % en pass@1 et 81 % en pass@4 selon Collinear AI » (MESURE) — 0.82
+
+- Collinear AI **a_créé** → CWE-bench — 0.92
+
+**Fiches** : [[fiches/2026-10/sfeir-lire-tableau-benchmarks-ia-2026-10-15\|Lire un tableau de benchmarks IA : les 18 benchmarks de frontière, famille par famille]]
 
 ### Claude's Constitution {#Claude's-Constitution}
 
@@ -30271,6 +33755,17 @@
 
 **Fiches** : [[fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22\|Confronting Impossible Futures]]
 
+### Codebase-Memory {#Codebase-Memory}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **référence** : Vogel et al., arXiv:2603.27277, mars 2026
+
+- **utilise** → [[kb/_entites-mineures#Tree-sitter\|Tree-sitter]] (TECHNOLOGIE) — 0.90
+- **mesure** → « dix fois moins de tokens, qualité 83 % contre 92 % » (MESURE) — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-gitlab-orbit-graphe-contexte-2026-10-29\|GitLab Orbit en disponibilité générale : ce que le graphe de contexte change pour vos agents IA]]
+
 ### Compound Engineering: The Definitive Guide {#Compound-Engineering-The-Definitive-Guide}
 
 **Type** : DOCUMENT | 1 relations | 1 fiches
@@ -30280,6 +33775,16 @@
 - [[kb/Kieran-Klaassen\|Kieran Klaassen]] **publie** → Compound Engineering: The Definitive Guide — 0.98
 
 **Fiches** : [[fiches/2026-02/klaassen-compound-engineering-definitive-guide-every-2026-02-09\|Compound Engineering: The Definitive Guide]]
+
+### DISCLAIMER de REA {#DISCLAIMER-de-REA}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **contenu** : Usages légitimes (CTF, enseignement) et refus d'aider au contournement des protections
+
+- **s_oppose_à** → contournement de DRM, contrôles de licence et anti-cheat (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-ctf-crackmes-formation-retro-ingenierie-2026-10-16\|CTF et crackmes : former ses équipes à la rétro-ingénierie assistée par agents]]
 
 ### DataGen {#DataGen}
 
@@ -30299,6 +33804,16 @@
 
 **Fiches** : [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
 
+### DeepSWE {#DeepSWE}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **statut** : Datacurve ; 113 tâches, Flawed (faux négatifs)
+
+- [[kb/Epoch-AI\|Epoch AI]] **s_oppose_à** → DeepSWE — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-lire-tableau-benchmarks-ia-2026-10-15\|Lire un tableau de benchmarks IA : les 18 benchmarks de frontière, famille par famille]]
+
 ### Designing Decision Rights for AI {#Designing-Decision-Rights-for-AI}
 
 **Type** : DOCUMENT | 2 relations | 1 fiches
@@ -30309,6 +33824,29 @@
 - [[kb/MIT-CISR\|MIT CISR]] **publie** → Designing Decision Rights for AI — 0.95
 
 **Fiches** : [[fiches/2026-09/stackpole-mit-sloan-ai-decision-matrix-2026-09-22\|A framework for determining when AI can make decisions]]
+
+### Du Legacy à l'état de l'art {#Du-Legacy-à-l'état-de-l'art}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **publication** : Billet de Hamadi Jabloun, sfeir.dev, 20 septembre 2026
+
+- [[kb/golden-master-inversé\|golden master inversé]] **est_basé_sur** → Du Legacy à l'état de l'art — 0.90
+- [[kb/rétro-documentation-spec-first\|rétro-documentation spec first]] **est_basé_sur** → Du Legacy à l'état de l'art — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-windev-regles-metier-ia-2026-10-15\|Extraire les règles métier d'une application WinDev avec l'IA : la rétro-documentation spec first]]
+
+### Dust Index {#Dust-Index}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **date** : Premier index d'usage publié le 7 octobre 2026
+
+- **mesure** → « 65 % des messages envoyés à des agents utilisés par plus d'une personne » (MESURE) — 0.88
+
+- [[kb/Dust\|Dust]] **publie** → Dust Index — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-dust-ia-entreprise-multiplayer-agents-2026-10-27\|Dust ou l'IA d'entreprise qui se joue à plusieurs : ce que les DSI doivent en retenir]]
 
 ### EU AI Act {#EU-AI-Act}
 
@@ -30346,6 +33884,28 @@
 
 **Fiches** : [[fiches/2026-07/hohpe-decision-options-ia-2026-07-15\|Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA]]
 
+### FLASH-20261113-001 {#FLASH-20261113-001}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **nature** : Alerte FLASH du FBI sur ARTEX, 13 novembre 2026, TLP:CLEAR
+
+- **mesure** → « accès privilégié en moins de trois heures » (MESURE) — 0.90
+
+- FBI **publie** → FLASH-20261113-001 — 0.96
+
+**Fiches** : [[fiches/2026-11/sfeir-artex-pentest-autonome-cyberarme-2026-11-17\|ARTEX : quand le pentest autonome devient une cyberarme]]
+
+### Fable 5.2 and Jagged AGI {#Fable-5.2-and-Jagged-AGI}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **publication** : One Useful Thing, 9 novembre 2026, accès anticipé
+
+- [[kb/Ethan-Mollick\|Ethan Mollick]] **publie** → Fable 5.2 and Jagged AGI — 0.92
+
+**Fiches** : [[fiches/2026-11/sfeir-claude-fable-mythos-5-2-2026-11-10\|Claude Fable 5.2 et Mythos 5.2 : moins cher au token, plus cher à la tâche si l'on pousse l'effort]]
+
 ### Failing Faster {#Failing-Faster}
 
 **Type** : DOCUMENT | 1 relations | 1 fiches
@@ -30381,6 +33941,26 @@
 
 **Fiches** : [[fiches/2026-02/finops-foundation-finops-for-ai-overview-2026-02-17\|FinOps for AI Overview]]
 
+### Frontier Safety Framework {#Frontier-Safety-Framework}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **rôle** : Cadre de seuils critiques de Google DeepMind (cyber, biologie, R&D IA, manipulation)
+
+- [[kb/Gemini-4-Argon\|Gemini 4 Argon]] **est_basé_sur** → Frontier Safety Framework — 0.80
+
+**Fiches** : [[fiches/2026-10/sfeir-gemini-4-argon-moitie-prix-2026-10-15\|Gemini 4 Argon : le modèle frontier de Google, à moitié prix jusqu'au 30 novembre]]
+
+### FrontierSWE {#FrontierSWE}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **périmètre** : Proximal Labs ; v2 à 34 tâches de 20 heures, mean@5
+
+- **mesure** → « Claude Fable 5.1 à 56,3 % avec proximus contre 37,2 % avec Terminus 2 » (MESURE) — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-lire-tableau-benchmarks-ia-2026-10-15\|Lire un tableau de benchmarks IA : les 18 benchmarks de frontière, famille par famille]]
+
 ### GDPval-AA {#GDPval-AA}
 
 **Type** : DOCUMENT | 2 relations | 1 fiches
@@ -30412,6 +33992,16 @@
 - [[kb/GenAI\|GenAI]] **observé_dans** → Glory — 0.85
 
 **Fiches** : [[fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16\|Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)]]
+
+### GraphWalks {#GraphWalks}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **périmètre** : OpenAI ; graphes jusqu'à 1 M de tokens, F1 moyen
+
+- [[kb/Epoch-AI\|Epoch AI]] **soutient** → GraphWalks — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-lire-tableau-benchmarks-ia-2026-10-15\|Lire un tableau de benchmarks IA : les 18 benchmarks de frontière, famille par famille]]
 
 ### Growth Marketing Fit {#Growth-Marketing-Fit}
 
@@ -30461,6 +34051,19 @@
 - [[kb/SFEIR\|SFEIR]] **soutient** → How Anthropic secures its AI-native software development lifecycle — 0.96
 
 **Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
+
+### How the Claude Code team thinks about verification {#How-the-Claude-Code-team-thinks-about-verification}
+
+**Type** : DOCUMENT | 3 relations | 1 fiches
+
+- **support** : Blog Claude Code (claude.dev), 16 novembre 2026
+
+- **mesure** → « environ 90 % du code de l'équipe Claude Code écrit et revu par Claude » (MESURE) — 0.88
+
+- [[kb/Addy-Osmani\|Addy Osmani]] **publie** → How the Claude Code team thinks about verification — 0.96
+- Comment l'équipe Claude Code vérifie le code écrit par ses agents **référence** → How the Claude Code team thinks about verification — 0.96
+
+**Fiches** : [[fiches/2026-11/sfeir-verification-code-agents-claude-code-2026-11-19\|Comment l'équipe Claude Code vérifie le code écrit par ses agents]]
 
 ### How to use Notion as Code {#How-to-use-Notion-as-Code}
 
@@ -30514,6 +34117,16 @@
 - [[kb/OpenAI\|OpenAI]] **publie** → Industrial Policy for the Intelligence Age — 0.98
 
 **Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
+
+### Jev Decision Index {#Jev-Decision-Index}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **définition** : Classement communautaire Hugging Face, 43 benchmarks, sans affiliation avec TypeSafe
+
+- **référence** → [[kb/Jev\|Jev]] (TECHNOLOGIE) — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-cloudflare-clef-jev-modeles-decision-2026-10-06\|Cloudflare Clef face à Jev : quel modèle de décision choisir, et ce que valent les chiffres]]
 
 ### L'IA fait tomber les murs entre les métiers {#L'IA-fait-tomber-les-murs-entre-les-métiers}
 
@@ -30642,6 +34255,18 @@
 
 **Fiches** : [[fiches/2026-07/martignole-token-manifesto-2026-07-17\|The Token Manifesto]]
 
+### Markdown Is the New Executable {#Markdown-Is-the-New-Executable}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **date** : Rapport Forever Security du 22 octobre 2026 (Gal Weizman, Omer Samet)
+
+- **affirme_que** → « un AGENTS.md déposé dans Téléchargements a fait installer un paquet npm malveillant par Codex » (AFFIRMATION) — 0.92
+
+- [[kb/Forever-Security\|Forever Security]] **publie** → Markdown Is the New Executable — 0.95
+
+**Fiches** : [[fiches/2026-10/sfeir-agents-md-telechargements-codex-claude-code-2026-10-27\|AGENTS.md piégé dans Téléchargements : comment Codex et Claude Code ont été détournés, et les parades]]
+
 ### Maybe We Shouldn't Be Reviewing All This Code {#Maybe-We-Shouldn't-Be-Reviewing-All-This-Code}
 
 **Type** : DOCUMENT | 2 relations | 1 fiches
@@ -30661,6 +34286,32 @@
 - **référence** : Benchmark de codage propriétaire de Meta, non public et de composition non décrite, sur lequel Opus 5 devance Muse Spark 1.2 de 8,8 points
 
 **Fiches** : [[fiches/2026-08/meta-muse-code-muse-spark-1-2-2026-08-05\|Introducing Muse Code and Muse Spark 1.2]]
+
+### Mistral Ecosystem Open-Weight License {#Mistral-Ecosystem-Open-Weight-License}
+
+**Type** : DOCUMENT | 3 relations | 2 fiches
+
+- **clause** : Article 2 Model as a Service sans seuil ; article 3 exempte l'usage interne
+- **définition** : MIT modifiée : usage interne libre, licence commerciale pour les hébergeurs revendant l'accès
+
+- **affirme_que** → « tout service de modèle exige une licence commerciale avec Mistral, sans seuil de revenu » (AFFIRMATION) — 0.92
+- **est_variante_de** → licence MIT (CONCEPT) — 0.88
+
+- [[kb/Mistral-Large-4\|Mistral Large 4]] **utilise** → Mistral Ecosystem Open-Weight License — 0.95
+
+**Fiches** : [[fiches/2026-11/sfeir-mistral-large-4-licence-auto-hebergement-2026-11-02\|Mistral Large 4 en poids ouverts : ce que la licence permet, ce que l'auto-hébergement coûte]], [[fiches/2026-10/sfeir-mistral-large-4-souverainete-licence-2026-10-06\|Mistral Large 4 : 1 000 milliards de paramètres en open-weights, une souveraineté qui se jugera sur la licence]]
+
+### Model Router Benchmarks {#Model-Router-Benchmarks}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **contenu** : 7 routeurs, 6 benchmarks, Router Index pondéré 60/20/20 (OpenRouter, 2 octobre 2026)
+
+- **affirme_que** → « les routeurs peuvent faire moins bien qu'un modèle appelé directement » (AFFIRMATION) — 0.92
+
+- [[kb/OpenRouter-organisation\|OpenRouter]] **publie** → Model Router Benchmarks — 0.95
+
+**Fiches** : [[fiches/2026-10/sfeir-routeur-modeles-llm-escalade-2026-10-12\|Routeur de modèles LLM : quand il bat un modèle unique, et quand il perd]]
 
 ### Modern Code Review {#Modern-Code-Review}
 
@@ -30682,6 +34333,16 @@
 
 **Fiches** : [[fiches/2026-07/lassiege-usine-logicielle-heure-ia-2026-07-28\|Mon usine logicielle à l'heure de l'IA]]
 
+### Navier-Stokes lost in translation {#Navier-Stokes-lost-in-translation}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **référence** : Préprint arXiv:2610.08144 de Bastounis, Circelli et Hansen (6 oct. 2026), non relu
+
+- **affirme_que** → « la vérification Lean d'une autoformalisation ne garantit pas la preuve en langage naturel » (AFFIRMATION) — 0.85
+
+**Fiches** : [[fiches/2026-10/girard-openai-722-preuves-verification-2026-10-09\|722 preuves en un commit : ce que la publication mathématique d'OpenAI dit de l'avenir de la vérification]]
+
 ### Never Send The Slides {#Never-Send-The-Slides}
 
 **Type** : DOCUMENT | 2 relations | 1 fiches
@@ -30692,6 +34353,26 @@
 - [[kb/Martin-Fowler\|Martin Fowler]] **référence** → Never Send The Slides — 0.90
 
 **Fiches** : [[fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08\|Do you even need a presentation?]]
+
+### New to RE with AI? {#New-to-RE-with-AI}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **publication** : Guide communautaire, discussion n° 2412 du dépôt REA, 12 octobre 2026
+
+- [[kb/_entites-mineures#formation-à-la-rétro-ingénierie-assistée-par-agents\|formation à la rétro-ingénierie assistée par agents]] **est_basé_sur** → New to RE with AI? — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-ctf-crackmes-formation-retro-ingenierie-2026-10-16\|CTF et crackmes : former ses équipes à la rétro-ingénierie assistée par agents]]
+
+### OSWorld 2.0 {#OSWorld-2.0}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **périmètre** : XLANG Lab, 108 workflows de 1,6 h médiane
+
+- **remplace** → OSWorld-Verified (DOCUMENT) — 0.82
+
+**Fiches** : [[fiches/2026-10/sfeir-lire-tableau-benchmarks-ia-2026-10-15\|Lire un tableau de benchmarks IA : les 18 benchmarks de frontière, famille par famille]]
 
 ### PORTING.md / LIFETIMES.tsv {#PORTING.md-LIFETIMES.tsv}
 
@@ -30710,6 +34391,16 @@
 - **est_basé_sur** → plusieurs learnings généralisées (DOCUMENT) — 0.90
 
 **Fiches** : [[fiches/2026-07/klaassen-thinkroom-compounding-knowledge-lifecycle-2026-07-02\|The Compounding Knowledge Lifecycle — Agent Guide]]
+
+### Petite Poucette {#Petite-Poucette}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **référence** : Michel Serres, Le Pommier, 2012
+
+- [[kb/_entites-mineures#Michel-Serres\|Michel Serres]] **a_créé** → Petite Poucette — 0.95
+
+**Fiches** : [[fiches/2026-11/sfeir-base-connaissances-site-conversationnel-2026-11-15\|Base de connaissances : le chantier invisible derrière un site conversationnel]]
 
 ### Pew Research 2025 {#Pew-Research-2025}
 
@@ -30756,6 +34447,18 @@
 
 **Fiches** : [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
 
+### PostTrainBench {#PostTrainBench}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **statut** : Post-entraînement en 10 h sur H100 ; v1.1 Verified
+
+- **observé_dans** → contournements d'agents (clés d'API trouvées, entraînement sur le jeu de test) (CONCEPT) — 0.84
+
+- [[kb/Epoch-AI\|Epoch AI]] **soutient** → PostTrainBench — 0.85
+
+**Fiches** : [[fiches/2026-10/sfeir-lire-tableau-benchmarks-ia-2026-10-15\|Lire un tableau de benchmarks IA : les 18 benchmarks de frontière, famille par famille]]
+
 ### Powered by Claude {#Powered-by-Claude}
 
 **Type** : DOCUMENT | 1 relations | 1 fiches
@@ -30783,19 +34486,6 @@
 - [[kb/Magnifica-Humanitas\|Magnifica Humanitas]] **est_basé_sur** → Quo vadis, humanitas ? — 0.97
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
-
-### REVIEW.md {#REVIEW-md}
-
-**Type** : DOCUMENT | 2 relations | 2 fiches
-
-- **définition** : Fichier écrit par les code owners qui dit au relecteur IA ce qui compte dans leur partie du code
-- **rôle** : Doctrine de revue : passes bugs/sécurité/conformité, définition de « Important », plafond de nits
-
-- **s_applique_à** → passes de revue bugs, sécurité et conformité au spec et au plan (CONCEPT) — 0.89
-
-- [[kb/revue-de-code-agentique\|revue de code agentique]] **utilise** → REVIEW.md — 0.92
-
-**Fiches** : [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]], [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 
 ### Rapport international sur la sécurité de l'IA {#Rapport-international-sur-la-sécurité-de-l'IA}
 
@@ -30841,6 +34531,16 @@
 - **affine** → [[kb/Ontology-Pipeline\|Ontology Pipeline]] (METHODOLOGIE) — 0.96
 
 **Fiches** : [[fiches/2026-05/talisman-modern-data-101-ontology-pipeline-refresh-2026-05-04\|The Ontology Pipeline™, Refresh: Where We Were, Where We Are, and Where We're Headed]]
+
+### RepliBench {#RepliBench}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **apport** : Benchmark de réplication autonome de l'AI Security Institute (2025)
+
+- Vers IA sur objets connectés **référence** → RepliBench — 0.84
+
+**Fiches** : [[fiches/2026-10/sfeir-anthropic-auto-replication-iot-2026-10-15\|Vers IA sur objets connectés : ce qu'Anthropic démontre et ce qu'elle extrapole]]
 
 ### Rerum Novarum (Léon XIII) {#Rerum-Novarum-(Léon-XIII)}
 
@@ -30961,17 +34661,32 @@
 
 **Fiches** : [[fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15\|The AI Agenda 2026 — The reality check]]
 
+### Speech-to-Speech Index {#Speech-to-Speech-Index}
+
+**Type** : DOCUMENT | 3 relations | 1 fiches
+
+- **méthode** : Quatre composantes, coût mesuré par heure d'audio en entrée
+
+- **mesure** → « Grok Voice 3.0 premier avec 86,9 points » (MESURE) — 0.93
+- **mesure** → « premier son 0,81 s pour la v3 contre 0,70 s pour la v2 » (MESURE) — 0.90
+
+- [[kb/Artificial-Analysis\|Artificial Analysis]] **publie** → Speech-to-Speech Index — 0.93
+
+**Fiches** : [[fiches/2026-10/sfeir-grok-voice-3-centre-appels-2026-10-15\|Grok Voice 3.0 : numéro un des modèles vocaux, ce qu'un centre d'appels doit vérifier]]
+
 ### State of AI 2026 {#State-of-AI-2026}
 
-**Type** : DOCUMENT | 2 relations | 1 fiches
+**Type** : DOCUMENT | 3 relations | 2 fiches
 
 - **catégorie** : Enquête annuelle McKinsey, publiée le 25 août 2026
+- **méthode** : Enquête McKinsey déclarative, 1 719 répondants, 97 pays (25 août 2026)
 
 - **mesure** → « 40 % des grandes entreprises déclarent des agents à l'échelle, 6 % attribuent à l'IA au moins 5 % de l'EBIT » (MESURE) — 0.92
+- **mesure** → « 40 % des grandes entreprises ont des agents à l'échelle, 6 % attribuent au moins 5 % de leur EBIT à l'IA » (MESURE) — 0.90
 
 - [[kb/_entites-mineures#article-The-AI-operating-system\|article The AI operating system]] **référence** → State of AI 2026 — 0.95
 
-**Fiches** : [[fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01\|The AI operating system: A new way for CEOs to run the enterprise]]
+**Fiches** : [[fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01\|The AI operating system: A new way for CEOs to run the enterprise]], [[fiches/2026-10/sfeir-ai-operating-system-mckinsey-lecture-2026-10-15\|AI operating system : ce que McKinsey a raison de dire, et ce qu'il ne prouve pas]]
 
 ### State of AI Code Quality 2025 {#State-of-AI-Code-Quality-2025}
 
@@ -30985,6 +34700,18 @@
 - [[kb/Qodo-organisation\|Qodo]] **publie** → State of AI Code Quality 2025 — 0.99
 
 **Fiches** : [[fiches/2025-06/qodo-state-ai-code-quality-2025-report-2025-06-11\|State of AI code quality in 2025 - Qodo]]
+
+### Sécuriser un système IA agentique {#Sécuriser-un-système-IA-agentique}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **référence** : ANSSI, collection Les Essentiels, version 1.0
+
+- **recommande** → « classer chaque action d'un agent en exécution autonome, approbation obligatoire ou action interdite » (AFFIRMATION) — 0.90
+
+- [[kb/_entites-mineures#ANSSI\|ANSSI]] **publie** → Sécuriser un système IA agentique — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-chatgpt-wallet-openai-paiement-2026-11-15\|ChatGPT Wallet : les agents d'OpenAI passent à la caisse, l'humain signe chaque achat]]
 
 ### Série Bain software industry age of AI {#Série-Bain-software-industry-age-of-AI}
 
@@ -31014,6 +34741,16 @@
 - **mesure** → « la performance d'agents sur des tâches de terminal courtes, achevées en minutes » (AFFIRMATION) — 0.90
 
 **Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]], [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+
+### Terminal-Bench 4.0 {#Terminal-Bench-4.0}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **statut** : 66 tâches, huit heures max, Flawed chez Epoch AI depuis le 4 septembre 2026
+
+- [[kb/Epoch-AI\|Epoch AI]] **s_oppose_à** → Terminal-Bench 4.0 — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-lire-tableau-benchmarks-ia-2026-10-15\|Lire un tableau de benchmarks IA : les 18 benchmarks de frontière, famille par famille]]
 
 ### The AI-Era Software Assembly Line {#The-AI-Era-Software-Assembly-Line}
 
@@ -31136,6 +34873,28 @@
 
 **Fiches** : [[fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11\|The End of Code Review: Coding Agents Supersede Human Inspection]]
 
+### The Exploit Was the Bottleneck {#The-Exploit-Was-the-Bottleneck}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **publication** : a16z, Asaf Ezra et Stephenie Zhang, 5 novembre 2026
+
+- **affirme_que** → « l'IA a rendu l'écriture d'exploits rapide et bon marché sans accélérer la correction » (AFFIRMATION) — 0.92
+
+- [[kb/_entites-mineures#a16z\|a16z]] **publie** → The Exploit Was the Bottleneck — 0.95
+
+**Fiches** : [[fiches/2026-11/sfeir-exploit-goulot-delai-correction-2026-11-06\|L'exploit n'est plus le goulot : avec l'IA, le délai de correction fixe votre risque]]
+
+### The Exponential Time Hypothesis is False {#The-Exponential-Time-Hypothesis-is-False}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **statut** : Manuscrit OpenAI du 17 octobre 2026, révisé le 25, non validé au 27 octobre
+
+- **s_oppose_à** → [[kb/_entites-mineures#Exponential-Time-Hypothesis\|Exponential Time Hypothesis]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-openai-kakeya-eth-yang-mills-2026-10-27\|Kakeya, ETH, Yang-Mills : OpenAI annonce trois percées, la communauté prend le temps de goûter]]
+
 ### The Future is for Everyone {#The-Future-is-for-Everyone}
 
 **Type** : DOCUMENT | 2 relations | 1 fiches
@@ -31177,6 +34936,22 @@
 - [[kb/David-Thomas\|David Thomas]] **publie** → The Pragmatic Programmer — 0.95
 
 **Fiches** : [[fiches/2026-06/thomas-pragdave-failing-faster-code-rot-ai-velocity-2026-06-06\|Failing Faster]]
+
+### The components of agent memory {#The-components-of-agent-memory}
+
+**Type** : DOCUMENT | 6 relations | 1 fiches
+
+- **publication** : Billet Anthropic Engineering, 6 novembre 2026
+
+- **affirme_que** → « la mémoire d'agent exclut les poids, l'apprentissage en contexte et la compaction » (AFFIRMATION) — 0.92
+- **mesure** → « règle « n'enregistrer que les échecs » : gain d'Opus 5 réduit de 0,234 » (MESURE) — 0.88
+
+- [[kb/Anthropic\|Anthropic]] **publie** → The components of agent memory — 0.97
+- [[kb/SFEIR\|SFEIR]] **référence** → The components of agent memory — 0.97
+- [[kb/Lance-Martin\|Lance Martin]] **a_créé** → The components of agent memory — 0.90
+- [[kb/dépôt-Git-de-mémoire\|dépôt Git de mémoire]] **est_basé_sur** → The components of agent memory — 0.85
+
+**Fiches** : [[fiches/2026-11/sfeir-components-agent-memory-anthropic-2026-11-14\|The components of agent memory : ce qu'Anthropic a mesuré, et ce que ça change pour vos agents]]
 
 ### The state of open source AI {#The-state-of-open-source-AI}
 
@@ -31241,6 +35016,28 @@
 
 **Fiches** : [[fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20\|WHAT IF THE FUTURE DOES NOT NEED YOU ?]]
 
+### Vals Index {#Vals-Index}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **composition** : Huit benchmarks (6 privés, 2 publics) pondérés par le PIB américain, finance 52 %
+
+- **mesure** → « premier à 75,14 % en v1.2 puis 68,90 % en v2.1 sans régression de modèle » (MESURE) — 0.88
+
+- [[kb/Vals-AI\|Vals AI]] **a_créé** → Vals Index — 0.93
+
+**Fiches** : [[fiches/2026-10/sfeir-lire-tableau-benchmarks-ia-2026-10-15\|Lire un tableau de benchmarks IA : les 18 benchmarks de frontière, famille par famille]]
+
+### Verizon DBIR 2026 {#Verizon-DBIR-2026}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **apport** : Correction médiane des failles KEV à 43 jours, 26 % entièrement corrigées
+
+- **mesure** → « 43 jours médians pour corriger entièrement une faille du catalogue KEV » (MESURE) — 0.90
+
+**Fiches** : [[fiches/2026-11/sfeir-exploit-goulot-delai-correction-2026-11-06\|L'exploit n'est plus le goulot : avec l'IA, le délai de correction fixe votre risque]]
+
 ### Vidéo de lancement de Fable {#Vidéo-de-lancement-de-Fable}
 
 **Type** : DOCUMENT | 1 relations | 1 fiches
@@ -31271,7 +35068,7 @@
 
 - **référence** → [[kb/_entites-mineures#The-AI-Native-SDLC-playbook\|The AI-Native SDLC playbook]] (DOCUMENT) — 0.96
 
-- [[kb/_entites-mineures#GitLab\|GitLab]] **publie** → When code is abundant — 0.97
+- [[kb/GitLab\|GitLab]] **publie** → When code is abundant — 0.97
 - [[kb/Bill-Staples\|Bill Staples]] **a_créé** → When code is abundant — 0.96
 
 **Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
@@ -31333,6 +35130,36 @@
 - [[kb/_entites-mineures#sécurité-du-SDLC-AI-native\|sécurité du SDLC AI-native]] **est_basé_sur** → Zero Trust for Agents — 0.90
 
 **Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
+
+### arrêt BSA C-393/09 {#arrêt-BSA-C-393-09}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **référence** : CJUE, 22 décembre 2010, protection d'une interface graphique originale
+
+- **affirme_que** → « une interface graphique originale peut être protégée par le droit d'auteur commun » (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-artcraft-clean-room-adobe-2026-10-09\|ArtCraft : des clones d'Adobe en clean-room revendiqué, ce que vaut l'argument]]
+
+### arrêt CJUE Top System {#arrêt-CJUE-Top-System}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **référence** : C-13/20, 6 octobre 2021, décompilation pour correction d'erreurs
+
+- **affirme_que** → « l'acquéreur légitime peut décompiler dans la mesure nécessaire à la correction d'erreurs » (AFFIRMATION) — 0.86
+
+**Fiches** : [[fiches/2026-10/sfeir-windev-agents-rea-clean-room-2026-10-15\|Moderniser une application WinDev avec des agents : REA et méthode clean-room]]
+
+### article 323-3-1 du Code pénal {#article-323-3-1-du-Code-pénal}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **objet** : Détention et diffusion d'outils d'attaque de systèmes d'information (loi n° 2013-1168)
+
+- **affirme_que** → « la détention d'outils d'attaque est réprimée sans motif légitime, notamment de recherche ou de sécurité informatique » (CITATION) — 0.90
+
+**Fiches** : [[fiches/2026-10/sfeir-analyse-malware-agent-local-2026-10-14\|Analyser un malware en local avec un agent, sans l'exfiltrer]]
 
 ### article A framework for determining when AI can make decisions {#article-A-framework-for-determining-when-AI-can-make-decisions}
 
@@ -31412,6 +35239,16 @@
 - [[kb/_entites-mineures#Diogo-Almeida\|Diogo Almeida]] **publie** → article Introducing System One Models & Jev — 0.97
 
 **Fiches** : [[fiches/2026-09/almeida-system-one-models-jev-2026-09-15\|Introducing System One Models & Jev]]
+
+### article L122-6-1 {#article-L122-6-1}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **contenu** : Code de la propriété intellectuelle : observation (III), correction d'erreurs (I), interopérabilité (IV)
+
+- **s_applique_à** → décompilation (CONCEPT) — 0.86
+
+**Fiches** : [[fiches/2026-10/sfeir-legacy-sans-code-source-2026-10-16\|Applications legacy sans code source : comprendre avant de réécrire]]
 
 ### article La fin de Valeur × Faisabilité {#article-La-fin-de-Valeur-×-Faisabilité}
 
@@ -31541,11 +35378,19 @@
 
 ### billet How to be more ambitious {#billet-How-to-be-more-ambitious}
 
-**Type** : DOCUMENT | 0 relations | 1 fiches
+**Type** : DOCUMENT | 5 relations | 2 fiches
 
 - **catégorie** : Billet de blog, felixrieseberg.com, 13 octobre 2026
+- **publication** : tutoriel de Felix Rieseberg, 13 octobre 2026
 
-**Fiches** : [[fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13\|How to be more ambitious: A tutorial for humans with models]]
+- **recommande** → [[kb/Quatre-types-d'ambition\|Quatre types d'ambition]] (CONCEPT) — 0.93
+- **est_basé_sur** → théorie de la fixation d'objectifs (CONCEPT) — 0.80
+
+- [[kb/Felix-Rieseberg\|Felix Rieseberg]] **publie** → billet How to be more ambitious — 0.97
+- Être plus ambitieux avec l'IA **référence** → billet How to be more ambitious — 0.97
+- [[kb/_entites-mineures#work-hard-protocol\|work-hard-protocol]] **est_basé_sur** → billet How to be more ambitious — 0.90
+
+**Fiches** : [[fiches/2026-10/girard-rieseberg-ambition-ia-equipe-2026-10-19\|Être plus ambitieux avec l'IA : la méthode de Felix Rieseberg, lue par une équipe d'ingénierie]], [[fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13\|How to be more ambitious: A tutorial for humans with models]]
 
 ### billet Zed sur la facturation Claude {#billet-Zed-sur-la-facturation-Claude}
 
@@ -31576,6 +35421,114 @@
 - [[kb/Claude-Fable-5.1\|Claude Fable 5.1]] **a_créé** → carte altimétrique de Vénus — 0.91
 
 **Fiches** : [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
+
+### critique FDE 101 Kevin Bai {#critique-FDE-101-Kevin-Bai}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **notes SFEIR** : Originalité 3/5, qualité de l'information 3/5
+
+- **référence** → [[kb/_entites-mineures#AI-Engineer-World's-Fair-2026\|AI Engineer World's Fair 2026]] (EVENEMENT) — 0.95
+
+- [[kb/SFEIR\|SFEIR]] **publie** → critique FDE 101 Kevin Bai — 0.95
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-101-kevin-bai-anthropic-2026-11-10\|Kevin Bai (Anthropic) ramène le FDE à une question : qui achète quoi ?]]
+
+### critique FDE Cognition Jia Wu {#critique-FDE-Cognition-Jia-Wu}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **notes SFEIR** : Originalité 2/5, qualité de l'information 2/5
+
+- **référence** → [[kb/_entites-mineures#AI-Engineer-World's-Fair-2026\|AI Engineer World's Fair 2026]] (EVENEMENT) — 0.95
+
+- [[kb/SFEIR\|SFEIR]] **publie** → critique FDE Cognition Jia Wu — 0.95
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-cognition-jia-wu-2026-11-10\|Cognition et son FDE : des chiffres spectaculaires, aucune méthode pour les lire]]
+
+### critique FDE Cursor Pauline Brunet {#critique-FDE-Cursor-Pauline-Brunet}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **notes SFEIR** : Originalité 3/5, qualité de l'information 4/5
+
+- **référence** → [[kb/_entites-mineures#AI-Engineer-World's-Fair-2026\|AI Engineer World's Fair 2026]] (EVENEMENT) — 0.95
+
+- [[kb/SFEIR\|SFEIR]] **publie** → critique FDE Cursor Pauline Brunet — 0.95
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-cursor-pauline-brunet-2026-11-10\|Chez Cursor, Pauline Brunet commence par décider où ne pas envoyer de FDE]]
+
+### critique FDE Decagon Sunny Rekhi {#critique-FDE-Decagon-Sunny-Rekhi}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **notes SFEIR** : Originalité 3/5, qualité de l'information 3/5
+
+- **référence** → [[kb/_entites-mineures#AI-Engineer-World's-Fair-2026\|AI Engineer World's Fair 2026]] (EVENEMENT) — 0.95
+
+- [[kb/SFEIR\|SFEIR]] **publie** → critique FDE Decagon Sunny Rekhi — 0.95
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-decagon-sunny-rekhi-2026-11-10\|Sunny Rekhi (Decagon) : chaque demande sur mesure doit finir en libre-service]]
+
+### critique FDE Factory Eno Reyes {#critique-FDE-Factory-Eno-Reyes}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **notes SFEIR** : Originalité 4/5, qualité de l'information 4/5
+
+- **référence** → [[kb/_entites-mineures#AI-Engineer-World's-Fair-2026\|AI Engineer World's Fair 2026]] (EVENEMENT) — 0.95
+
+- [[kb/SFEIR\|SFEIR]] **publie** → critique FDE Factory Eno Reyes — 0.95
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-factory-eno-reyes-2026-11-10\|Factory envoie ses FDE préparer le code des clients pour les agents]]
+
+### critique FDE Kepler Vinoo Ganesh {#critique-FDE-Kepler-Vinoo-Ganesh}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **notes SFEIR** : Originalité 4/5, qualité de l'information 5/5
+
+- **référence** → [[kb/_entites-mineures#AI-Engineer-World's-Fair-2026\|AI Engineer World's Fair 2026]] (EVENEMENT) — 0.95
+
+- [[kb/SFEIR\|SFEIR]] **publie** → critique FDE Kepler Vinoo Ganesh — 0.95
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-kepler-vinoo-ganesh-2026-11-10\|Vinoo Ganesh (Kepler) fait du FDE une stratégie produit, histoires de terrain à l'appui]]
+
+### critique FDE Ramp Leo Mehr {#critique-FDE-Ramp-Leo-Mehr}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **notes SFEIR** : Originalité 3/5, qualité de l'information 4/5
+
+- **référence** → [[kb/_entites-mineures#AI-Engineer-World's-Fair-2026\|AI Engineer World's Fair 2026]] (EVENEMENT) — 0.95
+
+- [[kb/SFEIR\|SFEIR]] **publie** → critique FDE Ramp Leo Mehr — 0.95
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-ramp-leo-mehr-2026-11-10\|Leo Mehr (Ramp) : sans cadrage, l'usine à agents devient un canon à slop]]
+
+### critique FDE Sierra Natalie Meurer {#critique-FDE-Sierra-Natalie-Meurer}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **notes SFEIR** : Originalité 5/5, qualité de l'information 4/5
+
+- **référence** → [[kb/_entites-mineures#AI-Engineer-World's-Fair-2026\|AI Engineer World's Fair 2026]] (EVENEMENT) — 0.95
+
+- [[kb/SFEIR\|SFEIR]] **publie** → critique FDE Sierra Natalie Meurer — 0.95
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-sierra-natalie-meurer-2026-11-10\|« Quel millésime de FDE êtes-vous ? » : Natalie Meurer (Sierra) démonte le titre à la mode]]
+
+### critique FDE Varick Agents {#critique-FDE-Varick-Agents}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **notes SFEIR** : Originalité 4/5, qualité de l'information 3/5
+
+- **référence** → [[kb/_entites-mineures#AI-Engineer-World's-Fair-2026\|AI Engineer World's Fair 2026]] (EVENEMENT) — 0.95
+
+- [[kb/SFEIR\|SFEIR]] **publie** → critique FDE Varick Agents — 0.95
+
+**Fiches** : [[fiches/2026-11/sfeir-fde-varick-agents-2026-11-10\|Varick Agents construit un agent pour ses FDE, et la démonstration technique sauve le talk]]
 
 ### docs/solutions/ {#docs-solutions}
 
@@ -31666,6 +35619,28 @@
 
 **Fiches** : [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
 
+### lettre BCE SSM-2026-0301 {#lettre-BCE-SSM-2026-0301}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **contenu** : « Addressing AI-enabled cybersecurity threats », 7 juillet 2026, plan d'action dû le 31 octobre 2026
+
+- **recommande** → « accélérer la gestion des vulnérabilités et des correctifs, y compris logiciels tiers » (AFFIRMATION) — 0.90
+
+- [[kb/_entites-mineures#Claudia-Buch\|Claudia Buch]] **publie** → lettre BCE SSM-2026-0301 — 0.93
+
+**Fiches** : [[fiches/2026-11/sfeir-credit-mutuel-arkea-cyber-casse-2026-11-14\|Cyber-casse chez Crédit Mutuel Arkéa : ce que 100 millions d'euros enseignent aux DSI et aux RSSI]]
+
+### note SAP 2624265 {#note-SAP-2624265}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **date** : 27 mars 2018, migration vers Appeon PowerBuilder 2017
+
+- **affirme_que** → « Appeon ne maintient pas SAP PowerBuilder 12.6 et antérieures » (AFFIRMATION) — 0.92
+
+**Fiches** : [[fiches/2026-10/sfeir-retro-ingenierie-powerbuilder-nsdk-2026-10-20\|PowerBuilder et NSDK : état des lieux de la rétro-ingénierie par agents]]
+
 ### plan.md {#plan-md}
 
 **Type** : DOCUMENT | 1 relations | 1 fiches
@@ -31724,6 +35699,18 @@
 
 **Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 
+### règlement DORA {#règlement-DORA}
+
+**Type** : DOCUMENT | 2 relations | 2 fiches
+
+- **application** : Digital Operational Resilience Act, en vigueur depuis le 17 janvier 2025
+- **référence** : Règlement (UE) 2022/2554, applicable depuis le 17 janvier 2025, articles 25 et 30
+
+- **s_applique_à** → risque tiers (CONCEPT) — 0.90
+- **affirme_que** → « examens du code source et droits d'audit chez les prestataires TIC pour les fonctions critiques » (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-11/sfeir-budgets-2027-dette-securite-2026-11-08\|Budgets 2027 : il faut défragiliser le SI]], [[fiches/2026-11/sfeir-credit-mutuel-arkea-cyber-casse-2026-11-14\|Cyber-casse chez Crédit Mutuel Arkéa : ce que 100 millions d'euros enseignent aux DSI et aux RSSI]]
+
 ### spec.md {#spec-md}
 
 **Type** : DOCUMENT | 3 relations | 2 fiches
@@ -31745,6 +35732,18 @@
 - **description** : Série 5 brefs Bain & Company 2026. Volet 1 (avril 2026) : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 (mai 2026) : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor
 
 **Fiches** : [[fiches/2026-04/bain-ai-rule-of-40-headwinds-tailwinds-saas-2026-04\|AI Brings Headwinds and Tailwinds to the Rule of 40]]
+
+### talk Own Your Intelligence {#talk-Own-Your-Intelligence}
+
+**Type** : DOCUMENT | 3 relations | 1 fiches
+
+- **publication** : Startup School 2026, YC Startup Podcast, 6 août 2026, 42 min
+
+- [[kb/SFEIR\|SFEIR]] **référence** → talk Own Your Intelligence — 0.97
+- [[kb/Garry-Tan\|Garry Tan]] **publie** → talk Own Your Intelligence — 0.95
+- [[kb/dépôt-Git-de-mémoire\|dépôt Git de mémoire]] **est_basé_sur** → talk Own Your Intelligence — 0.85
+
+**Fiches** : [[fiches/2026-11/sfeir-own-your-intelligence-lecture-dsi-2026-11-14\|Own Your Intelligence : la thèse de Garry Tan lue par une DSI]]
 
 ### talk Quand la vélocité explose avec l'IA {#talk-Quand-la-vélocité-explose-avec-l'IA}
 
@@ -31830,3 +35829,13 @@
 - [[kb/Anthropic\|Anthropic]] **publie** → étude sur la transformation du travail — 0.98
 
 **Fiches** : [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
+
+### τ-Voice {#τ-Voice}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **objet** : Test d'agent de service client mené à la voix
+
+- **mesure** → « 74,5 % pour GPT-Live-1 contre 71,6 % pour Grok Voice 3.0 » (MESURE) — 0.88
+
+**Fiches** : [[fiches/2026-10/sfeir-grok-voice-3-centre-appels-2026-10-15\|Grok Voice 3.0 : numéro un des modèles vocaux, ce qu'un centre d'appels doit vérifier]]

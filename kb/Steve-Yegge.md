@@ -1,12 +1,17 @@
 # Steve Yegge
 
-> **Type** : PERSONNE | 5 relations | 2 fiches sources
+> **Type** : PERSONNE | 6 relations | 2 fiches sources
 
 ## Attributs
 
 - **rôle** : Programmeur, créateur de Gas Town (1er janvier 2026), plateforme open source d'orchestration swarms Claude Code
 
 ## Relations (comme sujet)
+
+### a_créé
+
+- [[kb/_entites-mineures#Beads\|Beads]] (TECHNOLOGIE) — 0.95, STATIQUE
+  - [[fiches/2026-11/sfeir-sortir-de-jira-backlog-markdown-2026-11-13\|Sortir de Jira en 2027 : mettez vos tickets là où travaillent vos agents]]
 
 ### affirme_que
 

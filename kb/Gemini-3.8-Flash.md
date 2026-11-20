@@ -1,10 +1,11 @@
 # Gemini 3.8 Flash
 
-> **Type** : TECHNOLOGIE | 5 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 6 relations | 2 fiches sources
 
 ## Attributs
 
 - **profil** : Raisonnement proche de la frontière, forte vélocité, 0,75 $ / 3,75 $ par million de tokens, thinkingLevel réglable ; utilisable dès activation
+- **statut** : Retiré de Copilot le 14/12/2026 ; maintenu dans l'API, au prix d'Hydrogen au 1/1/2027
 
 ## Relations (comme sujet)
 
@@ -23,8 +24,10 @@
 ## Relations (comme objet)
 
 - [[kb/_entites-mineures#Model-Garden\|Model Garden]] **permet** → Gemini 3.8 Flash — 0.94
+- [[kb/Gemini-4-Hydrogen\|Gemini 4 Hydrogen]] **remplace** → Gemini 3.8 Flash — 0.92
 - [[kb/Claude-Fable-5.1\|Claude Fable 5.1]] **surpasse** → Gemini 3.8 Flash — 0.88
 
 ## Fiches sources
 
 - [[fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14\|Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team]]
+- [[fiches/2026-11/sfeir-gemini-4-hydrogen-github-copilot-2026-11-15\|Gemini 4 Hydrogen arrive dans GitHub Copilot : ce que vos équipes doivent régler avant le 14 décembre]]

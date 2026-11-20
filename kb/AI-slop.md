@@ -1,6 +1,6 @@
 # AI slop
 
-> **Type** : CONCEPT | 2 relations | 3 fiches sources
+> **Type** : CONCEPT | 3 relations | 3 fiches sources
 
 ## Attributs
 
@@ -13,6 +13,11 @@
 
 - code compilable mais dégradant à long terme (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-04/soto-developer-taste-ai-slop-strategizeyourcareer-2026-04\|Developer Taste: Separating Good Code from AI Slop]]
+
+### observé_dans
+
+- usine à agents sans cadrage (CONCEPT) — 0.82, ATEMPOREL
+  - [[fiches/2026-11/sfeir-fde-ramp-leo-mehr-2026-11-10\|Leo Mehr (Ramp) : sans cadrage, l'usine à agents devient un canon à slop]]
 
 ### permet
 

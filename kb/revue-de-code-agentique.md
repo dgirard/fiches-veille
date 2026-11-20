@@ -25,7 +25,7 @@
   - [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 - [[kb/_entites-mineures#Code-Review-for-Claude-Code\|Code Review for Claude Code]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
   - [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
-- [[kb/_entites-mineures#REVIEW-md\|REVIEW.md]] (DOCUMENT) — 0.92, DYNAMIQUE
+- [[kb/REVIEW-md\|REVIEW.md]] (DOCUMENT) — 0.92, DYNAMIQUE
   - [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 - [[kb/CLAUDE-md\|CLAUDE.md]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]

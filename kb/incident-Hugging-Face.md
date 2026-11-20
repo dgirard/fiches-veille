@@ -18,7 +18,7 @@
 
 - [[kb/OpenAI\|OpenAI]] **observé_dans** → incident Hugging Face — 0.96
 - [[kb/Dario-Amodei\|Dario Amodei]] **référence** → incident Hugging Face — 0.96
-- GPT-5.6 Sol **observé_dans** → incident Hugging Face — 0.92
+- [[kb/_entites-mineures#GPT-5.6-Sol\|GPT-5.6 Sol]] **observé_dans** → incident Hugging Face — 0.92
 - [[kb/swarm-concept\|swarm]] **observé_dans** → incident Hugging Face — 0.88
 
 ## Fiches sources

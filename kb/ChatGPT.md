@@ -1,6 +1,6 @@
 # ChatGPT
 
-> **Type** : TECHNOLOGIE | 15 relations | 10 fiches sources
+> **Type** : TECHNOLOGIE | 17 relations | 10 fiches sources
 
 ## Attributs
 
@@ -58,6 +58,8 @@
 - [[kb/Ethan-Mollick\|Ethan Mollick]] **recommande** → ChatGPT — 0.95
 - [[kb/David-Perrin\|David Perrin]] **utilise** → ChatGPT — 0.95
 - Entreprises regulees **utilise** → ChatGPT — 0.95
+- [[kb/ChatGPT-Wallet\|ChatGPT Wallet]] **fait_partie_de** → ChatGPT — 0.93
+- [[kb/_entites-mineures#procès-des-huit-États-américains-contre-OpenAI\|procès des huit États américains contre OpenAI]] **s_applique_à** → ChatGPT — 0.92
 
 ## Fiches sources
 

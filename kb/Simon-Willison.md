@@ -1,11 +1,11 @@
 # Simon Willison
 
-> **Type** : PERSONNE | 12 relations | 5 fiches sources
+> **Type** : PERSONNE | 14 relations | 6 fiches sources
 
 ## Attributs
 
 - **position** : Défenseur du vibe coding comme force démocratisatrice
-- **rôle** : Practitioner IA, développeur, blogger
+- **rôle** : Développeur et blogueur, mesure du tokenizer
 
 ## Relations (comme sujet)
 
@@ -22,6 +22,13 @@
   - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills are awesome, maybe a bigger deal than MCP]]
 - « "I'm getting a ton of work done and my Fable allowance is shrinking less quickly than before" » (CITATION) — 0.90, STATIQUE
   - [[fiches/2026-07/willison-fable-judgement-delegation-subagents-2026-07-03\|Fable's judgement]]
+- « le tokenizer de Haiku 5.5 est « a hidden price increase » (~1,25×) » (CITATION) — 0.82, STATIQUE
+  - [[fiches/2026-10/sfeir-claude-code-advisor-multi-modeles-2026-10-08\|Advisor Claude Code : qui planifie, qui édite, qui lit entre Opus, Sonnet et Haiku 5.5]]
+
+### mesure
+
+- « environ 1,25 fois plus de tokens que Haiku 4.5 sur un même prompt » (MESURE) — 0.85, STATIQUE
+  - [[fiches/2026-10/sfeir-claude-haiku-5-5-sous-agents-2026-10-08\|Claude Haiku 5.5 : ce que le nouveau Haiku change pour vos sous-agents]]
 
 ### prédit
 
@@ -60,4 +67,5 @@
 - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Claude Skills: Exploring Anthropic's Document Manipulation Capabilities]]
 - [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Some thoughts on LLMs and Software Development]]
 - [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Giving your AI a Job Interview]]
+- [[fiches/2026-10/sfeir-claude-haiku-5-5-sous-agents-2026-10-08\|Claude Haiku 5.5 : ce que le nouveau Haiku change pour vos sous-agents]]
 - [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]

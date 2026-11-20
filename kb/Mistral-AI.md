@@ -1,10 +1,11 @@
 # Mistral AI
 
-> **Type** : ORGANISATION | 49 relations | 8 fiches sources
+> **Type** : ORGANISATION | 53 relations | 9 fiches sources
 
 ## Attributs
 
 - **catégorie** : Société française d'intelligence artificielle générative, modèles ouverts et fermés, basée à Paris/Londres, 1000 collaborateurs, valorisation 12 Md€, objectif revenus 1 Md€ fin 2026, ~75% CA Europe
+- **financement** : Series D de 3 Md€ (sept. 2026), >21 Md€ post-money
 - **positionnement** : Laboratoire français passé d'éditeur de modèles open-weights à fournisseur d'infrastructure d'inférence souveraine (août 2026) : jalons annoncés de 200 MW fin 2027 et 1 GW fin 2030, financés par des engagements clients pluriannuels ; hébergement de modèles ouverts tiers, dont GLM-5.2 ; ~4 Md$ levés à ce jour, Microsoft comme locataire d'ancrage de ses datacenters européens
 - **rôle** : Éditeur français de modèles de langage, « meilleur pari européen sur la couche modèle » (SFEIR) ; valorisé ~20 Md€, trois ans d'existence ; présent B2C (Le Chat), B2B (API), open-weights et frontier, infrastructure, verticalisation
 - **secteur** : Modèles d'IA, souveraineté, datacenters européens
@@ -22,6 +23,8 @@
   - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
 - « les refus des modèles fermés bloquent la recherche de vulnérabilités et la réponse à incident » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-10/mistral-large-4-le-chonk-2026-10-06\|Introducing Mistral Large 4]]
+- « 82 % en reproduction de vulnérabilité sur l'AA Cyber Index » (MESURE) — 0.85, STATIQUE
+  - [[fiches/2026-10/sfeir-mistral-large-4-souverainete-licence-2026-10-06\|Mistral Large 4 : 1 000 milliards de paramètres en open-weights, une souveraineté qui se jugera sur la licence]]
 
 ### collabore_avec
 
@@ -100,6 +103,8 @@
   - [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]
 - [[kb/Mistral-Large-4\|Mistral Large 4]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2026-10/mistral-large-4-le-chonk-2026-10-06\|Introducing Mistral Large 4]]
+  - [[fiches/2026-11/sfeir-mistral-large-4-licence-auto-hebergement-2026-11-02\|Mistral Large 4 en poids ouverts : ce que la licence permet, ce que l'auto-hébergement coûte]]
+  - [[fiches/2026-10/sfeir-mistral-large-4-souverainete-licence-2026-10-06\|Mistral Large 4 : 1 000 milliards de paramètres en open-weights, une souveraineté qui se jugera sur la licence]]
 - [[kb/Shieldstral\|Shieldstral]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
 - [[kb/_entites-mineures#Mistral-Regional-Endpoints\|Mistral Regional Endpoints]] (TECHNOLOGIE) — 0.96, STATIQUE
@@ -128,12 +133,15 @@
 - [[kb/_entites-mineures#Audry-Herblin-Stoupe\|Audry Herblin-Stoupe]] **travaille_chez** → Mistral AI — 0.98
 - [[kb/Timothée-Lacroix\|Timothée Lacroix]] **travaille_chez** → Mistral AI — 0.98
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] **est_basé_sur** → Mistral AI — 0.96
+- [[kb/_entites-mineures#Guillaume-Lample\|Guillaume Lample]] **travaille_chez** → Mistral AI — 0.95
+- [[kb/_entites-mineures#Pierre-Stock\|Pierre Stock]] **travaille_chez** → Mistral AI — 0.94
 - [[kb/Microsoft\|Microsoft]] **collabore_avec** → Mistral AI — 0.93
 - [[kb/_entites-mineures#ASML\|ASML]] **soutient** → Mistral AI — 0.90
 - Amadeus **soutient** → Mistral AI — 0.88
 - [[kb/Capgemini\|Capgemini]] **soutient** → Mistral AI — 0.88
 - CMA CGM **soutient** → Mistral AI — 0.88
 - [[kb/Eric-Schmidt\|Eric Schmidt]] **collabore_avec** → Mistral AI — 0.85
+- [[kb/_entites-mineures#Samsung-Electronics\|Samsung Electronics]] **collabore_avec** → Mistral AI — 0.85
 
 ## Fiches sources
 
@@ -143,5 +151,6 @@
 - [[fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01\|Annonce : une alternative européenne à Claude Code (200 M$ de revenus). Voici Mistral AI CLI.]]
 - [[fiches/2026-10/mistral-large-4-le-chonk-2026-10-06\|Introducing Mistral Large 4]]
 - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
+- [[fiches/2026-10/sfeir-mistral-large-4-souverainete-licence-2026-10-06\|Mistral Large 4 : 1 000 milliards de paramètres en open-weights, une souveraineté qui se jugera sur la licence]]
 - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 - [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]

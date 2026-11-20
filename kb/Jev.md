@@ -1,10 +1,11 @@
 # Jev
 
-> **Type** : TECHNOLOGIE | 18 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 22 relations | 5 fiches sources
 
 ## Attributs
 
-- **catégorie** : Modèle de décision de TypeSafe AI, texte seul, contexte 32k
+- **catégorie** : Modèle de décision de TypeSafe, choix et probabilités calibrées sans génération de texte
+- **définition** : Modèle de décision fermé de TypeSafe, texte seul, 0,042 $ par million de jetons d'entrée
 
 ## Relations (comme sujet)
 
@@ -17,6 +18,8 @@
 
 - [[kb/_entites-mineures#System-One-Models\|System One Models]] (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2026-09/almeida-system-one-models-jev-2026-09-15\|Introducing System One Models & Jev]]
+- [[kb/_entites-mineures#modèle-de-décision\|modèle de décision]] (CONCEPT) — 0.93, ATEMPOREL
+  - [[fiches/2026-10/sfeir-cloudflare-clef-jev-modeles-decision-2026-10-06\|Cloudflare Clef face à Jev : quel modèle de décision choisir, et ce que valent les chiffres]]
 - [[kb/_entites-mineures#modèle-System-One\|modèle System One]] (CONCEPT) — 0.93, STATIQUE
   - [[fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26\|Context Filter]]
 
@@ -49,6 +52,8 @@
 
 - embeddings (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26\|Context Filter]]
+- « GPQA Diamond 78,3 contre 48,0 pour Clef » (MESURE) — 0.87, STATIQUE
+  - [[fiches/2026-10/sfeir-cloudflare-clef-jev-modeles-decision-2026-10-06\|Cloudflare Clef face à Jev : quel modèle de décision choisir, et ce que valent les chiffres]]
 - [[kb/_entites-mineures#LLM-de-frontière\|LLM de frontière]] (TECHNOLOGIE) — 0.80, STATIQUE
   - [[fiches/2026-09/almeida-system-one-models-jev-2026-09-15\|Introducing System One Models & Jev]]
 
@@ -64,7 +69,9 @@
 - [[kb/_entites-mineures#TypeSafe-AI\|TypeSafe AI]] **publie** → Jev — 0.98
 - [[kb/_entites-mineures#TypeSafe\|TypeSafe]] **a_créé** → Jev — 0.97
 - [[kb/GPT-Researcher\|GPT Researcher]] **utilise** → Jev — 0.97
+- [[kb/Clef\|Clef]] **concurrence** → Jev — 0.94
 - [[kb/Clef\|Clef]] **converge_avec** → Jev — 0.92
+- [[kb/_entites-mineures#Jev-Decision-Index\|Jev Decision Index]] **référence** → Jev — 0.85
 - [[kb/Clef\|Clef]] **surpasse** → Jev — 0.85
 
 ## Fiches sources
@@ -72,3 +79,5 @@
 - [[fiches/2026-09/almeida-system-one-models-jev-2026-09-15\|Introducing System One Models & Jev]]
 - [[fiches/2026-10/chen-reneau-flansburg-clef-decision-models-2026-10-01\|Introducing Clef: our open-source decision models, and new RL fine-tuning platform]]
 - [[fiches/2026-09/elovic-gpt-researcher-context-filter-jev-2026-09-26\|Context Filter]]
+- [[fiches/2026-10/sfeir-cloudflare-clef-jev-modeles-decision-2026-10-06\|Cloudflare Clef face à Jev : quel modèle de décision choisir, et ce que valent les chiffres]]
+- [[fiches/2026-10/sfeir-routeur-modeles-llm-escalade-2026-10-12\|Routeur de modèles LLM : quand il bat un modèle unique, et quand il perd]]

@@ -1,6 +1,6 @@
 # Microsoft Foundry
 
-> **Type** : TECHNOLOGIE | 6 relations | 2 fiches sources
+> **Type** : TECHNOLOGIE | 7 relations | 2 fiches sources
 
 ## Attributs
 
@@ -21,8 +21,10 @@
 
 ### utilise
 
-- Entra Agent ID (TECHNOLOGIE) — 0.90, STATIQUE
+- [[kb/_entites-mineures#Entra-Agent-ID\|Entra Agent ID]] (TECHNOLOGIE) — 0.90, STATIQUE
   - [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
+- [[kb/Mistral-Large-4\|Mistral Large 4]] (TECHNOLOGIE) — 0.88, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-mistral-large-4-licence-auto-hebergement-2026-11-02\|Mistral Large 4 en poids ouverts : ce que la licence permet, ce que l'auto-hébergement coûte]]
 
 ## Relations (comme objet)
 

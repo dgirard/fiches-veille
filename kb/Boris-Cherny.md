@@ -118,7 +118,7 @@
   - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]
 - subagents spécialisés (code-simplifier, verify-app) (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-01/nunez-cherny-claude-code-workflow-venturebeat-2026-01-05\|The creator of Claude Code just revealed his workflow, and developers are losing their minds]]
-- [[kb/_entites-mineures#Lean\|Lean]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
+- [[kb/Lean\|Lean]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
   - [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
 - [[kb/TLA+\|TLA+]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
   - [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]

@@ -1,6 +1,6 @@
 # SpaceX
 
-> **Type** : ORGANISATION | 8 relations | 2 fiches sources
+> **Type** : ORGANISATION | 11 relations | 2 fiches sources
 
 ## Attributs
 
@@ -38,7 +38,10 @@
 
 - [[kb/Elon-Musk\|Elon Musk]] **dirige** → SpaceX — 0.98
 - [[kb/xAI\|xAI]] **fait_partie_de** → SpaceX — 0.95
+- [[kb/SpaceXSI\|SpaceXSI]] **fait_partie_de** → SpaceX — 0.94
+- [[kb/Cursor-organisation\|Cursor]] **fait_partie_de** → SpaceX — 0.92
 - [[kb/_entites-mineures#Starlink\|Starlink]] **fait_partie_de** → SpaceX — 0.92
+- [[kb/_entites-mineures#Anysphere\|Anysphere]] **fait_partie_de** → SpaceX — 0.90
 
 ## Fiches sources
 

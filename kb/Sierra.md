@@ -1,6 +1,6 @@
 # Sierra
 
-> **Type** : ORGANISATION | 27 relations | 4 fiches sources
+> **Type** : ORGANISATION | 29 relations | 4 fiches sources
 
 ## Attributs
 
@@ -74,6 +74,8 @@
   - [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|The AI-native interview]]
 - [[kb/_entites-mineures#Ghostwriter\|Ghostwriter]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|The AI-native interview]]
+- [[kb/Outcome-based-pricing\|Outcome-based pricing]] (CONCEPT) — 0.90, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-fde-sierra-natalie-meurer-2026-11-10\|« Quel millésime de FDE êtes-vous ? » : Natalie Meurer (Sierra) démonte le titre à la mode]]
 
 ## Relations (comme objet)
 
@@ -82,6 +84,7 @@
 - [[kb/Bret-Taylor\|Bret Taylor]] **travaille_chez** → Sierra — 0.97
 - [[kb/_entites-mineures#Clay-Bavor\|Clay Bavor]] **travaille_chez** → Sierra — 0.97
 - Autonomous customer issue resolution cross-system **observé_dans** → Sierra — 0.94
+- [[kb/Natalie-Meurer\|Natalie Meurer]] **travaille_chez** → Sierra — 0.93
 - [[kb/_entites-mineures#Instinct\|Instinct]] **collabore_avec** → Sierra — 0.90
 
 ## Fiches sources

@@ -1,6 +1,6 @@
 # GitHub
 
-> **Type** : TECHNOLOGIE | 11 relations | 5 fiches sources
+> **Type** : TECHNOLOGIE | 12 relations | 5 fiches sources
 
 > **Même entité, autre type** : [[kb/GitHub-organisation\|GitHub (ORGANISATION)]]
 
@@ -26,6 +26,8 @@
   - [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|L'ère des assistants de codage IA bon marché pourrait être révolue]]
 - [[kb/_entites-mineures#GitHub-Spark\|GitHub Spark]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]
+- [[kb/_entites-mineures#retrait-de-six-modèles-de-Copilot-le-14-décembre-2026\|retrait de six modèles de Copilot le 14 décembre 2026]] (EVENEMENT) — 0.93, STATIQUE
+  - [[fiches/2026-11/sfeir-gemini-4-hydrogen-github-copilot-2026-11-15\|Gemini 4 Hydrogen arrive dans GitHub Copilot : ce que vos équipes doivent régler avant le 14 décembre]]
 
 ## Relations (comme objet)
 

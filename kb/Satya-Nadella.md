@@ -1,6 +1,6 @@
 # Satya Nadella
 
-> **Type** : PERSONNE | 6 relations | 1 fiches sources
+> **Type** : PERSONNE | 7 relations | 1 fiches sources
 
 ## Attributs
 
@@ -14,6 +14,8 @@
   - [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|A frontier without an ecosystem is not stable]]
 - « le capital humain devient plus précieux à mesure que le capital token croît » (AFFIRMATION) — 0.93, ATEMPOREL
   - [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|A frontier without an ecosystem is not stable]]
+- « Work IQ est la base de données la plus importante de toute organisation » (AFFIRMATION) — 0.84, STATIQUE
+  - [[fiches/2026-11/sfeir-microsoft-autopilot-openclaw-ignite-2026-11-18\|Microsoft Autopilot tourne sur OpenClaw, et Ignite ne l'a pas dit]]
 
 ### dirige
 

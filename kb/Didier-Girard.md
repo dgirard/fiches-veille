@@ -1,10 +1,10 @@
 # Didier Girard
 
-> **Type** : PERSONNE | 23 relations | 4 fiches sources
+> **Type** : PERSONNE | 37 relations | 7 fiches sources
 
 ## Attributs
 
-- **rôle** : Auteur de la note ; lit un lancement produit comme la mise en production d'une doctrine, valide la cohérence architecturale mais refuse les chiffres du constructeur comme preuve et documente trois manques opérationnels
+- **rôle** : auteur, SFEIR
 
 ## Relations (comme sujet)
 
@@ -36,12 +36,23 @@
   - [[fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24\|AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027]]
 - « le token devient le fuel de la création de valeur » (AFFIRMATION) — 0.92, ATEMPOREL
   - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
+- « quand la machine génère à ce débit, la valeur se déplace de la génération vers la vérification » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-10/girard-openai-722-preuves-verification-2026-10-09\|722 preuves en un commit : ce que la publication mathématique d'OpenAI dit de l'avenir de la vérification]]
+- « si je dis 10 %, je ne change pas ma manière de faire ; si je dis 10 fois plus, je dois me repenser » (CITATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-10/sfeir-ai-operating-system-mckinsey-lecture-2026-10-15\|AI operating system : ce que McKinsey a raison de dire, et ce qu'il ne prouve pas]]
+- « l'altitude est un chantier d'infrastructure avant d'être un prompt » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/girard-rieseberg-ambition-ia-equipe-2026-10-19\|Être plus ambitieux avec l'IA : la méthode de Felix Rieseberg, lue par une équipe d'ingénierie]]
+- « la licence GLM-5.3 reprend la MIT avec une seule condition au-delà de 10 Md$ de CA » (AFFIRMATION) — 0.88, STATIQUE
+  - [[fiches/2026-10/girard-aikido-altar-securite-air-gap-2026-10-01\|Aikido Altar : un modèle de sécurité open-weight taillé pour l'air gap]]
+- « la souveraineté d'Altar porte sur le lieu d'exécution, pas sur la provenance des poids » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/girard-aikido-altar-securite-air-gap-2026-10-01\|Aikido Altar : un modèle de sécurité open-weight taillé pour l'air gap]]
 
 ### dirige
 
 - [[kb/SFEIR\|SFEIR]] (ORGANISATION) — 0.99, DYNAMIQUE
   - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
   - [[fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24\|AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027]]
+  - [[fiches/2026-10/sfeir-ai-operating-system-mckinsey-lecture-2026-10-15\|AI operating system : ce que McKinsey a raison de dire, et ce qu'il ne prouve pas]]
 
 ### publie
 
@@ -60,8 +71,32 @@
   - [[fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24\|AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027]]
 - « journaliser la question de politique active à chaque décision, puisqu'elle tiendra lieu de justification en audit » (AFFIRMATION) — 0.94, ATEMPOREL
   - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
+- « proportionner la confiance à ce qu'un tiers peut vérifier sans la machine IA » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/girard-openai-722-preuves-verification-2026-10-09\|722 preuves en un commit : ce que la publication mathématique d'OpenAI dit de l'avenir de la vérification]]
 - « redéfinir la comptabilité des effectifs (humains + agents) » (AFFIRMATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24\|AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027]]
+- « spécifications exécutables relues, vérificateurs indépendants activés par défaut, changelog daté des retraits » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/girard-openai-722-preuves-verification-2026-10-09\|722 preuves en un commit : ce que la publication mathématique d'OpenAI dit de l'avenir de la vérification]]
+- « faire du juge extérieur un livrable (tests, observabilité, evals) » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-10/girard-rieseberg-ambition-ia-equipe-2026-10-19\|Être plus ambitieux avec l'IA : la méthode de Felix Rieseberg, lue par une équipe d'ingénierie]]
+- « conserver et nettoyer les traces d'agents comme jeu de calibration » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/girard-aikido-altar-securite-air-gap-2026-10-01\|Aikido Altar : un modèle de sécurité open-weight taillé pour l'air gap]]
+- « dimensionner la mémoire GPU en comptant le contexte des agents » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/girard-aikido-altar-securite-air-gap-2026-10-01\|Aikido Altar : un modèle de sécurité open-weight taillé pour l'air gap]]
+- « mesurer séparément recall moyen et couverture » (AFFIRMATION) — 0.85, ATEMPOREL
+  - [[fiches/2026-10/girard-aikido-altar-securite-air-gap-2026-10-01\|Aikido Altar : un modèle de sécurité open-weight taillé pour l'air gap]]
+- « standardiser l'ambition par une skill partagée dans le dépôt » (AFFIRMATION) — 0.85, ATEMPOREL
+  - [[fiches/2026-10/girard-rieseberg-ambition-ia-equipe-2026-10-19\|Être plus ambitieux avec l'IA : la méthode de Felix Rieseberg, lue par une équipe d'ingénierie]]
+
+### référence
+
+- [[kb/DORA-2025\|DORA 2025]] (DOCUMENT) — 0.85, STATIQUE
+  - [[fiches/2026-10/girard-openai-722-preuves-verification-2026-10-09\|722 preuves en un commit : ce que la publication mathématique d'OpenAI dit de l'avenir de la vérification]]
+
+### s_inspire_de
+
+- [[kb/_entites-mineures#Évariste-Galois\|Évariste Galois]] (PERSONNE) — 0.85, ATEMPOREL
+  - [[fiches/2026-10/girard-openai-722-preuves-verification-2026-10-09\|722 preuves en un commit : ce que la publication mathématique d'OpenAI dit de l'avenir de la vérification]]
 
 ### s_oppose_à
 
@@ -72,10 +107,16 @@
 
 - [[kb/SFEIR\|SFEIR]] (ORGANISATION) — 0.99, DYNAMIQUE
   - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
+  - [[fiches/2026-10/girard-aikido-altar-securite-air-gap-2026-10-01\|Aikido Altar : un modèle de sécurité open-weight taillé pour l'air gap]]
+  - [[fiches/2026-10/girard-openai-722-preuves-verification-2026-10-09\|722 preuves en un commit : ce que la publication mathématique d'OpenAI dit de l'avenir de la vérification]]
+  - [[fiches/2026-10/girard-rieseberg-ambition-ia-equipe-2026-10-19\|Être plus ambitieux avec l'IA : la méthode de Felix Rieseberg, lue par une équipe d'ingénierie]]
 
 ## Fiches sources
 
 - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
 - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
+- [[fiches/2026-10/girard-aikido-altar-securite-air-gap-2026-10-01\|Aikido Altar : un modèle de sécurité open-weight taillé pour l'air gap]]
+- [[fiches/2026-10/girard-openai-722-preuves-verification-2026-10-09\|722 preuves en un commit : ce que la publication mathématique d'OpenAI dit de l'avenir de la vérification]]
+- [[fiches/2026-10/girard-rieseberg-ambition-ia-equipe-2026-10-19\|Être plus ambitieux avec l'IA : la méthode de Felix Rieseberg, lue par une équipe d'ingénierie]]
 - [[fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24\|AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027]]
 - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]

@@ -1,6 +1,6 @@
 # Andrej Karpathy
 
-> **Type** : PERSONNE | 17 relations | 7 fiches sources
+> **Type** : PERSONNE | 18 relations | 7 fiches sources
 
 ## Attributs
 
@@ -21,8 +21,9 @@
   - [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Andrej Karpathy: From Vibe Coding to Agentic Engineering]]
 - [[kb/context-engineering\|context engineering]] (METHODOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering Needs Domain Understanding]]
-- [[kb/_entites-mineures#LLM-wiki\|LLM wiki]] (METHODOLOGIE) — 0.88, STATIQUE
+- [[kb/LLM-wiki\|LLM wiki]] (DOCUMENT) — 0.92, STATIQUE
   - [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
+  - [[fiches/2026-11/sfeir-posseder-memoire-agent-depot-git-2026-11-14\|Posséder sa mémoire d'agent : le dépôt Git comme cerveau partagé entre tous vos agents IA]]
 - [[kb/_entites-mineures#Agentic-engineering\|agentic engineering]] (METHODOLOGIE) — 0.85, STATIQUE
   - [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|The New SDLC With Vibe Coding — From ad-hoc prompting to Agentic Engineering]]
 
@@ -64,6 +65,7 @@
 ## Relations (comme objet)
 
 - [[kb/andrej-karpathy-skills\|andrej-karpathy-skills]] **s_inspire_de** → Andrej Karpathy — 0.97
+- [[kb/LLM-wiki\|LLM wiki]] **s_inspire_de** → Andrej Karpathy — 0.85
 
 ## Fiches sources
 

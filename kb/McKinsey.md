@@ -1,6 +1,6 @@
 # McKinsey
 
-> **Type** : ORGANISATION | 35 relations | 4 fiches sources
+> **Type** : ORGANISATION | 39 relations | 4 fiches sources
 
 ## Attributs
 
@@ -60,6 +60,10 @@
   - [[fiches/2026-09/covington-mckinsey-agentic-transformation-office-2026-09-01\|The agentic transformation office: Redefining the economics of change]]
 - [[kb/_entites-mineures#article-The-AI-operating-system\|article The AI operating system]] (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01\|The AI operating system: A new way for CEOs to run the enterprise]]
+- The AI operating system: A new way for CEOs to run the enterprise (DOCUMENT) — 0.95, STATIQUE
+  - [[fiches/2026-10/sfeir-ai-operating-system-mckinsey-lecture-2026-10-15\|AI operating system : ce que McKinsey a raison de dire, et ce qu'il ne prouve pas]]
+- [[kb/_entites-mineures#EcliptOS\|EcliptOS]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-ai-operating-system-mckinsey-lecture-2026-10-15\|AI operating system : ce que McKinsey a raison de dire, et ce qu'il ne prouve pas]]
 
 ### recommande
 
@@ -73,6 +77,8 @@
   - [[fiches/2026-10/padhi-mckinsey-ai-operating-system-ceos-2026-10-01\|The AI operating system: A new way for CEOs to run the enterprise]]
 - « "Commencer par les quelques grands programmes qui concentrent la dépense" » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-05/moon-walsh-mckinsey-rewiring-software-delivery-agentic-era-2026-05-29\|Rewiring software delivery for the agentic era]]
+- « posséder le contexte, louer ou remplacer la technologie » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-10/sfeir-ai-operating-system-mckinsey-lecture-2026-10-15\|AI operating system : ce que McKinsey a raison de dire, et ce qu'il ne prouve pas]]
 
 ### s_oppose_à
 
@@ -91,6 +97,7 @@
 - [[kb/_entites-mineures#Tomer-Slaney\|Tomer Slaney]] **travaille_chez** → McKinsey — 0.97
 - [[kb/_entites-mineures#QuantumBlack\|QuantumBlack]] **fait_partie_de** → McKinsey — 0.95
 - [[kb/_entites-mineures#Asutosh-Padhi\|Asutosh Padhi]] **travaille_chez** → McKinsey — 0.95
+- [[kb/SFEIR\|SFEIR]] **converge_avec** → McKinsey — 0.82
 
 ## Fiches sources
 

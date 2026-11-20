@@ -1,6 +1,6 @@
 # Claude
 
-> **Type** : TECHNOLOGIE | 28 relations | 14 fiches sources
+> **Type** : TECHNOLOGIE | 29 relations | 14 fiches sources
 
 ## Attributs
 
@@ -57,6 +57,7 @@
 - Entreprises regulees **utilise** → Claude — 0.95
 - [[kb/Felix-Rieseberg\|Felix Rieseberg]] **utilise** → Claude — 0.95
 - [[kb/Gemini-agent\|Gemini agent]] **utilise** → Claude — 0.95
+- [[kb/Claude-Meetings\|Claude Meetings]] **fait_partie_de** → Claude — 0.93
 - [[kb/_entites-mineures#Marketing-AI-OS\|Marketing AI OS]] **utilise** → Claude — 0.93
 - temps de raisonnement **améliore** → Claude — 0.92
 - [[kb/GPT-5.6\|GPT-5.6]] **concurrence** → Claude — 0.92

@@ -1,11 +1,12 @@
 # Cursor
 
-> **Type** : ORGANISATION | 24 relations | 16 fiches sources
+> **Type** : ORGANISATION | 30 relations | 17 fiches sources
 
 > **Même entité, autre type** : [[kb/Cursor-technologie\|Cursor (TECHNOLOGIE)]]
 
 ## Attributs
 
+- **actionnaire** : SpaceX depuis le 14 août 2026
 - **catégorie** : IDE assisté par IA
 - **valorisation** : ~10 milliards de dollars
 
@@ -15,6 +16,13 @@
 
 - [[kb/_entites-mineures#Composer\|Composer]] (TECHNOLOGIE) — 0.94, STATIQUE
   - [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
+- Composer 2.5 (TECHNOLOGIE) — 0.80, STATIQUE
+  - [[fiches/2026-10/sfeir-agents-de-code-panorama-criteres-choix-2026-10-22\|Agents de code : les critères qui comptent avant le benchmark]]
+
+### collabore_avec
+
+- intégrateurs (ORGANISATION) — 0.80, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-fde-cursor-pauline-brunet-2026-11-10\|Chez Cursor, Pauline Brunet commence par décider où ne pas envoyer de FDE]]
 
 ### concurrence
 
@@ -35,6 +43,9 @@
 
 - outils de codage IA (CONCEPT) — 0.93, STATIQUE
   - [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Powered by Claude]]
+- [[kb/SpaceX\|SpaceX]] (ORGANISATION) — 0.92, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-fde-cursor-pauline-brunet-2026-11-10\|Chez Cursor, Pauline Brunet commence par décider où ne pas envoyer de FDE]]
+  - [[fiches/2026-11/sfeir-memoire-agent-souverainete-2026-11-14\|Mémoire d'agent et souveraineté : Git, base managée ou mémoire native de l'éditeur ?]]
 
 ### mesure
 
@@ -56,6 +67,8 @@
   - [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Powered by Claude]]
 - [[kb/_entites-mineures#Colossus\|Colossus]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
+- [[kb/Forward-Deployed-Engineering\|Forward Deployed Engineering]] (METHODOLOGIE) — 0.92, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-fde-cursor-pauline-brunet-2026-11-10\|Chez Cursor, Pauline Brunet commence par décider où ne pas envoyer de FDE]]
 
 ## Relations (comme objet)
 
@@ -63,7 +76,9 @@
 - [[kb/Kiro\|Kiro]] **concurrence** → Cursor — 0.97
 - [[kb/Linear\|Linear]] **utilise** → Cursor — 0.97
 - [[kb/SpaceX\|SpaceX]] **collabore_avec** → Cursor — 0.96
+- [[kb/Michael-Truell\|Michael Truell]] **dirige** → Cursor — 0.95
 - [[kb/_entites-mineures#Anysphere\|Anysphere]] **a_créé** → Cursor — 0.94
+- [[kb/Pauline-Brunet\|Pauline Brunet]] **travaille_chez** → Cursor — 0.93
 - [[kb/Weave\|Weave]] **utilise** → Cursor — 0.92
 - [[kb/ADHD\|ADHD]] **s_applique_à** → Cursor — 0.90
 - [[kb/fichiers-de-règles-partagés\|fichiers de règles partagés]] **s_applique_à** → Cursor — 0.90
@@ -88,5 +103,6 @@
 - [[fiches/2025-11/osmani-conductors-orchestrators-agentic-coding-2025-11-01\|Conductors to Orchestrators: The Future of Agentic Coding]]
 - [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Powered by Claude]]
 - [[fiches/2025-12/robinson-coding-agents-complexity-budgets-cursor-2025-12\|Coding Agents & Complexity Budgets]]
+- [[fiches/2026-11/sfeir-fde-cursor-pauline-brunet-2026-11-10\|Chez Cursor, Pauline Brunet commence par décider où ne pas envoyer de FDE]]
 - [[fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23\|Ni manager, ni contributeur individuel… - Le Touilleur Express]]
 - [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]

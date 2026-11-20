@@ -1,10 +1,10 @@
 # Yann LeCun
 
-> **Type** : PERSONNE | 12 relations | 2 fiches sources
+> **Type** : PERSONNE | 13 relations | 3 fiches sources
 
 ## Attributs
 
-- **rôle** : Fondateur et président d'AMI Labs, professeur à NYU, ex-Chief AI Scientist de Meta, prix Turing
+- **rôle** : Chercheur en IA
 
 ## Relations (comme sujet)
 
@@ -32,6 +32,8 @@
   - [[fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25\|Nope. It's still true. (post X en réponse à Noah Smith)]]
 - « l'IA deviendra à terme aussi intelligente que les humains dans tous les domaines » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25\|Nope. It's still true. (post X en réponse à Noah Smith)]]
+- « la démonstration formelle automatisée reporte la valeur sur concepts, définitions et conjectures » (AFFIRMATION) — 0.88, DYNAMIQUE
+  - [[fiches/2026-10/girard-openai-722-preuves-verification-2026-10-09\|722 preuves en un commit : ce que la publication mathématique d'OpenAI dit de l'avenir de la vérification]]
 
 ### référence
 
@@ -52,5 +54,6 @@
 
 ## Fiches sources
 
+- [[fiches/2026-10/girard-openai-722-preuves-verification-2026-10-09\|722 preuves en un commit : ce que la publication mathématique d'OpenAI dit de l'avenir de la vérification]]
 - [[fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25\|Nope. It's still true. (post X en réponse à Noah Smith)]]
 - [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]

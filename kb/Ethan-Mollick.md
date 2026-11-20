@@ -1,6 +1,6 @@
 # Ethan Mollick
 
-> **Type** : PERSONNE | 70 relations | 16 fiches sources
+> **Type** : PERSONNE | 73 relations | 17 fiches sources
 
 ## Attributs
 
@@ -9,7 +9,7 @@
 - **indépendance** : N'accepte aucun financement des entreprises IA
 - **oeuvre** : Co-Intelligence (livre)
 - **role** : Professeur associe, Wharton School
-- **rôle** : Professeur à la Wharton School, auteur de One Useful Thing
+- **rôle** : Professeur à Wharton, auteur de One Useful Thing
 
 ## Relations (comme sujet)
 
@@ -24,6 +24,8 @@
   - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
 - [[kb/_entites-mineures#Twilight-Factory\|Twilight Factory]] (CONCEPT) — 0.94, STATIQUE
   - [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]]
+- [[kb/_entites-mineures#Leadership,-Lab,-Crowd\|Leadership, Lab, Crowd]] (METHODOLOGIE) — 0.90, STATIQUE
+  - [[fiches/2026-10/sfeir-ai-operating-system-mckinsey-lecture-2026-10-15\|AI operating system : ce que McKinsey a raison de dire, et ce qu'il ne prouve pas]]
 
 ### affirme_que
 
@@ -67,6 +69,8 @@
   - [[fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02\|Organizational Theory Lessons for Agentic AI]]
 - « l'ASI peut être bloquée par un VP refusant de modifier son workflow Salesforce » (AFFIRMATION) — 0.88, ATEMPOREL
   - [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|You will know that the AI labs believe in ASI when -they dissolve their forward deployed engineering teams-]]
+- « les irrégularités de Fable 5.2 se sont déplacées des erreurs vers le jugement sur son propre travail » (AFFIRMATION) — 0.88, STATIQUE
+  - [[fiches/2026-11/sfeir-claude-fable-mythos-5-2-2026-11-10\|Claude Fable 5.2 et Mythos 5.2 : moins cher au token, plus cher à la tâche si l'on pousse l'effort]]
 
 ### collabore_avec
 
@@ -123,6 +127,8 @@
   - [[fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22\|Confronting Impossible Futures]]
 - étude personas et précision IA (DOCUMENT) — 0.95, STATIQUE
   - [[fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07\|Playing Pretend: Expert Personas Don't Improve Factual Accuracy]]
+- [[kb/_entites-mineures#Fable-5.2-and-Jagged-AGI\|Fable 5.2 and Jagged AGI]] (DOCUMENT) — 0.92, STATIQUE
+  - [[fiches/2026-11/sfeir-claude-fable-mythos-5-2-2026-11-10\|Claude Fable 5.2 et Mythos 5.2 : moins cher au token, plus cher à la tâche si l'on pousse l'effort]]
 - [[kb/_entites-mineures#Co-Existence\|Co-Existence]] (DOCUMENT) — 0.90, DYNAMIQUE
   - [[fiches/2026-10/mollick-the-dot-and-the-swarm-2026-10-01\|The Dot and the Swarm: Benefitting from the Bitter Lesson]]
 
@@ -212,5 +218,6 @@
 - [[fiches/2025-11/mollick-three-years-gpt3-gemini3-evolution-2025-11-18\|Three Years from GPT-3 to Gemini 3]]
 - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
 - [[fiches/2025-07/persuading-ai-cialdini-wharton-2025-07-18\|Call Me A Jerk: Persuading AI to Comply with Objectionable Requests]]
+- [[fiches/2026-11/sfeir-claude-fable-mythos-5-2-2026-11-10\|Claude Fable 5.2 et Mythos 5.2 : moins cher au token, plus cher à la tâche si l'on pousse l'effort]]
 - [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 - [[fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07\|Playing Pretend: Expert Personas Don't Improve Factual Accuracy]]

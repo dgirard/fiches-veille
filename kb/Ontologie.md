@@ -1,6 +1,6 @@
 # Ontologie
 
-> **Type** : CONCEPT | 6 relations | 1 fiches sources
+> **Type** : CONCEPT | 7 relations | 1 fiches sources
 
 ## Attributs
 
@@ -25,6 +25,7 @@
 - [[kb/_entites-mineures#Harnais-d'agent\|Harnais d'agent]] **converge_avec** → Ontologie — 0.92
 - [[kb/couche-sémantique\|Couche sémantique]] **utilise** → Ontologie — 0.92
 - [[kb/Semantic-Spine\|Semantic Spine]] **utilise** → Ontologie — 0.90
+- [[kb/Forward-Deployed-Engineering\|Forward Deployed Engineering]] **permet** → Ontologie — 0.82
 
 ## Fiches sources
 

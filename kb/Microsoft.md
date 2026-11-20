@@ -1,6 +1,6 @@
 # Microsoft
 
-> **Type** : ORGANISATION | 25 relations | 12 fiches sources
+> **Type** : ORGANISATION | 32 relations | 12 fiches sources
 
 ## Attributs
 
@@ -18,6 +18,8 @@
 
 - [[kb/_entites-mineures#Magentic-Marketplace\|Magentic Marketplace]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft researchers tried to manipulate AI agents - and only one resisted all attempts]]
+- [[kb/_entites-mineures#CTI-REALM\|CTI-REALM]] (TECHNOLOGIE) — 0.90, STATIQUE
+  - [[fiches/2026-10/sfeir-qwen-cohere-connexion-sortante-agents-2026-10-27\|Qwen3.8 a tenté d'écrire vers Pékin pendant un test : ce que le cas Cohere change pour vos agents]]
 
 ### affirme_que
 
@@ -27,6 +29,8 @@
   - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 - « acquisition de Cursor examinée puis écartée, sans offre déposée » (AFFIRMATION) — 0.88, STATIQUE
   - [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
+- « Storm-0940 a visé plus de 2 250 tenants après la compromission de ConnectWise » (AFFIRMATION) — 0.88, STATIQUE
+  - [[fiches/2026-11/sfeir-artex-pentest-autonome-cyberarme-2026-11-17\|ARTEX : quand le pentest autonome devient une cyberarme]]
 
 ### améliore
 
@@ -37,6 +41,8 @@
 
 - [[kb/Mistral-AI\|Mistral AI]] (ORGANISATION) — 0.93, DYNAMIQUE
   - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
+- [[kb/_entites-mineures#OpenClaw-Foundation\|OpenClaw Foundation]] (ORGANISATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-microsoft-autopilot-openclaw-ignite-2026-11-18\|Microsoft Autopilot tourne sur OpenClaw, et Ignite ne l'a pas dit]]
 
 ### fait_partie_de
 
@@ -63,6 +69,10 @@
   - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft researchers tried to manipulate AI agents - and only one resisted all attempts]]
 - [[kb/_entites-mineures#Work-Trend-Index-2026\|Work Trend Index 2026]] (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-10/suchaud-wenvision-fin-valeur-faisabilite-prioriser-ia-2026-10-22\|La fin de Valeur × Faisabilité : pourquoi la matrice produit ne sait plus prioriser l'IA]]
+- [[kb/Microsoft-Autopilot\|Microsoft Autopilot]] (TECHNOLOGIE) — 0.96, STATIQUE
+  - [[fiches/2026-11/sfeir-microsoft-autopilot-openclaw-ignite-2026-11-18\|Microsoft Autopilot tourne sur OpenClaw, et Ignite ne l'a pas dit]]
+- [[kb/_entites-mineures#Maia-300\|Maia 300]] (TECHNOLOGIE) — 0.95, STATIQUE
+  - [[fiches/2026-10/sfeir-ia-semaine-8-15-octobre-2026-breves-2026-10-15\|IA, semaine du 8 au 15 octobre 2026 : cinq autres nouvelles à retenir]]
 - [[kb/_entites-mineures#APM\|APM]] (TECHNOLOGIE) — 0.92, STATIQUE
   - [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)]]
 - [[kb/_entites-mineures#HVE-Core\|HVE Core]] (TECHNOLOGIE) — 0.92, STATIQUE
@@ -90,7 +100,9 @@
 - [[kb/Satya-Nadella\|Satya Nadella]] **dirige** → Microsoft — 0.98
 - [[kb/Bill-Gates\|Bill Gates]] **a_créé** → Microsoft — 0.97
 - [[kb/Mistral-AI\|Mistral AI]] **collabore_avec** → Microsoft — 0.97
+- [[kb/_entites-mineures#Omar-Shahine\|Omar Shahine]] **travaille_chez** → Microsoft — 0.95
 - [[kb/Daniel-Meppiel\|Daniel Meppiel]] **travaille_chez** → Microsoft — 0.90
+- [[kb/Claude-Meetings\|Claude Meetings]] **concurrence** → Microsoft — 0.75
 
 ## Fiches sources
 

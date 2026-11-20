@@ -1,6 +1,6 @@
 # Gartner
 
-> **Type** : ORGANISATION | 6 relations | 4 fiches sources
+> **Type** : ORGANISATION | 7 relations | 4 fiches sources
 
 ## Attributs
 
@@ -25,6 +25,8 @@
   - [[fiches/2025-10/rippletide-agent-reliability-enterprise-architecture-2025-10-29\|Agent reliability: What's missing in Enterprise AI agent architecture?]]
 - « le role du developpeur passera de l'implementation a l'orchestration d'ici 2028 » (AFFIRMATION) — 0.88, DYNAMIQUE
   - [[fiches/2026-03/mornati-developer-coding-agents-bmad-experiment-2026-03-14\|What is a Developer When We Use Coding Agents? My 1-Day BMAD Experiment]]
+- « 30 % des postes supprimés au motif de l'IA devront être repourvus d'ici 2029 » (AFFIRMATION) — 0.82, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-ai-operating-system-mckinsey-lecture-2026-10-15\|AI operating system : ce que McKinsey a raison de dire, et ce qu'il ne prouve pas]]
 
 ### publie
 

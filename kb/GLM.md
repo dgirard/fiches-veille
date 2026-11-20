@@ -10,7 +10,7 @@
 
 ### concurrence
 
-- Claude Mythos (TECHNOLOGIE) — 0.72, DYNAMIQUE
+- [[kb/Claude-Mythos\|Claude Mythos]] (TECHNOLOGIE) — 0.72, DYNAMIQUE
   - [[fiches/2026-10/schmidt-tangen-superintelligence-in-good-company-2026-10-21\|Eric Schmidt: Are We Ready for Superintelligence? - Podcast - In Good Company]]
 
 ## Relations (comme objet)

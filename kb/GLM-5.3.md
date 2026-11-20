@@ -1,11 +1,12 @@
 # GLM-5.3
 
-> **Type** : TECHNOLOGIE | 24 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 31 relations | 7 fiches sources
 
 ## Attributs
 
-- **catégorie** : Modèle à poids ouverts de Zhipu AI, forte capacité d'exploitation
+- **catégorie** : Modèle de Z.ai utilisé pour la recherche de vulnérabilités
 - **définition** : Modèle de Z.ai annoncé le 14 août 2026, bâti sur le même modèle de base que GLM-5.2 — tout le gain provient du post-entraînement. Revendique l'état de l'art open-weights sur Terminal-Bench 3.0 (28,3 contre 17,4 pour Kimi K3) et Agents' Last Exam (28,5), +50 % sur le benchmark interne Z.ai Code Bench, et l'état de l'art tous modèles sur CyberGym (84,5 %). Trois niveaux d'effort de raisonnement (low, high, max, défaut max) ; la désactivation du raisonnement n'est plus supportée. Poids annoncés pour deux semaines après le lancement
+- **licence** : MIT + clause au-delà de 10 Md$ de chiffre d'affaires (Z.ai)
 - **statut** : Sa sortie a été précédée d'une campagne de Z.ai ciblant les capacités cyber de modèles américains
 
 ## Relations (comme sujet)
@@ -42,6 +43,8 @@
   - [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
 - « détournement du flot de contrôle dans 4 % des essais contre 6 % pour Claude Mythos Preview, 100 tâches » (MESURE) — 0.93, STATIQUE
   - [[fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29\|GLM-5.3 and the spread of advanced cyber capabilities]]
+- « 2 436 vulnérabilités dans 269 projets open source, âge moyen 26,6 ans » (MESURE) — 0.80, STATIQUE
+  - [[fiches/2026-10/sfeir-retro-ingenierie-agents-securite-2026-10-16\|Rétro-ingénierie par agents : ce que ça change pour les équipes sécurité]]
 
 ### observé_dans
 
@@ -56,6 +59,8 @@
 
 - « de raisonner à travers plusieurs étapes d'exploitation et de former des plans cohérents pour des chaînes d'exploitation complètes, au lieu d'identifier des failles isolées » (AFFIRMATION) — 0.93, ATEMPOREL
   - [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
+- réversibilité d'hébergeur (CONCEPT) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-openrouter-zdr-souverainete-2026-10-19\|OpenRouter : rétention zéro ne veut pas dire souverain]]
 
 ### remplace
 
@@ -86,12 +91,21 @@
 ## Relations (comme objet)
 
 - [[kb/Z.ai\|Z.ai]] **publie** → GLM-5.3 — 0.98
+- [[kb/Z.ai\|Z.ai]] **a_créé** → GLM-5.3 — 0.97
 - [[kb/_entites-mineures#Zhipu-AI\|Zhipu AI]] **a_créé** → GLM-5.3 — 0.97
+- [[kb/Altar\|Altar]] **est_variante_de** → GLM-5.3 — 0.96
 - [[kb/_entites-mineures#abliteration\|abliteration]] **s_applique_à** → GLM-5.3 — 0.95
 - [[kb/_entites-mineures#GLM-5.3-Flash\|GLM-5.3-Flash]] **est_variante_de** → GLM-5.3 — 0.93
+- [[kb/Mistral-Large-4\|Mistral Large 4]] **concurrence** → GLM-5.3 — 0.90
+- [[kb/Aikido-Security\|Aikido Security]] **utilise** → GLM-5.3 — 0.88
+- [[kb/_entites-mineures#Mistral\|Mistral]] **utilise** → GLM-5.3 — 0.85
 
 ## Fiches sources
 
 - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 - [[fiches/2026-09/fasano-fleischer-anthropic-glm-5-3-advanced-cyber-capabilities-2026-09-29\|GLM-5.3 and the spread of advanced cyber capabilities]]
+- [[fiches/2026-10/girard-aikido-altar-securite-air-gap-2026-10-01\|Aikido Altar : un modèle de sécurité open-weight taillé pour l'air gap]]
+- [[fiches/2026-11/sfeir-mistral-large-4-licence-auto-hebergement-2026-11-02\|Mistral Large 4 en poids ouverts : ce que la licence permet, ce que l'auto-hébergement coûte]]
+- [[fiches/2026-10/sfeir-openrouter-zdr-souverainete-2026-10-19\|OpenRouter : rétention zéro ne veut pas dire souverain]]
+- [[fiches/2026-10/sfeir-retro-ingenierie-agents-securite-2026-10-16\|Rétro-ingénierie par agents : ce que ça change pour les équipes sécurité]]
 - [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]

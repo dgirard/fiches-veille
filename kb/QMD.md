@@ -30,7 +30,7 @@
   - [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|Grep Is Dead: How I Made Claude Code Actually Remember Things]]
 - [[kb/Model-Context-Protocol\|Model Context Protocol]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|Grep Is Dead: How I Made Claude Code Actually Remember Things]]
-- Reciprocal Rank Fusion (CONCEPT) — 0.95, ATEMPOREL
+- [[kb/_entites-mineures#Reciprocal-Rank-Fusion\|Reciprocal Rank Fusion]] (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|Grep Is Dead: How I Made Claude Code Actually Remember Things]]
 
 ## Relations (comme objet)

@@ -1,9 +1,10 @@
 # Nvidia
 
-> **Type** : ORGANISATION | 15 relations | 4 fiches sources
+> **Type** : ORGANISATION | 18 relations | 5 fiches sources
 
 ## Attributs
 
+- **investissements** : Doctolib, Pigment, Genesis AI, Entalpic (annoncés à Paris le 13 octobre 2026)
 - **positionnement** : Constructeur de datacenters complets (GPU + logiciels + réseaux)
 - **secteur** : Partenaire technologique Campus IA, fournisseur GPU mondial
 
@@ -15,11 +16,15 @@
   - [[fiches/2025-10/greyling-nvidia-software-ecosystem-dominance-2025-10-30\|NVIDIA is moving beyond hardware to software ecosystem dominance]]
 - [[kb/_entites-mineures#hardware-moat\|hardware moat]] (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-10/greyling-nvidia-software-ecosystem-dominance-2025-10-30\|NVIDIA is moving beyond hardware to software ecosystem dominance]]
+- [[kb/_entites-mineures#Switchyard\|Switchyard]] (TECHNOLOGIE) — 0.88, STATIQUE
+  - [[fiches/2026-10/sfeir-routeur-modeles-llm-escalade-2026-10-12\|Routeur de modèles LLM : quand il bat un modèle unique, et quand il perd]]
 
 ### collabore_avec
 
 - [[kb/OpenAI\|OpenAI]] (ORGANISATION) — 0.95, DYNAMIQUE
   - [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Are We Building the Next AI Bubble? Insights from Bloomberg's 'OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of…]]
+- [[kb/_entites-mineures#Doctolib\|Doctolib]] (ORGANISATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-ia-semaine-8-15-octobre-2026-breves-2026-10-15\|IA, semaine du 8 au 15 octobre 2026 : cinq autres nouvelles à retenir]]
 
 ### concurrence
 
@@ -27,6 +32,11 @@
   - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
 - [[kb/AMD\|AMD]] (ORGANISATION) — 0.88, DYNAMIQUE
   - [[fiches/2025-10/greyling-nvidia-software-ecosystem-dominance-2025-10-30\|NVIDIA is moving beyond hardware to software ecosystem dominance]]
+
+### mesure
+
+- « 250 M$ de calcul sur cinq ans pour la recherche britannique en sécurité de l'IA » (MESURE) — 0.88, STATIQUE
+  - [[fiches/2026-10/sfeir-ia-semaine-8-15-octobre-2026-breves-2026-10-15\|IA, semaine du 8 au 15 octobre 2026 : cinq autres nouvelles à retenir]]
 
 ### publie
 
@@ -60,3 +70,4 @@
 - [[fiches/2025-10/greyling-nvidia-software-ecosystem-dominance-2025-10-30\|NVIDIA is moving beyond hardware to software ecosystem dominance]]
 - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
 - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
+- [[fiches/2026-10/sfeir-ia-semaine-8-15-octobre-2026-breves-2026-10-15\|IA, semaine du 8 au 15 octobre 2026 : cinq autres nouvelles à retenir]]

@@ -1,12 +1,13 @@
 # Z.ai
 
-> **Type** : ORGANISATION | 15 relations | 5 fiches sources
+> **Type** : ORGANISATION | 16 relations | 6 fiches sources
 
 ## Attributs
 
 - **positionnement** : Laboratoire d'IA chinois (ex-Zhipu AI), éditeur de la famille GLM. Publie en août 2026 un modèle revendiquant à la fois le frontier open-weights du codage et l'état de l'art sur la découverte de vulnérabilités, assorti d'un registre de divulgation de 2 436 failles dont 97,8 % sous embargo. Communique par billets institutionnels non signés, sans rapport technique ni carte de modèle
 - **rôle** : Nettoyage de traces de raisonnement d'Opus 4.8 (GTG-16006), 273 comptes, 3,4 M d'échanges ; campagne cyber abandonnée contre Fable
 - **secteur** : Laboratoire d'IA chinois, anciennement Zhipu, éditeur du modèle open-weights GLM-5.2
+- **statut** : Laboratoire chinois inscrit sur l'Entity List américaine depuis janvier 2025
 
 ## Relations (comme sujet)
 
@@ -14,6 +15,9 @@
 
 - [[kb/GLM-5.2\|GLM-5.2]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark]]
+- [[kb/GLM-5.3\|GLM-5.3]] (TECHNOLOGIE) — 0.97, STATIQUE
+  - [[fiches/2026-10/girard-aikido-altar-securite-air-gap-2026-10-01\|Aikido Altar : un modèle de sécurité open-weight taillé pour l'air gap]]
+  - [[fiches/2026-10/sfeir-openrouter-zdr-souverainete-2026-10-19\|OpenRouter : rétention zéro ne veut pas dire souverain]]
 - [[kb/_entites-mineures#Z.ai-Code-Bench\|Z.ai Code Bench]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
 - [[kb/_entites-mineures#Z.ai-Security-Disclosure-Ledger\|Z.ai Security Disclosure Ledger]] (TECHNOLOGIE) — 0.94, STATIQUE
@@ -62,6 +66,7 @@
 
 - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 - [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark]]
+- [[fiches/2026-10/girard-aikido-altar-securite-air-gap-2026-10-01\|Aikido Altar : un modèle de sécurité open-weight taillé pour l'air gap]]
 - [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]]
 - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
 - [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]

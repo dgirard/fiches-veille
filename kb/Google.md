@@ -1,6 +1,6 @@
 # Google
 
-> **Type** : ORGANISATION | 50 relations | 20 fiches sources
+> **Type** : ORGANISATION | 65 relations | 20 fiches sources
 
 ## Attributs
 
@@ -31,6 +31,8 @@
   - [[fiches/2025-12/google-sans-flex-font-evolution-design-2025-12-18\|Making Google Sans Flex]]
 - [[kb/_entites-mineures#TPU\|TPU]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
+- [[kb/Agent-Executor\|Agent Executor]] (TECHNOLOGIE) — 0.95, STATIQUE
+  - [[fiches/2026-11/sfeir-agents-always-on-anthropic-ax-google-2026-11-15\|Agents always-on : les cinq primitives d'Anthropic et l'étage AX de Google]]
 - [[kb/_entites-mineures#Antigravity\|Antigravity]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-11/mollick-three-years-gpt3-gemini3-evolution-2025-11-18\|Three Years from GPT-3 to Gemini 3]]
 - [[kb/_entites-mineures#Google-TPU\|Google TPU]] (TECHNOLOGIE) — 0.95, STATIQUE
@@ -54,6 +56,12 @@
   - [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 - « Google Sans Mono a échoué pour l'usage en programmation » (AFFIRMATION) — 0.90, STATIQUE
   - [[fiches/2025-12/google-sans-flex-font-evolution-design-2025-12-18\|Making Google Sans Flex]]
+- « coût par tâche de Neon inférieur de 32 % à Carbon au niveau high » (AFFIRMATION) — 0.88, STATIQUE
+  - [[fiches/2026-11/sfeir-gemini-4-neon-2026-11-18\|Gemini 4 Neon : le modèle intermédiaire de Google, entre Hydrogen et Carbon]]
+- « Gemini 4 Argon reste le choix idéal pour la majorité du développement logiciel » (AFFIRMATION) — 0.88, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-gemini-4-carbon-2026-10-28\|Gemini 4 Carbon : forces, limites et usages du modèle de Google pour le code]]
+- « moins le modèle refuse, plus l'accès doit être filtré à l'entrée » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-10/sfeir-gemini-4-argon-cyber-permissive-fairwind-2026-10-27\|Gemini 4 Argon Cyber Permissive : Google retire les garde-fous et verrouille la porte]]
 
 ### améliore
 
@@ -79,6 +87,10 @@
 
 - « hausse Gemini 20-45% » (MESURE) — 0.95, STATIQUE
   - [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud : l'ère des prédateurs pour vos budgets IT]]
+- « Hydrogen 57 % sur Terminal-Bench 4.1 contre 18,2 % pour 3.8 Flash » (MESURE) — 0.85, STATIQUE
+  - [[fiches/2026-11/sfeir-gemini-4-hydrogen-github-copilot-2026-11-15\|Gemini 4 Hydrogen arrive dans GitHub Copilot : ce que vos équipes doivent régler avant le 14 décembre]]
+- « garde-fous bloquant 99 % des trajectoires de red teaming, intrusion à 0,8 % par tentative » (MESURE) — 0.82, STATIQUE
+  - [[fiches/2026-10/sfeir-gemini-4-carbon-2026-10-28\|Gemini 4 Carbon : forces, limites et usages du modèle de Google pour le code]]
 
 ### publie
 
@@ -94,12 +106,20 @@
   - [[fiches/2025-10/think-with-google-demand-led-marketing-budget-2026-2025-10-01\|Think with Google: Demand-Led Marketing - How to Build Your 2026 Budget]]
 - [[kb/Beyond-Zero\|Beyond Zero]] (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20\|Beyond Zero: Enterprise security for the AI era]]
+- [[kb/Gemini-4-Carbon\|Gemini 4 Carbon]] (TECHNOLOGIE) — 0.97, STATIQUE
+  - [[fiches/2026-10/sfeir-gemini-4-carbon-2026-10-28\|Gemini 4 Carbon : forces, limites et usages du modèle de Google pour le code]]
+- [[kb/Gemini-4-Neon\|Gemini 4 Neon]] (TECHNOLOGIE) — 0.97, STATIQUE
+  - [[fiches/2026-11/sfeir-gemini-4-neon-2026-11-18\|Gemini 4 Neon : le modèle intermédiaire de Google, entre Hydrogen et Carbon]]
 - [[kb/The-New-SDLC-With-Vibe-Coding\|The New SDLC With Vibe Coding]] (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|The New SDLC With Vibe Coding — From ad-hoc prompting to Agentic Engineering]]
+- [[kb/Gemini-4-Hydrogen\|Gemini 4 Hydrogen]] (TECHNOLOGIE) — 0.96, STATIQUE
+  - [[fiches/2026-11/sfeir-gemini-4-hydrogen-github-copilot-2026-11-15\|Gemini 4 Hydrogen arrive dans GitHub Copilot : ce que vos équipes doivent régler avant le 14 décembre]]
 - [[kb/_entites-mineures#AI-Studio\|AI Studio]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27\|The Top 100 Gen AI Consumer Apps - 5th Edition - Andreessen Horowitz]]
 - [[kb/design-md\|design.md]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Google's Design.md is a design team in a file (Greg Isenberg × Meng To)]]
+- [[kb/Gemini-4-Argon-Cyber-Permissive\|Gemini 4 Argon Cyber Permissive]] (TECHNOLOGIE) — 0.95, STATIQUE
+  - [[fiches/2026-10/sfeir-gemini-4-argon-cyber-permissive-fairwind-2026-10-27\|Gemini 4 Argon Cyber Permissive : Google retire les garde-fous et verrouille la porte]]
 - [[kb/_entites-mineures#Google-Sans-Flex\|Google Sans Flex]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-12/google-sans-flex-font-evolution-design-2025-12-18\|Making Google Sans Flex]]
 - [[kb/_entites-mineures#NotebookLM\|NotebookLM]] (TECHNOLOGIE) — 0.95, STATIQUE
@@ -113,6 +133,11 @@
   - [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 - [[kb/_entites-mineures#ratio-60-40-marque-performance\|ratio 60/40 marque-performance]] (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2025-10/think-with-google-demand-led-marketing-budget-2026-2025-10-01\|Think with Google: Demand-Led Marketing - How to Build Your 2026 Budget]]
+
+### s_oppose_à
+
+- méthode de l'étude Pew sur les résumés d'IA (CONCEPT) — 0.80, STATIQUE
+  - [[fiches/2026-11/sfeir-ecrire-moteurs-ia-schema-org-llms-txt-2026-11-15\|Écrire pour les moteurs et pour les IA : graphe schema.org, llms.txt et fiches de référence]]
 
 ### surpasse
 
@@ -138,9 +163,13 @@
 - [[kb/_entites-mineures#Michal-Zalewski\|Michal Zalewski]] **travaille_chez** → Google — 0.97
 - [[kb/Eric-Schmidt\|Eric Schmidt]] **dirige** → Google — 0.95
 - [[kb/Windsurf-organisation\|Windsurf]] **fait_partie_de** → Google — 0.93
+- [[kb/Koray-Kavukcuoglu\|Koray Kavukcuoglu]] **travaille_chez** → Google — 0.92
 - [[kb/Block\|Block]] **collabore_avec** → Google — 0.90
 - [[kb/_entites-mineures#Contrôle-antitrust\|contrôle antitrust]] **s_applique_à** → Google — 0.90
+- [[kb/_entites-mineures#John-Mueller\|John Mueller]] **travaille_chez** → Google — 0.90
+- [[kb/Wiz\|Wiz]] **fait_partie_de** → Google — 0.88
 - [[kb/google-agentic-commerce\|google-agentic-commerce]] **fait_partie_de** → Google — 0.85
+- [[kb/Anthropic\|Anthropic]] **utilise** → Google — 0.85
 
 ## Fiches sources
 

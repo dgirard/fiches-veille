@@ -1,6 +1,6 @@
 # Gemini
 
-> **Type** : TECHNOLOGIE | 8 relations | 7 fiches sources
+> **Type** : TECHNOLOGIE | 11 relations | 7 fiches sources
 
 ## Attributs
 
@@ -21,9 +21,12 @@
 - [[kb/Code-Wiki\|Code Wiki]] **utilise** → Gemini — 0.98
 - [[kb/ChatGPT\|ChatGPT]] **surpasse** → Gemini — 0.97
 - [[kb/Gemini-agent\|Gemini agent]] **utilise** → Gemini — 0.97
+- [[kb/Gemini-4-Neon\|Gemini 4 Neon]] **fait_partie_de** → Gemini — 0.95
 - [[kb/Ethan-Mollick\|Ethan Mollick]] **recommande** → Gemini — 0.95
 - Entreprises regulees **utilise** → Gemini — 0.95
+- [[kb/Gemini-4-Hydrogen\|Gemini 4 Hydrogen]] **fait_partie_de** → Gemini — 0.94
 - [[kb/_entites-mineures#Nanobanana\|Nanobanana]] **fait_partie_de** → Gemini — 0.94
+- [[kb/_entites-mineures#Gemini-3.5-Flash-Cyber\|Gemini 3.5 Flash Cyber]] **est_variante_de** → Gemini — 0.82
 
 ## Fiches sources
 

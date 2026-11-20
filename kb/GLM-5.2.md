@@ -1,10 +1,10 @@
 # GLM-5.2
 
-> **Type** : TECHNOLOGIE | 20 relations | 7 fiches sources
+> **Type** : TECHNOLOGIE | 21 relations | 8 fiches sources
 
 ## Attributs
 
-- **catégorie** : Version précédente, sans capacité d'exploit complet
+- **catégorie** : Modèle à poids ouverts, seul à réussir la réplication de bout en bout
 - **rôle** : Génération précédente de Z.ai, restée le modèle de base de GLM-5.3 ; sert de référence de progression dans tout le billet (Terminal-Bench 3.0 : 4,6 ; ExploitBench : 24,4 % ; ExploitGym : 29/39 tâches). Premier modèle tiers hébergé par Mistral AI sous contrôles régionaux européens
 - **tarif** : ~$1,40 / $4,40 le M tokens ; ~1/6 du frontier ; poids ouverts (MIT)
 
@@ -57,6 +57,8 @@
 
 - architecture Mixture of Experts (753 Mds params / 40 Mds actifs) (CONCEPT) — 0.90, STATIQUE
   - [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark]]
+- ADB (TECHNOLOGIE) — 0.85, STATIQUE
+  - [[fiches/2026-10/sfeir-anthropic-auto-replication-iot-2026-10-15\|Vers IA sur objets connectés : ce qu'Anthropic démontre et ce qu'elle extrapole]]
 
 ## Relations (comme objet)
 
@@ -76,5 +78,6 @@
 - [[fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24\|AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027]]
 - [[fiches/2026-07/martignole-token-manifesto-2026-07-17\|The Token Manifesto]]
 - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
+- [[fiches/2026-10/sfeir-anthropic-auto-replication-iot-2026-10-15\|Vers IA sur objets connectés : ce qu'Anthropic démontre et ce qu'elle extrapole]]
 - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 - [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]

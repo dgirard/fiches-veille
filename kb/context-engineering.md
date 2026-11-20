@@ -1,6 +1,6 @@
 # context engineering
 
-> **Type** : METHODOLOGIE | 12 relations | 7 fiches sources
+> **Type** : METHODOLOGIE | 15 relations | 7 fiches sources
 
 ## Attributs
 
@@ -43,7 +43,10 @@
 - [[kb/Harness-engineering\|Harness engineering]] **est_variante_de** → context engineering — 0.95
 - [[kb/Harness-engineering\|Harness Engineering]] **remplace** → context engineering — 0.92
 - [[kb/Loop-Engineering\|Loop Engineering]] **est_basé_sur** → context engineering — 0.88
+- [[kb/backlog-Markdown-dans-le-repo\|backlog Markdown dans le repo]] **est_instance_de** → context engineering — 0.85
+- [[kb/GitLab-Orbit\|GitLab Orbit]] **est_instance_de** → context engineering — 0.85
 - [[kb/filtre-de-contexte\|filtre de contexte]] **fait_partie_de** → context engineering — 0.80
+- [[kb/_entites-mineures#Dust-Skills\|Dust Skills]] **s_applique_à** → context engineering — 0.80
 
 ## Fiches sources
 

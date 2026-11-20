@@ -1,6 +1,6 @@
 # Accenture
 
-> **Type** : ORGANISATION | 6 relations | 4 fiches sources
+> **Type** : ORGANISATION | 7 relations | 4 fiches sources
 
 ## Attributs
 
@@ -9,6 +9,11 @@
 - **valorisation boursière** : 155 milliards de dollars
 
 ## Relations (comme sujet)
+
+### collabore_avec
+
+- [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.80, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-fde-consultant-architecte-regie-2026-11-06\|FDE, consultant, architecte, régie : quelles différences ?]]
 
 ### est_basé_sur
 

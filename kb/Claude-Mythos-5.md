@@ -17,7 +17,7 @@
 
 ### fait_partie_de
 
-- [[kb/_entites-mineures#Project-Glasswing\|Project Glasswing]] (EVENEMENT) — 0.90, DYNAMIQUE
+- [[kb/Project-Glasswing-evenement\|Project Glasswing]] (EVENEMENT) — 0.90, DYNAMIQUE
   - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
 
 ### observé_dans

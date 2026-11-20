@@ -1,6 +1,6 @@
 # Claude Fable 5.1
 
-> **Type** : TECHNOLOGIE | 20 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 21 relations | 3 fiches sources
 
 ## Attributs
 
@@ -58,7 +58,7 @@
 
 - [[kb/Claude-Opus-5\|Claude Opus 5]] (TECHNOLOGIE) — 0.92, STATIQUE
   - [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
-- GPT-5.6 Sol (TECHNOLOGIE) — 0.90, STATIQUE
+- [[kb/_entites-mineures#GPT-5.6-Sol\|GPT-5.6 Sol]] (TECHNOLOGIE) — 0.90, STATIQUE
   - [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
 - [[kb/Gemini-3.8-Flash\|Gemini 3.8 Flash]] (TECHNOLOGIE) — 0.88, STATIQUE
   - [[fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14\|Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team]]
@@ -76,6 +76,7 @@
 
 - [[kb/Anthropic\|Anthropic]] **publie** → Claude Fable 5.1 — 0.99
 - [[kb/_entites-mineures#Model-Garden\|Model Garden]] **permet** → Claude Fable 5.1 — 0.94
+- [[kb/Claude-Fable-5.2\|Claude Fable 5.2]] **remplace** → Claude Fable 5.1 — 0.88
 - [[kb/Gemini-3.8-Flash\|Gemini 3.8 Flash]] **surpasse** → Claude Fable 5.1 — 0.88
 
 ## Fiches sources

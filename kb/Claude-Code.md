@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 130 relations | 57 fiches sources
+> **Type** : TECHNOLOGIE | 154 relations | 59 fiches sources
 
 ## Attributs
 
@@ -20,10 +20,11 @@
 - **rôle** : Agent principal dont les lectures et générations volumineuses sont routées vers un modèle secondaire
 - **rôle critiqué** : « Behavioral funnel » / couche otage verrouillant le dev
 - **stack** : TypeScript, React terminal
-- **usage** : Agent de codage utilisé transversalement chez Anthropic (produit, devrel, design écrivent du code) pour une livraison de bout en bout
+- **usage** : Agent d'exécution de la réécriture (Build, Verify, Review)
 - **usage adverse** : Skills pilotant les workflows d'un acteur d'espionnage ; utilisé aussi par une cyberpolice chinoise et une cellule d'armement yéménite
 - **usage_décrit** : Exécution de plans détaillés en Fidelity One et Two
 - **usages rapportés** : Prototypage par des non-développeurs, revue de code, agents à but unique, analytique en libre-service, reconstruction assistée ; les fonctionnalités citées sont MCP, skills, CLAUDE.md, Code Review, hooks, dynamic workflows, mode plan
+- **version** : v2.1.293 (7 oct. 2026)
 - **version_corrigée** : v2.1.116 (20 avril 2026)
 - **versions** : `/goal` livré v2.1.139 (11 mai 2026), branche 2.1.x, Opus 4.8 par défaut
 - **éditeur** : Anthropic
@@ -64,6 +65,8 @@
 
 - [[kb/Berd\|Berd]] (TECHNOLOGIE) — 0.78, DYNAMIQUE
   - [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
+- [[kb/WinDev\|WinDev]] (TECHNOLOGIE) — 0.78, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-alternatives-windev-2026-10-16\|Alternatives à WinDev en 2026 : quels outils et langages pour remplacer l'AGL de PC SOFT ?]]
 
 ### est_basé_sur
 
@@ -118,6 +121,8 @@
   - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
 - « PR fusionnées ×2+ et part revertée −40 %+ de juin à septembre 2026 » (MESURE) — 0.95, STATIQUE
   - [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
+- « journaux de session locaux conservés trente jours par défaut » (MESURE) — 0.88, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-construire-site-agents-phases-temps-2026-11-15\|Construire un site avec des agents IA : les phases et le temps réellement passé]]
 - « 4% des commits publics mondiaux » (MESURE) — 0.85, DYNAMIQUE
   - [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]]
 - « 1 milliard USD ARR » (MESURE) — 0.80, DYNAMIQUE
@@ -224,8 +229,20 @@
   - [[fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01\|Annonce : une alternative européenne à Claude Code (200 M$ de revenus). Voici Mistral AI CLI.]]
 - [[kb/_entites-mineures#Bash\|Bash]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]
+- [[kb/Claude-Haiku-5.5\|Claude Haiku 5.5]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-claude-code-advisor-multi-modeles-2026-10-08\|Advisor Claude Code : qui planifie, qui édite, qui lit entre Opus, Sonnet et Haiku 5.5]]
+- [[kb/_entites-mineures#Claude-Opus\|Claude Opus]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-construire-site-agents-phases-temps-2026-11-15\|Construire un site avec des agents IA : les phases et le temps réellement passé]]
+- MEMORY.md (DOCUMENT) — 0.92, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-components-agent-memory-anthropic-2026-11-14\|The components of agent memory : ce qu'Anthropic a mesuré, et ce que ça change pour vos agents]]
+  - [[fiches/2026-11/sfeir-posseder-memoire-agent-depot-git-2026-11-14\|Posséder sa mémoire d'agent : le dépôt Git comme cerveau partagé entre tous vos agents IA]]
 - [[kb/_entites-mineures#Slack-MCP\|Slack MCP]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
   - [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
+- tests end-to-end (METHODOLOGIE) — 0.92, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-verification-code-agents-claude-code-2026-11-19\|Comment l'équipe Claude Code vérifie le code écrit par ses agents]]
+- [[kb/AGENTS-md\|AGENTS.md]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-agents-de-code-panorama-criteres-choix-2026-10-22\|Agents de code : les critères qui comptent avant le benchmark]]
+  - [[fiches/2026-10/sfeir-agents-md-telechargements-codex-claude-code-2026-10-27\|AGENTS.md piégé dans Téléchargements : comment Codex et Claude Code ont été détournés, et les parades]]
 - Memory tool (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Building Powerful Agentic Systems with Claude]]
 - [[kb/Opus-4.8\|Opus 4.8]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
@@ -234,6 +251,12 @@
   - [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 - merge queue (TECHNOLOGIE) — 0.88, DYNAMIQUE
   - [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
+- mode auto avec classifieur (CONCEPT) — 0.88, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-agents-de-code-panorama-criteres-choix-2026-10-22\|Agents de code : les critères qui comptent avant le benchmark]]
+- [[kb/REVIEW-md\|REVIEW.md]] (DOCUMENT) — 0.88, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-verification-code-agents-claude-code-2026-11-19\|Comment l'équipe Claude Code vérifie le code écrit par ses agents]]
+- [[kb/_entites-mineures#tests-de-propriétés\|tests de propriétés]] (METHODOLOGIE) — 0.88, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-verification-code-agents-claude-code-2026-11-19\|Comment l'équipe Claude Code vérifie le code écrit par ses agents]]
 - [[kb/_entites-mineures#Provenance-du-code\|Provenance du code]] (CONCEPT) — 0.80, DYNAMIQUE
   - [[fiches/2026-10/claburn-register-linux-kernel-assisted-by-tag-2026-10-14\|Linux kernel devs drop obligatory confession of AI tool usage — Torvalds says contributors must understand their code,…]]
 
@@ -271,23 +294,37 @@
 - [[kb/Alexandre-Frizzo\|Alexandre Frizzo]] **utilise** → Claude Code — 0.95
 - [[kb/Groupe-étatique-chinois\|Groupe étatique chinois]] **utilise** → Claude Code — 0.95
 - [[kb/Mark-Dembo\|Mark Dembo]] **utilise** → Claude Code — 0.95
+- [[kb/sfeir.com\|sfeir.com]] **utilise** → Claude Code — 0.95
 - [[kb/_entites-mineures#Cowork\|Cowork]] **est_basé_sur** → Claude Code — 0.94
+- [[kb/advisor-Claude-Code\|advisor Claude Code]] **fait_partie_de** → Claude Code — 0.94
 - [[kb/shunt\|shunt]] **fait_partie_de** → Claude Code — 0.94
 - [[kb/GLM-5.3\|GLM-5.3]] **observé_dans** → Claude Code — 0.94
 - [[kb/claude-api\|claude-api]] **fait_partie_de** → Claude Code — 0.93
 - effondrement couche environnement **observé_dans** → Claude Code — 0.93
 - [[kb/_entites-mineures#hypothèses-erronées-sans-vérification\|hypothèses erronées sans vérification]] **observé_dans** → Claude Code — 0.93
 - [[kb/_entites-mineures#sur-ingénierie\|sur-ingénierie]] **observé_dans** → Claude Code — 0.93
+- [[kb/méthode-de-migration-WinDev-en-six-étapes\|méthode de migration WinDev en six étapes]] **utilise** → Claude Code — 0.93
 - [[kb/andrej-karpathy-skills\|andrej-karpathy-skills]] **améliore** → Claude Code — 0.92
 - [[kb/_entites-mineures#goal\|/goal]] **fait_partie_de** → Claude Code — 0.92
 - [[kb/Codex\|Codex]] **concurrence** → Claude Code — 0.90
+- [[kb/_entites-mineures#OpenClaude\|OpenClaude]] **est_basé_sur** → Claude Code — 0.90
 - [[kb/fichiers-de-règles-partagés\|fichiers de règles partagés]] **s_applique_à** → Claude Code — 0.90
+- [[kb/TencentDB-Agent-Memory\|TencentDB Agent Memory]] **s_applique_à** → Claude Code — 0.90
 - [[kb/_entites-mineures#Midnight-Blizzard\|Midnight Blizzard]] **utilise** → Claude Code — 0.90
+- [[kb/Software-Factory-10x\|Software Factory 10x]] **utilise** → Claude Code — 0.90
+- [[kb/Muse-Code\|Muse Code]] **concurrence** → Claude Code — 0.88
 - [[kb/_entites-mineures#Amplifier-framework\|Amplifier framework]] **est_basé_sur** → Claude Code — 0.88
+- [[kb/GBrain\|GBrain]] **s_applique_à** → Claude Code — 0.88
+- [[kb/GitLab-Orbit\|GitLab Orbit]] **s_applique_à** → Claude Code — 0.88
+- [[kb/REA\|REA]] **s_applique_à** → Claude Code — 0.88
 - [[kb/_entites-mineures#You-land-it,-you-own-it\|You land it, you own it]] **s_applique_à** → Claude Code — 0.88
 - [[kb/Omarchy\|Omarchy]] **utilise** → Claude Code — 0.88
+- [[kb/_entites-mineures#skill-verify\|skill verify]] **fait_partie_de** → Claude Code — 0.86
 - [[kb/_entites-mineures#role-playing\|role-playing]] **améliore** → Claude Code — 0.85
+- [[kb/ArtCraft-technologie\|ArtCraft]] **utilise** → Claude Code — 0.85
+- [[kb/REA\|REA]] **utilise** → Claude Code — 0.85
 - [[kb/mode-Minimal\|mode Minimal]] **concurrence** → Claude Code — 0.82
+- [[kb/rétro-documentation-spec-first\|rétro-documentation spec first]] **utilise** → Claude Code — 0.82
 - [[kb/Inspect\|Inspect]] **concurrence** → Claude Code — 0.80
 
 ## Fiches sources
@@ -340,6 +377,8 @@
 - [[fiches/2026-01/rauch-coding-agents-cli-abstraction-2026-01-02\|The fundamental coding agent abstraction is the CLI]]
 - [[fiches/2026-05/salesforce-tallapragada-how-engineering-became-agentic-2026-05-27\|How Salesforce Engineering Became Truly Agentic]]
 - [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+- [[fiches/2026-10/sfeir-claude-code-advisor-multi-modeles-2026-10-08\|Advisor Claude Code : qui planifie, qui édite, qui lit entre Opus, Sonnet et Haiku 5.5]]
+- [[fiches/2026-10/sfeir-migration-windev-software-factory-10x-2026-10-15\|Migrer WinDev avec la Software Factory 10x : la méthode SFEIR en six étapes, de l'audit à la bascule]]
 - [[fiches/2025-11/shipper-every-building-ai-native-company-2025-11-23\|How to build an AI-native company (even if your company is 50 years old)]]
 - [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|The AI-native interview]]
 - [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]

@@ -1,11 +1,12 @@
 # Addy Osmani
 
-> **Type** : PERSONNE | 39 relations | 11 fiches sources
+> **Type** : PERSONNE | 43 relations | 12 fiches sources
 
 ## Attributs
 
 - **contribution** : Auteur du diagramme de l'anneau de contraintes (LinkedIn, 30 juillet 2026) et de l'essai Software Factories, Light and Dark d'où viennent la back-pressure, la comprehension debt et la longueur exploitable des boucles
 - **medium** : LinkedIn post
+- **publication** : « How the Claude Code team thinks about verification », 16 novembre 2026
 - **rôle** : Member of Technical Staff chez Anthropic (fonction affichée)
 
 ## Relations (comme sujet)
@@ -51,8 +52,15 @@
   - [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
 - « une bien meilleure boucle de rétroaction vaut mieux qu'un modèle un peu meilleur » (AFFIRMATION) — 0.92, ATEMPOREL
   - [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
+- « après trois tentatives échouées, Claude s'arrête et appelle un humain » (AFFIRMATION) — 0.88, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-verification-code-agents-claude-code-2026-11-19\|Comment l'équipe Claude Code vérifie le code écrit par ses agents]]
 - « l'IA est comme un développeur junior, utile mais jamais sans supervision » (AFFIRMATION) — 0.88, ATEMPOREL
   - [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
+
+### prédit
+
+- « le métier passe de la relecture des diffs à la définition du « fini » et à la revue des preuves » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-11/sfeir-verification-code-agents-claude-code-2026-11-19\|Comment l'équipe Claude Code vérifie le code écrit par ses agents]]
 
 ### publie
 
@@ -66,6 +74,8 @@
   - [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 - guide specs agents IA (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-01/osmani-how-write-good-spec-ai-agents-2026-01-13\|How to write a good spec for AI agents]]
+- [[kb/_entites-mineures#How-the-Claude-Code-team-thinks-about-verification\|How the Claude Code team thinks about verification]] (DOCUMENT) — 0.96, STATIQUE
+  - [[fiches/2026-11/sfeir-verification-code-agents-claude-code-2026-11-19\|Comment l'équipe Claude Code vérifie le code écrit par ses agents]]
 - [[kb/Loop-Engineering\|Loop Engineering]] (METHODOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-06/lushbinary-loop-engineering-ai-coding-agents-guide-2026-06-09\|Loop Engineering: The Guide for AI Agents]]
 
@@ -83,6 +93,8 @@
   - [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
 - « de s'appuyer sur ce qui rend le travail personnel » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09\|The three joys of engineering: liberation or loss depends on which joy you lean on most]]
+- « prioriser les tests end-to-end » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-11/sfeir-verification-code-agents-claude-code-2026-11-19\|Comment l'équipe Claude Code vérifie le code écrit par ses agents]]
 - « une boucle de tests rapide et déterministe, sous la seconde pour la boucle cœur » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-10/osmani-agentic-verification-2026-10-14\|Agentic Verification — The bottleneck has moved from writing code to knowing it's correct.]]
 - « traiter les agents IA comme des stagiaires compétents » (AFFIRMATION) — 0.88, ATEMPOREL
@@ -126,4 +138,5 @@
 - [[fiches/2026-10/osmani-lunt-wang-code-review-claude-code-2026-10-15\|How the Claude Code team does code review]]
 - [[fiches/2026-10/osmani-three-joys-engineering-agents-2026-10-09\|The three joys of engineering: liberation or loss depends on which joy you lean on most]]
 - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
+- [[fiches/2026-11/sfeir-verification-code-agents-claude-code-2026-11-19\|Comment l'équipe Claude Code vérifie le code écrit par ses agents]]
 - [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]

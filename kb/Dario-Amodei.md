@@ -42,6 +42,7 @@
   - [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]]
   - [[fiches/2026-10/matsuda-amodei-entry-level-white-collar-2026-10-02\|Post X (@ytk_matsuda) : « Anthropic CEO : within 1–5 years, half of new lawyers, consultants, and finance pros will…]]
   - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
+  - [[fiches/2026-10/sfeir-anthropic-revenus-t3-introduction-bourse-2026-10-15\|Anthropic : 16,8 milliards de dollars en un trimestre, ce que l'on sait avant l'introduction en Bourse]]
 
 ### prédit
 

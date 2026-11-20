@@ -1,6 +1,6 @@
 # cycle SFEIR à 11 phases
 
-> **Type** : METHODOLOGIE | 9 relations | 1 fiches sources
+> **Type** : METHODOLOGIE | 11 relations | 1 fiches sources
 
 ## Attributs
 
@@ -45,6 +45,8 @@
 ## Relations (comme objet)
 
 - [[kb/SFEIR\|SFEIR]] **a_créé** → cycle SFEIR à 11 phases — 0.95
+- [[kb/méthode-de-migration-WinDev-en-six-étapes\|méthode de migration WinDev en six étapes]] **est_basé_sur** → cycle SFEIR à 11 phases — 0.93
+- [[kb/_entites-mineures#migration-WinDev\|migration WinDev]] **est_basé_sur** → cycle SFEIR à 11 phases — 0.78
 
 ## Fiches sources
 

@@ -1,6 +1,6 @@
 # commerce agentique
 
-> **Type** : CONCEPT | 5 relations | 2 fiches sources
+> **Type** : CONCEPT | 6 relations | 2 fiches sources
 
 ## Attributs
 
@@ -32,6 +32,7 @@
 ## Relations (comme objet)
 
 - [[kb/_entites-mineures#shopping-agent-optimization\|shopping agent optimization]] **s_applique_à** → commerce agentique — 0.92
+- [[kb/ChatGPT-Wallet\|ChatGPT Wallet]] **s_applique_à** → commerce agentique — 0.90
 
 ## Fiches sources
 

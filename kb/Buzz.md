@@ -38,7 +38,7 @@
 
 ### concurrence
 
-- Slack (TECHNOLOGIE) — 0.90, DYNAMIQUE
+- [[kb/_entites-mineures#Slack\|Slack]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
   - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
 - [[kb/GitHub-technologie\|GitHub]] (TECHNOLOGIE) — 0.88, DYNAMIQUE
@@ -118,7 +118,7 @@
   - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
 - MinIO (TECHNOLOGIE) — 0.94, DYNAMIQUE
   - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
-- PostgreSQL (TECHNOLOGIE) — 0.94, DYNAMIQUE
+- [[kb/_entites-mineures#PostgreSQL\|PostgreSQL]] (TECHNOLOGIE) — 0.94, DYNAMIQUE
   - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
 - [[kb/_entites-mineures#Redis\|Redis]] (TECHNOLOGIE) — 0.94, DYNAMIQUE
   - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]

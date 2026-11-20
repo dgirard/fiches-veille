@@ -10,7 +10,7 @@
 
 ### fait_partie_de
 
-- [[kb/_entites-mineures#Quatre-types-d'ambition\|Quatre types d'ambition]] (CONCEPT) — 0.97, ATEMPOREL
+- [[kb/Quatre-types-d'ambition\|Quatre types d'ambition]] (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2026-10/rieseberg-how-to-be-more-ambitious-2026-10-13\|How to be more ambitious: A tutorial for humans with models]]
 
 ### s_inspire_de

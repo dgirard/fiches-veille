@@ -1,6 +1,6 @@
 # Zapier
 
-> **Type** : TECHNOLOGIE | 6 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 8 relations | 4 fiches sources
 
 > **Même entité, autre type** : [[kb/Zapier-organisation\|Zapier (ORGANISATION)]]
 
@@ -10,10 +10,17 @@
 
 ## Relations (comme sujet)
 
+### a_créé
+
+- [[kb/_entites-mineures#AutomationBench\|AutomationBench]] (DOCUMENT) — 0.93, STATIQUE
+  - [[fiches/2026-10/sfeir-lire-tableau-benchmarks-ia-2026-10-15\|Lire un tableau de benchmarks IA : les 18 benchmarks de frontière, famille par famille]]
+
 ### mesure
 
 - « 8000+ intégrations gérées » (MESURE) — 0.97, DYNAMIQUE
   - [[fiches/2025-11/orr-zapier-support-ship-code-app-erosion-2025-11-23\|Empowering Support to Ship Code: Solving App Erosion]]
+- « 72 % à 91 % des échecs déclarés réussis par l'agent » (MESURE) — 0.86, STATIQUE
+  - [[fiches/2026-10/sfeir-lire-tableau-benchmarks-ia-2026-10-15\|Lire un tableau de benchmarks IA : les 18 benchmarks de frontière, famille par famille]]
 
 ### permet
 

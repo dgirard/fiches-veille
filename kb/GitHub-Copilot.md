@@ -1,11 +1,12 @@
 # GitHub Copilot
 
-> **Type** : TECHNOLOGIE | 7 relations | 9 fiches sources
+> **Type** : TECHNOLOGIE | 11 relations | 10 fiches sources
 
 ## Attributs
 
 - **catégorie** : Assistant de codage de GitHub
 - **exposition** : Concurrent direct dont le fossé de distribution en entreprise devient la principale défense
+- **facturation** : AI Credits au token depuis juin 2026 (1 crédit = 0,01 $)
 - **éditeur** : Microsoft
 - **évolution tarifaire** : Modèle forfaitaire de premium requests retiré en juin 2026 au profit d'une facturation au token, malgré les protestations
 
@@ -25,6 +26,12 @@
 
 - facturation au token (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
+- [[kb/Gemini-4-Hydrogen\|Gemini 4 Hydrogen]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-gemini-4-hydrogen-github-copilot-2026-11-15\|Gemini 4 Hydrogen arrive dans GitHub Copilot : ce que vos équipes doivent régler avant le 14 décembre]]
+- [[kb/Gemini-4-Carbon\|Gemini 4 Carbon]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
+  - [[fiches/2026-10/sfeir-gemini-4-carbon-2026-10-28\|Gemini 4 Carbon : forces, limites et usages du modèle de Google pour le code]]
+- [[kb/Gemini-4-Neon\|Gemini 4 Neon]] (TECHNOLOGIE) — 0.88, DYNAMIQUE
+  - [[fiches/2026-11/sfeir-gemini-4-neon-2026-11-18\|Gemini 4 Neon : le modèle intermédiaire de Google, entre Hydrogen et Carbon]]
 
 ## Relations (comme objet)
 
@@ -32,6 +39,7 @@
 - [[kb/Cursor-technologie\|Cursor]] **concurrence** → GitHub Copilot — 0.92
 - [[kb/compounding-teams\|compounding teams]] **s_oppose_à** → GitHub Copilot — 0.90
 - [[kb/_entites-mineures#Copilot-Code-Review\|Copilot Code Review]] **fait_partie_de** → GitHub Copilot — 0.88
+- [[kb/_entites-mineures#Claude-Fable\|Claude Fable]] **fait_partie_de** → GitHub Copilot — 0.80
 
 ## Fiches sources
 
@@ -44,3 +52,4 @@
 - [[fiches/2026-10/meppiel-getting-started-agentic-sdlc-enterprise-2026-10-01\|Getting started with Agentic SDLC at enterprise scale (post LinkedIn et infographie)]]
 - [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
 - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
+- [[fiches/2026-11/sfeir-gemini-4-hydrogen-github-copilot-2026-11-15\|Gemini 4 Hydrogen arrive dans GitHub Copilot : ce que vos équipes doivent régler avant le 14 décembre]]

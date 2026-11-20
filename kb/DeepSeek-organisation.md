@@ -1,6 +1,6 @@
 # DeepSeek
 
-> **Type** : ORGANISATION | 7 relations | 5 fiches sources
+> **Type** : ORGANISATION | 10 relations | 5 fiches sources
 
 > **Même entité, autre type** : [[kb/DeepSeek-technologie\|DeepSeek (TECHNOLOGIE)]]
 
@@ -40,6 +40,12 @@
 
 - [[kb/_entites-mineures#attaque-par-rejeu-inter-sessions\|attaque par rejeu inter-sessions]] (CONCEPT) — 0.93, STATIQUE
   - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+
+## Relations (comme objet)
+
+- [[kb/campagne-PaperCut\|campagne PaperCut]] **utilise** → DeepSeek — 0.88
+- [[kb/ARTEX\|ARTEX]] **utilise** → DeepSeek — 0.85
+- [[kb/WorkBuddy\|WorkBuddy]] **utilise** → DeepSeek — 0.85
 
 ## Fiches sources
 

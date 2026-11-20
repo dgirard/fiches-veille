@@ -1,6 +1,6 @@
 # Scout
 
-> **Type** : TECHNOLOGIE | 8 relations | 2 fiches sources
+> **Type** : TECHNOLOGIE | 9 relations | 2 fiches sources
 
 ## Attributs
 
@@ -35,6 +35,7 @@
 - [[kb/_entites-mineures#Context-Analyzer\|Context Analyzer]] **fait_partie_de** → Scout — 0.90
 - [[kb/_entites-mineures#Diff-Generator\|Diff Generator]] **fait_partie_de** → Scout — 0.90
 - [[kb/_entites-mineures#Test-Generator\|Test Generator]] **fait_partie_de** → Scout — 0.90
+- [[kb/Microsoft-Autopilot\|Microsoft Autopilot]] **remplace** → Scout — 0.90
 
 ## Fiches sources
 

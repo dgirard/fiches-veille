@@ -1,6 +1,6 @@
 # Palantir
 
-> **Type** : ORGANISATION | 8 relations | 2 fiches sources
+> **Type** : ORGANISATION | 12 relations | 2 fiches sources
 
 ## Attributs
 
@@ -11,6 +11,9 @@
 
 ### a_créé
 
+- [[kb/_entites-mineures#Foundry\|Foundry]] (TECHNOLOGIE) — 0.90, STATIQUE
+  - [[fiches/2026-11/sfeir-fde-101-kevin-bai-anthropic-2026-11-10\|Kevin Bai (Anthropic) ramène le FDE à une question : qui achète quoi ?]]
+  - [[fiches/2026-11/sfeir-fde-sierra-natalie-meurer-2026-11-10\|« Quel millésime de FDE êtes-vous ? » : Natalie Meurer (Sierra) démonte le titre à la mode]]
 - [[kb/_entites-mineures#Forward-Deployed-Engineering-(FDE)\|Forward Deployed Engineering (FDE)]] (METHODOLOGIE) — 0.85, STATIQUE
   - [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|You will know that the AI labs believe in ASI when -they dissolve their forward deployed engineering teams-]]
 
@@ -43,6 +46,9 @@
 
 - [[kb/_entites-mineures#Shyam-Sankar\|Shyam Sankar]] **travaille_chez** → Palantir — 0.95
 - [[kb/_entites-mineures#Ashwin-Sreenivas\|Ashwin Sreenivas]] **travaille_chez** → Palantir — 0.92
+- [[kb/_entites-mineures#millésimes-du-FDE\|millésimes du FDE]] **est_basé_sur** → Palantir — 0.88
+- [[kb/Forward-Deployed-Engineering\|Forward Deployed Engineering]] **s_inspire_de** → Palantir — 0.88
+- [[kb/_entites-mineures#Project-Frontline\|Project Frontline]] **fait_partie_de** → Palantir — 0.85
 
 ## Fiches sources
 

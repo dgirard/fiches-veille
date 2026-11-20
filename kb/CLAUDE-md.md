@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-> **Type** : TECHNOLOGIE | 13 relations | 13 fiches sources
+> **Type** : TECHNOLOGIE | 14 relations | 13 fiches sources
 
 ## Attributs
 
@@ -65,6 +65,7 @@
 
 - [[kb/andrej-karpathy-skills\|andrej-karpathy-skills]] **utilise** → CLAUDE.md — 0.98
 - [[kb/revue-de-code-agentique\|revue de code agentique]] **utilise** → CLAUDE.md — 0.90
+- [[kb/sfeir.com\|sfeir.com]] **utilise** → CLAUDE.md — 0.90
 
 ## Fiches sources
 

@@ -1,6 +1,6 @@
 # Model Context Protocol
 
-> **Type** : TECHNOLOGIE | 21 relations | 8 fiches sources
+> **Type** : TECHNOLOGIE | 24 relations | 8 fiches sources
 
 ## Attributs
 
@@ -56,9 +56,12 @@
 - [[kb/Buzz\|Buzz]] **utilise** → Model Context Protocol — 0.93
 - [[kb/_entites-mineures#buzz-agent\|buzz-agent]] **utilise** → Model Context Protocol — 0.93
 - [[kb/_entites-mineures#Desktop-Extensions\|Desktop Extensions]] **utilise** → Model Context Protocol — 0.93
+- [[kb/GBrain\|GBrain]] **utilise** → Model Context Protocol — 0.93
 - [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] **utilise** → Model Context Protocol — 0.92
 - [[kb/Agent-Client-Protocol\|Agent Client Protocol]] **converge_avec** → Model Context Protocol — 0.90
 - [[kb/Amazon-Bedrock-AgentCore\|Amazon Bedrock AgentCore]] **utilise** → Model Context Protocol — 0.90
+- [[kb/GitLab\|GitLab]] **utilise** → Model Context Protocol — 0.90
+- [[kb/_entites-mineures#Jira-Cloud\|Jira Cloud]] **utilise** → Model Context Protocol — 0.90
 
 ## Fiches sources
 
