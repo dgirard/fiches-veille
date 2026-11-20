@@ -1,6 +1,6 @@
 # Knowledge Base — Commerce Agentique (UCP/ACP)
 
-> 19 fiches | Période : Février 2025 — Octobre 2026 | Mis à jour le 2026-10-26
+> 21 fiches | Période : Février 2025 — Novembre 2026 | Mis à jour le 2026-11-21
 
 ## Vue d'ensemble
 
@@ -36,6 +36,16 @@ l'agent peut faire, par une session fondée sur OAuth. L'**Oliver Wyman Forum**
 chiffre le terrain (l'IA est le point de départ de **33,3 %** des achats, **79 %**
 des parcours simulés butent après la recommandation) et nomme la discipline
 attendue des marques : la **shopping agent optimization**.
+
+**Novembre 2026 : un assistant grand public passe à la caisse.** Le 13 novembre,
+**OpenAI** ouvre **ChatGPT Wallet** : les **dots** remplissent le panier et paient
+chez le marchand, chaque achat validé par **Face ID, Touch ID** ou empreinte,
+avec un **jeton de carte** fourni par le réseau. Le lancement est étroit
+(**ChatGPT Pro**, États-Unis, cartes de crédit américaines) ; côté marchand, pas
+d'intégration propre mais une antifraude à régler sur les requêtes signées
+**Web Bot Auth**. La délégation sous **plafonds** est déjà prévue par les
+conditions du service : la réponse de Stripe (approbation à chaque transaction)
+est livrée, celle de Cloudflare (plafond) annoncée.
 
 **Avertissement de nommage, valable pour toute lecture de ce corpus** : le sigle
 **ACP** désigne **trois protocoles sans intersection technique** — *Agentic
@@ -146,6 +156,31 @@ lui-même (cf. fiche Girard, août 2026) : **on n'indexe jamais un sigle seul**.
   laisseraient un agent dépenser sans validation préalable (épicerie 28 %, prêt
   7 %) ; côté vendeur, vérifier l'agent, le client et le **mandat**.
 
+### Novembre 2026 — le portefeuille dans l'assistant
+
+- **13 nov. 2026** — **ChatGPT Wallet** (OpenAI), restitué par SFEIR AI le
+  15 novembre : les **dots** paient pour l'utilisateur ; écran de validation
+  détaillé (marchand, articles, prix total ou maximum, carte, éventuel
+  prélèvement récurrent), nouvelle demande d'accord si un détail important
+  change. Jeton de carte valable pour la **seule transaction approuvée**.
+  OpenAI n'est *ni banque, ni émetteur, ni réseau, ni marchand* ; le marchand
+  garde relation client, prix, retours et décision antifraude ; **pas de
+  commission** au lancement (CNBC). Réservé aux abonnés **ChatGPT Pro**
+  américains, cartes de crédit **American Express, Chase, Mastercard, Visa**
+  (débit et cartes virtuelles refusées). Partenaires antifraude et paiement :
+  Forter, Riskified, Sardine, Signifyd, **Adyen**, Checkout.com, **Stripe** ;
+  American Express y voit la première intégration de ses *« Agentic Commerce
+  Experiences »*. L'article rapproche le dispositif de la grille de l'**ANSSI**
+  (exécution autonome / approbation obligatoire / action interdite) : Wallet
+  place aujourd'hui tout paiement dans la deuxième catégorie.
+- **15 nov. 2026** — **SFEIR AI, écrire pour les moteurs et les assistants** :
+  une page a *« au moins quatre lecteurs »* (personne, Google, robots des
+  assistants, chat du site) ; un seul graphe **schema.org** JSON-LD par page,
+  **llms.txt** publié *« sans en attendre d'effet »* (Ahrefs : **97 %** des
+  fichiers jamais requêtés en mai 2026), robots d'IA nommés dans le robots.txt.
+  Rappel **Pew** (juillet 2025) : **8 %** de clics avec résumé d'IA contre
+  **15 %** sans.
+
 ## Fiches sources
 
 ### Portefeuilles et autorisation de paiement agentique
@@ -153,6 +188,7 @@ lui-même (cf. fiche Girard, août 2026) : **on n'indexe jamais un sigle seul**.
 - [[fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29\|Giving agents the ability to pay (Stripe) : portefeuille Link pour agents, Issuing for agents, approbation transaction par transaction]]
 - [[fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04\|Cloudflare Wallets : Virtual Wallets pour agents, rail x402/stablecoin et espace de noms cloudflare.pay]]
 - [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI : la monétisation par les coûts avant le prix, Moneybot/Managerbot, Square dans Google Maps]]
+- [[fiches/2026-11/sfeir-chatgpt-wallet-openai-paiement-2026-11-15\|ChatGPT Wallet (SFEIR AI) : les dots paient chez le marchand, validation biométrique de chaque achat, jeton de carte, Web Bot Auth côté marchand]]
 
 ### Agents personnels et accès aux marchands
 
@@ -181,6 +217,7 @@ lui-même (cf. fiche Girard, août 2026) : **on n'indexe jamais un sigle seul**.
 ### Visibilité et découverte IA
 
 - [[fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01\|AEO (Answer Engine Optimization) - SEO - Moteurs de réponse IA]]
+- [[fiches/2026-11/sfeir-ecrire-moteurs-ia-schema-org-llms-txt-2026-11-15\|Écrire pour les moteurs et les assistants (SFEIR AI) : quatre lecteurs par page, graphe schema.org unique, llms.txt sans effet attendu]]
 
 ## Entités clés
 
@@ -210,13 +247,14 @@ lui-même (cf. fiche Girard, août 2026) : **on n'indexe jamais un sigle seul**.
 - [[kb/_entites-mineures#cloudflare.pay\|cloudflare.pay]] — Espace de noms lisible donnant à un agent une **identité stable** face au marchand (`research.example.cloudflare.pay`)
 - [[kb/_entites-mineures#Web-Bot-Auth\|Web Bot Auth]] / Turnstile — Briques d'identité et de vérification Cloudflare réutilisées pour authentifier l'agent payeur
 - [[kb/Agent-Client-Protocol\|Agent Client Protocol]] — **Homonyme d'ACP à ne pas confondre** : client ↔ agent (Zed, JSON-RPC sur stdio) ; sans rapport avec le commerce agentique
+- [[kb/ChatGPT-Wallet\|ChatGPT Wallet]] — Portefeuille d'OpenAI (13 nov. 2026) : les dots paient chez le marchand, validation biométrique de chaque achat, jeton de carte du réseau
 - [[kb/_entites-mineures#Moneybot\|Moneybot]] (Cash App) / [[kb/_entites-mineures#Managerbot\|Managerbot]] (Square) — Agents grand public et marchands de Block ; 1 M+ de comptes actifs hebdo pour Moneybot
 
 ### Organisations
 
 - [[kb/Google\|Google]] — Créateur UCP/ACP/AP2
 - [[kb/Shopify\|Shopify]] — Trafic IA ×7, commandes ×11
-- [[kb/OpenAI\|OpenAI]] — ChatGPT Atlas, Instant Checkout, ACP co-créateur
+- [[kb/OpenAI\|OpenAI]] — ChatGPT Atlas, Instant Checkout, ACP co-créateur, ChatGPT Wallet (nov. 2026)
 - [[kb/Amazon\|Amazon]] — Rufus AI, Alexa+, Buy for Me, absent des protocoles ouverts
 - [[kb/_entites-mineures#Opascope\|Opascope]] — Cabinet conseil e-commerce agentique
 - [[kb/_entites-mineures#Wayfair\|Wayfair]] — Premier utilisateur UCP
@@ -276,14 +314,14 @@ Visibilité (AEO/schema.org)
 La couche disputée n'est plus le **checkout** (ACP/UCP) mais le **portefeuille**
 — qui détient les fonds, qui autorise la dépense, et sous quelle identité.
 
-| | **Stripe — Link pour agents** (29 avr. 2026) | **Cloudflare Wallets** (4 août 2026) |
-|---|---|---|
-| **Rail** | Cartes et comptes bancaires **existants** | **x402** + **stablecoin** |
-| **Accès de l'agent** | Flux **OAuth** sur le portefeuille du consommateur | **Clé d'API** rattachée à un Virtual Wallet |
-| **Justificatif** | Carte à usage unique ou **Shared Payment Token**, scopé (montant, devise, marchand) | Allocation, **allowlist**, montant max par transaction |
-| **Autorisation** | **Approbation humaine à chaque transaction** | **Plafond** fixé à l'avance par le détenteur du compte |
-| **Identité de l'agent** | Non traitée (l'agent agit sous le compte de l'humain) | **`cloudflare.pay`**, Web Bot Auth, Turnstile |
-| **Maturité au jour J** | Produit livré ; limites de dépense « coming soon » | **Réservation de handle** seulement ; le reste au futur |
+| | **Stripe — Link pour agents** (29 avr. 2026) | **Cloudflare Wallets** (4 août 2026) | **OpenAI — ChatGPT Wallet** (13 nov. 2026) |
+|---|---|---|---|
+| **Rail** | Cartes et comptes bancaires **existants** | **x402** + **stablecoin** | Cartes de crédit **existantes** (émises aux États-Unis) |
+| **Accès de l'agent** | Flux **OAuth** sur le portefeuille du consommateur | **Clé d'API** rattachée à un Virtual Wallet | Les **dots**, depuis le navigateur cloud de ChatGPT |
+| **Justificatif** | Carte à usage unique ou **Shared Payment Token**, scopé (montant, devise, marchand) | Allocation, **allowlist**, montant max par transaction | **Jeton du réseau** de cartes, valable pour la seule transaction approuvée |
+| **Autorisation** | **Approbation humaine à chaque transaction** | **Plafond** fixé à l'avance par le détenteur du compte | **Validation biométrique** de chaque achat ; plafonds prévus par les conditions, non disponibles |
+| **Identité de l'agent** | Non traitée (l'agent agit sous le compte de l'humain) | **`cloudflare.pay`**, Web Bot Auth, Turnstile | Requêtes signées **Web Bot Auth**, signaux utilisateur dans l'en-tête `Forwarded` |
+| **Maturité au jour J** | Produit livré ; limites de dépense « coming soon » | **Réservation de handle** seulement ; le reste au futur | Produit livré, réservé à **ChatGPT Pro** aux États-Unis |
 
 - **Le fait le plus significatif est stratégique** : Stripe, **co-auteur d'ACP**,
   livre un contournement des rails existants plutôt qu'un pari sur son propre
@@ -345,5 +383,8 @@ La couche disputée n'est plus le **checkout** (ACP/UCP) mais le **portefeuille*
 - **Amazon bloque Muse** (Meta) comme *« unauthorized AI agent »* (sept. 2026) — premier cas documenté dans le corpus d'un marchand qui ferme sa porte à un agent d'achat grand public
 - **Personal Agent Protocol** : l'accès est décidé par le consommateur, le périmètre par l'entreprise — réponse protocolaire au blocage, v0.1 annoncée pour octobre 2026
 - **Oliver Wyman Forum (oct. 2026)** : **48 %** de la génération Z commence ses achats par l'IA ; **70 %** des fiches produit auditées sont incomplètes pour un agent ; **54 %** considéreraient une marque inconnue si l'IA la juge la plus adaptée ; **68 %** feraient moins confiance à un assistant affichant des placements payés ; aucun fournisseur d'agent n'atteint **30 %** de confiance
+- **ChatGPT Wallet** : **pas de commission** au lancement (CNBC), à rapprocher des **4 %** d'ACP sur Instant Checkout ; OpenAI se déclare ni banque, ni émetteur, ni réseau, ni marchand
+- **Web Bot Auth** passe d'une brique Cloudflare (août) à une exigence de configuration antifraude pour tout marchand qui veut accepter les achats des dots (nov. 2026)
+- **Trafic des bots** cité par SFEIR (nov. 2026) : **57,5 %** des requêtes HTTP sur Cloudflare contre 42,5 % humaines (Matthew Prince, 3 juin 2026) ; requêtes d'agents IA **+1 700 %** en un an (Forbes)
 - **Commission sur transaction** : un modèle indifférent à la nature de l'acheteur, humain ou agent (Mirakl)
 - **Les parcours restent hybrides sur l'engageant** : le client délègue le simple et peu risqué, pas l'achat cher ou durable ; la moitié des dépenses chez Leroy Merlin relève de projets construits en semaines

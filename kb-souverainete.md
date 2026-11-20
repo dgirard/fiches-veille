@@ -1,6 +1,6 @@
 # Knowledge Base — Souveraineté numérique (cloud, données, IA)
 
-> 24 fiches | Période : Janvier 2026 — Octobre 2026 | Mis à jour le 2026-10-26
+> 39 fiches | Période : Janvier 2026 — Novembre 2026 | Mis à jour le 2026-11-21
 
 ## Vue d'ensemble
 
@@ -68,6 +68,15 @@ propriétaire qui *« sets the terms »*, et *« Dependence on others, even on
 their openness, is still dependence »*. Entre les deux, Mistral publie
 **Mistral Large 4**, entraîné de zéro dans ses datacenters européens, poids
 ouverts annoncés.
+
+**Fin octobre-novembre 2026, la question descend dans l'outillage.** Les poids
+de Large 4 sortent le 29 octobre sous une licence qui impose un accord
+commercial à tout hébergeur, **dès le premier euro** : l'auto-hébergement reste
+entier, le changement de fournisseur géré dépend de Mistral. La juridiction se
+lit **au point de connexion** (OpenRouter, agents de code, audit de binaire
+avec modèle local). Le 14 novembre, une série SFEIR fait de la **mémoire
+d'agent** un actif à posséder : copie maîtresse dans un dépôt Git, index
+jetable.
 
 ## Chronologie
 
@@ -208,6 +217,41 @@ ouverts annoncés.
   fondation, mais peut dominer son propre marché ; il se déclare investisseur
   de Mistral AI. La Chine aurait **six mois** de retard.
 
+### Fin octobre-novembre 2026 — Licence des poids, juridiction au point de connexion, mémoire possédée
+
+- **1er oct. 2026** — **Altar** (Aikido Security) : **GLM-5.3** compressé de
+  **1,51 To à 328 Go** (AWQ puis élagage d'experts REAP), sur **quatre H200**,
+  pour une analyse de sécurité en réseau coupé.
+- **6 oct. → 2 nov. 2026** — **Mistral Large 4**, lecture SFEIR en deux temps.
+  Poids publiés le **29 octobre** sous la **Mistral Ecosystem
+  Open-Weight License** : base MIT, mais licence commerciale obligatoire pour
+  toute activité de *Model as a Service*, sans seuil de revenu, filiales
+  comprises ; usage interne exempté. Large 3 était sous Apache 2.0.
+  *« Un hébergeur, même européen, ne peut pas le servir à ses clients sans
+  accord avec Mistral. »*
+- **15 oct. 2026** — Lecture SFEIR de l'*AI operating system* de McKinsey :
+  *« Own the context; rent or replace the technology »*, avec un corollaire
+  contractuel, le [[kb/Design-to-Exit\|Design to Exit]].
+- **19 oct. 2026** — **OpenRouter** : **41** fournisseurs sur **94** passent le
+  filtre « pas d'entraînement, rétention zéro » ; sièges : **34** États-Unis,
+  **4** Singapour, **3** Europe ; Mistral en sort (rétention par défaut de 30
+  jours). *« La juridiction se lit dans la colonne des sièges. »*
+- **19 oct. 2026** — **Audit d'un logiciel extra-européen** sans son code
+  source : REA cartographie serveurs destinataires, télémétrie et mises à jour,
+  mais ses résultats partent chez le fournisseur du modèle ; pour un logiciel
+  sensible, modèle local. Le même jour, le cas de l'**éditeur disparu** rappelle
+  le **séquestre de code source** comme clause de continuité.
+- **22 oct. 2026** — **33 agents de code** : la juridiction se lit au point de
+  connexion (Kimi Code CLI : trois politiques pour un outil) ; aucune
+  qualification **SecNumCloud** relevée.
+- **14 nov. 2026** — **Série SFEIR sur la mémoire d'agent.** Déclencheur :
+  **Cursor** racheté par **SpaceX** (**60 Md$**, 14 août). Trois emplacements
+  (mémoire native, hub **TencentDB Agent Memory**, dépôt Git type **GBrain**)
+  comparés sur six critères dont localisation et coût de sortie ; **WorkBuddy**
+  international stocké à **Singapour**, accès possible d'équipes en Chine.
+  Appui : *« Own Your Intelligence »* de **Garry Tan** (modèle loué, contexte
+  possédé ; *« Custody is the security model »*).
+
 ## Fiches sources
 
 ### Cloud souverain & données (immunité extraterritoriale, réversibilité)
@@ -218,6 +262,14 @@ ouverts annoncés.
 - [[fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06\|SecNumCloud en (pas si) bref : qualification ANSSI, risques extraterritoriaux, offres hybrides]]
 - [[fiches/2026-01/plakar-sauvegarde-open-source-deep-research-2026-01\|Plakar : la révolution française de la sauvegarde open source (Kloset, CNCF, ~60× S3)]]
 - [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Delos Intelligence (fact-check) : souveraineté « 100 % Scaleway » annoncée vs calcul encore partiellement sur Azure France]]
+- [[fiches/2026-10/sfeir-openrouter-zdr-souverainete-2026-10-19\|OpenRouter, filtre ZDR : 41 fournisseurs sur 94, 3 sièges européens, 22 modèles open weights sous critère de juridiction]]
+
+### Juridiction de l'outillage : audit, air gap, agents de code
+
+- [[fiches/2026-10/sfeir-souverainete-audit-logiciel-2026-10-19\|Auditer un logiciel extra-européen sans son code source (REA, modèle local, L122-6-1 CPI)]]
+- [[fiches/2026-10/girard-aikido-altar-securite-air-gap-2026-10-01\|Altar (Aikido Security) : GLM-5.3 compressé de 1,51 To à 328 Go pour une analyse de sécurité en air gap]]
+- [[fiches/2026-10/sfeir-agents-de-code-panorama-criteres-choix-2026-10-22\|33 agents de code : licence réelle, approbation par défaut, juridiction au point de connexion, AGENTS.md]]
+- [[fiches/2026-10/sfeir-glean-couche-de-contexte-2026-10-27\|Glean, couche de contexte : trois options pour une DSI européenne et portabilité contractuelle du contexte]]
 
 ### Souveraineté de l'IA (modèles, inférence, silicium, politique)
 
@@ -237,6 +289,8 @@ ouverts annoncés.
 - [[fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17\|Dean W. Ball : les modèles à poids ouverts sont intrinsèquement décélérationnistes (contre-thèse OpenAI)]]
 - [[fiches/2026-07/xi-waic2026-gouvernance-mondiale-ia-2026-07-17\|Xi Jinping à la WAIC 2026 : open-source, WAICO (29 pays) et offre au Sud global]]
 - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI (Ahmad Osman) : sécurité comme mécanisme de fermeture]]
+- [[fiches/2026-10/sfeir-mistral-large-4-souverainete-licence-2026-10-06\|Mistral Large 4 (lecture SFEIR) : annonce contre mesure, cyberdéfense, souveraineté suspendue à la licence]]
+- [[fiches/2026-11/sfeir-mistral-large-4-licence-auto-hebergement-2026-11-02\|Mistral Large 4, poids publiés : licence MaaS dès le premier euro, auto-hébergement entier, coût matériel]]
 
 ### Continuité de service & portabilité des agents
 
@@ -245,6 +299,17 @@ ouverts annoncés.
 - [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz : forge Git sur son propre relais, identité npub portable, preuve ex post plutôt qu'autorisation ex ante]]
 - [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal (Sarver) : Amazon bloque Muse, l'agent personnel possédé et portable]]
 - [[fiches/2026-10/oliver-wyman-forum-ai-agenda-reality-check-2026-10-15\|The AI Agenda 2026 (Oliver Wyman Forum) : interdépendance contrôlée, pile en six couches, Sovereign AI Index, 21 à 60 jours-ingénieur pour changer de modèle]]
+- [[fiches/2026-10/sfeir-editeur-disparu-code-perdu-2026-10-19\|Éditeur disparu, code perdu : stabiliser, récupérer (séquestre), rétro-documenter, réécrire sous golden master]]
+- [[fiches/2026-10/sfeir-ai-operating-system-mckinsey-lecture-2026-10-15\|AI operating system (McKinsey), lecture SFEIR : posséder le contexte, louer la technologie, Design to Exit]]
+
+### Mémoire d'agent & contexte possédé
+
+- [[fiches/2026-11/sfeir-memoire-agent-souverainete-2026-11-14\|Où vit la mémoire de vos agents ? Trois emplacements, six critères, juridictions (Cursor, SpaceX, OpenAI)]]
+- [[fiches/2026-11/sfeir-posseder-memoire-agent-depot-git-2026-11-14\|Posséder la mémoire de ses agents : copie maîtresse dans un dépôt Git, index jetable, cinq règles d'équipe]]
+- [[fiches/2026-11/sfeir-own-your-intelligence-lecture-dsi-2026-11-14\|« Own Your Intelligence » (Garry Tan), lecture DSI : modèle loué, contexte possédé, la garde comme modèle de sécurité]]
+- [[fiches/2026-11/sfeir-gbrain-memoire-garry-tan-2026-11-14\|GBrain (Garry Tan) : pages Markdown du dépôt, index PGLite reconstructible, graphe typé]]
+- [[fiches/2026-11/sfeir-tencentdb-agent-memory-v2-2026-11-14\|TencentDB Agent Memory 2.0 : hub de mémoire d'équipe, Proxy à auditer, export encore partiel]]
+- [[fiches/2026-11/sfeir-workbuddy-codebuddy-tencent-2026-11-14\|WorkBuddy et CodeBuddy (Tencent) : données à Singapour, accès possible depuis la Chine, trois questions de DSI]]
 
 ## Entités clés
 
@@ -266,6 +331,9 @@ ouverts annoncés.
 - Moonshot AI — Laboratoire chinois ; Kimi K3, frontier en poids ouverts (16 juil. 2026)
 - WAICO — Organisation mondiale de coopération en IA, intergouvernementale, siège Shanghai, 29 pays signataires (16 juil. 2026)
 - Amadeus, ASML, [[kb/Capgemini\|Capgemini]], CMA CGM — Coalition d'ancrage finançant les European Compute Units de Mistral
+- [[kb/OpenRouter-organisation\|OpenRouter]] — Routeur multi-fournisseurs ; son filtre ZDR laisse 3 sièges européens sur 41 fournisseurs (oct. 2026)
+- [[kb/Aikido-Security\|Aikido Security]] — Éditeur de sécurité (Gand) ; Altar, modèle open-weight exécutable en réseau coupé
+- [[kb/Tencent\|Tencent]] — CodeBuddy, WorkBuddy et TencentDB Agent Memory ; données de l'édition internationale à Singapour
 
 ### Technologies & plateformes
 
@@ -283,6 +351,9 @@ ouverts annoncés.
 - [[kb/AI-Kill-Switch-Act\|AI Kill Switch Act]] — Section 2220F, autorité DHS/CISA, seuils cumulatifs et sanctions jusqu'à 20 M$/jour
 - Cloud Act — Loi extraterritoriale américaine ; critère discriminant qu'aucun hyperscaler US ne peut neutraliser
 - European Compute Unit (ECU) — Créance fongible sur de la capacité Mistral, engagement cinq ans, sans sortie anticipée
+- [[kb/Mistral-Large-4\|Mistral Large 4]] — Poids publiés le 29 oct. 2026 sous la Mistral Ecosystem Open-Weight License (accord commercial obligatoire pour tout hébergeur)
+- [[kb/GBrain\|GBrain]] / [[kb/TencentDB-Agent-Memory\|TencentDB Agent Memory]] — Index de mémoire d'agent (MIT) posés sur une copie maîtresse possédée
+- [[kb/Design-to-Exit\|Design to Exit]] — Corollaire contractuel de « posséder le contexte, louer la technologie »
 
 ### Personnes
 
@@ -294,6 +365,7 @@ ouverts annoncés.
 - Dean W. Ball — Head of Strategic Futures, OpenAI ; thèse des poids ouverts « décélérationnistes » et de la *soft law* comme arme
 - [[kb/_entites-mineures#Catherine-Jestin\|Catherine Jestin]] — EVP Digital d'Airbus ; protection des données critiques contre les législations étrangères
 - [[kb/_entites-mineures#Steeve-Morin\|Steeve Morin]] — Fondateur de ZML (ex-VP Engineering de Zenly) ; souveraineté « model to metal »
+- [[kb/Garry-Tan\|Garry Tan]] — Président et CEO de Y Combinator ; « Own Your Intelligence » (modèle loué, contexte possédé), auteur de GBrain
 
 ## Concepts structurants
 
@@ -433,6 +505,32 @@ et se qualifie **dépendance par dépendance**.
   et l'accès futur au cœur de la souveraineté ; ils divergent sur la place du
   modèle, remplaçable pour l'un, condition de l'accès futur pour l'autre.
 
+### Réversibilité : deux sorties, une licence (novembre 2026)
+
+- La lecture SFEIR de Mistral Large 4 distingue **deux sorties** : (1)
+  l'auto-hébergement, entier ; (2) le passage à un autre fournisseur géré,
+  soumis à contrat avec Mistral. Le poids ouvert garantit la première ; c'est la
+  licence qui décide de la seconde.
+- Le seuil de déclenchement varie d'un facteur considérable : **10 Md$** de CA
+  (GLM-5.3), **20 M$** de revenu (Kimi K3), **premier euro** (Large 4). La
+  colonne « réversibilité » de l'été se dédouble en *poids* et *licence*.
+
+### La mémoire d'agent comme actif à posséder (novembre 2026)
+
+- **Constat** : six agents, six mémoires (*Ephemeral Intelligence Gap*) ; la
+  mémoire native suit l'éditeur, y compris quand il change de propriétaire.
+- **Architecture en deux couches** : copie maîtresse en Markdown dans un dépôt
+  Git privé, index par-dessus (GBrain ou TencentDB Agent Memory, tous deux MIT).
+  Règle : l'index doit pouvoir être supprimé et reconstruit, et sa
+  reconstruction se teste comme une restauration.
+- **Cinq règles d'équipe** : un dépôt de contexte par équipe, écritures d'agent
+  par pull request relue, plafond de lignes, maintenance planifiée, **test de
+  réversibilité trimestriel**.
+- **Limite rappelée par les fiches** : un dépôt sur forge interne sort la copie
+  maîtresse de l'équation, pas les prompts envoyés au modèle. Rejoint la
+  « couche de contrôle » de l'Oliver Wyman Forum et le critère *état (mémoire
+  exportable)* de Janakiram.
+
 ### Souveraineté & open source (débat ouvert)
 
 - **Ouverture comme levier** : Plakar (sauvegarde), CNCF/Linux Foundation,
@@ -475,6 +573,11 @@ et se qualifie **dépendance par dépendance**.
 - **Amazon bloque Muse** (sept. 2026) : le « qui peut m'éteindre » s'applique
   aussi à l'agent personnel, coupé par un tiers dans un différend entre
   plateformes.
+- **Mistral Large 4, 29 oct. 2026** : poids publiés, licence commerciale
+  obligatoire pour tout hébergeur, aucun cloud européen tiers parmi les
+  hébergeurs cités ; API à **0,70 $ / 2,10 $** par million de tokens.
+- **OpenRouter (19 oct. 2026)** : sous critère de siège européen, **22**
+  modèles sur 229 restent éligibles, tous open weights.
 - Métrique cardinale transverse : **réversibilité** > contrat signé. Mais l'été
   2026 montre qu'elle se **négocie à contre-courant** — le verrou décisif s'est
   déplacé de l'infrastructure vers le **modèle, l'agent et la durée
