@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 1034 entités de type TECHNOLOGIE
+> 1036 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.NET\|.NET]] — rôle: Cible la plus directe pour un SI Microsoft desktop (WPF, WinForms) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
@@ -423,6 +423,7 @@
 - [[kb/_entites-mineures#Governance-for-Agents\|Governance for Agents]] — rôle: Couche d'identité, politique, approbation et audit appliquée autour de l'agent plutôt que dans son prompt (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Grammarly\|Grammarly]] — catégorie: Outil d'aide à l'écriture ; codifie un style et un niveau de lisibilité visé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Graphe-de-connaissance\|Graphe de connaissance]] — rôle: Mémoire des agents par domaine sur le cycle de vie logiciel (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Greptile\|Greptile]] — catégorie: Bot de revue de code partagé à l'échelle du dépôt (1 occ., 2 fiches)
 - [[kb/_entites-mineures#Grok\|Grok]] — catégorie: Assistant LLM (X / anciennement Twitter) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Grok-4\|Grok 4]] — score even-handedness: 96% (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Grok-Voice-2.0\|Grok Voice 2.0]] — latence: 0,70 s au premier son, 81,3 points (1 occ., 1 fiches)
@@ -830,6 +831,7 @@
 - [[kb/_entites-mineures#Variant.com\|Variant.com]] — catégorie: Outil de remix créatif design en un clic (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Varick-OS\|Varick OS]] — catégorie: Plateforme maison de déploiement d'agents de Varick (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vector-Databases\|Vector Databases]] — catégorie: Base de données vectorielle pour recherche sémantique (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Vercel-Board\|Vercel Board]] — catégorie: Message board sécurisé pour humains et agents, permissions, essaims (expérimental, novembre 2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vercel-Sandbox\|Vercel Sandbox]] — catégorie: Couche calcul pour agents (1 occ., 1 fiches)
 - [[kb/Vertex-AI\|Vertex AI]] — catégorie: Plateforme IA GCP (sélection multi-modèles) (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Vertex-AI-GenAI-API\|Vertex AI GenAI API]] — catégorie: API IA enterprise Google Cloud (1 occ., 1 fiches)

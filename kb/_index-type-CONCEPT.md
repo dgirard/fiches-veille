@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1153 entités de type CONCEPT
+> 1157 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -567,7 +567,9 @@
 - [[kb/_entites-mineures#actor-chain\|actor chain]] — définition: Liste vérifiable de tous les participants à une requête multi-hop (user + agents intermédiaires) transportée dans le JWT — permet des décisions d'accès tool-level basées sur l'historique complet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agency-(définition-Uber)\|agency (définition Uber)]] — définition: *« An entity that is authorized to act for or in the place of another »* — définition fondatrice qui pose la délégation comme propriété axiomatique de l'agent IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agent-builder\|agent builder]] — définition: Rôle Decagon qui configure l'agent depuis l'interface et connaît les modèles (1 occ., 1 fiches)
+- [[kb/_entites-mineures#agent-butler\|agent butler]] — définition: Agent attaché à une personne, généraliste et personnalisé, mono-joueur (OpenClaw, Grok Bot, Muse, Duet, Dot) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agent-coordinateur\|agent coordinateur]] — définition: Synthétise, dédoublonne et hiérarchise les constats des spécialistes (1 occ., 1 fiches)
+- [[kb/_entites-mineures#agent-gardener\|agent gardener]] — définition: Agent attaché à un lieu partagé qui survit à ses occupants (dépôt, CRM, connaissance d'entreprise) ; test : l'agent part-il avec la personne ? (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agent-personnel\|agent personnel]] — définition: Agent agissant pour un seul mandant, possédé par l'utilisateur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agent-software-engineer\|agent software engineer]] — définition: Rôle Decagon qui traite les demandes des grands comptes et les remonte dans le produit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agent-telemetry\|agent telemetry]] — statut: Domaine émergent de mesure IA (1 occ., 1 fiches)
@@ -721,6 +723,7 @@
 - [[kb/_entites-mineures#critères-de-succès-vérifiables\|critères de succès vérifiables]] — description: Objectifs mesurables remplaçant les instructions impératives (1 occ., 1 fiches)
 - [[kb/_entites-mineures#crédit-Agent-SDK\|crédit Agent SDK]] — définition: Pool de facturation séparé annoncé par Anthropic pour l'usage agent et SDK tiers (20 $ / 100 $ / 200 $ selon le plan), facturé au plein tarif API — annoncé pour le 15 juin 2026 puis suspendu (2 occ., 2 fiches)
 - [[kb/_entites-mineures#crédits-SLA\|crédits SLA]] — usage: compensation et reconstruction de confiance (1 occ., 1 fiches)
+- [[kb/_entites-mineures#curator-agent\|curator agent]] — définition: Terme de Harrison Chase pour l'agent d'arrière-plan qui maintient la connaissance d'une entreprise (1 occ., 1 fiches)
 - [[kb/_entites-mineures#dangerous-mode\|dangerous mode]] — durée: Modèles actuels capables de tourner 30h en continu (1 occ., 1 fiches)
 - [[kb/_entites-mineures#dark-factory\|dark factory]] — définition: Atelier où les machines font tant du travail que l'on peut éteindre les lumières (1 occ., 1 fiches)
 - [[kb/_entites-mineures#data-flywheel\|data flywheel]] — rôle: Boucle feedback temps réel pour fine-tuning (1 occ., 1 fiches)
@@ -884,6 +887,7 @@
 - [[kb/_entites-mineures#marché-IA-entreprise\|marché IA entreprise]] — taille_2025: 37 milliards de dollars (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mauvaise-configuration-load-balancer\|mauvaise configuration load balancer]] — type: cause déclenchante de cascade (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mere-ceremony\|mere ceremony]] — catégorie: Tâche organisationnelle sans utilité réelle (1 occ., 1 fiches)
+- [[kb/_entites-mineures#messages-d'intention\|messages d'intention]] — définition: Lecture : « mon intention, donne-moi le contexte » ; écriture : « le changement sémantique visé » ; décision finale au gardener (1 occ., 1 fiches)
 - [[kb/_entites-mineures#meta-programming\|meta-programming]] — définition: Injection d'instructions comportementales dans un LLM (1 occ., 1 fiches)
 - [[kb/_entites-mineures#millésimes-du-FDE\|millésimes du FDE]] — définition: Époques du FDE chez Palantir (DevOps, intégration/ontologie, Slate, Foundry, formation clients), empilées sans retrait (1 occ., 1 fiches)
 - [[kb/_entites-mineures#model-to-metal\|model to metal]] — définition: Découpler le modèle du matériel : compilation AOT vers un binaire natif hermétique exécutable sur cinq familles de puces (1 occ., 1 fiches)

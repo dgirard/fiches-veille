@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 3498 entités avec moins de 3 triples/fiches
+> 3503 entités avec moins de 3 triples/fiches
 
-## PERSONNE (475)
+## PERSONNE (474)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1797,17 +1797,6 @@
 - **affirme_que** → « données millions marchands sont avantage compétitif » (AFFIRMATION) — 0.97
 
 **Fiches** : [[fiches/2025-11/shopify-ai-traffic-orders-growth-techcrunch-2025-11-04\|Shopify says AI traffic is up 7x since January, AI-driven orders are up 11x]]
-
-### Harrison Chase {#Harrison-Chase}
-
-**Type** : PERSONNE | 2 relations | 1 fiches
-
-- **rôle** : CEO LangChain
-
-- **dirige** → [[kb/LangChain-organisation\|LangChain]] (ORGANISATION) — 0.98
-- **affirme_que** → « les traces documentent les agents IA » (AFFIRMATION) — 0.97
-
-**Fiches** : [[fiches/2026-01/chase-langchain-traces-document-ai-agents-2026-01-10\|In software, the code documents the app. In AI, the traces do.]]
 
 ### Harry Brundage {#Harry-Brundage}
 
@@ -6288,13 +6277,15 @@
 
 ### Greptile {#Greptile}
 
-**Type** : ORGANISATION | 1 relations | 1 fiches
+**Type** : ORGANISATION | 2 relations | 2 fiches
 
 - **catégorie** : Start-up tech (San Francisco)
 
+- **est_instance_de** → [[kb/_entites-mineures#agent-gardener\|agent gardener]] (CONCEPT) — 0.90
+
 - [[kb/_entites-mineures#Daksh-Gupta\|Daksh Gupta]] **dirige** → Greptile — 0.95
 
-**Fiches** : [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+**Fiches** : [[fiches/2026-11/charriere-butler-gardener-agents-2026-11-22\|Butler agents and gardener agents]], [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### GreyNoise {#GreyNoise}
 
@@ -7150,7 +7141,7 @@
 
 ### Notion {#Notion}
 
-**Type** : ORGANISATION | 3 relations | 2 fiches
+**Type** : ORGANISATION | 4 relations | 2 fiches
 
 - **secteur** : Productivité / IA
 - **évolution produit** : Ouvre en alpha un modèle déclaratif de construction d'espace de travail, explicitement conçu pour être piloté par un agent de codage autant que par un humain
@@ -7158,6 +7149,7 @@
 - **publie** → [[kb/Notion-as-Code\|Notion as Code]] (TECHNOLOGIE) — 0.96
 - **affirme_que** → « Agent Skills accélère passage de questions à actions » (AFFIRMATION) — 0.89
 
+- [[kb/Nicholas-Charriere\|Nicholas Charriere]] **travaille_chez** → Notion — 0.95
 - [[kb/agent-d'accueil-des-demandes-FDE\|agent d'accueil des demandes FDE]] **utilise** → Notion — 0.88
 
 **Fiches** : [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Introducing Agent Skills]], [[fiches/2026-08/notion-as-code-2026-08-03\|How to use Notion as Code]]
@@ -8602,7 +8594,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (795)
+## TECHNOLOGIE (797)
 
 ### .NET {#.NET}
 
@@ -11910,6 +11902,18 @@
 - [[kb/_entites-mineures#Agent-bibliothécaire\|Agent bibliothécaire]] **utilise** → Graphe de connaissance — 0.90
 
 **Fiches** : [[fiches/2026-05/moon-walsh-mckinsey-rewiring-software-delivery-agentic-era-2026-05-29\|Rewiring software delivery for the agentic era]]
+
+### Greptile {#Greptile}
+
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
+
+- **catégorie** : Bot de revue de code partagé à l'échelle du dépôt
+
+- **est_instance_de** → [[kb/_entites-mineures#agent-gardener\|agent gardener]] (CONCEPT) — 0.90
+
+- [[kb/_entites-mineures#Daksh-Gupta\|Daksh Gupta]] **dirige** → Greptile — 0.95
+
+**Fiches** : [[fiches/2026-11/charriere-butler-gardener-agents-2026-11-22\|Butler agents and gardener agents]], [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### Grok {#Grok}
 
@@ -15297,6 +15301,18 @@
 
 **Fiches** : [[fiches/2025-11/monigatti-rag-to-agent-memory-evolution-2025-11-03\|The Evolution from RAG to Agentic RAG to Agent Memory]]
 
+### Vercel Board {#Vercel-Board}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Message board sécurisé pour humains et agents, permissions, essaims (expérimental, novembre 2026)
+
+- **permet** → coordination d'essaims d'agents (CONCEPT) — 0.85
+
+- [[kb/Vercel\|Vercel]] **publie** → Vercel Board — 0.93
+
+**Fiches** : [[fiches/2026-11/charriere-butler-gardener-agents-2026-11-22\|Butler agents and gardener agents]]
+
 ### Vercel Sandbox {#Vercel-Sandbox}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -17079,7 +17095,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1091)
+## CONCEPT (1095)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -22176,6 +22192,18 @@
 
 **Fiches** : [[fiches/2026-11/sfeir-fde-decagon-sunny-rekhi-2026-11-10\|Sunny Rekhi (Decagon) : chaque demande sur mesure doit finir en libre-service]]
 
+### agent butler {#agent-butler}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Agent attaché à une personne, généraliste et personnalisé, mono-joueur (OpenClaw, Grok Bot, Muse, Duet, Dot)
+
+- **est_variante_de** → [[kb/agents-IA\|agents IA]] (TECHNOLOGIE) — 0.88
+
+- [[kb/OpenClaw\|OpenClaw]] **est_instance_de** → agent butler — 0.92
+
+**Fiches** : [[fiches/2026-11/charriere-butler-gardener-agents-2026-11-22\|Butler agents and gardener agents]]
+
 ### agent coordinateur {#agent-coordinateur}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -22185,6 +22213,20 @@
 - [[kb/_entites-mineures#revues-multi-agents\|revues multi-agents]] **utilise** → agent coordinateur — 0.92
 
 **Fiches** : [[fiches/2026-09/davis-gill-hendrickson-itrevolution-agentic-ai-code-reviews-2026-09-30\|Agentic AI and Code Reviews: Toward a Pattern Language for Code Reviews in the Age of Agentic AI]]
+
+### agent gardener {#agent-gardener}
+
+**Type** : CONCEPT | 4 relations | 1 fiches
+
+- **définition** : Agent attaché à un lieu partagé qui survit à ses occupants (dépôt, CRM, connaissance d'entreprise) ; test : l'agent part-il avec la personne ?
+
+- **s_applique_à** → connaissance d'entreprise (CONCEPT) — 0.90
+- **est_variante_de** → [[kb/agents-IA\|agents IA]] (TECHNOLOGIE) — 0.88
+
+- [[kb/_entites-mineures#curator-agent\|curator agent]] **est_variante_de** → agent gardener — 0.90
+- [[kb/_entites-mineures#Greptile\|Greptile]] **est_instance_de** → agent gardener — 0.90
+
+**Fiches** : [[fiches/2026-11/charriere-butler-gardener-agents-2026-11-22\|Butler agents and gardener agents]]
 
 ### agent personnel {#agent-personnel}
 
@@ -23653,6 +23695,18 @@
 - [[kb/Anthropic\|Anthropic]] **permet** → crédits SLA — 0.90
 
 **Fiches** : [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic Releases Post-Mortem Analysis of Multi-Hour Claude Service Outage]]
+
+### curator agent {#curator-agent}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Terme de Harrison Chase pour l'agent d'arrière-plan qui maintient la connaissance d'une entreprise
+
+- **est_variante_de** → [[kb/_entites-mineures#agent-gardener\|agent gardener]] (CONCEPT) — 0.90
+
+- knowledge factory **utilise** → curator agent — 0.82
+
+**Fiches** : [[fiches/2026-11/charriere-butler-gardener-agents-2026-11-22\|Butler agents and gardener agents]]
 
 ### dangerous mode {#dangerous-mode}
 
@@ -25244,6 +25298,16 @@
 - **est_basé_sur** → tâches organisationnelles sans utilité (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
+
+### messages d'intention {#messages-d'intention}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Lecture : « mon intention, donne-moi le contexte » ; écriture : « le changement sémantique visé » ; décision finale au gardener
+
+- **remplace** → [[kb/MCP\|MCP]] (TECHNOLOGIE) — 0.75
+
+**Fiches** : [[fiches/2026-11/charriere-butler-gardener-agents-2026-11-22\|Butler agents and gardener agents]]
 
 ### meta-programming {#meta-programming}
 
@@ -31850,10 +31914,11 @@
 
 ### pull request {#pull-request}
 
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
 
 - **critique** : Contestée comme centre du processus de développement : construire, finir, emballer et transmettre avant d'avoir la conversation importante
 
+- **permet** → coordination de plusieurs agents sur un même dépôt (CONCEPT) — 0.90
 - **réduit** → « faiblement la dette cognitive et d'intention lorsqu'elle est rendue obligatoire, contre l'usage qui lui est prêté » (AFFIRMATION) — 0.90
 
 **Fiches** : [[fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02\|Maybe We Shouldn't Be Reviewing All This Code]]

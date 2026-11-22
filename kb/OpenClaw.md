@@ -1,6 +1,6 @@
 # OpenClaw
 
-> **Type** : TECHNOLOGIE | 12 relations | 7 fiches sources
+> **Type** : TECHNOLOGIE | 13 relations | 7 fiches sources
 
 ## Attributs
 
@@ -16,6 +16,11 @@
 
 - [[kb/_entites-mineures#pile-de-l'IA-personnelle\|pile de l'IA personnelle]] (CONCEPT) — 0.75, DYNAMIQUE
   - [[fiches/2026-09/sarver-personal-ai-should-actually-be-personal-2026-09-29\|Personal AI Should Actually Be Personal]]
+
+### est_instance_de
+
+- [[kb/_entites-mineures#agent-butler\|agent butler]] (CONCEPT) — 0.92, DYNAMIQUE
+  - [[fiches/2026-11/charriere-butler-gardener-agents-2026-11-22\|Butler agents and gardener agents]]
 
 ### mesure
 

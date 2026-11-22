@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 567 fiches | 1975-12 → 2026-11-19 | généré le 2026-11-20
+> 568 fiches | 1975-12 → 2026-11-22 | généré le 2026-11-22
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-11
 
+- **22** [Butler agents and gardener agents](fiches/2026-11/charriere-butler-gardener-agents-2026-11-22.md) — Nicholas Charriere (@nichochar) — Notion ; précédemment Mocha (YC S23), Cruise, Pinterest. · X (@nichochar) — agents butler, agents gardener, agent majordome
 - **19** [Comment l'équipe Claude Code vérifie le code écrit par ses agents](fiches/2026-11/sfeir-verification-code-agents-claude-code-2026-11-19.md) — SFEIR AI, voix éditoriale de SFEIR (ESN), article non signé publié sur sfeir.com, site éditorial du groupe. · SFEIR — vérification, Claude Code, Addy Osmani
 - **18** [exploit_agent : le correctif publié devient la carte de l'attaquant](fiches/2026-11/sfeir-exploit-agent-gtig-correctif-exploit-2026-11-18.md) — SFEIR AI, voix éditoriale de SFEIR (ESN), article non signé publié sur sfeir.com, site éditorial du groupe. · SFEIR — exploit_agent, Google Threat Intelligence Group, GTIG
 - **18** [Gemini 4 Neon : le modèle intermédiaire de Google, entre Hydrogen et Carbon](fiches/2026-11/sfeir-gemini-4-neon-2026-11-18.md) — SFEIR AI, voix éditoriale de SFEIR (ESN), article non signé publié sur sfeir.com, site éditorial du groupe. · SFEIR — Gemini 4 Neon, Gemini 4 Hydrogen, Gemini 4 Carbon
@@ -901,6 +902,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Architecture & Construction
 
+- [Butler agents and gardener agents](fiches/2026-11/charriere-butler-gardener-agents-2026-11-22.md) — Nicholas Charriere (@nichochar) — Notion ; précédemment Mocha (YC S23), Cruise, Pinterest.
 - [Agents always-on : les cinq primitives d'Anthropic et l'étage AX de Google](fiches/2026-11/sfeir-agents-always-on-anthropic-ax-google-2026-11-15.md) — SFEIR AI (voix éditoriale de SFEIR), article publié sur sfeir.com, site éditorial du groupe SFEIR.
 - [Architecture d'un site conversationnel : ce qui se passe entre la question et la réponse](fiches/2026-11/sfeir-architecture-site-conversationnel-2026-11-15.md) — SFEIR AI, signature éditoriale collective de SFEIR, sur sfeir.com (site éditorial du cabinet).
 - [Base de connaissances : le chantier invisible derrière un site conversationnel](fiches/2026-11/sfeir-base-connaissances-site-conversationnel-2026-11-15.md) — SFEIR AI, signature éditoriale collective de SFEIR, sur sfeir.com (site éditorial du cabinet).
@@ -1417,6 +1419,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Stratégie & Frameworks
 
+- [Butler agents and gardener agents](fiches/2026-11/charriere-butler-gardener-agents-2026-11-22.md) — Nicholas Charriere (@nichochar) — Notion ; précédemment Mocha (YC S23), Cruise, Pinterest.
 - [Mémoire d'agent et souveraineté : Git, base managée ou mémoire native de l'éditeur ?](fiches/2026-11/sfeir-memoire-agent-souverainete-2026-11-14.md) — SFEIR AI (voix éditoriale de SFEIR), article publié sur sfeir.com, site éditorial du groupe SFEIR.
 - [Vinoo Ganesh (Kepler) fait du FDE une stratégie produit, histoires de terrain à l'appui](fiches/2026-11/sfeir-fde-kepler-vinoo-ganesh-2026-11-10.md) — SFEIR AI (voix éditoriale non signée), sfeir.com, site éditorial de SFEIR. Critique du talk de Vinoo Ganesh (Kepler).
 - [Budgets 2027 : il faut défragiliser le SI](fiches/2026-11/sfeir-budgets-2027-dette-securite-2026-11-08.md) — SFEIR AI, voix éditoriale du cabinet SFEIR, article non signé individuellement, publié sur sfeir.com.
@@ -1706,16 +1709,16 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 567 fiches
-- **Par année** : 2026 (390) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 568 fiches
+- **Par année** : 2026 (391) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 213
-  - Architecture & Construction : 92
+  - Architecture & Construction : 93
   - Transformation & Adoption : 133
   - Qualité & Sécurité : 113
   - Économie & Marché : 127
   - Philosophie & Société : 36
-  - Stratégie & Frameworks : 56
+  - Stratégie & Frameworks : 57
   - Outils & Plateformes : 101
   - Recherche & Éducation : 22
   - Produits & Services : 36

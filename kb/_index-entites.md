@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 4261 entités
+> 4268 entités
 
 ## #
 
@@ -133,6 +133,7 @@
 - [[kb/Agent-technologie\|Agent]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#Agent-bibliothécaire\|Agent bibliothécaire]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#agent-builder\|agent builder]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#agent-butler\|agent butler]] (CONCEPT, 1 fiches)
 - [[kb/Agent-Client-Protocol\|Agent Client Protocol]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#Agent-collègue\|Agent collègue]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Agent-Communication-Protocol\|Agent Communication Protocol]] (TECHNOLOGIE, 1 fiches)
@@ -147,6 +148,7 @@
 - [[kb/_entites-mineures#agent-facilitateur\|agent facilitateur]] (TECHNOLOGIE, 1 fiches)
 - [[kb/agent-FDE-de-Varick\|agent FDE de Varick]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Agent-FinOps-(Orq.ai)\|Agent FinOps (Orq.ai)]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#agent-gardener\|agent gardener]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Agent-Gateway\|Agent Gateway]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Agent-Harness-Engineering\|Agent Harness Engineering]] (DOCUMENT, 1 fiches)
 - [[kb/Agent-Memory\|Agent Memory]] (TECHNOLOGIE, 1 fiches)
@@ -1160,6 +1162,7 @@
 - [[kb/_entites-mineures#crédits-SLA\|crédits SLA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#CTI-REALM\|CTI-REALM]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Cua-AI\|Cua AI]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#curator-agent\|curator agent]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#cURL\|cURL]] (ORGANISATION, 1 fiches)
 - [[kb/Cursor-organisation\|Cursor]] (ORGANISATION, 17 fiches)
 - [[kb/Cursor-technologie\|Cursor]] (TECHNOLOGIE, 17 fiches)
@@ -1878,7 +1881,8 @@
 - [[kb/_entites-mineures#Greg-Isenberg\|Greg Isenberg]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Greg-Kroah-Hartman\|Greg Kroah-Hartman]] (PERSONNE, 1 fiches)
 - [[kb/Gregor-Hohpe\|Gregor Hohpe]] (PERSONNE, 3 fiches)
-- [[kb/_entites-mineures#Greptile\|Greptile]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Greptile\|Greptile]] (ORGANISATION, 2 fiches)
+- [[kb/_entites-mineures#Greptile\|Greptile]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#GreyNoise\|GreyNoise]] (ORGANISATION, 1 fiches)
 - [[kb/grill-with-docs\|grill-with-docs]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#grille-Adopt-Partner-Build-Buy\|grille Adopt Partner Build Buy]] (METHODOLOGIE, 2 fiches)
@@ -1937,7 +1941,7 @@
 - [[kb/Harness-engineering\|Harness engineering]] (METHODOLOGIE, 6 fiches)
 - [[kb/_entites-mineures#harness-export-AWS\|harness export AWS]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Harness-as-a-Service\|Harness-as-a-Service]] (CONCEPT, 1 fiches)
-- [[kb/_entites-mineures#Harrison-Chase\|Harrison Chase]] (PERSONNE, 1 fiches)
+- [[kb/Harrison-Chase\|Harrison Chase]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Harry-Brundage\|Harry Brundage]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Harry-Stebbings\|Harry Stebbings]] (PERSONNE, 1 fiches)
 - [[kb/Harvard-Business-Review\|Harvard Business Review]] (ORGANISATION, 3 fiches)
@@ -2527,6 +2531,7 @@
 - [[kb/_entites-mineures#Meridian\|Meridian]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Merit-Systems\|Merit Systems]] (ORGANISATION, 1 fiches)
 - [[kb/Messages-API\|Messages API]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#messages-d'intention\|messages d'intention]] (CONCEPT, 1 fiches)
 - [[kb/Meta\|Meta]] (ORGANISATION, 7 fiches)
 - [[kb/Meta-AI-Research\|Meta AI Research]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Meta-Business-AI\|Meta Business AI]] (TECHNOLOGIE, 1 fiches)
@@ -2745,6 +2750,7 @@
 - [[kb/_entites-mineures#Next.js-16\|Next.js 16]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#NextGenU\|NextGenU]] (ORGANISATION, 1 fiches)
 - [[kb/Nicholas-Carlini\|Nicholas Carlini]] (PERSONNE, 1 fiches)
+- [[kb/Nicholas-Charriere\|Nicholas Charriere]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Nicolai-Tangen\|Nicolai Tangen]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Nicolas-Bustamante\|Nicolas Bustamante]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Nicolas-Marette\|Nicolas Marette]] (PERSONNE, 1 fiches)
@@ -4070,6 +4076,7 @@
 - [[kb/_entites-mineures#Vente-d'options-architecturales\|Vente d'options architecturales]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Veracode\|Veracode]] (ORGANISATION, 1 fiches)
 - [[kb/Vercel\|Vercel]] (ORGANISATION, 3 fiches)
+- [[kb/_entites-mineures#Vercel-Board\|Vercel Board]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Vercel-Sandbox\|Vercel Sandbox]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Verifiability\|Verifiability]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Verification-tax\|Verification tax]] (CONCEPT, 1 fiches)

@@ -1,6 +1,6 @@
 # MCP
 
-> **Type** : TECHNOLOGIE | 31 relations | 16 fiches sources
+> **Type** : TECHNOLOGIE | 32 relations | 16 fiches sources
 
 ## Attributs
 
@@ -93,6 +93,7 @@
 - [[kb/Peter-Aideloje\|Peter Aideloje]] **recommande** → MCP — 0.87
 - [[kb/Dust\|Dust]] **utilise** → MCP — 0.86
 - [[kb/Agent-Skills\|Agent Skills]] **converge_avec** → MCP — 0.85
+- [[kb/_entites-mineures#messages-d'intention\|messages d'intention]] **remplace** → MCP — 0.75
 
 ## Fiches sources
 

@@ -206,7 +206,7 @@
 - [[kb/_entites-mineures#Grafana-Labs\|Grafana Labs]] — secteur: Observabilité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Graphify-Labs\|Graphify Labs]] — rôle: Société éditrice de graphify, passée par Y Combinator promotion S26 ; construit une plateforme commerciale continue au-dessus de la skill open source (1 occ., 1 fiches)
 - [[kb/Graphite.io\|Graphite.io]] — secteur: Marketing / Optimisation contenu IA (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Greptile\|Greptile]] — catégorie: Start-up tech (San Francisco) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Greptile\|Greptile]] — catégorie: Start-up tech (San Francisco) (1 occ., 2 fiches)
 - [[kb/_entites-mineures#GreyNoise\|GreyNoise]] — rôle: Observatoire du trafic d'attaque, documente la campagne PaperCut (1 occ., 1 fiches)
 - [[kb/Groupe-étatique-chinois\|Groupe étatique chinois]] — attribution: Haute confiance, commanditaire de la campagne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#HEC-Paris\|HEC Paris]] — secteur: Grande école de commerce française (1 occ., 1 fiches)

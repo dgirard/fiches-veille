@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 648 entités de type PERSONNE
+> 649 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -244,7 +244,7 @@
 - [[kb/_entites-mineures#Hannes-Mühleisen\|Hannes Mühleisen]] — rôle: Co-créateur de DuckDB, ancien chercheur au CWI ; formule l'objectif « allowing anyone to work with data confidently » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Haoyu-Wang\|Haoyu Wang]] — rôle: Staff Software Engineer chez Google Cloud Data ; cosignataire de l'annonce, côté Data Agent Kit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Harley-Finkelstein\|Harley Finkelstein]] — rôle: Président de Shopify (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Harrison-Chase\|Harrison Chase]] — rôle: CEO LangChain (1 occ., 1 fiches)
+- [[kb/Harrison-Chase\|Harrison Chase]] — rôle: CEO LangChain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Harry-Brundage\|Harry Brundage]] — rôle: Auteur principal, développeur Gadget (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Harry-Stebbings\|Harry Stebbings]] — rôle: Fondateur de 20VC (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Helen-Russell\|Helen Russell]] — rôle: CHRO HubSpot (ex-CHRO Rivian) (1 occ., 1 fiches)
@@ -440,6 +440,7 @@
 - [[kb/_entites-mineures#Navan-Chauhan\|Navan Chauhan]] — rôle: Co-fondateur StrongDM AI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ned-Letcher\|Ned Letcher]] — rôle: Collègue de Böckeler chez Thoughtworks (1 occ., 1 fiches)
 - [[kb/Nicholas-Carlini\|Nicholas Carlini]] — rôle: Chercheur équipe Safeguards, Anthropic (2 occ., 1 fiches)
+- [[kb/Nicholas-Charriere\|Nicholas Charriere]] — rôle: Notion ; ex-Mocha (YC S23), Cruise, Pinterest (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nicolai-Tangen\|Nicolai Tangen]] — rôle: Directeur général de Norges Bank Investment Management, hôte d'In Good Company (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nicolas-Bustamante\|Nicolas Bustamante]] — rôle: Fondateur de Fintool, auteur de The RAG Obituary (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nicolas-Marette\|Nicolas Marette]] — rôle: Auteur guide Agentic Commerce Optimization (1 occ., 1 fiches)

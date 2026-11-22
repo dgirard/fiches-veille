@@ -1,6 +1,6 @@
 # Vercel
 
-> **Type** : ORGANISATION | 6 relations | 3 fiches sources
+> **Type** : ORGANISATION | 7 relations | 3 fiches sources
 
 ## Attributs
 
@@ -20,6 +20,8 @@
 
 ### publie
 
+- [[kb/_entites-mineures#Vercel-Board\|Vercel Board]] (TECHNOLOGIE) — 0.93, STATIQUE
+  - [[fiches/2026-11/charriere-butler-gardener-agents-2026-11-22\|Butler agents and gardener agents]]
 - [[kb/Agent-Plugins\|Agent Plugins]] (TECHNOLOGIE) — 0.90, STATIQUE
   - [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 

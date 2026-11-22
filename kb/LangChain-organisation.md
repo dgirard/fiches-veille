@@ -36,7 +36,7 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#Harrison-Chase\|Harrison Chase]] **dirige** → LangChain — 0.98
+- [[kb/Harrison-Chase\|Harrison Chase]] **dirige** → LangChain — 0.98
 - [[kb/_entites-mineures#Vivek-Trivedy\|Vivek Trivedy]] **travaille_chez** → LangChain — 0.95
 
 ## Fiches sources
