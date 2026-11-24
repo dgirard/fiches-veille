@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1157 entités de type CONCEPT
+> 1160 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -229,6 +229,7 @@
 - [[kb/_entites-mineures#Drift\|Drift]] — définition: Hallucination causée par manque d'injection de contexte rigoureuse entre sollicitations agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Durable-generator\|Durable generator]] — définition: Qualification financière SaaS Financialize Bain — entreprise qui produit du cash stable et limité, sans innover. Métaphore industrielle générateur électrique vs moteur de croissance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Démocratisation-automatisation-documentaire\|Démocratisation automatisation documentaire]] — description: Accès aux tâches d'automatisation sans compétences en programmation (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Démocratisation-des-données\|Démocratisation des données]] — définition: Accès large des employés aux données de l'entreprise, qui déplace la décision vers le bas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Désalignement-incitatif\|Désalignement incitatif]] — description: Pattern systemique ou les organisations recompensent des comportements contraires a leurs objectifs declares (1 occ., 1 fiches)
 - [[kb/_entites-mineures#EYOS\|EYOS]] — définition: Equivalent Years of Schooling — métrique de comparaison internationale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Economie-de-la-computation\|Economie de la computation]] — categorie: Nouveau paradigme economique post heure-cerveau (1 occ., 1 fiches)
@@ -309,6 +310,7 @@
 - [[kb/_entites-mineures#Imperfect-metrics-doctrine\|Imperfect metrics doctrine]] — source: Curran : "embrace potentially imperfect measures + monitor holistic outcomes" — anti-paralysie (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Implementation-advantage\|Implementation advantage]] — définition: Les outils vendors externes réussissent 2x plus souvent que les builds internes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Infodeck\|Infodeck]] — définition: Document mis en page dans une interface de slides, pour du « light reading » ; ni slideument ni support de présentation (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Infrastructure-de-données-commune\|Infrastructure de données commune]] — définition: Données consolidées et outillage partagé permettant aux agents et aux non-développeurs de travailler en sécurité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Instant-Checkout\|Instant Checkout]] — statut: Disponible sur Etsy et Walmart aux États-Unis en 2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Interleaved-Thinking\|Interleaved Thinking]] — définition: Alternance dynamique pensée-action pour tâches long horizon (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Internet-playbook\|Internet playbook]] — définition: Stratégie consistant à laisser les plateformes aux autres et à créer la valeur dans la couche applicative (1 occ., 1 fiches)
@@ -500,6 +502,7 @@
 - [[kb/_entites-mineures#Superworker\|Superworker]] — définition: Utilisateur déclarant que l'IA double au moins sa production ; segment analytique du rapport (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Surapprentissage-de-l'évaluation\|Surapprentissage de l'évaluation]] — symptôme: Train en hausse, test plat ; ajouts au harnais sans effet en production (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Surcharge-cognitive\|Surcharge cognitive]] — risque: Burn-out à l'ère agentique ; un client réduit volontairement sa cadence de bolts (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Surveillance-au-travail\|Surveillance au travail]] — définition: Suivi de la performance des employés par des agents IA (« panopticon effect ») (1 occ., 1 fiches)
 - [[kb/_entites-mineures#System-One-Models\|System One Models]] — définition: Modèles produisant des décisions typées et probabilistes, sans génération de texte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sémantique-data\|Sémantique data]] — enjeu: Une définition unique par concept métier, lisible par un agent ; attaque par verticales (1 occ., 1 fiches)
 - [[kb/_entites-mineures#TCO-(Total-Cost-of-Ownership)\|TCO (Total Cost of Ownership)]] — rôle: Cadre de décision local vs cloud (1 occ., 1 fiches)

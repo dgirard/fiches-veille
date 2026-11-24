@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 206 relations | 55 fiches sources
+> **Type** : ORGANISATION | 207 relations | 55 fiches sources
 
 ## Attributs
 
@@ -251,6 +251,8 @@
   - [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic Releases Post-Mortem Analysis of Multi-Hour Claude Service Outage]]
 - [[kb/rapport-How-employment-is-changing-at-Anthropic\|rapport How employment is changing at Anthropic]] (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16\|How employment is changing at Anthropic]]
+- [[kb/rapport-Working-with-AI\|rapport Working with AI]] (DOCUMENT) — 0.98, STATIQUE
+  - [[fiches/2026-11/wilmers-anthropic-working-with-ai-2026-11-23\|Working with AI]]
 - [[kb/_entites-mineures#étude-sur-la-transformation-du-travail\|étude sur la transformation du travail]] (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
 - [[kb/_entites-mineures#v1-skills\|/v1/skills]] (TECHNOLOGIE) — 0.97, STATIQUE
@@ -422,7 +424,7 @@
 - [[kb/Jarred-Sumner\|Jarred Sumner]] **travaille_chez** → Anthropic — 0.95
 - [[kb/_entites-mineures#Maxim-Massenkoff\|Maxim Massenkoff]] **travaille_chez** → Anthropic — 0.95
 - [[kb/_entites-mineures#Nathan-Wilmers\|Nathan Wilmers]] **travaille_chez** → Anthropic — 0.95
-- [[kb/_entites-mineures#Peter-McCrory\|Peter McCrory]] **travaille_chez** → Anthropic — 0.95
+- [[kb/Peter-McCrory\|Peter McCrory]] **travaille_chez** → Anthropic — 0.95
 - [[kb/_entites-mineures#Regina-Catipon\|Regina Catipon]] **travaille_chez** → Anthropic — 0.95
 - [[kb/Sachin-Malhotra\|Sachin Malhotra]] **travaille_chez** → Anthropic — 0.95
 - [[kb/_entites-mineures#Daniel-Freeman\|Daniel Freeman]] **travaille_chez** → Anthropic — 0.93

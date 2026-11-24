@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 567 entités de type METHODOLOGIE
+> 570 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -50,6 +50,7 @@
 - [[kb/_entites-mineures#Architecture-hexagonale\|Architecture hexagonale]] — rôle: Garde-fou empêchant le code généré de polluer le cœur métier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Author-Diversity-Decay\|Author Diversity Decay]] — définition: Formule `(1 - floor) × decay_factor^position + floor` appliquée à chaque post répété du même auteur dans un même render — atténuation exponentielle bornée par floor, structurelle pour la cadence (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Author-distribution-playbook\|Author distribution playbook]] — définition: Recommandation : audit cadence vs author-diversity decay, remplacer stacked single-account drumbeats par multi-account amplification (brand + employés) — chaque post entre au position=0 pour son auteur (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Automatisation-descendante\|Automatisation descendante]] — définition: Identification d'un flux à automatiser et déploiement imposé par la direction, souvent via un outil de vendeur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Autonomous-enterprise-workflow-agent\|Autonomous enterprise workflow agent]] — niveau: Master — event-driven, multi-agent delegation, self-healing, audit trail, RBAC, observability, HITL, workflow learning, cost management (1 occ., 1 fiches)
 - [[kb/_entites-mineures#BDD-(Behavior-Driven-Development)\|BDD (Behavior-Driven Development)]] — catégorie: Spécification + critères d'évaluation co-définis — *self-verifying specification* (1 occ., 1 fiches)
 - [[kb/BMAD\|BMAD]] — nom complet: Breakthrough Method for Agile AI-Driven Development (3 occ., 2 fiches)
@@ -213,6 +214,7 @@
 - [[kb/_entites-mineures#Reciprocal-Rank-Fusion\|Reciprocal Rank Fusion]] — définition: Fusion de classements par rang réciproque (Cormack, Clarke, Büttcher, 2009) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Recursive-Tool-Building\|Recursive Tool Building]] — principe: Construire un outil pour créer un outil — approche méta-cognitive (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Redéploiement-interne\|Redéploiement interne]] — définition: Réaffectation des employés vers des postes moins exposés à l'automatisation (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Redéploiement-vers-les-tâches-goulots\|Redéploiement vers les tâches goulots]] — définition: Réaffecter les employés aux tâches que l'IA n'accélère pas encore (relationnel, stratégie, revue) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#References\|References]] — principe: La meilleure référence est du code source (même dans un autre langage) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Reverse-Engineering-with-AI-works\|Reverse Engineering with AI/works™]] — rôle: Ingestion legacy codebases → reconstruction business logic → génération validated as-is specifications (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Roadmap-CapEx-→-OpEx\|Roadmap CapEx → OpEx]] — définition: Phase 1 Build context layer (CapEx : IDP + healthy data ecosystem + machine-readable docs) ; Phase 2 Empower human in loop (OpEx : context engineering + trust in AI) ; Phase 3 Validate via leading indicators (experiment frequency, deployment frequency) (1 occ., 1 fiches)
@@ -562,6 +564,7 @@
 - [[kb/workflow-IA-Wardley\|workflow IA Wardley]] — catégorie: Workflow d'automatisation de cartographie stratégique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#workflow-SEO-en-deux-phases\|workflow SEO en deux phases]] — définition: Stratégie one-off visuelle + production pipeline MCP (1 occ., 1 fiches)
 - [[kb/_entites-mineures#workflow-hybride-Gemini+Claude\|workflow hybride Gemini+Claude]] — principe: Gemini pour ingestion massive, Claude pour raisonnement et génération (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Élargissement-des-rôles\|Élargissement des rôles]] — définition: Confier à une personne ou une petite équipe un flux de travail entier plutôt qu'une expertise étroite (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Évaluateurs-tiers-embarqués\|Évaluateurs tiers embarqués]] — dispositif: Bureaux, badges, laptops, permissions comparables aux équipes internes de risque ; droit de publier sans contrôle éditorial, rédactions limitées et signalables (1 occ., 1 fiches)
 - [[kb/_entites-mineures#échelle-de-maturité-N0-N4\|échelle de maturité N0-N4]] — définition: Échelle SFEIR de maturité agentique, du chat ponctuel à la software factory (1 occ., 1 fiches)
 - [[kb/_entites-mineures#échelle-en-8-niveaux\|échelle en 8 niveaux]] — définition: Chatbot→Copilot→Agent→Autopilot→Workflows→Assistant→Multi-agent→Orchestrator (1 occ., 1 fiches)

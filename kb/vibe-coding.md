@@ -1,6 +1,6 @@
 # vibe coding
 
-> **Type** : METHODOLOGIE | 45 relations | 23 fiches sources
+> **Type** : METHODOLOGIE | 46 relations | 23 fiches sources
 
 ## Attributs
 
@@ -63,6 +63,8 @@
   - [[fiches/2025-11/ia-production-logicielle-six-domaines-cles-2025-11-16\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]]
 - transformation des incertitudes UX en spécifications (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2025-11/klaassen-teach-ai-think-senior-engineer-every-2025-11-07\|Teach Your AI to Think Like a Senior Engineer]]
+- « logiciels internes écrits par des experts métier non techniques » (AFFIRMATION) — 0.85, DYNAMIQUE
+  - [[fiches/2026-11/wilmers-anthropic-working-with-ai-2026-11-23\|Working with AI]]
 
 ### réduit
 

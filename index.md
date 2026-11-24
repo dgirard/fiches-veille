@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 568 fiches | 1975-12 → 2026-11-22 | généré le 2026-11-22
+> 569 fiches | 1975-12 → 2026-11-23 | généré le 2026-11-24
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-11
 
+- **23** [Working with AI](fiches/2026-11/wilmers-anthropic-working-with-ai-2026-11-23.md) — Nathan Wilmers, Maxim Massenkoff, Peter McCrory — équipe Economics d'Anthropic ; rapport publié sur anthropic.com/research. · Anthropic Research — adoption de l'IA en entreprise, changement organisationnel, automatisation descendante
 - **22** [Butler agents and gardener agents](fiches/2026-11/charriere-butler-gardener-agents-2026-11-22.md) — Nicholas Charriere (@nichochar) — Notion ; précédemment Mocha (YC S23), Cruise, Pinterest. · X (@nichochar) — agents butler, agents gardener, agent majordome
 - **19** [Comment l'équipe Claude Code vérifie le code écrit par ses agents](fiches/2026-11/sfeir-verification-code-agents-claude-code-2026-11-19.md) — SFEIR AI, voix éditoriale de SFEIR (ESN), article non signé publié sur sfeir.com, site éditorial du groupe. · SFEIR — vérification, Claude Code, Addy Osmani
 - **18** [exploit_agent : le correctif publié devient la carte de l'attaquant](fiches/2026-11/sfeir-exploit-agent-gtig-correctif-exploit-2026-11-18.md) — SFEIR AI, voix éditoriale de SFEIR (ESN), article non signé publié sur sfeir.com, site éditorial du groupe. · SFEIR — exploit_agent, Google Threat Intelligence Group, GTIG
@@ -998,6 +999,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Transformation & Adoption
 
+- [Working with AI](fiches/2026-11/wilmers-anthropic-working-with-ai-2026-11-23.md) — Nathan Wilmers, Maxim Massenkoff, Peter McCrory — équipe Economics d'Anthropic ; rapport publié sur anthropic.com/research.
 - [Site conversationnel : comment sfeir.com est passé du CMS à la conversation](fiches/2026-11/sfeir-site-conversationnel-cms-conversation-2026-11-15.md) — SFEIR AI, signature éditoriale collective de SFEIR, sur sfeir.com (site éditorial du cabinet).
 - [Own Your Intelligence : la thèse de Garry Tan lue par une DSI](fiches/2026-11/sfeir-own-your-intelligence-lecture-dsi-2026-11-14.md) — SFEIR AI (voix éditoriale de SFEIR), article publié sur sfeir.com, site éditorial du groupe SFEIR.
 - [Sortir de Jira en 2027 : mettez vos tickets là où travaillent vos agents](fiches/2026-11/sfeir-sortir-de-jira-backlog-markdown-2026-11-13.md) — SFEIR AI (voix éditoriale de SFEIR), article publié sur sfeir.com, site éditorial du groupe SFEIR.
@@ -1250,6 +1252,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Économie & Marché
 
+- [Working with AI](fiches/2026-11/wilmers-anthropic-working-with-ai-2026-11-23.md) — Nathan Wilmers, Maxim Massenkoff, Peter McCrory — équipe Economics d'Anthropic ; rapport publié sur anthropic.com/research.
 - [Gemini 4 Neon : le modèle intermédiaire de Google, entre Hydrogen et Carbon](fiches/2026-11/sfeir-gemini-4-neon-2026-11-18.md) — SFEIR AI, voix éditoriale de SFEIR (ESN), article non signé publié sur sfeir.com, site éditorial du groupe.
 - [Votre facture Claude est trop haute ? Anthropic vous dit par où commencer](fiches/2026-11/sfeir-api-claude-cache-effort-migrations-2026-11-16.md) — SFEIR AI, voix éditoriale de SFEIR (ESN), article non signé publié sur sfeir.com, site éditorial du groupe.
 - [Construire un site avec des agents IA : les phases et le temps réellement passé](fiches/2026-11/sfeir-construire-site-agents-phases-temps-2026-11-15.md) — SFEIR AI, signature éditoriale collective de SFEIR, sur sfeir.com (site éditorial du cabinet).
@@ -1380,6 +1383,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Philosophie & Société
 
+- [Working with AI](fiches/2026-11/wilmers-anthropic-working-with-ai-2026-11-23.md) — Nathan Wilmers, Maxim Massenkoff, Peter McCrory — équipe Economics d'Anthropic ; rapport publié sur anthropic.com/research.
 - [Own Your Intelligence : la thèse de Garry Tan lue par une DSI](fiches/2026-11/sfeir-own-your-intelligence-lecture-dsi-2026-11-14.md) — SFEIR AI (voix éditoriale de SFEIR), article publié sur sfeir.com, site éditorial du groupe SFEIR.
 - [Kakeya, ETH, Yang-Mills : OpenAI annonce trois percées, la communauté prend le temps de goûter](fiches/2026-10/sfeir-openai-kakeya-eth-yang-mills-2026-10-27.md) — SFEIR AI, voix éditoriale du cabinet SFEIR, article non signé individuellement, publié sur sfeir.com.
 - [How employment is changing at Anthropic](fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16.md) — Nathan Wilmers, Regina Catipon, Maxim Massenkoff, Peter McCrory — équipe Economics d'Anthropic ; rapport publié sur anthropic.com/research.
@@ -1709,15 +1713,15 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 568 fiches
-- **Par année** : 2026 (391) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 569 fiches
+- **Par année** : 2026 (392) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 213
   - Architecture & Construction : 93
-  - Transformation & Adoption : 133
+  - Transformation & Adoption : 134
   - Qualité & Sécurité : 113
-  - Économie & Marché : 127
-  - Philosophie & Société : 36
+  - Économie & Marché : 128
+  - Philosophie & Société : 37
   - Stratégie & Frameworks : 57
   - Outils & Plateformes : 101
   - Recherche & Éducation : 22
@@ -1761,7 +1765,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - The Batch / DeepLearning.AI (3)
   - Addy Osmani (3)
   - a16z (3)
+  - Anthropic Research (2)
   - Google Cloud (2)
   - Mistral AI (2)
   - Cloudflare Blog (2)
-  - YouTube (2)

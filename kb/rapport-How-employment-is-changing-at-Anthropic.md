@@ -1,6 +1,6 @@
 # rapport How employment is changing at Anthropic
 
-> **Type** : DOCUMENT | 14 relations | 1 fiches sources
+> **Type** : DOCUMENT | 15 relations | 1 fiches sources
 
 ## Attributs
 
@@ -49,6 +49,7 @@
 ## Relations (comme objet)
 
 - [[kb/Anthropic\|Anthropic]] **publie** → rapport How employment is changing at Anthropic — 0.98
+- [[kb/rapport-Working-with-AI\|rapport Working with AI]] **référence** → rapport How employment is changing at Anthropic — 0.75
 
 ## Fiches sources
 

@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 271 entités de type DOCUMENT
+> 272 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -256,6 +256,7 @@
 - [[kb/_entites-mineures#rapport-DORA-2024\|rapport DORA 2024]] — date: 2024 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#rapport-Disrupting-AI-espionage-novembre-2025\|rapport Disrupting AI espionage novembre 2025]] — statut: Rapport précédent, dont le modèle opératoire autonome est déclaré diffusé à toutes les classes d'acteurs (1 occ., 1 fiches)
 - [[kb/rapport-How-employment-is-changing-at-Anthropic\|rapport How employment is changing at Anthropic]] — nature: Rapport de l'équipe Economics d'Anthropic, 16 octobre 2026, données internes + 17 entretiens (1 occ., 1 fiches)
+- [[kb/rapport-Working-with-AI\|rapport Working with AI]] — nature: Rapport qualitatif de l'équipe Economics d'Anthropic, 23 novembre 2026, 66 entretiens dans 58 entreprises clientes (1 occ., 1 fiches)
 - [[kb/rapport-de-recherche-kill-switch\|rapport de recherche kill switch]] — catégorie: Rapport de recherche interne SFEIR (prep éditoriale) sur l'AI Kill Switch Act, angle souveraineté EU (1 occ., 1 fiches)
 - [[kb/rapport-interne-x-algorithm-growth\|rapport interne x-algorithm growth]] — rôle: Teardown analytique du release `xai-org/x-algorithm` 15 mai 2026, 4 audiences (personal/brand/framework/consulting), discipline d'honnêteté épistémique (refus de fabriquer des magnitudes), citations file:line systématiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#règlement-DORA\|règlement DORA]] — référence: Règlement (UE) 2022/2554, applicable depuis le 17 janvier 2025, articles 25 et 30 (2 occ., 2 fiches)

@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 4268 entités
+> 4276 entités
 
 ## #
 
@@ -547,6 +547,7 @@
 - [[kb/AutoGen\|AutoGen]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#AutomationBench\|AutomationBench]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#automatisation-d'agents-IA\|automatisation d'agents IA]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Automatisation-descendante\|Automatisation descendante]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#autonomie-(vs-souveraineté)\|autonomie (vs souveraineté)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#autonomie-intellectuelle\|autonomie intellectuelle]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#autonomie-technique\|autonomie technique]] (CONCEPT, 1 fiches)
@@ -1417,6 +1418,7 @@
 - [[kb/_entites-mineures#Délégation-à-des-subagents\|Délégation à des subagents]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Démocratisation-automatisation-documentaire\|Démocratisation automatisation documentaire]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#démocratisation-de-l'éducation\|démocratisation de l'éducation]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Démocratisation-des-données\|Démocratisation des données]] (CONCEPT, 1 fiches)
 - [[kb/dépôt-Git-de-mémoire\|dépôt Git de mémoire]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#dérive-des-artefacts-(artifact-drift)\|dérive des artefacts (artifact drift)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#dérive-du-contexte\|dérive du contexte]] (CONCEPT, 1 fiches)
@@ -2078,6 +2080,7 @@
 - [[kb/_entites-mineures#inflexion-de-mai-2025\|inflexion de mai 2025]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#Infodeck\|Infodeck]] (CONCEPT, 1 fiches)
 - [[kb/infrastructure-contexte-codifié\|infrastructure contexte codifié]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Infrastructure-de-données-commune\|Infrastructure de données commune]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#ingénierie-composable\|ingénierie composable]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#ingénierie-de-contexte\|ingénierie de contexte]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#ingénierie-de-la-connaissance\|ingénierie de la connaissance]] (METHODOLOGIE, 1 fiches)
@@ -2492,7 +2495,7 @@
 - [[kb/Max-Kanat-Alexander\|Max Kanat-Alexander]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Max-Schrems\|Max Schrems]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Max-Thilén\|Max Thilén]] (PERSONNE, 1 fiches)
-- [[kb/_entites-mineures#Maxim-Massenkoff\|Maxim Massenkoff]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Maxim-Massenkoff\|Maxim Massenkoff]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#Maximor\|Maximor]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Maybe-We-Shouldn't-Be-Reviewing-All-This-Code\|Maybe We Shouldn't Be Reviewing All This Code]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#MAZU\|MAZU]] (TECHNOLOGIE, 1 fiches)
@@ -2724,7 +2727,7 @@
 - [[kb/_entites-mineures#Nat-System\|Nat System]] (ORGANISATION, 1 fiches)
 - [[kb/Natalie-Meurer\|Natalie Meurer]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Natasha-Maniar\|Natasha Maniar]] (PERSONNE, 1 fiches)
-- [[kb/_entites-mineures#Nathan-Wilmers\|Nathan Wilmers]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Nathan-Wilmers\|Nathan Wilmers]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#Nathaniel-Moran\|Nathaniel Moran]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Nathen-Harvey\|Nathen Harvey]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#NativeAOT\|NativeAOT]] (TECHNOLOGIE, 1 fiches)
@@ -2940,6 +2943,7 @@
 - [[kb/_entites-mineures#pattern-Peer-to-Peer\|pattern Peer-to-Peer]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#pattern-Pipeline\|pattern Pipeline]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Paul-Buchheit\|Paul Buchheit]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Paul-David\|Paul David]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Paul-Kuo\|Paul Kuo]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Paul-Sawers\|Paul Sawers]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Paul-Sinaï\|Paul Sinaï]] (PERSONNE, 1 fiches)
@@ -2971,7 +2975,7 @@
 - [[kb/_entites-mineures#perte-d'identité-visuelle-des-fournisseurs\|perte d'identité visuelle des fournisseurs]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Pete-Stergion\|Pete Stergion]] (PERSONNE, 1 fiches)
 - [[kb/Peter-Aideloje\|Peter Aideloje]] (PERSONNE, 1 fiches)
-- [[kb/_entites-mineures#Peter-McCrory\|Peter McCrory]] (PERSONNE, 2 fiches)
+- [[kb/Peter-McCrory\|Peter McCrory]] (PERSONNE, 3 fiches)
 - [[kb/_entites-mineures#Peter-Steinberger\|Peter Steinberger]] (PERSONNE, 2 fiches)
 - [[kb/Peter-Walker\|Peter Walker]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Peter-Weill\|Peter Weill]] (PERSONNE, 1 fiches)
@@ -3242,6 +3246,7 @@
 - [[kb/rapport-How-employment-is-changing-at-Anthropic\|rapport How employment is changing at Anthropic]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Rapport-international-sur-la-sécurité-de-l'IA\|Rapport international sur la sécurité de l'IA]] (DOCUMENT, 1 fiches)
 - [[kb/rapport-interne-x-algorithm-growth\|rapport interne x-algorithm growth]] (DOCUMENT, 1 fiches)
+- [[kb/rapport-Working-with-AI\|rapport Working with AI]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Ratchet-principle\|Ratchet principle]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#ratio-60-40-marque-performance\|ratio 60/40 marque-performance]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#rationalité-limitée\|rationalité limitée]] (CONCEPT, 1 fiches)
@@ -3267,6 +3272,7 @@
 - [[kb/_entites-mineures#Redwood-Research\|Redwood Research]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Redéfinition-headcount-services-intellectuels\|Redéfinition headcount services intellectuels]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Redéploiement-interne\|Redéploiement interne]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Redéploiement-vers-les-tâches-goulots\|Redéploiement vers les tâches goulots]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#References\|References]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Refiners-(Lattice)\|Refiners (Lattice)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Reflecting-on-a-year-of-Claude-Code\|Reflecting on a year of Claude Code]] (DOCUMENT, 1 fiches)
@@ -3753,6 +3759,7 @@
 - [[kb/_entites-mineures#surface-d'écriture-non-résolue\|surface d'écriture non résolue]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#surge-staffing\|surge staffing]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Surgical-Changes\|Surgical Changes]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Surveillance-au-travail\|Surveillance au travail]] (CONCEPT, 1 fiches)
 - [[kb/Surya-Narreddi\|Surya Narreddi]] (PERSONNE, 1 fiches)
 - [[kb/swarm-concept\|swarm]] (CONCEPT, 2 fiches)
 - [[kb/Swarm-methodologie\|Swarm]] (METHODOLOGIE, 2 fiches)
@@ -4300,6 +4307,7 @@
 - [[kb/_entites-mineures#économie-des-jetons\|économie des jetons]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#écosystème-frontière\|écosystème frontière]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Éditions-Cybernetica\|Éditions Cybernetica]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Élargissement-des-rôles\|Élargissement des rôles]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Électricité\|Électricité]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#épinglage-de-version\|épinglage de version]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#épisode-Philippe-Corrot,-fondateur-de-Mirakl\|épisode Philippe Corrot, fondateur de Mirakl]] (DOCUMENT, 1 fiches)

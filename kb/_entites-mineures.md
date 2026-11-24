@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 3503 entités avec moins de 3 triples/fiches
+> 3509 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (474)
 
@@ -2961,13 +2961,14 @@
 
 ### Maxim Massenkoff {#Maxim-Massenkoff}
 
-**Type** : PERSONNE | 1 relations | 1 fiches
+**Type** : PERSONNE | 2 relations | 2 fiches
 
 - **rôle** : Économiste, équipe Economics d'Anthropic
 
+- **a_créé** → [[kb/rapport-Working-with-AI\|rapport Working with AI]] (DOCUMENT) — 0.97
 - **travaille_chez** → [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.95
 
-**Fiches** : [[fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16\|How employment is changing at Anthropic]]
+**Fiches** : [[fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16\|How employment is changing at Anthropic]], [[fiches/2026-11/wilmers-anthropic-working-with-ai-2026-11-23\|Working with AI]]
 
 ### Megan Hsu {#Megan-Hsu}
 
@@ -3171,13 +3172,14 @@
 
 ### Nathan Wilmers {#Nathan-Wilmers}
 
-**Type** : PERSONNE | 1 relations | 1 fiches
+**Type** : PERSONNE | 2 relations | 2 fiches
 
 - **rôle** : Économiste, équipe Economics d'Anthropic
 
+- **a_créé** → [[kb/rapport-Working-with-AI\|rapport Working with AI]] (DOCUMENT) — 0.97
 - **travaille_chez** → [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.95
 
-**Fiches** : [[fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16\|How employment is changing at Anthropic]]
+**Fiches** : [[fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16\|How employment is changing at Anthropic]], [[fiches/2026-11/wilmers-anthropic-working-with-ai-2026-11-23\|Working with AI]]
 
 ### Nathaniel Moran {#Nathaniel-Moran}
 
@@ -3387,6 +3389,16 @@
 
 **Fiches** : [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|The AI-native interview]]
 
+### Paul David {#Paul-David}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Historien de l'économie, auteur de l'analyse du retard de productivité de l'électrification
+
+- [[kb/rapport-Working-with-AI\|rapport Working with AI]] **s_inspire_de** → Paul David — 0.85
+
+**Fiches** : [[fiches/2026-11/wilmers-anthropic-working-with-ai-2026-11-23\|Working with AI]]
+
 ### Paul Kuo {#Paul-Kuo}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -3437,16 +3449,6 @@
 - **travaille_chez** → [[kb/Cornell-AI-Innovation-Hub\|Cornell AI Innovation Hub]] (ORGANISATION) — 0.96
 
 **Fiches** : [[fiches/2026-06/cornell-ai-hub-100k-unidentified-payments-2026-06-15\|How Cornell Recovered $100,000 in Unidentified Payments With AI]]
-
-### Peter McCrory {#Peter-McCrory}
-
-**Type** : PERSONNE | 1 relations | 2 fiches
-
-- **rôle** : Économiste, équipe Economics d'Anthropic
-
-- **travaille_chez** → [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.95
-
-**Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]], [[fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16\|How employment is changing at Anthropic]]
 
 ### Peter Steinberger {#Peter-Steinberger}
 
@@ -17095,7 +17097,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (1095)
+## CONCEPT (1098)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -19085,6 +19087,16 @@
 
 **Fiches** : [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Claude Skills: Exploring Anthropic's Document Manipulation Capabilities]]
 
+### Démocratisation des données {#Démocratisation-des-données}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Accès large des employés aux données de l'entreprise, qui déplace la décision vers le bas
+
+- [[kb/_entites-mineures#Infrastructure-de-données-commune\|Infrastructure de données commune]] **permet** → Démocratisation des données — 0.85
+
+**Fiches** : [[fiches/2026-11/wilmers-anthropic-working-with-ai-2026-11-23\|Working with AI]]
+
 ### Désalignement incitatif {#Désalignement-incitatif}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -19807,6 +19819,18 @@
 - [[kb/Thoughtworks\|Thoughtworks]] **utilise** → Infodeck — 0.88
 
 **Fiches** : [[fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08\|Do you even need a presentation?]]
+
+### Infrastructure de données commune {#Infrastructure-de-données-commune}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Données consolidées et outillage partagé permettant aux agents et aux non-développeurs de travailler en sécurité
+
+- **permet** → [[kb/_entites-mineures#Démocratisation-des-données\|Démocratisation des données]] (CONCEPT) — 0.85
+
+- [[kb/rapport-Working-with-AI\|rapport Working with AI]] **recommande** → Infrastructure de données commune — 0.90
+
+**Fiches** : [[fiches/2026-11/wilmers-anthropic-working-with-ai-2026-11-23\|Working with AI]]
 
 ### Instant Checkout {#Instant-Checkout}
 
@@ -21543,6 +21567,16 @@
 - **observé_dans** → « adoption de l'AI DLC (client réduisant 3 bolts/jour) » (AFFIRMATION) — 0.84
 
 **Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]]
+
+### Surveillance au travail {#Surveillance-au-travail}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Suivi de la performance des employés par des agents IA (« panopticon effect »)
+
+- [[kb/_entites-mineures#Automatisation-descendante\|Automatisation descendante]] **permet** → Surveillance au travail — 0.85
+
+**Fiches** : [[fiches/2026-11/wilmers-anthropic-working-with-ai-2026-11-23\|Working with AI]]
 
 ### System One Models {#System-One-Models}
 
@@ -27858,7 +27892,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (474)
+## METHODOLOGIE (477)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -28256,6 +28290,16 @@
 - [[kb/rapport-interne-x-algorithm-growth\|rapport interne x-algorithm growth]] **recommande** → Author distribution playbook — 0.96
 
 **Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
+
+### Automatisation descendante {#Automatisation-descendante}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Identification d'un flux à automatiser et déploiement imposé par la direction, souvent via un outil de vendeur
+
+- **permet** → [[kb/_entites-mineures#Surveillance-au-travail\|Surveillance au travail]] (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-11/wilmers-anthropic-working-with-ai-2026-11-23\|Working with AI]]
 
 ### Autonomous enterprise workflow agent {#Autonomous-enterprise-workflow-agent}
 
@@ -29660,6 +29704,16 @@
 - [[kb/rapport-How-employment-is-changing-at-Anthropic\|rapport How employment is changing at Anthropic]] **recommande** → Redéploiement interne — 0.90
 
 **Fiches** : [[fiches/2026-10/wilmers-anthropic-employment-changing-2026-10-16\|How employment is changing at Anthropic]]
+
+### Redéploiement vers les tâches goulots {#Redéploiement-vers-les-tâches-goulots}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Réaffecter les employés aux tâches que l'IA n'accélère pas encore (relationnel, stratégie, revue)
+
+- [[kb/rapport-Working-with-AI\|rapport Working with AI]] **recommande** → Redéploiement vers les tâches goulots — 0.92
+
+**Fiches** : [[fiches/2026-11/wilmers-anthropic-working-with-ai-2026-11-23\|Working with AI]]
 
 ### References {#References}
 
@@ -32670,6 +32724,18 @@
 - [[kb/_entites-mineures#u-H9ejFGzpN2\|u/H9ejFGzpN2]] **recommande** → workflow hybride Gemini+Claude — 0.97
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
+
+### Élargissement des rôles {#Élargissement-des-rôles}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Confier à une personne ou une petite équipe un flux de travail entier plutôt qu'une expertise étroite
+
+- **réduit** → coûts de coordination (CONCEPT) — 0.85
+
+- [[kb/rapport-Working-with-AI\|rapport Working with AI]] **recommande** → Élargissement des rôles — 0.92
+
+**Fiches** : [[fiches/2026-11/wilmers-anthropic-working-with-ai-2026-11-23\|Working with AI]]
 
 ### Évaluateurs tiers embarqués {#Évaluateurs-tiers-embarqués}
 
